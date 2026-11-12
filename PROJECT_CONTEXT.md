@@ -81,5 +81,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-12 | `61fd6e5` | bridge: create the News tab (31 column names) when the new Log Sheet does not have it - pick failed 12 Nov with getLastRow of null |
+| 2026-11-12 | `da5ddf5` | Karur 360 live (owner 12 Nov) |
+| 2026-11-12 | `0244098` | Cloudinary clean-up: this page's files older than 3 days deleted every hour (at 50% of the free limit reels older than 26 h too); a deleted prebuilt reel is uploaded again; rasipalan pictures in the page folder. keys-check: test-only workflow (manual), prints OK/FAIL per secret |
+| 2026-11-12 | `e80c92b` | karur 360: local news for the district - Tamil papers only (Dinamalar, Dinamani + Dinakaran / OneIndia where fresh), district towns and searches, power-cut searches, writer rules, town hashtags; whole district; tests updated |
+| 2026-11-12 | `574c588` | karur 360: Sheet and Drive folder ids set (its own Sheet and folder) |
+| 2026-11-12 | `8363ff9` | karur 360: Instagram handle karur360.official |
+| 2026-11-12 | `3c20275` | reel end card: 'Source: <paper> (<date>)' instead of 'ஆதாரம்' (owner 12 Nov) |
+| 2026-11-12 | `11647e7` | karur 360: own hashtags (page, area, news, Tamil tag, rain/power-cut topic tags); Coimbatore town tags removed; source line stays at the end of every caption |
+| 2026-11-12 | `1b2f4aa` | karur 360 comments: only critical comments (fake-news / doubt claim, complaint, abuse) are e-mailed; emoji and normal comments recorded as ignored; comment check every 2 hours |
+| 2026-11-12 | `d4d39cf` | karur 360: own reel look (style per page), own footer and logo, page town in the end card and ticker; one picture per reel, 12 news a day; still NOT live |
 | 2026-11-12 | `5115d89` | karur 360: code from the Salem 360 setup - page identity, logo, 12 news a day (4+4+4), one picture per reel; NOT live (no LIVE file, no secrets) |
 <!-- recent-changes:end -->
