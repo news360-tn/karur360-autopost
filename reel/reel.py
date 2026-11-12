@@ -1,5 +1,5 @@
-"""கோயம்புத்தூர் 360 — cinematic 9:16 Tamil news reel builder.
-Usage: python3 reel.py spec.json out.mp4 [page]   (page = coimbatore, the only page)
+"""கரூர் 360 — cinematic 9:16 Tamil news reel builder.
+Usage: python3 reel.py spec.json out.mp4 [page]   (page = karur, the only page)
 Env VOICE_FILE=<audio>: use a real recorded voice for the whole reel instead of the voice model.
 spec: {"date": "...", "category": "...", "location": "...", "voice": "male|female",
        "scenes": [{"say": "<Tamil narration, numbers in words>", "type": "...", ...}, ...]}
@@ -16,14 +16,12 @@ KIT = Path(os.environ.get("KIT", HERE.parent / "kit"))
 NM = KIT / "node_modules"
 FS = NM / "@fontsource"
 ICONS = NM / "@fortawesome" / "fontawesome-free" / "svgs" / "solid"
-# Coimbatore 360: ONE page (no second page). Page name / handle / logo in this one place.
+# Karur 360: ONE page (no second page). Page name / handle / logo in this one place.
 PAGES = {
-    "coimbatore": {"logo": "logo_coimbatore.png", "name": "கோயம்புத்தூர் 360", "handle": "coimbatore360_official", "tagline": "நம்ம கோவை செய்திகள்", "follow": "கோவை மாவட்டச்<br>செய்திகளுக்கு",
-                   "ticker": "கோயம்புத்தூர் 360  •  கோவை மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_coimbatore.png", "hashtag": "#Coimbatore360"},
     "karur": {"logo": "logo_karur.png", "style": "K", "name": "கரூர் 360", "handle": "karur360.official", "tagline": "நம்ம கரூர் செய்திகள்", "follow": "கரூர் மாவட்டச்<br>செய்திகளுக்கு",
-                   "ticker": "கரூர் 360  •  கரூர் மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_karur.png", "hashtag": "#Coimbatore360"},
+                   "ticker": "கரூர் 360  •  கரூர் மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_karur.png", "hashtag": "#Karur360"},
 }
-PAGE = PAGES["coimbatore"]
+PAGE = PAGES["karur"]
 LOGO = KIT / PAGE["logo"]
 W, H, FPS = 1080, 1920, 30
 
@@ -185,7 +183,7 @@ def build_html(spec, starts, ends, total):
 {'<div id="aichip">AI பிரதிநிதித்துவப் படங்கள்</div>' if spec.get('ai_label') else ''}
 {scenes}
 <div id="sub">{caps}</div>
-<div id="ticker"><div id="tk-l">{icon('location-dot').replace('class="ic"','class="ic" style="display:inline-block;vertical-align:-4px"')} {E(spec.get('location','கோவை'))}</div><div id="tk-t">{ticker} &nbsp;&nbsp;•&nbsp;&nbsp; {ticker}</div></div>
+<div id="ticker"><div id="tk-l">{icon('location-dot').replace('class="ic"','class="ic" style="display:inline-block;vertical-align:-4px"')} {E(spec.get('location','கரூர்'))}</div><div id="tk-t">{ticker} &nbsp;&nbsp;•&nbsp;&nbsp; {ticker}</div></div>
 <div id="vig"></div><div class="flash" id="flash"></div>
 <script>
 const T={timing};
@@ -239,9 +237,9 @@ def wav_dur(p):
     with wave.open(str(p)) as w:
         return w.getnframes() / w.getframerate()
 
-def main(spec_path, out_mp4, page="coimbatore"):
+def main(spec_path, out_mp4, page="karur"):
     global PAGE, LOGO
-    PAGE = PAGES.get(page, PAGES["coimbatore"]); LOGO = KIT / PAGE["logo"]
+    PAGE = PAGES.get(page, PAGES["karur"]); LOGO = KIT / PAGE["logo"]
     spec = json.loads(Path(spec_path).read_text())
     work = Path(out_mp4).with_suffix("")
     work = work.parent / (work.name + "_work"); work.mkdir(parents=True, exist_ok=True)

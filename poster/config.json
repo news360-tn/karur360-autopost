@@ -18,7 +18,7 @@
     "rate": "+12%",
     "pitch": "+4Hz",
     "outro_voice": "en-IN-PrabhatNeural",
-    "note": "Coimbatore 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
+    "note": "Karur 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
   },
   "prime_time": {
     "enabled": false,
@@ -33,7 +33,7 @@
       ]
     ],
     "max_wait_hours": 12,
-    "note": "owner 29 Oct (Coimbatore): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
+    "note": "owner 29 Oct (Karur): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
   },
   "reel_punch": false,
   "reel_max_seconds": 88,
@@ -69,7 +69,23 @@
       "sports_culture": "#Sports",
       "other": "#TamilNews"
     },
-    "place_tags": {},
+    "place_tags": {
+      "குளித்தலை": "#Kulithalai",
+      "அரவக்குறிச்சி": "#Aravakurichi",
+      "கிருஷ்ணராயபுர": "#Krishnarayapuram",
+      "புகழூ": "#Pugalur",
+      "கடவூ": "#Kadavur",
+      "வேலாயுதம்பாளைய": "#Velayuthampalayam",
+      "பள்ளபட்டி": "#Pallapatti",
+      "லாலாபேட்டை": "#Lalapet",
+      "மாயனூ": "#Mayanur",
+      "தோகைமலை": "#Thogaimalai",
+      "மண்மங்கல": "#Manmangalam",
+      "தாந்தோன்றிமலை": "#Thanthonimalai",
+      "வெங்கமே": "#Vengamedu",
+      "காந்திகிராம": "#Gandhigramam",
+      "பசுபதிபாளைய": "#Pasupathipalayam"
+    },
     "extra_tag": "#KarurDistrict",
     "search_suffix": "Karur news",
     "caption_all_facts": true,
