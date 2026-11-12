@@ -20,8 +20,8 @@ ICONS = NM / "@fortawesome" / "fontawesome-free" / "svgs" / "solid"
 PAGES = {
     "coimbatore": {"logo": "logo_coimbatore.png", "name": "கோயம்புத்தூர் 360", "handle": "coimbatore360_official", "tagline": "நம்ம கோவை செய்திகள்", "follow": "கோவை மாவட்டச்<br>செய்திகளுக்கு",
                    "ticker": "கோயம்புத்தூர் 360  •  கோவை மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_coimbatore.png", "hashtag": "#Coimbatore360"},
-    "karur": {"logo": "logo_karur.png", "name": "கரூர் 360", "handle": "karur.360", "tagline": "நம்ம கோவை செய்திகள்", "follow": "கோவை மாவட்டச்<br>செய்திகளுக்கு",
-                   "ticker": "கரூர் 360  •  கோவை மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_coimbatore.png", "hashtag": "#Coimbatore360"},
+    "karur": {"logo": "logo_karur.png", "style": "K", "name": "கரூர் 360", "handle": "karur.360", "tagline": "நம்ம கரூர் செய்திகள்", "follow": "கரூர் மாவட்டச்<br>செய்திகளுக்கு",
+                   "ticker": "கரூர் 360  •  கரூர் மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_karur.png", "hashtag": "#Coimbatore360"},
 }
 PAGE = PAGES["coimbatore"]
 LOGO = KIT / PAGE["logo"]
