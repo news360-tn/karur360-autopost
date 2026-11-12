@@ -1,3 +1,3 @@
-21:09:31 Sheet rows not available - duplicate check uses this job's own list only: bridge recent: {'ok': False, 'error': "TypeError: Cannot read properties of null (reading 'getLastRow')"}
-21:11:06 skipped: -
-21:11:06 no new power-cut notice
+21:47:54 Sheet rows not available - duplicate check uses this job's own list only: bridge recent: {'ok': False, 'error': "TypeError: Cannot read properties of null (reading 'getLastRow')"}
+21:49:25 skipped: -
+21:49:25 no new power-cut notice
