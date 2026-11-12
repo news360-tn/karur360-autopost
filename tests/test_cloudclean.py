@@ -26,15 +26,11 @@ class CloudClean(unittest.TestCase):
                       {"public_id": "karur3600/abc"}, {"public_id": "abc"}):
             self.assertFalse(cc.mine(other), other)
 
-    def test_normal_keeps_three_days(self):
-        files = [res("karur360/a", 80, self.now), res("karur360/b", 50, self.now), res("karur360/c", 2, self.now)]
-        self.assertEqual(cc.plan(files, "video", self.now, full=False), ["karur360/a"])
-        self.assertEqual(cc.plan(files, "image", self.now, full=False), ["karur360/a"])
-
-    def test_half_full_deletes_old_reels_but_keeps_pictures_and_fb_retry_window(self):
-        files = [res("karur360/a", 80, self.now), res("karur360/b", 30, self.now), res("karur360/c", 20, self.now)]
-        self.assertEqual(cc.plan(files, "video", self.now, full=True), ["karur360/a", "karur360/b"])
-        self.assertEqual(cc.plan(files, "image", self.now, full=True), ["karur360/a"])      # a waiting story's picture is never removed
+    def test_keeps_the_last_48_hours(self):      # owner 12 Nov: keep the last 48 h only, videos and pictures alike
+        files = [res("karur360/a", 80, self.now), res("karur360/b", 50, self.now), res("karur360/c", 40, self.now), res("karur360/d", 2, self.now)]
+        for full in (False, True):
+            self.assertEqual(cc.plan(files, "video", self.now, full=full), ["karur360/a", "karur360/b"])
+            self.assertEqual(cc.plan(files, "image", self.now, full=full), ["karur360/a", "karur360/b"])
 
     def test_skipped_without_keys_and_off_the_hour(self):
         with mock.patch.dict("os.environ", {"CLOUDINARY_CLOUD": "x", "CLOUDINARY_API_KEY": "", "CLOUDINARY_API_SECRET": ""}):
@@ -46,7 +42,7 @@ class CloudClean(unittest.TestCase):
 
     def test_run_deletes_only_old_own_files(self):
         now = self.now
-        listed = {"video": [res("karur360/old", 30, now), res("karur360/new", 3, now), res("namakkal/old", 300, now)],
+        listed = {"video": [res("karur360/old", 60, now), res("karur360/new", 3, now), res("namakkal/old", 300, now)],
                   "image": [res("karur360/pic", 30, now), res("karur360/oldpic", 100, now)]}
 
         def get(url, params=None, auth=None, timeout=None):
