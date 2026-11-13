@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-13T10:59:15.715071+05:30",
+ "last_end": "2026-11-13T17:47:37.742179+05:30",
  "pool": {
   "C9383a66": {
    "id": "C9383a66",
@@ -14,51 +14,6 @@
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
    "picked_at": "2026-11-13T10:59:55.523774+05:30",
    "refused": "not filed: duplicate after write"
-  },
-  "C6b3b045": {
-   "id": "C6b3b045",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/collector-inspects-government-medical-college-hospital/4374857",
-   "title": "அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் கலெக்டர் ஆய்வு",
-   "summary": "கரூர்:கரூர் அரசு மருத்துவக் கல்லுாரி மருத்துவமனையில், கலெக்டர் பிரசன்னா ராமசாமி, ஆய்வு மேற்கொண்டார். பக்கவாத பிரிவு, விபத்து, சர்க்கரை நோய், உயர் ரத்த அழுத்தம், குழந்தைகள் பிரிவு உள்பட பல்வேறு பிரிவு நோயாளிகளிடம், மரு...",
-   "source": "தினமலர்",
-   "published": "2026-11-13T06:47:00+05:30",
-   "category": "கல்வி",
-   "score": 9.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T10:59:55.523779+05:30",
-   "posted": true
-  },
-  "C548f10a": {
-   "id": "C548f10a",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-group-4-exam-online-training/4374848",
-   "title": "டி.என்.பி.எஸ்.சி., குருப் 4 தேர்வு இணைய வழியில் பயிற்சி",
-   "summary": "கரூர்:மாவட்ட வேலை வாய்ப்பு அலுவலகத்தில், டி.என்.பி.எஸ்.சி., குருப் 4 தேர்வுக்கான பயிற்சி இணைய வழியில் நடக்கிறது என, கலெக்டர் பிரசன்னா ராமசாமி தெரிவித்தார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-13T06:43:00+05:30",
-   "category": "பொது",
-   "score": 7.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T10:59:55.523781+05:30",
-   "posted": true
-  },
-  "C578afc6": {
-   "id": "C578afc6",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/government-honours-karur-youth-for-donating-organs/4374850",
-   "title": "உடல் உறுப்புகளை தானம் செய்த கரூர் இளைஞருக்கு அரசு மரியாதை",
-   "summary": "கரூர் மாவட்டம், மின்னாம்பள்ளி அருகே சங்கரம்பாளையம் பகுதியை சேர்ந்தவர் சிவசந்துரு, 32. இவருக்கு வினோதினி, 25 என்ற மனைவியும், 2 வயது மகளும் உள்ளனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-13T06:44:00+05:30",
-   "category": "பொது",
-   "score": 7.0,
-   "power_cut": false,
-   "alts": [
-    "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/government-honours-karur-youth-for-donating-organs/4374560"
-   ],
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T10:59:55.523783+05:30",
-   "posted": true
   },
   "C8be88ca": {
    "id": "C8be88ca",
@@ -344,6 +299,33 @@
    "refused": {
     "C9383a66": "not filed: duplicate after write"
    }
+  },
+  "2026-11-13_17": {
+   "window": [
+    "2026-11-13T10:59:15.715071+05:30",
+    "2026-11-13T17:47:37.742179+05:30"
+   ],
+   "ids": [
+    "C8be88ca",
+    "Ce80df05",
+    "C1f54667",
+    "C84c04f7",
+    "Cc38adf9",
+    "C104550f",
+    "Ccf0c8cf",
+    "Ccd3585f",
+    "C20cfed4",
+    "Ccaf22b4",
+    "Cc4525e0",
+    "C12d84c5",
+    "Cd5bb6b8",
+    "C5d09495",
+    "Ce55e5a2"
+   ],
+   "sent": false,
+   "deadline": "2026-11-13T18:47:37.742179+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
