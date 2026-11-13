@@ -18,7 +18,7 @@ FS = NM / "@fontsource"
 ICONS = NM / "@fortawesome" / "fontawesome-free" / "svgs" / "solid"
 # Karur 360: ONE page (no second page). Page name / handle / logo in this one place.
 PAGES = {
-    "karur": {"logo": "logo_karur.png", "style": "K", "name": "கரூர் 360", "handle": "karur360.official", "tagline": "நம்ம கரூர் செய்திகள்", "follow": "கரூர் மாவட்டச்<br>செய்திகளுக்கு",
+    "karur": {"logo": "logo_karur.png", "name": "கரூர் 360", "handle": "karur360.official", "tagline": "நம்ம கரூர் செய்திகள்", "follow": "கரூர் மாவட்டச்<br>செய்திகளுக்கு",
                    "ticker": "கரூர் 360  •  கரூர் மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_karur.png", "hashtag": "#Karur360"},
 }
 PAGE = PAGES["karur"]
