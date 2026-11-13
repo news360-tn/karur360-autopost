@@ -1,18 +1,14 @@
-01:51:26 bridge get 'autoPending' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-01:53:46 bridge get 'autoPending' failed (try 2): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-01:56:28 bridge get 'queue' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-01:56:52 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
+02:11:01 bridge get 'recent' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+02:11:23 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
 ::warning title=Held from posting RN-12::held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
-01:56:55 story catch-up karur: quota 27/50, 15 recent posts, 12 live stories, owner ids ['17841444626877594', '29966472656372622']
-01:57:29 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081381782487563 ERROR) - tried again next run
-01:57:29 4 stories in the queue, ready to post: 3
-01:57:29   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-01:57:29    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 5.6 ready= False set_started= True
-01:57:29    RN-16 review= 'Auto' images= 195 spec= 785 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-01:57:29    RN-17 review= 'Auto' images= 195 spec= 617 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-01:57:29    RN-18 review= 'Auto' images= 195 spec= 663 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-01:57:30 publishing quota karur: 27/50
-01:57:32 instagram duplicate check karur: 15 recent posts read
-01:57:32    RN-16 waits for the 12-minute gap after the last post on ['karur']
-01:57:32    RN-18 waits for the 12-minute gap after the last post on ['karur']
-01:57:32 prebuilding ahead of the set start: ['RN-16', 'RN-18']
+02:11:26 story catch-up karur: quota 28/50, 16 recent posts, 12 live stories, owner ids ['17841444626877594', '29966472656372622']
+02:12:49 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081384992487563 ERROR) - tried again next run
+02:12:49 3 stories in the queue, ready to post: 2
+02:12:49   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+02:12:49    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 5.9 ready= False set_started= True
+02:12:49    RN-16 review= 'Auto' images= 195 spec= 785 pages= ['karur'] links= '' '' age_h= 0.4 ready= True set_started= True
+02:12:49    RN-18 review= 'Auto' images= 195 spec= 663 pages= ['karur'] links= '' '' age_h= 0.4 ready= True set_started= True
+02:12:51 publishing quota karur: 28/50
+02:12:53 instagram duplicate check karur: 16 recent posts read
+02:12:53    RN-16 waits for the 12-minute gap after the last post on ['karur']
+02:12:53    RN-18 waits for the 12-minute gap after the last post on ['karur']
