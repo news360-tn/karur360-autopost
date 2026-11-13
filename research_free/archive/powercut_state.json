@@ -521,9 +521,24 @@
    "power_cut": false,
    "why": "other district",
    "title": "மின்வெட்டு நேரத்தில் பகலிலும் எரியும் உயர்கோபுர மின்விளக்கு"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-13-2026-due-to-maintenance-work/articleshow/135765948.cms#district-section": {
+   "at": "2026-11-13T18:10:08.273050+05:30",
+   "power_cut": true,
+   "why": "",
+   "title": "கரூர் மாவட்டத்தில் நாளை (13-11-2026) மின்தடை: புலியூர், எஸ்.பி.புதூர், மேலப்பாளையம், வடக்குபாளையம்"
   }
  },
- "done": {},
+ "done": {
+  "C09f4596": {
+   "id": "C09f4596",
+   "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-13-2026-due-to-maintenance-work/articleshow/135765948.cms#district-section",
+   "title": "கரூர் மாவட்டத்தில் நாளை (13-11-2026) மின்தடை: புலியூர், எஸ்.பி.புதூர், மேலப்பாளையம், வடக்குபாளையம்",
+   "published": "2026-11-12T16:21:17+05:30",
+   "cut_day": "2026-11-13",
+   "at": "2026-11-13T18:10:08.273050+05:30"
+  }
+ },
  "retried": {
   "C09f4596": {
    "n": 1,
