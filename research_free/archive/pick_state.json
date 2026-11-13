@@ -40,7 +40,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T21:46:06.490805+05:30"
+   "picked_at": "2026-11-13T21:46:06.490805+05:30",
+   "posted": true
   },
   "Ccd3585f": {
    "id": "Ccd3585f",
@@ -56,7 +57,8 @@
     "https://www.dinamalar.com/news/tamil-nadu-news/video-of-farmer-s-car-being-attacked-in-aravakurichi-goes-viral/4374559"
    ],
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T21:46:06.490808+05:30"
+   "picked_at": "2026-11-13T21:46:06.490808+05:30",
+   "posted": true
   },
   "C20cfed4": {
    "id": "C20cfed4",
@@ -69,7 +71,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T21:46:06.490810+05:30"
+   "picked_at": "2026-11-13T21:46:06.490810+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Ccaf22b4": {
    "id": "Ccaf22b4",
@@ -351,7 +354,10 @@
     "C20cfed4",
     "Ccd3585f",
     "Ccf0c8cf"
-   ]
+   ],
+   "refused": {
+    "C20cfed4": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
