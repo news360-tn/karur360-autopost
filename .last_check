@@ -1,8 +1,8 @@
-11:38:42 story catch-up karur: quota 11/50, 7 recent posts, 4 live stories, owner ids ['17841444626877594', '29966472656372622']
-11:39:17 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081175415487563 ERROR) - tried again next run
-11:39:17 1 stories in the queue, ready to post: 1
-11:39:17   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-11:39:17    RN-7 review= 'Auto' images= 98 spec= 835 pages= ['karur'] links= '' '' age_h= 0.5 ready= True set_started= True
-11:39:18 publishing quota karur: 11/50
-11:39:20 instagram duplicate check karur: 7 recent posts read
-11:39:20    RN-7 waits for the 12-minute gap after the last post on ['karur']
+11:50:52 story catch-up karur: quota 11/50, 7 recent posts, 4 live stories, owner ids ['17841444626877594', '29966472656372622']
+11:51:05 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081177827487563 ERROR) - tried again next run
+11:51:28 story catch-up karur: post 18100275104668522 not shared (Instagram container 18081177857487563 ERROR) - tried again next run
+11:51:28 1 stories in the queue, ready to post: 1
+11:51:28   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+11:51:28    RN-7 review= 'Auto' images= 98 spec= 835 pages= ['karur'] links= '' '' age_h= 0.7 ready= True set_started= True
+11:51:30 publishing quota karur: 11/50
+11:51:32 instagram duplicate check karur: 7 recent posts read
