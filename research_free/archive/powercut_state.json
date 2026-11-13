@@ -462,12 +462,6 @@
    "why": "cut day 2026-10-13 has passed",
    "title": "கரூர் மாவட்டத்தில் நாளை (13-10-2026) மின்தடை: சின்னப்பனையூர் மற்றும் சுற்றுவட்டார பகுதிகளான மலைக்கோவிலூர், செல்லிபாளையம், கனகபுரி, கேத்தாம்பட்டி"
   },
-  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-13-2026-due-to-maintenance-work/articleshow/135765948.cms#district-section": {
-   "at": "2026-11-13T16:47:07.247575+05:30",
-   "power_cut": true,
-   "why": "",
-   "title": "கரூர் மாவட்டத்தில் நாளை (13-11-2026) மின்தடை: புலியூர், எஸ்.பி.புதூர், மேலப்பாளையம், வடக்குபாளையம்"
-  },
   "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-12-2026-due-to-maintenance-work/articleshow/135726648.cms#district-section": {
    "at": "2026-11-13T16:47:07.247575+05:30",
    "power_cut": true,
@@ -521,19 +515,21 @@
    "power_cut": false,
    "why": "not this district",
    "title": "தமிழகத்தில் நாளை (26-10-2026) மின்தடை அறிவிப்பு! ஏரியாக்கள் லிஸ்ட் இதோ!"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-sivagangai/a-high-tower-light-that-burns-during-the-day-during-a-power-outage/4374926": {
+   "at": "2026-11-13T17:36:45.154481+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "மின்வெட்டு நேரத்தில் பகலிலும் எரியும் உயர்கோபுர மின்விளக்கு"
   }
  },
- "done": {
+ "done": {},
+ "retried": {
   "C09f4596": {
-   "id": "C09f4596",
-   "url": "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-13-2026-due-to-maintenance-work/articleshow/135765948.cms#district-section",
-   "title": "கரூர் மாவட்டத்தில் நாளை (13-11-2026) மின்தடை: புலியூர், எஸ்.பி.புதூர், மேலப்பாளையம், வடக்குபாளையம்",
-   "published": "2026-11-12T16:21:17+05:30",
-   "cut_day": "2026-11-13",
-   "at": "2026-11-13T16:47:07.247575+05:30"
+   "n": 1,
+   "at": "2026-11-13T17:36:45.154481+05:30"
   }
  },
- "retried": {},
  "refused": {
   "C9383a66": {
    "why": "not filed: duplicate after write",
