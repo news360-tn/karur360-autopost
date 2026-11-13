@@ -26,7 +26,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T17:49:17.106379+05:30"
+   "picked_at": "2026-11-13T17:49:17.106379+05:30",
+   "posted": true
   },
   "Ce80df05": {
    "id": "Ce80df05",
@@ -39,7 +40,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T17:49:17.106382+05:30"
+   "picked_at": "2026-11-13T17:49:17.106382+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C1f54667": {
    "id": "C1f54667",
@@ -52,7 +54,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T17:49:17.106384+05:30"
+   "picked_at": "2026-11-13T17:49:17.106384+05:30",
+   "posted": true
   },
   "C84c04f7": {
    "id": "C84c04f7",
@@ -340,7 +343,10 @@
     "C1f54667",
     "C8be88ca",
     "Ce80df05"
-   ]
+   ],
+   "refused": {
+    "Ce80df05": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
