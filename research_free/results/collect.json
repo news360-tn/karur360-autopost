@@ -1,0 +1,338 @@
+{
+ "log": [
+  "earlier stories still waiting for images: []",
+  "instagram check: 0 recent posts read from the page",
+  "pick round: only the picked links are written (research_free/pick.py)",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/temple-peeth-damage-case-filed-by-police/4374856",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vaccination-female-infant-death/4374860",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/snake-rescued-from-judges-apartment/4374855",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/road-widening-work-stalled-public-stages-a-road-blockade",
+  "candidate filter: collected=4",
+  "to write: 4 Karur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min",
+  "filed: 4 Karur district stories (target 4), reels only",
+  "queue: 0 news waiting to be written",
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+ ],
+ "llm": [
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3.6-flash (33s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3.6-flash (41s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
+ ],
+ "stories": [
+  {
+   "tamil_headline": "குளித்தலையில் நீதிபதிகள் குடியிருப்பில் புகுந்த 3 அடி கொம்பேறி மூக்கன் பாம்பு மீட்பு",
+   "english_headline": "3-foot Bronzeback tree snake rescued from judges' quarters near Kulithalai integrated court complex",
+   "category": "Crime & Safety",
+   "location": "Kulithalai town, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பாம்பு மீட்பு",
+    "loc": "குளித்தலை",
+    "hl1": "குளித்தலை நீதிபதி குடியிருப்பில் பாம்பு",
+    "hl2": "3 அடி பாம்பு மீட்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குளித்தலை நீதிமன்ற வளாகம் அருகே சம்பவம்",
+       "நீதிபதிகள் குடியிருப்பில் புகுந்த பாம்பு",
+       "பணியாளர்கள் பார்த்து கூச்சலிட்டனர்"
+      ]
+     },
+     {
+      "title": "மீட்பு நடவடிக்கை",
+      "lines": [
+       "கழிவறை மற்றும் கழிவுநீர் குழாயில் தஞ்சம்",
+       "தீயணைப்பு அலுவலர் கர்ணன் தலைமையில் மீட்பு",
+       "கருவி மூலம் லாவகமாக பிடிப்பு"
+      ]
+     },
+     {
+      "title": "காவிரி படுகை",
+      "lines": [
+       "<b>3 அடி</b> நீள கொம்பேறி மூக்கன் பாம்பு",
+       "சாக்கு பையில் பாதுகாப்பாக மீட்பு",
+       "காவிரி ஆற்றுப் படுகையில் விடுவிப்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குளித்தலையில் நீதிபதிகள் குடியிருப்பில் புகுந்த 3 அடி நீள பாம்பை தீயணைப்புத் துறையினர் மீட்டனர். குளித்தலை ஒருங்கிணைந்த நீதிமன்ற வளாகம் அருகே நீதிபதிகள் குடியிருப்பு உள்ளது. இங்கு பணியில் இருந்த பெண் பணியாளர்கள் பாம்பு புகுந்ததைப் பார்த்து கூச்சலிட்டனர். கூச்சல் கேட்டதும் பாம்பு கழிவறை வழியே சென்று கழிவுநீர் குழாயில் புகுந்தது. தகவலறிந்து தீயணைப்பு நிலைய அலுவலர் கர்ணன் தலைமையில் தீயணைப்பு வீரர்கள் அங்கு வந்தனர். குடியிருப்பு வளாகத்தில் சோதனையிட்டு கழிவுநீர் குழாயில் இருந்த பாம்பைக் கண்டறிந்தனர். பாம்பு பிடிக்கும் கருவி மூலம் 3 அடி நீளமுள்ள கொம்பேறி மூக்கன் பாம்பை லாவகமாக மீட்டனர். பிடிபட்ட பாம்பை சாக்கு பையில் பாதுகாப்பாக வைத்தனர். பின்னர் அந்த பாம்பை காவிரி ஆற்றுப் படுகைப் பகுதியில் பாதுகாப்பாக கொண்டு சென்று விட்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐍 குளித்தலையில் நீதிபதி குடியிருப்பில் புகுந்த 3 அடி பாம்பு மீட்பு\n\n📰 முழு விவரம்:\nகுளித்தலை ஒருங்கிணைந்த நீதிமன்ற வளாகம் அருகே உள்ள நீதிபதிகள் குடியிருப்பில் பாம்பு புகுந்தது. பணியில் இருந்த பெண் பணியாளர்கள் பார்த்துக் கூச்சலிட்டதால், பாம்பு கழிவறை வழியே கழிவுநீர் குழாயில் புகுந்தது. தகவலறிந்து தீயணைப்பு நிலைய அலுவலர் கர்ணன் தலைமையில் வந்த வீரர்கள், பாம்பு பிடிக்கும் கருவி மூலம் 3 அடி நீள கொம்பேறி மூக்கன் பாம்பை மீட்டனர். பிடிபட்ட பாம்பு சாக்கு பையில் அடைக்கப்பட்டு, காவிரி ஆற்றுப் படுகைப் பகுதியில் பாதுகாப்பாக விடுவிக்கப்பட்டது.\n\n📍 இடம்: குளித்தலை ஒருங்கிணைந்த நீதிமன்ற வளாகம் அருகே\n👨‍🚒 மீட்பு: தீயணைப்பு நிலைய அலுவலர் கர்ணன் தலைமையிலான குழு\n\nமுக்கிய செய்திகளை அறிய Share செய்யுங்கள்\n\nKulithalai court judges quarters snake rescue | Karur news\n📍 குளித்தலை, கரூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Kulithalai #Karur #KarurNews #கரூர்",
+   "prompts": "A Tamil Nadu fire and rescue team in khaki uniforms searches the compound of a government judges' residential quarters in Kulithalai town, Karur district, beside the courthouse complex. Two firemen in khaki stand near a low concrete boundary wall and an open sewage drain cover, one holding a long metal snake-catching hook while another bends toward the drain, seen from behind and at a distance. Next to them a few female court staff in cotton sarees stand watching quietly near a whitewashed block of residential quarters with a tiled roof and a small potted plant. A few meters away a sack lies open on the ground beside a red-and-white fire service utility bucket. Daylight, clear sky, late morning. Eye level, 35 mm lens, wide enough to show the courthouse building in the background. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/snake-rescued-from-judges-apartment/4374855",
+   "published": "2026-11-13T06:46:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534106/karur360/htwauxqaukcailrndfpa.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குளித்தலை அருகே அம்மன் கோவில் பீடம் சேதம்: போலீசார் வழக்கு",
+   "english_headline": "Altar of Bhagavathi Amman temple damaged in Telungupatti near Kulithalai; police register case",
+   "category": "Crime & Safety",
+   "location": "Telungupatti, Porunthalur panchayat, Kulithalai taluk, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கோவில் வழக்கு",
+    "loc": "தெலுங்குபட்டி, குளித்தலை",
+    "hl1": "குளித்தலை அருகே கோவில் பீடம் சேதம்",
+    "hl2": "போலீசார் வழக்குப் பதிவு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குளித்தலை அடுத்த தெலுங்குபட்டியில் பகவதி அம்மன் கோவில்",
+       "கோவிலுக்குள் அத்துமீறி நுழைந்து பீடத்தைச் சேதப்படுத்தினர்",
+       "பீடத்துக்கு அடியில் இருந்த <b>எந்திரங்கள்</b>"
+      ]
+     },
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "கடந்த <b>1ஆம் தேதி</b> அதிகாலை <b>3:30 மணி</b> அளவில்",
+       "தெலுங்குபட்டியைச் சேர்ந்த குமரேசன் (<b>60 வயது</b>) மற்றும்",
+       "கோவில் இந்து சமய அறநிலையத்துறை கட்டுப்பாட்டில் உள்ளது"
+      ]
+     },
+     {
+      "title": "நடவடிக்கை",
+      "lines": [
+       "கோவில் தக்கார் சுகுணா (<b>41 வயது</b>) அளித்த புகாரின்படி வழக்கு",
+       "தோகைமலை போலீசார் குமரேசன் மற்றும் சிலர் மீது",
+       "போலீசார் தொடர்ந்து விசாரித்து வருகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குளித்தலை அருகே ஒரு அம்மன் கோவிலின் பீடம் சேதப்படுத்தப்பட்டு இடிக்கப்பட்டது. குளித்தலை அடுத்த பொருந்தலூர் ஊராட்சி தெலுங்குபட்டியில் பகவதி அம்மன் கோவில் உள்ளது. இந்த கோவில் இந்து சமய அறநிலையத்துறை கட்டுப்பாட்டில் உள்ளது. கடந்த 1ஆம் தேதி அதிகாலை 3:30 மணி அளவில், தெலுங்குபட்டியைச் சேர்ந்த குமரேசன், 60 வயது, மற்றும் சிலர் கோவிலுக்குள் அத்துமீறி நுழைந்தனர். அவர்கள் அம்மன் கோவில் பீடத்தைச் சேதப்படுத்தி இடித்தனர். பின்னர், பீடத்துக்கு அடியில் இருந்த எந்திரங்களை எடுத்துச் சென்றனர். இது குறித்து கோவில் தக்கார் சுகுணா, 41 வயது, அளித்த புகாரின்படி, தோகைமலை போலீசார் குமரேசன் மற்றும் சிலர் மீது வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 குளித்தலை அருகே அம்மன் கோவில் பீடம் சேதம்: போலீசார் வழக்குப் பதிவு\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த பொருந்தலூர் ஊராட்சி தெலுங்குபட்டியில் உள்ள பகவதி அம்மன் கோவிலுக்குள், கடந்த 1ஆம் தேதி அதிகாலை 3:30 மணி அளவில், தெலுங்குபட்டியைச் சேர்ந்த குமரேசன் (60 வயது) மற்றும் சிலர் அத்துமீறி நுழைந்தனர். அவர்கள் அம்மன் கோவில் பீடத்தைச் சேதப்படுத்தி இடித்தனர். பின்னர், பீடத்துக்கு அடியில் இருந்த எந்திரங்களை எடுத்துச் சென்றனர்.\nஇக்கோவில் இந்து சமய அறநிலையத்துறை கட்டுப்பாட்டில் உள்ளது.\nகோவில் தக்கார் சுகுணா (41 வயது) அளித்த புகாரின்படி, தோகைமலை போலீசார் குமரேசன் மற்றும் சிலர் மீது வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: தெலுங்குபட்டி, பொருந்தலூர் ஊராட்சி, குளித்தலை\n🗓️ நாள்: கடந்த 1ஆம் தேதி\n🕘 நேரம்: அதிகாலை 3:30 மணி\n👮 நடவடிக்கை: தோகைமலை போலீசார் வழக்குப் பதிவு செய்து விசாரணை\n\nKulithalai Bhagavathi Amman temple altar damaged, police case | Karur news\n📍 தெலுங்குபட்டி, குளித்தலை, கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #கோவில் #KarurNews",
+   "prompts": "A Tamil Nadu police sub-inspector in khaki stands beside a damaged stone altar inside a small village Bhagavathi Amman temple in Telungupatti village near Kulithalai, Karur district. The broken pieces of the peedam lie scattered on the floor, and the spot where the yantra plates were removed is visibly empty. Two constables in khaki and a temple trustee in a white veshti and shirt stand a few steps away, seen from behind, looking at the damage. The shrine has a plain concrete wall, a brass lamp stand and a hanging bell, with a Tamil Nadu police jeep parked outside the open gate. It is early morning in dim dawn light filtering through the doorway, with no visible injuries. Shot at eye level on a 35 mm lens, wide enough to show the whole shrine and the people, with faces turned away or blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/temple-peeth-damage-case-filed-by-police/4374856",
+   "published": "2026-11-13T06:47:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534146/karur360/lvavqsekjxbfltlbxjdv.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் அருகே சாலை விரிவாக்கப் பணி கிடப்பில்: பொதுமக்கள் சாலை மறியல்",
+   "english_headline": "Protest in Karur over road widening work left unfinished; residents block road at Sankara Garden junction",
+   "category": "Roads & Transport",
+   "location": "Andankovil, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை மறியல்",
+    "loc": "ஆண்டாங்கோவில், கரூர்",
+    "hl1": "ஆண்டாங்கோவிலில் சாலை மறியல் போராட்டம்",
+    "hl2": "சாலை விரிவாக்கம் கிடப்பில்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சாலை விரிவாக்கப் பணி கிடப்பில் போடப்பட்டதால் மக்கள் மறியல்",
+       "வியாழக்கிழமை காலை ஆண்டாங்கோவில் சாலையில் போராட்டம்",
+       "சமநீதி கழகத் தலைவர் அண்ணாதுரை தலைமையில் நூற்றுக்கும்"
+      ]
+     },
+     {
+      "title": "ஏன் போராட்டம்?",
+      "lines": [
+       "பெரியார் வளைவு முதல் அங்காளம்மன் கோயில் வரை அடிக்கடி விபத்து",
+       "6 மாதங்களுக்கு முன் ரூ.7 கோடியில் பணி தொடங்கியது",
+       "70 சதவீத பணிகள் முடிந்த நிலையில் பணிகள் நிறுத்தம்"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள் உறுதி",
+      "lines": [
+       "நெடுஞ்சாலைத் துறை கோட்டப் பொறியாளர் சந்திரன் பேச்சுவார்த்தை",
+       "கரூர் வட்டாட்சியர் பிரகாஷும் பேச்சுவார்த்தையில் பங்கேற்பு",
+       "உறுதியை ஏற்று மக்கள் கலைந்து சென்றனர்; அரை மணி நேரம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே ஆண்டாங்கோவிலில் சாலை விரிவாக்கப் பணி கிடப்பில் போடப்பட்டதைக் கண்டித்து பொதுமக்கள் சாலை மறியலில் ஈடுபட்டனர். வியாழக்கிழமை காலை சின்னாண்டாங்கோவில் சாலையில் சங்கரா கார்டனுக்குச் செல்லும் பிரிவு பகுதியில் இந்தப் போராட்டம் நடைபெற்றது. சமநீதி கழகத் தலைவர் அண்ணாதுரை தலைமையில் நூற்றுக்கும் மேற்பட்டோர் இதில் பங்கேற்றனர். பெரியார் வளைவு முதல் அங்காளம்மன் கோயில் வரை சாலையில் அடிக்கடி விபத்துகள் ஏற்பட்டதால், சாலையை விரிவாக்கம் செய்ய வேண்டும் என்று அப்பகுதியினர் கோரிக்கை விடுத்தனர். நெடுஞ்சாலைத் துறை சார்பில் 6 மாதங்களுக்கு முன் ரூ.7 கோடியில் பணிகள் தொடங்கின. சுமார் 70 சதவீத பணிகள் முடிந்த நிலையில் பணிகள் திடீரென கிடப்பில் போடப்பட்டன. பணிகளை மீண்டும் தொடங்க வேண்டும் என பலமுறை கோரிக்கை விடுத்தும் இதுவரை எந்த நடவடிக்கையும் எடுக்கப்படவில்லை. நெடுஞ்சாலைத் துறை கோட்டப் பொறியாளர் சந்திரன், கரூர் வட்டாட்சியர் பிரகாஷ் ஆகியோர் போராட்டக்காரர்களுடன் பேச்சுவார்த்தை நடத்தினர். அளிக்கப்பட்ட உறுதியை ஏற்று மக்கள் கலைந்து சென்றனர். இந்த மறியலால் சுமார் அரை மணி நேரம் போக்குவரத்து பாதிக்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 ஆண்டாங்கோவிலில் சாலை விரிவாக்கப் பணி கிடப்பில்: பொதுமக்கள் சாலை மறியல்\n\n📰 முழு விவரம்:\nகரூர் அருகே ஆண்டாங்கோவில் கீழ்பாகம் ஊராட்சிக்கு உட்பட்ட சின்னாண்டாங்கோவில் சாலையில் பெரியார் வளைவு முதல் அங்காளம்மன் கோயில் வரை சாலை விரிவாக்கப் பணி கிடப்பில் போடப்பட்டதைக் கண்டித்து வியாழக்கிழமை காலை பொதுமக்கள் சாலை மறியல் போராட்டத்தில் ஈடுபட்டனர். சமநீதி கழகத் தலைவர் அண்ணாதுரை தலைமையில் நூற்றுக்கும் மேற்பட்டோர் சங்கரா கார்டனுக்குச் செல்லும் பிரிவு பகுதியில் போராட்டம் நடத்தினர். அடிக்கடி விபத்து நடந்ததால் சாலை விரிவாக்கம் கோரப்பட்டது. நெடுஞ்சாலைத் துறை சார்பில் 6 மாதங்களுக்கு முன் ரூ.7 கோடியில் பணிகள் தொடங்கின. 70 சதவீத பணிகள் முடிந்த நிலையில் பணிகள் கிடப்பில் போடப்பட்டன. பலமுறை கோரியும் நடவடிக்கை இல்லை என்பதால் மக்கள் ஆத்திரமடைந்தனர்.\n📍 இடம்: ஆண்டாங்கோவில், கரூர் மாவட்டம்\n🕘 நேரம்: வியாழக்கிழமை காலை\n🏛️ அதிகாரிகள்: நெடுஞ்சாலைத் துறை கோட்டப் பொறியாளர் சந்திரன், கரூர் வட்டாட்சியர் பிரகாஷ் பேச்சுவார்த்தை நடத்தினர்\n👮 நடவடிக்கை: அளித்த உறுதியை ஏற்று மக்கள் கலைந்து சென்றனர்\n🚗 பாதிப்பு: சுமார் அரை மணி நேரம் போக்குவரத்து பாதிப்பு\n\nKarur road widening stalled, residents block road | Karur news\n📍 ஆண்டாங்கோவில், கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Andankovil #KarurNews #கரூர்",
+   "prompts": "A crowd of over a hundred residents of Andankovil sits and stands across a district road at a junction in Karur district, blocking traffic in a sudden protest over an abandoned road-widening project. Seen from behind and at a distance, men in shirts and veshti and women in cotton sarees fill the carriageway, some holding up their hands, while two-wheelers, a car and a town bus are stopped in a queue behind them. The road edges are torn up with the widening work half done, the tarmac replaced by raw gravel and earth, with a few rain-water pits glinting in the sun. Thin rural fields and a few low houses line the road, with palm and tree cover at the sides. It is Thursday morning in bright daylight. Camera at eye level, slightly high, 35 mm, wide enough to show the blocked road and the crowd together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/road-widening-work-stalled-public-stages-a-road-blockade",
+   "published": "2026-11-12T21:10:19.679Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534161/karur360/kzsnmzy0pkgr1qrn1o83.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குளித்தலை அருகே 45 நாள் பெண் குழந்தை தடுப்பூசி போட்ட பின் உயிரிழப்பு",
+   "english_headline": "45-day-old baby girl dies after vaccination at Nangavaram health centre near Kulithalai; police inquiry, postmortem pending",
+   "category": "Health",
+   "location": "Nangavaram panchayat, Kulithalai taluk, Karur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சுகாதாரம்",
+    "loc": "நங்கவரம், குளித்தலை",
+    "hl1": "குளித்தலை அருகே குழந்தை உயிரிழப்பு",
+    "hl2": "தடுப்பூசிக்குப் பின் சோகம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "நங்கவரம் பஞ்., நச்சலூர் வெள்ளக்கல் பகுதியில் சம்பவம்",
+       "<b>45 நாட்கள்</b> ஆன பெண் குழந்தை உயிரிழப்பு",
+       "தடுப்பூசி போட்டு வீடு திரும்பிய சில மணி நேரத்தில்"
+      ]
+     },
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "நேற்று முன்தினம் காலை <b>11 மணி</b>க்கு தடுப்பூசி",
+       "மதியம் <b>12 மணி</b>க்கு வீடு திரும்பினர்",
+       "மதியம் <b>3 மணி</b>க்கு குழந்தை அசைவின்றி இருந்தது"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "நங்கவரம் போலீசார் விசாரணை நடத்தி வருகின்றனர்",
+       "பிரேத பரிசோதனைக்கு கரூர் அரசு மருத்துவக் கல்லூரி",
+       "மரணக் காரணம் பிரேத பரிசோதனைக்குப் பின்பே தெரியவரும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குளித்தலை அருகே 45 நாள் பெண் குழந்தை தடுப்பூசி போட்ட சில மணி நேரத்தில் உயிரிழந்தது. நங்கவரம் பஞ்சாயத்து, நச்சலூர் வெள்ளக்கல் பகுதியைச் சேர்ந்த வினோத், அவரது மனைவி பிரதிக் ஷா ஆகியோர் தங்கள் குழந்தையுடன் இருந்தனர். நேற்று முன்தினம் காலை 11 மணிக்கு வெள்ளக்கல்லில் உள்ள அரசு ஆரம்ப சுகாதார நிலையத்தில் குழந்தைக்கு தடுப்பூசி போடப்பட்டது. மதியம் 12 மணிக்கு குடும்பத்தினர் வீடு திரும்பினர். தாய் பிரதிக் ஷா குழந்தைக்குத் தாய்ப்பால் கொடுத்து தூங்க வைத்தார். மதியம் 3 மணிக்கு குழந்தை எந்த அசைவுமின்றி இருந்தது. குடும்பத்தினர் குழந்தையை வெள்ளைக்கல் ஆரம்ப சுகாதார நிலையத்திற்கு கொண்டு சென்றனர். மருத்துவர் பரிசோதித்து, குழந்தை ஏற்கனவே இறந்துவிட்டதாகத் தெரிவித்தார். நங்கவரம் போலீசார் குழந்தையின் உடலை பிரேத பரிசோதனைக்காக கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பினர். குழந்தையின் தந்தை வினோத் அளித்த புகாரின்படி போலீசார் விசாரித்து வருகின்றனர். கரூர் மாவட்ட சுகாதாரப் பணி இணை இயக்குநர் சுப்பிரமணி கூறுகையில், நேற்று முன்தினம் 45 நாள் பெண் குழந்தைக்கு தடுப்பூசி போடப்பட்டது என்றும், அதே நாளில் ஐந்து பேருக்கு தடுப்பூசி போடப்பட்டதாகவும், அவர்களில் நான்கு குழந்தைகள் எந்த பாதிப்புமின்றி இருப்பதாகவும் தெரிவித்தார். பெண் குழந்தையின் மரணம் குறித்து பிரேத பரிசோதனைக்குப் பின்பே தெரியவரும் என்றார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், குளித்தலை அடுத்த நங்கவரம் பஞ்சாயத்து, நச்சலூர் வெள்ளக்கல் பகுதியைச் சேர்ந்த வினோத் (30 வயது), அவரது மனைவி பிரதிக் ஷா (22 வயது) ஆகியோரின் 45 நாள் பெண் குழந்தைக்கு நேற்று முன்தினம் காலை 11 மணிக்கு வெள்ளக்கல்லில் உள்ள அரசு ஆரம்ப சுகாதார நிலையத்தில் தடுப்பூசி போடப்பட்டது.\nமதியம் 12 மணிக்கு வீடு திரும்பிய தாய் பிரதிக் ஷா, குழந்தைக்குத் தாய்ப்பால் கொடுத்து தூங்க வைத்தார்.\nமதியம் 3 மணிக்கு குழந்தை எந்த அசைவுமின்றி இருந்ததைக் கண்டு, வெள்ளைக்கல் ஆரம்ப சுகாதார நிலையத்துக்கு கொண்டு சென்றனர். மருத்துவர் பரிசோதித்து குழந்தை ஏற்கனவே இறந்துவிட்டதாகத் தெரிவித்தார்.\nநங்கவரம் போலீசார் குழந்தையின் உடலை பிரேத பரிசோதனைக்காக கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பினர். தந்தை வினோத் அளித்த புகாரின்படி போலீசார் விசாரித்து வருகின்றனர்.\nகரூர் மாவட்ட சுகாதாரப் பணி இணை இயக்குநர் சுப்பிரமணி, அதே நாளில் ஐந்து பேருக்கு தடுப்பூசி போடப்பட்டதாகவும், அவர்களில் நான்கு குழந்தைகள் எந்த பாதிப்புமின்றி இருப்பதாகவும் தெரிவித்தார். மரணக் காரணம் பிரேத பரிசோதனைக்குப் பின்பே தெரியவரும் என்றார்.\n\nKulithalai baby girl dies after vaccination | Karur news\n📍 நங்கவரம், குளித்தலை, கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "A quiet government primary health centre in a village near Kulithalai, Karur district, Tamil Nadu, with a whitewashed concrete building, a small tiled entrance veranda and a plain blue wooden bench outside. Under bright daylight, a young Tamil mother in a cotton saree, seen from behind and slightly blurred, sits on the bench holding a small bundle wrapped in a thin cloth against her shoulder, while a man in a half-sleeved shirt and veshti stands beside her with his hand on her back, both looking down at the bundle. A few other villagers wait in the background near the entrance and a rural road with a parked two-wheeler and a dusty bullock-free lane runs past the compound wall under a clear sky. The gate of the centre is open and a Tamil Nadu police constable in khaki stands at a distance near the veranda pillar. Eye level, 35 mm lens, wide enough to show the building and the surrounding village road. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vaccination-female-infant-death/4374860",
+   "published": "2026-11-13T06:49:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534166/karur360/kyvps1c9ph5h6r9dz6yh.jpg"
+   ]
+  }
+ ]
+}
