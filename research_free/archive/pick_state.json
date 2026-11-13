@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-13T17:47:37.742179+05:30",
+ "last_end": "2026-11-13T20:15:54.259283+05:30",
  "pool": {
   "C9383a66": {
    "id": "C9383a66",
@@ -15,20 +15,6 @@
    "picked_at": "2026-11-13T10:59:55.523774+05:30",
    "refused": "not filed: duplicate after write"
   },
-  "C8be88ca": {
-   "id": "C8be88ca",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/free-blood-test-camp-at-maravapalayam/4374858",
-   "title": "மரவாபாளையத்தில் இலவச ரத்த பரிசோதனை முகாம்",
-   "summary": "கரூர்:ஓலப்பாளையம், அரசு ஆரம்ப சுகாதார நிலையம் சார்பில், நொய்யல் அருகே மரவாபாளையம் பகுதியில் ரத்த பரிசோதனை முகாம் நடந்தது. சுகாதார செவிலியர், சுகாதார தன்னார்வலர்கள் கொண்ட குழுவினர், மரவாபாளையம் சுற்றுவட்டார பகுதியில் உ...",
-   "source": "தினமலர்",
-   "published": "2026-11-13T06:48:00+05:30",
-   "category": "பொது",
-   "score": 7.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T17:49:17.106379+05:30",
-   "posted": true
-  },
   "Ce80df05": {
    "id": "Ce80df05",
    "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/organs-donated-by-a-person-declared-brain-dead-following-an-accident-body-cremated-with-state-honors",
@@ -42,20 +28,6 @@
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
    "picked_at": "2026-11-13T17:49:17.106382+05:30",
    "refused": "not filed: duplicate after write"
-  },
-  "C1f54667": {
-   "id": "C1f54667",
-   "url": "https://www.dinamalar.com/news/business-general-news/textile-vocational-training-commences-in-december-at-karur-madurai/4374677",
-   "title": "டிசம்பரில் ஜவுளி தொழில் பயிற்சி கரூர், மதுரையில் தொடக்கம்",
-   "summary": "கரூர்: வேலைவாய்ப்புடன் கூடிய இலவச ஜவுளி தொழில் பயிற்சி கரூர், மதுரையில் டிசம்பரில் துவங்குகிறது. கரூர் ஜவுளி உற்பத்தியாளர், ஏற்றுமதியாளர் சங்க தலைவர் கோபாலகிருஷ்ணன், செயலாளர் சுகுமார் வெளியிட்ட அறிக்கை: ‘டெக்ஸ்டைல்ஸ் ...",
-   "source": "தினமலர்",
-   "published": "2026-11-12T23:12:26+05:30",
-   "category": "பொது",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T17:49:17.106384+05:30",
-   "posted": true
   },
   "C84c04f7": {
    "id": "C84c04f7",
@@ -347,6 +319,30 @@
    "refused": {
     "Ce80df05": "not filed: duplicate after write"
    }
+  },
+  "2026-11-13_20": {
+   "window": [
+    "2026-11-13T17:47:37.742179+05:30",
+    "2026-11-13T20:15:54.259283+05:30"
+   ],
+   "ids": [
+    "C84c04f7",
+    "Cc38adf9",
+    "C104550f",
+    "Ccf0c8cf",
+    "Ccd3585f",
+    "C20cfed4",
+    "Ccaf22b4",
+    "Cc4525e0",
+    "C12d84c5",
+    "Cd5bb6b8",
+    "C5d09495",
+    "Ce55e5a2"
+   ],
+   "sent": false,
+   "deadline": "2026-11-13T21:15:54.259283+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
