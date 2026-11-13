@@ -1,8 +1,12 @@
-19:09:51 story catch-up karur: quota 17/50, 10 recent posts, 7 live stories, owner ids ['17841444626877594', '29966472656372622']
-19:10:15 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081268949487563 ERROR) - tried again next run
-19:10:55 story catch-up karur: story 18499819897104321 for the post of 13 Nov 13:19 UTC (VIDEO)
-19:10:55 1 stories in the queue, ready to post: 1
-19:10:55   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-19:10:55    RN-8 review= 'Auto' images= 195 spec= 615 pages= ['karur'] links= '' '' age_h= 1.3 ready= True set_started= True
-19:10:58 publishing quota karur: 17/50
-19:11:00 instagram duplicate check karur: 10 recent posts read
+20:20:09 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
+::warning title=Held from posting RN-12::held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
+20:20:12 story catch-up karur: quota 20/50, 11 recent posts, 9 live stories, owner ids ['17841444626877594', '29966472656372622']
+20:20:45 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081288332487563 ERROR) - tried again next run
+20:20:45 2 stories in the queue, ready to post: 1
+20:20:45   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+20:20:45    RN-11 review= 'Auto' images= 195 spec= 619 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
+20:20:45    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 0.0 ready= False set_started= True
+20:20:47 publishing quota karur: 20/50
+20:20:49 instagram duplicate check karur: 11 recent posts read
+20:20:49    RN-11 waits for posting start (08:00 IST)
+20:20:49 prebuilding ahead of the set start: ['RN-11']
