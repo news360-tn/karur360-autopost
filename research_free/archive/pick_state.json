@@ -39,7 +39,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T21:46:06.490805+05:30"
   },
   "Ccd3585f": {
    "id": "Ccd3585f",
@@ -54,7 +55,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/video-of-farmer-s-car-being-attacked-in-aravakurichi-goes-viral/4374559"
    ],
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T21:46:06.490808+05:30"
   },
   "C20cfed4": {
    "id": "C20cfed4",
@@ -66,7 +68,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T21:46:06.490810+05:30"
   },
   "Ccaf22b4": {
    "id": "Ccaf22b4",
@@ -335,8 +338,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-13T22:45:14.227433+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 10:45 PM - automatic top 3",
+    "ids": [
+     "Ccf0c8cf",
+     "Ccd3585f",
+     "C20cfed4"
+    ],
+    "at": "2026-11-13T21:46:06.490784+05:30"
+   },
+   "written": [
+    "C20cfed4",
+    "Ccd3585f",
+    "Ccf0c8cf"
+   ]
   }
  },
  "retry": {}
