@@ -1,208 +1,275 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 11 recent posts read from the page",
+  "instagram check: 15 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/856-lakh-voters-in-karur-district",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/video-of-farmer-s-car-being-attacked-in-aravakurichi-goes-viral/4374559",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/district-draft-electoral-roll-released-in-four-constituencies-8-56-lakh-electors/4374840",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/nurses-stage-protest/4374845",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4374849",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mentally-ill-married-woman-goes-missing/4374851",
   "candidate filter: collected=3",
   "to write: 3 Karur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
-  "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "NOT filed (N) மாவட்ட வரைவு வாக்காளர் பட்டியல் வெளியீடு நான்கு தொ: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
-  "filed: 2 Karur district stories (target 3), reels only",
+  "posting job started at once",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
+  "filed: 3 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (30s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.6-flash (35s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (6s)",
+  "ok gemini/gemini-3.6-flash (37s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அரவக்குறிச்சி அருகே விவசாயியின் கார் மீது தாக்குதல்: காற்றாலை நிறுவன ஊழியர்கள் மீது புகார்",
-   "english_headline": "Farmer's car attacked near Aravakurichi: Clash between windmill company staff and locals over land issues",
+   "tamil_headline": "கரூரில் செவிலியர்கள் ஆர்ப்பாட்டம்: 6,500 பேரை பணி நிரந்தரம் செய்ய வலியுறுத்தல்",
+   "english_headline": "Nurses stage protest outside Karur Government Medical College Hospital demanding permanent jobs for 6,500 nurses",
+   "category": "Health",
+   "location": "Karur Government Medical College Hospital, Karur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "செவிலியர் ஆர்ப்பாட்டம்",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் செவிலியர்கள் போராட்டம்",
+    "hl2": "6,500 பேருக்கு பணி நிரந்தரம்",
+    "slides": [
+     {
+      "title": "ஆர்ப்பாட்டம்",
+      "lines": [
+       "கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை முன் போராட்டம்",
+       "தமிழ்நாடு செவிலியர் மேம்பாட்டு சங்கம் சார்பில் நடந்தது",
+       "மாவட்ட தலைவர் கிறிஸ்டல் ஹெப்சி தலைமை வகித்தார்"
+      ]
+     },
+     {
+      "title": "முக்கிய கோரிக்கை",
+      "lines": [
+       "தொகுப்பூதியத்தில் உள்ள <b>6,500</b> செவிலியர்களை பணி",
+       "முழுமையான காலமுறை ஊதியத்தில் பணி நிரந்தரம் வழங்க",
+       "ஒப்பந்த செவிலியர்களை <b>MRB</b> மூலம் பணி நிரந்தரம் செய்ய கோரிக்கை"
+      ]
+     },
+     {
+      "title": "பிற கோரிக்கைகள்",
+      "lines": [
+       "புதிய பணியிடங்களுக்கு இடமாறுதல் கலந்தாய்வு நடத்த வேண்டும்",
+       "செவிலியர் ஆசிரியர்களை நிரந்தர அடிப்படையில் நியமிக்க கோரிக்கை",
+       "கோரிக்கைகளை உடனடியாக நிறைவேற்ற வலியுறுத்தி முழக்கம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூரில் பணி நிரந்தரம் கோரி செவிலியர்கள் ஆர்ப்பாட்டம் நடத்தினர். கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை முன் தமிழ்நாடு செவிலியர் மேம்பாட்டு சங்கம் சார்பில் இந்த போராட்டம் நடைபெற்றது. இந்த ஆர்ப்பாட்டத்திற்கு சங்கத்தின் மாவட்ட தலைவர் கிறிஸ்டல் ஹெப்சி தலைமை வகித்தார். தொகுப்பூதியத்தில் பணியாற்றும் 6,500 செவிலியர்களை காலமுறை ஊதியத்தில் பணி நிரந்தரம் செய்ய வலியுறுத்தப்பட்டது. ஒப்பந்த முறையில் உள்ள செவிலியர்களை மருத்துவ பணியாளர் தேர்வு வாரியம் மூலம் பணி நிரந்தரம் செய்யக் கோரப்பட்டது. புதிய பணியிடங்களுக்கு முறையான இடமாறுதல் கலந்தாய்வு நடத்த வேண்டும் என முழக்கமிட்டனர். அரசு செவிலியர் கல்லூரிகளில் ஆசிரியர்களை நிரந்தர அடிப்படையில் பணியமர்த்த வலியுறுத்தப்பட்டது. இந்த கவனயீர்ப்பு ஆர்ப்பாட்டத்தில் திரளான செவிலியர்கள் கலந்து கொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💉 கரூரில் பணி நிரந்தரம் கோரி செவிலியர்கள் ஆர்ப்பாட்டம்!\n\n📰 முழு விவரம்:\nகரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை முன் தமிழ்நாடு செவிலியர் மேம்பாட்டு சங்கத்தின் சார்பில் ஆர்ப்பாட்டம் நடைபெற்றது. மாவட்ட தலைவர் கிறிஸ்டல் ஹெப்சி இந்த ஆர்ப்பாட்டத்திற்கு தலைமை வகித்தார்.\nதொகுப்பூதியத்தில் பணியாற்றும் 6,500 செவிலியர்களை காலமுறை ஊதியத்தில் பணி நிரந்தரம் செய்யக் கோரிக்கை விடுக்கப்பட்டது. தற்காலிக ஒப்பந்த முறையில் பணிபுரியும் செவிலியர்களை மருத்துவ பணியாளர் தேர்வு வாரியம் மூலம் பணி நிரந்தரம் செய்ய வேண்டும் என வலியுறுத்தினர்.\nபுதிய பணியிடங்களுக்கு இடமாறுதல் கலந்தாய்வு நடத்தவும், அரசு செவிலியர் கல்லூரிகளில் ஆசிரியர்களை நிரந்தர அடிப்படையில் நியமிக்கவும் வலியுறுத்தி முழக்கங்கள் எழுப்பப்பட்டன. இதில் திரளான செவிலியர்கள் பங்கேற்றனர்.\n\n📍 இடம்: கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை\n📢 அமைப்பு: தமிழ்நாடு செவிலியர் மேம்பாட்டு சங்கம்\n👥 தலைமை: மாவட்ட தலைவர் கிறிஸ்டல் ஹெப்சி\nℹ️ மக்கள் கவனத்திற்கு: 6,500 செவிலியர்களுக்கு பணி நிரந்தரம் வழங்கக் கோரி இந்த ஆர்ப்பாட்டம் நடைபெற்றது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nKarur nurses protest demanding permanent jobs | Karur news\n📍 கரூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurCity #KarurNews #கரூர்",
+   "prompts": "A large group of nurses gathers in a unified march, holding up banners and chanting, while the district head Crystal Hebby stands at the front raising a hand to address the crowd. The protest takes place directly in front of the Karur Government Medical College Hospital, its white façade and signboard visible behind the demonstrators. From behind, rows of nurses in white scrubs and modest sarees fill the frame, the district head in a khaki shirt stands slightly ahead, gesturing. No vehicles are present; the hospital entrance steps and a few parked two‑wheelers are seen at the periphery. The scene occurs in daylight under clear sky, captured at eye level with a 35 mm lens, wide enough to show the hospital entrance and the crowd. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of a protest banner held by a nurse’s hand dominates the frame; the banner displays a stylised red nurse cap and a large abstract number symbol, clearly indicating a demand for permanent positions. The banner’s fabric flutters against the backdrop of the hospital’s concrete wall, which is out of focus, hinting at the location. The nurse’s forearm and sleeve are visible, suggesting a medical professional, while a faint outline of other banners and a distant crowd can be seen blurred behind. The shot is taken slightly above eye level with a 35 mm lens, focusing on the banner as the key object that conveys the story. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/nurses-stage-protest/4374845",
+   "published": "2026-11-13T06:42:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794601117/karur360/zcjdnckhylu4wxesmwhm.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794601147/karur360/k4jyyyvgbyyepssa9wun.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரவக்குறிச்சி அருகே மனநலம் பாதித்த 38 வயது பெண் மாயம்",
+   "english_headline": "38-year-old woman with mental illness missing near Aravakurichi",
    "category": "Crime & Safety",
-   "location": "Aravakurichi, Karur district",
+   "location": "Pavithram village, Aravakurichi taluk, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மோதல்",
-    "loc": "அரவக்குறிச்சி",
-    "hl1": "அரவக்குறிச்சியில் விவசாயி கார் மீது",
-    "hl2": "காற்றாலை ஊழியர்கள் மீது",
+    "cat": "மாயமானவர்",
+    "loc": "பவித்திரம், அரவக்குறிச்சி",
+    "hl1": "அரவக்குறிச்சி அருகே பெண் மாயம்",
+    "hl2": "38 வயது வனிதா",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "மாயமானவர்",
       "lines": [
-       "அரவக்குறிச்சி அருகே விவசாயியின் கார் தாக்கப்பட்ட வீடியோ",
-       "காற்றாலை நிறுவன ஊழியர்களுக்கும் மக்களுக்கும் இடையே",
-       "நில விவகாரம் தொடர்பாக மோதல் ஏற்பட்டதாகத் தகவல்"
+       "பவித்திரம் கிராமத்தில் <b>38</b> வயது பெண் மாயம்",
+       "மனநலம் பாதிப்பு உள்ளவர்",
+       "கடந்த <b>5</b> ஆண்டுகளாக சிகிச்சை"
       ]
      },
      {
-      "title": "முக்கியப் புகார்",
+      "title": "சம்பவம்",
       "lines": [
-       "இடைத்தரகர்கள் நில விவகாரங்களில் தலையிடுவதாகக் குற்றச்சாட்டு",
-       "விவசாயிகளிடம் ஆதிக்கத்தைச் செலுத்த முயற்சிப்பதாகப் புகார்",
-       "மிரட்டல் மற்றும் அத்துமீறல் நடப்பதாக விவசாயிகள் கவலை"
+       "<b>4</b> நாட்களுக்கு முன் இரவு வீட்டை விட்டு வெளியேறினார்",
+       "முன்பு <b>3</b> முறை சென்று திரும்பியுள்ளார்",
+       "இம்முறை தொலைபேசி தொடர்பு இல்லை"
       ]
      },
      {
-      "title": "கோரிக்கை",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "<b>சிசிடிவி</b> காட்சிகளை ஆய்வு செய்யப் போலீசாருக்குக் கோரிக்கை",
-       "தாக்குதலில் ஈடுபட்டவர்கள் மீது நடவடிக்கை எடுக்க வலியுறுத்தல்",
-       "கலெக்டர் மற்றும் எஸ்.பி. நேரடியாக ஆய்வு செய்யக் கோரிக்கை"
+       "க.பரமத்தி காவல் நிலையத்தில் புகார்",
+       "தம்பி சரவணன் புகார் அளித்தார்",
+       "போலீசார் பல்வேறு இடங்களில் தேடி வருகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அரவக்குறிச்சி அருகே விவசாயியின் கார் தாக்கப்பட்ட வீடியோ சமூக வலைதளங்களில் பரவி வருகிறது. கரூர் மாவட்டம் அரவக்குறிச்சி பகுதியில் காற்றாலை நிறுவன ஊழியர்களுக்கும் அப்பகுதி மக்களுக்கும் இடையே நில விவகாரம் தொடர்பாக வாக்குவாதம் ஏற்பட்டுள்ளது. அப்போது விவசாயி ஒருவரின் கார் தாக்கப்பட்டதாகக் கூறப்படுகிறது. காற்றாலை நிறுவனங்களின் பெயரைப் பயன்படுத்தி சில இடைத்தரகர்கள் நில விவகாரங்களில் தலையிடுவதாகப் புகார் எழுந்துள்ளது. விவசாயிகளிடம் ஆதிக்கத்தைச் செலுத்த முயற்சிப்பதோடு மோதலிலும் ஈடுபடுவதாக மக்கள் குற்றம் சாட்டுகின்றனர். இந்தச் சம்பவம் தொடர்பான சிசிடிவி காட்சிகளின் உண்மைத்தன்மையை ஆய்வு செய்ய வேண்டும் எனப் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். தாக்குதலில் ஈடுபட்டவர்கள் யார் மற்றும் மோதலுக்கான காரணம் குறித்து போலீசார் விசாரணை நடத்த வேண்டும். காற்றாலை நிறுவன ஊழியர்கள் மற்றும் இடைத்தரகர்களின் விவரங்களைச் சரிபார்க்க வேண்டும் என்றும் விவசாயிகள் வலியுறுத்தியுள்ளனர். மாவட்ட ஆட்சியர் மற்றும் மாவட்ட காவல் கண்காணிப்பாளர் இந்த விவகாரத்தில் நேரடியாகக் கவனம் செலுத்த வேண்டும் எனக் கேட்டுக்கொள்ளப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚗 அரவக்குறிச்சி அருகே விவசாயியின் கார் மீது தாக்குதல் - காற்றாலை நிறுவன ஊழியர்கள் மீது புகார்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் அரவக்குறிச்சி அருகே காற்றாலை நிறுவன ஊழியர்களுக்கும் அப்பகுதி மக்களுக்கும் இடையே நில விவகாரம் தொடர்பாக மோதல் ஏற்பட்டுள்ளது. இதில் விவசாயி ஒருவரின் கார் தாக்கப்பட்ட வீடியோ தற்போது சமூக வலைதளங்களில் பரவி வருகிறது.\nகாற்றாலை நிறுவனங்களின் பெயரைப் பயன்படுத்தி சில இடைத்தரகர்கள் நில விவகாரங்களில் தலையிடுவதாகவும், விவசாயிகளை மிரட்டுவதாகவும் குற்றச்சாட்டு எழுந்துள்ளது. இந்தச் சம்பவம் தொடர்பான சிசிடிவி காட்சிகளை ஆய்வு செய்து, தாக்குதலில் ஈடுபட்டவர்கள் மீது நடவடிக்கை எடுக்க வேண்டும் எனப் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\nமேலும், மாவட்ட ஆட்சியர் மற்றும் மாவட்ட காவல் கண்காணிப்பாளர் இந்த விவகாரத்தில் தலையிட்டு, காற்றாலை நிறுவனங்களின் செயல்பாடுகளை ஆய்வு செய்ய வேண்டும் என விவசாயிகள் வலியுறுத்தியுள்ளனர்.\n\nAravakurichi farmer car attacked | Karur news\n📍 அரவக்குறிச்சி, கரூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #CrimeNews #KarurNews",
-   "prompts": "A farmer's car is being pelted with stones and sticks by a crowd, the vehicle’s front bumper dented and windshield cracked. The scene unfolds on a dusty rural road just outside Aravakurichi, flanked by low scrub vegetation typical of the Karur countryside. From behind, a group of men in khaki‑style shirts and caps—identified as windmill company staff—stand opposite a larger cluster of local villagers wearing simple shirts and veshti, both groups gesturing angrily while keeping their faces turned away. The only vehicle visible is the farmer’s sedan, its front end showing visible damage and scattered debris on the road. The lighting is bright daylight with a clear sky, suggesting mid‑morning. Shot from eye level with a 35 mm lens, the frame captures the road stretch wide enough to show the confrontation and the damaged car. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows the farmer’s car front bumper, a large dent and shattered glass fragments scattered on the dusty road surface. The damaged metal glints under the harsh midday sun, with a few broken stone pieces and a torn piece of cloth lying beside it, hinting at the assault. No people are in focus; only the vehicle’s wreckage and the surrounding dry ground are visible. The weather is clear and sunny, casting sharp shadows. The camera is positioned slightly high, using a 35 mm lens to fill the frame with the car’s front, emphasizing the damage as the key evidence of the clash. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/video-of-farmer-s-car-being-attacked-in-aravakurichi-goes-viral/4374559",
-   "published": "2026-11-12T21:53:19+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "அரவக்குறிச்சி அருகே மனநலம் பாதித்த 38 வயது பெண் மாயமானார். புகழூர் வட்டம், பவித்திரம் கிராமத்தை சேர்ந்தவர் தேவராஜ். இவரது மனைவி வனிதா, 38 வயது. கடந்த 5 ஆண்டுகளாக மனநலம் பாதிப்பால் அவதிப்பட்டு வந்துள்ளார். கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சிகிச்சை பெற்று வந்துள்ளார். கடந்த 4 நாட்களுக்கு முன்பு இரவு வீட்டில் தூங்கிக் கொண்டிருந்தபோது, திடீரென வீட்டை விட்டு வெளியேறிச் சென்றுள்ளார். பின்னர் அவர் மீண்டும் வீடு திரும்பவில்லை. இதற்கு முன்பும் இதேபோன்று மூன்று முறை வீட்டை விட்டு சென்றுள்ளார். அப்போது தனது தம்பி சரவணனை தொலைபேசியில் தொடர்பு கொண்டு தகவல் தெரிவித்து, பின்னர் வீடு திரும்பியுள்ளார். எனவே, இம்முறையும் அவர் தொலைபேசியில் தொடர்பு கொள்வார் என, குடும்பத்தினர் எதிர்பார்த்து காத்திருந்தனர். ஆனால், எந்த தகவலும் கிடைக்கவில்லை. இதனால் அதிர்ச்சியடைந்த வனிதாவின் தம்பி சரவணன், தனது சகோதரியை கண்டுபிடித்து தருமாறு க.பரமத்தி காவல் நிலையத்தில் புகார் அளித்தார். வனிதாவை பல்வேறு இடங்களில் போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அரவக்குறிச்சி அருகே மனநலம் பாதித்த 38 வயது பெண் மாயம்\n\n📰 முழு விவரம்:\nஅரவக்குறிச்சி அருகே பவித்திரம் கிராமத்தில் மனநலம் பாதித்த 38 வயது பெண் மாயமானார். புகழூர் வட்டம், பவித்திரம் கிராமம், பள்ளமருதபட்டி காலனியை சேர்ந்தவர் தேவராஜ். இவரது மனைவி வனிதா, 38 வயது. கடந்த 5 ஆண்டுகளாக மனநலம் பாதிப்பால் அவதிப்பட்டு வந்துள்ளார். கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சிகிச்சை பெற்று வந்துள்ளார். கடந்த 4 நாட்களுக்கு முன்பு இரவு வீட்டில் தூங்கிக் கொண்டிருந்தபோது, திடீரென வீட்டை விட்டு வெளியேறிச் சென்றுள்ளார். பின்னர் அவர் மீண்டும் வீடு திரும்பவில்லை. இதற்கு முன்பும் இதேபோன்று மூன்று முறை வீட்டை விட்டு சென்றுள்ளார். அப்போது தனது தம்பி சரவணனை தொலைபேசியில் தொடர்பு கொண்டு தகவல் தெரிவித்து, பின்னர் வீடு திரும்பியுள்ளார். எனவே, இம்முறையும் அவர் தொலைபேசியில் தொடர்பு கொள்வார் என, குடும்பத்தினர் எதிர்பார்த்து காத்திருந்தனர். ஆனால், எந்த தகவலும் கிடைக்கவில்லை. இதனால் அதிர்ச்சியடைந்த வனிதாவின் தம்பி சரவணன், தனது சகோதரியை கண்டுபிடித்து தருமாறு க.பரமத்தி காவல் நிலையத்தில் புகார் அளித்தார். வனிதாவை பல்வேறு இடங்களில் போலீசார் தேடி வருகின்றனர்.\n\n📍 இடம்: பவித்திரம் கிராமம், அரவக்குறிச்சி வட்டம்\n🗓️ நாள்: கடந்த 4 நாட்களுக்கு முன்பு\n👮 நடவடிக்கை: க.பரமத்தி காவல் நிலையத்தில் புகார், போலீசார் தேடல்\nℹ️ மக்கள் கவனத்திற்கு: வனிதாவை பார்த்தால் க.பரமத்தி காவல் நிலையத்திற்கு தகவல் தருங்கள்\n\nMissing woman in Pavithram village, Aravakurichi | Karur news\n📍 Pavithram, Aravakurichi | 13 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
+   "prompts": "A group of Tamil Nadu police officers in khaki uniforms searches a narrow lane in a rural village. The officers are seen from behind, walking through a residential area with simple concrete houses and open fields in the background. One officer holds a notebook, while others look into bushes and under vehicles. The location is Pavithram village near K. Paramakurichi, characterized by red soil and scattered banyan trees. A police jeep is parked on the side of the dirt road, its doors open. The atmosphere is tense but orderly, with no crowds, just the focused search team. Daylight illuminates the scene, casting sharp shadows from the trees. The camera is at eye level, 35 mm, capturing the width of the lane and the surrounding village environment to show the scale of the search. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a police officer's hand holding a mobile phone, standing near the gate of a rural house in Pavithram village. The officer is seen from the side, wearing a khaki uniform, with the focus on the phone screen which is blank or showing a call interface (no readable text). In the blurred background, the exterior of a simple village house with a concrete wall and a metal gate is visible. A second officer stands further back, looking towards the fields. The ground is dry red earth with some scattered leaves. The lighting is bright daylight, highlighting the texture of the khaki fabric and the rough concrete of the house. This detail emphasizes the communication aspect of the search, as the family had hoped for a call from the missing woman. The camera is slightly high, 35 mm, focusing on the object of the search effort. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mentally-ill-married-woman-goes-missing/4374851",
+   "published": "2026-11-13T06:45:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 4 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794586608/karur360/rtlmi6dniitujcgudufi.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794586612/karur360/ymae705ambpl5hw2hh2x.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794601157/karur360/ilv0ju0iypa9wovccwis.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794601161/karur360/yr6uhlcdkhbucibpr72s.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூர் மாவட்டத்தில் 8,56,198 வாக்காளர்கள்",
-   "english_headline": "Karur district has 8,56,198 voters in the draft electoral roll",
+   "tamil_headline": "கரூர் புதிய டி.ஆர்.ஓ. பொறுப்பேற்பு",
+   "english_headline": "Thangavel takes charge as new TRO of Karur district",
    "category": "Government & Services",
-   "location": "Karur, Aravakurichi, Krishnarayapuram and Kulithalai constituencies, Karur district",
-   "importance": "High",
+   "location": "Karur district collectorate, Karur district",
+   "importance": "Medium",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வாக்காளர் பட்டியல்",
-    "loc": "கரூர் மாவட்டம்",
-    "hl1": "கரூர் மாவட்டத்தில் 8,56,198 வாக்காளர்கள்",
-    "hl2": "இறுதிப் பட்டியல் ஜன. 4",
+    "cat": "அரசு நியமனம்",
+    "loc": "கரூர் கலெக்டர் அலுவலகம்",
+    "hl1": "கரூர் புதிய டி.ஆர்.ஓ. பொறுப்பேற்பு",
+    "hl2": "தங்கவேல் பொறுப்பேற்றார்",
     "slides": [
      {
-      "title": "வரைவு பட்டியல்",
+      "title": "புதிய டி.ஆர்.ஓ.",
       "lines": [
-       "கரூரில் வியாழக்கிழமை வரைவு வாக்காளர் பட்டியல் வெளியீடு",
-       "மாவட்டத்தில் மொத்தம் <b>8,56,198</b> வாக்காளர்கள்",
-       "4 சட்டப்பேரவைத் தொகுதிகளிலும் பட்டியல் வெளியீடு"
+       "கரூர் மாவட்ட புதிய டி.ஆர்.ஓ.-வாக தங்கவேல் நியமிக்கப்பட்டார்",
+       "இவர் முன்பு சென்னையில் டி.ஆர்.ஓ.-வாக பணியாற்றினார்",
+       "நேற்று முன்தினம் கரூர் கலெக்டர் அலுவலகத்தில் பொறுப்பேற்றார்"
       ]
      },
      {
-      "title": "தொகுதி வாரி",
+      "title": "ஏன் மாற்றம்?",
       "lines": [
-       "அரவக்குறிச்சி: <b>1,96,086</b> வாக்காளர்கள்",
-       "கரூர்: <b>2,31,636</b> வாக்காளர்கள்",
-       "கிருஷ்ணராயபுரம் (தனி): <b>2,04,103</b> வாக்காளர்கள்"
+       "கரூர் டி.ஆர்.ஓ. விமல்ராஜ் நிர்வாக காரணங்களுக்காக சென்னைக்கு",
+       "அவருக்குப் பதிலாக தங்கவேல் நியமிக்கப்பட்டார்"
       ]
      },
      {
-      "title": "சிறப்பு முகாம்கள்",
+      "title": "வாழ்த்து",
       "lines": [
-       "அக். 21, 22, 29 தேதிகளில் சிறப்பு முகாம்கள்",
-       "பெயர் சேர்க்க, நீக்க விண்ணப்பிக்கலாம்",
-       "இறுதி வாக்காளர் பட்டியல் ஜன. 4 வெளியீடு"
-      ]
-     },
-     {
-      "title": "உதவி எண்",
-      "lines": [
-       "படிவம்-8 மூலம் திருத்தம், இடமாற்றம் செய்யலாம்",
-       "உதவிக்கு கட்டணமில்லா எண் <b>1950</b>",
-       "மாவட்ட ஆட்சியர் அலுவலக தேர்தல் பிரிவில் சேவை மையம்"
+       "பல்வேறு துறை உயர் அதிகாரிகள் நேரில் சந்தித்து வாழ்த்தினர்",
+       "அலுவலர்கள், பணியாளர்களும் வாழ்த்து தெரிவித்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் மாவட்டத்தில் மொத்தம் 8,56,198 வாக்காளர்கள் உள்ளனர். கரூரில் வியாழக்கிழமை வெளியிடப்பட்ட வரைவு வாக்காளர் பட்டியலின்படி இந்த எண்ணிக்கை தெரிவிக்கப்பட்டுள்ளது. மாவட்ட ஆட்சியர் ச. பிரசன்னா ராமசாமி வரைவு பட்டியலை வெளியிட்டார். இந்தப் பட்டியல் 2027 ஜனவரி 1ஆம் தேதியைத் தகுதி நாளாகக் கொண்டு தயாரிக்கப்பட்டுள்ளது. அரவக்குறிச்சி தொகுதியில் 1,96,086 வாக்காளர்களும், கரூர் தொகுதியில் 2,31,636 வாக்காளர்களும் உள்ளனர். கிருஷ்ணராயபுரம் தனி தொகுதியில் 2,04,103 வாக்காளர்களும், குளித்தலை தொகுதியில் 2,24,373 வாக்காளர்களும் உள்ளனர். மாவட்டத்தில் 1,115 வாக்குச்சாவடி மையங்களும், 654 வாக்குச்சாவடி அமைவிடங்களும் உள்ளன. பெயர் சேர்க்க, நீக்க உள்ளிட்ட பணிகளுக்காக அக்டோபர் 21, 22 மற்றும் 29ஆம் தேதிகளில் சிறப்பு முகாம்கள் நடைபெறும். பெயர் திருத்தம், இடமாற்றம் செய்ய படிவம்-8 மூலம் விண்ணப்பிக்க வேண்டும். உதவிக்கு கட்டணமில்லா எண் 1950ஐத் தொடர்பு கொள்ளலாம். இறுதி வாக்காளர் பட்டியல் 2027 ஜனவரி 4ஆம் தேதி வெளியிடப்படும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ கரூர் மாவட்டத்தில் 8,56,198 வாக்காளர்கள் – வரைவு பட்டியல் வெளியீடு\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட ஆட்சியர் ச. பிரசன்னா ராமசாமி, அங்கீகரிக்கப்பட்ட அரசியல் கட்சியினர் முன்னிலையில் வரைவு வாக்காளர் பட்டியலை வெளியிட்டார். 2027 ஜனவரி 1ஆம் தேதியைத் தகுதி நாளாகக் கொண்டு புகைப்படத்துடன் கூடிய சிறப்பு சுருக்கமுறைத் திருத்தம் நடைபெறுகிறது.\n👥 அரவக்குறிச்சி 1,96,086 | கரூர் 2,31,636 | கிருஷ்ணராயபுரம் (தனி) 2,04,103 | குளித்தலை 2,24,373 – மொத்தம் 8,56,198 வாக்காளர்கள்\n🏫 1,115 வாக்குச்சாவடி மையங்கள், 654 வாக்குச்சாவடி அமைவிடங்கள்\n📝 அக். 21, 22, 29 தேதிகளில் சிறப்பு முகாம்கள்; பெயர் சேர்க்க, நீக்கக் கோரலாம்.\n✅ இறுதி வாக்காளர் பட்டியல் 2027 ஜனவரி 4ஆம் தேதி வெளியாகும்.\nℹ️ பெயர் திருத்தம், இடமாற்றம், மாற்று அடையாள அட்டை, மாற்றுத்திறனாளி குறியீட்டுக்கு படிவம்-8ல் விண்ணப்பியுங்கள்.\n📞 தொடர்புக்கு: கட்டணமில்லா எண் 1950 (மாவட்ட ஆட்சியர் அலுவலக தேர்தல் பிரிவு)\n\nKaur district 8,56,198 voters draft roll | Karur news\n📍 கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "Inside the Karur district collectorate office hall in Karur city, a senior district election officer in a formal shirt stands at a long wooden table, holding up a bound printed draft electoral roll while officials sit beside him in government office attire. Several political party representatives in shirts and veshti or trousers sit in rows of plastic chairs seen from behind, and constituency electoral registration officers stand near a backdrop of government office wall and tubelight fixtures. Stacks of printed voter lists, files and forms lie on the table, and a small microphone is placed in front. It is daytime with soft tubelight and daylight from tall windows, and the camera is at eye level with a 35 mm wide lens showing the whole hall and the table with the roll. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/856-lakh-voters-in-karur-district",
-   "published": "2026-11-12T21:02:47.301Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 8; slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "கரூர் மாவட்டத்தின் புதிய மாவட்ட வருவாய் அலுவலர்-வாக தங்கவேல் பொறுப்பேற்றுள்ளார். நேற்று முன்தினம் அவர் கரூர் கலெக்டர் அலுவலகம் சென்று பொறுப்பேற்றுக் கொண்டார். இதுவரை கரூர் மாவட்ட வருவாய் அலுவலர்-வாக பணியாற்றிய விமல்ராஜ், நிர்வாக காரணங்களுக்காக அண்மையில் சென்னைக்கு பணியிட மாற்றம் செய்யப்பட்டார். அவருக்குப் பதிலாக சென்னையில் மாவட்ட வருவாய் அலுவலர்-வாக பணியாற்றி வந்த தங்கவேல் இந்தப் பொறுப்புக்கு நியமிக்கப்பட்டார். புதிதாக பொறுப்பேற்ற தங்கவேலுக்கு பல்வேறு துறை உயர் அதிகாரிகள் நேரில் சந்தித்து வாழ்த்து தெரிவித்தனர். அலுவலர்கள் மற்றும் பணியாளர்களும் வாழ்த்து தெரிவித்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ கரூர் மாவட்டத்தின் புதிய டி.ஆர்.ஓ. பொறுப்பேற்பு\n\n📰 முழு விவரம்:\nகரூர் டி.ஆர்.ஓ.-வாக பணியாற்றி வந்த விமல்ராஜ், நிர்வாக காரணங்களுக்காக அண்மையில் சென்னைக்கு பணியிட மாற்றம் செய்யப்பட்டார். அவருக்குப் பதிலாக, சென்னையில் டி.ஆர்.ஓ.-வாக பணியாற்றி வந்த தங்கவேல் கரூர் மாவட்டத்தின் புதிய டி.ஆர்.ஓ.-வாக நியமிக்கப்பட்டார். நேற்று முன்தினம் அவர் கரூர் கலெக்டர் அலுவலகம் சென்று பொறுப்பேற்றுக் கொண்டார். பல்வேறு துறை உயர் அதிகாரிகள், அலுவலர்கள் மற்றும் பணியாளர்கள் நேரில் சந்தித்து அவருக்கு வாழ்த்து தெரிவித்தனர்.\n📍 இடம்: கரூர் கலெக்டர் அலுவலகம், கரூர் மாவட்டம்\n\nKarur new TRO takes charge | Karur news\n📍 கரூர் கலெக்டர் அலுவலகம், கரூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A group of government officials and office staff in formal shirts and sarees stand in a line inside the Karur district collectorate, greeting a newly appointed District Revenue Officer as he arrives to take charge. The setting is a government office corridor in Karur city, with tiled floors, plain cream painted walls, wooden doors and rows of metal-framed office chairs and desks visible in the background. Several staff members are shaking hands and offering greetings, some holding files under their arms, while the new officer stands at the centre in a formal shirt and trousers. Daylight comes through tall windows, giving a bright, orderly official atmosphere. The camera is at eye level, shot at 35 mm from slightly behind the group so faces are not clearly identifiable, wide enough to show the corridor and the collectorate interior. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an official desk inside the Karur district collectorate office where the new District Revenue Officer has taken charge, showing a neatly stacked pile of government files tied with cloth tape, a black office telephone, and an open register book with handwritten Tamil entries. A wooden desk surface with a glass top reflects soft daylight from a nearby window. Behind the desk, a blurred wall with a framed portrait area and a steel almirah of brown files suggests a formal government chamber. No readable text or names are visible on the pages. The camera is at slightly high angle, 35 mm, focused on the files and register with the background softly out of focus, conveying the handover of official responsibility in Karur district. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4374849",
+   "published": "2026-11-13T06:44:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794586709/karur360/k8cpux3rpyor0dobmxbb.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794601183/karur360/g6udxtray9ic8j6v1rar.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794601213/karur360/whspmri9gkqkwzpehxni.jpg"
    ]
   }
  ]
