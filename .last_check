@@ -1,9 +1,11 @@
-17:51:55 story catch-up karur: quota 14/50, 8 recent posts, 6 live stories, owner ids ['17841444626877594', '29966472656372622']
-17:52:07 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081248840487563 ERROR) - tried again next run
-17:52:07 1 stories in the queue, ready to post: 1
-17:52:07   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-17:52:07    RN-8 review= 'Auto' images= 195 spec= 615 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
-17:52:09 publishing quota karur: 14/50
-17:52:10 instagram duplicate check karur: 8 recent posts read
-17:52:10    RN-8 waits for posting start (18:00 IST)
-17:52:10 prebuilding ahead of the set start: ['RN-8']
+17:58:21 story catch-up karur: quota 14/50, 8 recent posts, 6 live stories, owner ids ['17841444626877594', '29966472656372622']
+17:58:54 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081250457487563 ERROR) - tried again next run
+17:58:54 2 stories in the queue, ready to post: 2
+17:58:54   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+17:58:54    RN-8 review= 'Auto' images= 195 spec= 615 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
+17:58:54    RN-9 review= 'Auto' images= 195 spec= 694 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
+17:58:55 publishing quota karur: 14/50
+17:58:57 instagram duplicate check karur: 8 recent posts read
+17:58:57    RN-9 waits for posting start (18:00 IST)
+17:58:57    RN-8 waits for posting start (18:00 IST)
+17:58:57 prebuilding ahead of the set start: ['RN-9']
