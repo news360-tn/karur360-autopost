@@ -1,12 +1,10 @@
-00:17:06 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
+00:32:12 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
 ::warning title=Held from posting RN-12::held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
-00:17:09 story catch-up karur: quota 24/50, 14 recent posts, 10 live stories, owner ids ['17841444626877594', '29966472656372622']
-00:17:23 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081356318487563 ERROR) - tried again next run
-00:18:55 story catch-up karur: story 17946159492142800 for the post of 13 Nov 18:16 UTC (VIDEO)
-00:18:55 2 stories in the queue, ready to post: 1
-00:18:55   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-00:18:55    RN-11 review= 'Auto' images= 195 spec= 619 pages= ['karur'] links= '' '' age_h= 4.0 ready= True set_started= True
-00:18:55    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 4.0 ready= False set_started= True
-00:18:57 publishing quota karur: 24/50
-00:18:59 instagram duplicate check karur: 14 recent posts read
-00:18:59    RN-11 waits for the 12-minute gap after the last post on ['karur']
+00:32:16 story catch-up karur: quota 25/50, 14 recent posts, 11 live stories, owner ids ['17841444626877594', '29966472656372622']
+00:32:49 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081359582487563 ERROR) - tried again next run
+00:32:49 2 stories in the queue, ready to post: 1
+00:32:49   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+00:32:49    RN-11 review= 'Auto' images= 195 spec= 619 pages= ['karur'] links= '' '' age_h= 4.2 ready= True set_started= True
+00:32:49    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 4.2 ready= False set_started= True
+00:32:52 publishing quota karur: 25/50
+00:32:54 instagram duplicate check karur: 14 recent posts read
