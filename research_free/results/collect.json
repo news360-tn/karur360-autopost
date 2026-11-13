@@ -1,242 +1,275 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 8 recent posts read from the page",
+  "instagram check: 11 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/free-blood-test-camp-at-maravapalayam/4374858",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/organs-donated-by-a-person-declared-brain-dead-following-an-accident-body-cremated-with-state-honors",
-  "manual link added: https://www.dinamalar.com/news/business-general-news/textile-vocational-training-commences-in-december-at-karur-madurai/4374677",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/naga-chaturthi-worship-at-pambalamman-temple/4374853",
+  "manual link added: https://www.dinakaran.com/news/%E0%AE%95%E0%AE%B0%E0%AF%82%E0%AE%B0%E0%AF%8D-%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81-%E0%AE%89",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/போக்ஸோ-சட்டத்தில்-கைதானதொழிலாளிக்கு-5-ஆண்டுகள்-சிறை",
   "candidate filter: collected=3",
   "to write: 3 Karur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/business-general-news/textile",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "try (N) manual=True: https://www.dinakaran.com/news/%E0%AE%95%E0%AE%B0%E0%AF%82%E",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "NOT filed (N) விபத்தில் மூளைச்சாவு அடைந்தவரின் உறுப்புகள் தானம்:: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
-  "filed: 2 Karur district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
+  "filed: 3 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "ok gemini/gemini-3-flash-preview (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "ok gemini/gemini-3-flash-preview (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (37s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (26s)",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூரில் வேலைவாய்ப்புடன் கூடிய இலவச ஜவுளித் தொழில் பயிற்சி: டிசம்பரில் தொடக்கம்",
-   "english_headline": "Free textile industry training with job placement starts in Karur and Madurai this December",
-   "category": "Education",
-   "location": "Karur and Madurai, Karur district",
+   "tamil_headline": "கிருஷ்ணராயபுரம் லட்சுமணம்பட்டியில் பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி வழிபாடு",
+   "english_headline": "Naga Chaturthi worship at Pambalamman temple in Lakshmanampatti, Krishnarayapuram",
+   "category": "Temples & Events",
+   "location": "Lakshmanampatti, Krishnarayapuram taluk, Karur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கோவில் நிகழ்வு",
+    "loc": "லட்சுமணம்பட்டி, கிருஷ்ணராயபுரம்",
+    "hl1": "லட்சுமணம்பட்டியில் நாக சதுர்த்தி வழிபாடு",
+    "hl2": "பாம்பாலம்மன் கோவிலில்",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "கிருஷ்ணராயபுரம் அடுத்த லட்சுமணம்பட்டி",
+       "பாம்பாலம்மன் கோவில் வளாகத்தில் நடந்தது",
+       "நாக சதுர்த்தி நிகழ்ச்சியை முன்னிட்டு"
+      ]
+     },
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பாம்பாலம்மன் சுவாமிக்கு சிறப்பு வழிபாடு",
+       "பூஜை நடந்தது",
+       "பக்தர்கள் நேர்த்திக்கடன் செலுத்தினர்"
+      ]
+     },
+     {
+      "title": "பக்தர்கள் வழிபாடு",
+      "lines": [
+       "கோவில் வளாகத்தில் பொங்கல் வைத்து வழிபாடு",
+       "சேவல், கோழி அறுத்து வழிபட்டனர்",
+       "லட்சுமணம்பட்டி, பழையஜெயங்கொண்டம் பக்தர்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கிருஷ்ணராயபுரம் அடுத்த லட்சுமணம்பட்டியில் பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி சிறப்பு வழிபாடு நடைபெற்றது. நாக சதுர்த்தி நிகழ்ச்சியை முன்னிட்டு பாம்பாலம்மன் சுவாமிக்கு சிறப்பு வழிபாடு மற்றும் பூஜை நடந்தது. நேர்த்திக்கடன் செலுத்தும் பக்தர்கள் கோவில் வளாகத்தில் பொங்கல் வைத்து, சேவல், கோழி அறுத்து வழிபட்டனர். லட்சுமணம்பட்டி, பழையஜெயங்கொண்டம் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் இருந்து பக்தர்கள் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🙏 கிருஷ்ணராயபுரம் லட்சுமணம்பட்டியில் பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி சிறப்பு வழிபாடு\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த லட்சுமணம்பட்டியில் உள்ள பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி நிகழ்ச்சியை முன்னிட்டு சிறப்பு வழிபாடு நடைபெற்றது.\nபாம்பாலம்மன் சுவாமிக்கு சிறப்பு வழிபாடு செய்து பூஜை நடத்தப்பட்டது.\nநேர்த்திக்கடன் செலுத்தும் பக்தர்கள் கோவில் வளாகத்தில் பொங்கல் வைத்து, சேவல், கோழி அறுத்து வழிபட்டனர்.\nலட்சுமணம்பட்டி, பழையஜெயங்கொண்டம் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் இருந்து பக்தர்கள் கலந்துகொண்டனர்.\n\nNaga Chaturthi worship Pambalamman temple Lakshmanampatti | Karur news\n📍 லட்சுமணம்பட்டி, கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
+   "prompts": "Devotees gather in the open courtyard of the Pambalamman temple in Lakshmanampatti village, Krishnarayapuram, on Naga Chaturthi morning. Groups of men in white veshti and shirts and women in cotton sarees stand near a simple village-style temple with a small shrine and a painted gopuram-style entrance. In the foreground, several clay pots of pongal are boiling over firewood hearths on the temple grounds, with steam rising into the air. A few devotees carry brass plates of flowers, turmeric and coconuts. Some people are seen from behind, and others stand at a distance near the shrine. The scene is in bright daylight with a clear sky. Shot at eye level, 35 mm lens, wide enough to show the temple and the crowd of devotees. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the offering area at the Pambalamman temple in Lakshmanampatti, Krishnarayapuram. Clay pots of pongal are placed over a small fire of dried coconut fronds and firewood on the temple ground, with brass vessels, turmeric, kumkum and betel leaves arranged on a banana leaf beside them. A devotee's hands, seen from behind, hold a plate of flowers and a few small sprigs of neem near the pot. In the blurred background, a few villagers in veshti and sarees stand near the temple wall. Daylight, soft natural light. Shot at slightly high angle, 50 mm lens, shallow depth of field to focus on the pongal pots and offerings. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/naga-chaturthi-worship-at-pambalamman-temple/4374853",
+   "published": "2026-11-13T06:45:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 47 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581366/karur360/smlvfgl57d0wlzbuzwe0.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581384/karur360/djwlc0gmu6excdklrim9.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "போக்ஸோ வழக்கில் வெங்கமேடு தொழிலாளிக்கு 5 ஆண்டு சிறை",
+   "english_headline": "Venkamedu labourer gets 5 years in jail under POCSO for abusing 10-year-old girl",
+   "category": "Crime & Safety",
+   "location": "Venkamedu, Karur district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நீதிமன்றத் தீர்ப்பு",
+    "loc": "வெங்கமேடு, கரூர்",
+    "hl1": "போக்ஸோ வழக்கில் 5 ஆண்டு சிறை",
+    "hl2": "கரூர் மகளிர் விரைவு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கரூர் வெங்கமேடு அருகம்பாளையத்தில் நடந்த சம்பவம்",
+       "மார்ச் மாதம் வீட்டின் அருகே விளையாடிய <b>10 வயது</b>",
+       "தொழிலாளி வேலுச்சாமி (<b>56</b>) மீது குற்றச்சாட்டு"
+      ]
+     },
+     {
+      "title": "புகாரும் கைதும்",
+      "lines": [
+       "சிறுமியின் பெற்றோர் புகார் அளித்தனர்",
+       "கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் போக்ஸோ சட்டத்தில்",
+       "வேலுச்சாமி கைது செய்யப்பட்டார்"
+      ]
+     },
+     {
+      "title": "தீர்ப்பு",
+      "lines": [
+       "வியாழக்கிழமை கரூர் மகளிர் விரைவு நீதிமன்றம் தீர்ப்பளித்தது",
+       "நீதிபதி தங்கவேல் குற்றவாளிக்கு <b>5 ஆண்டு</b> சிறைத்தண்டனை",
+       "போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் வெங்கமேடு அருகம்பாளையத்தைச் சேர்ந்த தொழிலாளிக்கு 5 ஆண்டு சிறைத் தண்டனை விதிக்கப்பட்டுள்ளது. தொழிலாளி வேலுச்சாமிக்கு 56 வயது. இவர் கடந்த மார்ச் மாதம் வீட்டின் அருகே விளையாடிக்கொண்டிருந்த அதே பகுதியைச் சேர்ந்த 10 வயது சிறுமிக்கு பாலியல் தொந்தரவு கொடுத்ததாகப் புகார் எழுந்தது. சிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் வேலுச்சாமி மீது போக்ஸோ சட்டத்தின் கீழ் வழக்குப் பதிவு செய்து அவரைக் கைது செய்தனர். பின்னர் வழக்கு கரூர் மகளிர் விரைவு நீதிமன்றத்தில் நடைபெற்றது. வியாழக்கிழமை வழக்கை விசாரித்த நீதிபதி தங்கவேல், குற்றவாளி வேலுச்சாமிக்கு 5 ஆண்டு சிறைத்தண்டனை விதித்து உத்தரவிட்டார். இதையடுத்து வேலுச்சாமியைப் போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில் அடைத்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ வெங்கமேடு தொழிலாளிக்கு போக்ஸோ வழக்கில் 5 ஆண்டு சிறை\n\n📰 முழு விவரம்:\nகரூர் வெங்கமேடு அருகம்பாளையத்தைச் சேர்ந்த தொழிலாளி வேலுச்சாமி (56 வயது), கடந்த மார்ச் மாதம் வீட்டின் அருகே விளையாடிக்கொண்டிருந்த அதே பகுதியைச் சேர்ந்த 10 வயது சிறுமிக்கு பாலியல் தொந்தரவு கொடுத்ததாகப் புகார் எழுந்தது.\nசிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில், கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் போக்ஸோ சட்டத்தின் கீழ் வழக்குப் பதிவு செய்து அவரைக் கைது செய்து, கரூர் மகளிர் விரைவு நீதிமன்றத்தில் வழக்குத் தொடர்ந்தனர்.\nவியாழக்கிழமை வழக்கை விசாரித்த நீதிபதி தங்கவேல், குற்றவாளி வேலுச்சாமிக்கு 5 ஆண்டு சிறைத்தண்டனை விதித்து உத்தரவிட்டார்.\nதண்டனைக்குப் பின் வேலுச்சாமியை போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில் அடைத்தனர்.\n\nKarur POCSO case, 5 years jail | Karur news\n📍 வெங்கமேடு, கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A Tamil Nadu police constable in khaki escorts a 56-year-old labourer in a white shirt and veshti out of the Karur women's fast-track court after sentencing, with a police jeep waiting at the gate. The place is the courthouse compound in Karur town, with a plain concrete verandah, tiled roof, red-brick pillars and a low wall along the road. Two policewomen in khaki walk behind, and a few onlookers stand seen from behind near a tamarind tree. The convict received 5 years' imprisonment under the POCSO Act and is being taken to a prison van under security. Bright daytime, clear sky. Shot at eye level on a 35 mm lens, wide enough to show the courthouse entrance and the police jeep, faces turned away or blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/போக்ஸோ-சட்டத்தில்-கைதானதொழிலாளிக்கு-5-ஆண்டுகள்-சிறை",
+   "published": "2026-11-12T21:06:49.829Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established fact is a minor wording shift, but the reel_script also states the accused was 'தொழிலாளி' and the case was 'விரைவு நீதிமன்றத்தில் நடைபெற்றது' which is acceptable; however, the slides_spec line 'தொழிலாளி வேலுச்சாமி (56) மீது குற்றச்சாட்டு' and the caption's 'பாலியல் தொந்தரவு கொடுத்ததாகப் புகார் எழுந்தது' are acceptable paraphrases of the article's 'கொடுத்தாராம்'; fact-check: caption states the accused 'அவரைக் கைது செய்து, கரூர் மகளிர் விரைவு நீதிமன்றத்தில் வழக்குத் தொடர்ந்தனர்' — the sentence is grammatically broken in Tamil: 'கைது செய்து' is attached to 'வழக்குப் பதிவு செய்து' and the subject-object relation is unclear, making the sentence hard to parse; fact-check: slides_spec slide 2 line 'கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் போக்ஸோ சட்டத்தில்' is an incomplete sentence (missing the verb 'வழக்குப் பதிந்து'), so the line has no clear meaning on its own; fact-check: slides_spec slide 3 line 'போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில்' is an incomplete sentence (missing the verb 'அடைத்தனர்'), so the line has no clear meaning on its own",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 4 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581393/karur360/oev6fbudratvjqv7jnkw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூரில் வீட்டு ஜவுளி சிறப்பு மையம்: சாத்தியக்கூறு ஆய்வுக்கு ரூ.25 லட்சம் ஒதுக்கீடு",
+   "english_headline": "Karur to get study for HomeTech Textiles centre; Rs 25 lakh sanctioned for feasibility study",
+   "category": "Business & Prices",
+   "location": "Karur district, Tamil Nadu",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்வி",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் இலவச ஜவுளித் தொழில் பயிற்சி",
-    "hl2": "வேலைவாய்ப்புடன் கூடிய",
+    "cat": "தொழில் அறிவிப்பு",
+    "loc": "கரூர் மாவட்டம்",
+    "hl1": "கரூரில் ஜவுளி சிறப்பு மையம் அமைய ஆய்வு",
+    "hl2": "ரூ.25 லட்சம் ஒதுக்கீடு",
     "slides": [
      {
-      "title": "இலவசப் பயிற்சி",
+      "title": "என்ன அறிவிப்பு?",
       "lines": [
-       "<b>டெக்ஸ்டைல்ஸ் மெர்சன்டைசர்</b> இலவசப் பயிற்சி",
-       "டிசம்பர் முதல் வாரத்தில் தொடங்குகிறது",
-       "கரூர் மற்றும் மதுரையில் வகுப்புகள் நடக்கும்"
+       "கரூர் பகுதியில் வீட்டு உபயோக ஜவுளிகளுக்கான சிறப்பு மையம்",
+       "இந்த ஆய்வுக்கு <b>ரூ.25 லட்சம்</b> நிதி ஒதுக்கீடு",
+       "அரசு ஆணை பிறப்பிக்கப்பட்டுள்ளது"
       ]
      },
      {
-      "title": "முக்கிய விவரங்கள்",
+      "title": "யார் அறிவித்தது?",
       "lines": [
-       "இது <b>9-வது கட்ட</b> பயிற்சி வகுப்பு",
-       "ஏற்கனவே 8 கட்டப் பயிற்சிகள் முடிந்துள்ளன",
-       "பயிற்சி பெற்ற அனைவருக்கும் வேலை கிடைத்துள்ளது"
+       "கைத்தறி, துணிநூல் மற்றும் கதர்த்துறை அமைச்சர் ம.விஜய் பாலாஜி",
+       "சட்டமன்றத்தில் 2026-27ஆம் ஆண்டு மானியக் கோரிக்கையில்",
+       "விரிவான திட்ட அறிக்கை தயாரிக்கப்படும்"
       ]
      },
      {
-      "title": "தொடர்புக்கு",
+      "title": "ஆய்வில் என்ன?",
       "lines": [
-       "9489736687, 8838719983",
-       "9600430923 ஆகிய எண்களை அழைக்கலாம்",
-       "ஜவுளி உற்பத்தியாளர் சங்கம் அறிவிப்பு"
+       "மையத்தின் உட்கட்டமைப்பு ஆய்வு செய்யப்படும்",
+       "தொழில் நிறுவனங்களின் தேவை, செயல்பாட்டு மாதிரி ஆய்வு",
+       "நிதிச் சாத்தியக்கூறும் ஆய்வு செய்யப்படும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் வேலைவாய்ப்புடன் கூடிய இலவச ஜவுளித் தொழில் பயிற்சி டிசம்பர் மாதம் தொடங்குகிறது. கரூர் மற்றும் மதுரையில் டெக்ஸ்டைல்ஸ் மெர்சன்டைசர் என்ற குறுகிய கால இலவச பயிற்சி வகுப்பு நடத்தப்பட உள்ளது. கரூர் ஜவுளி உற்பத்தியாளர் மற்றும் ஏற்றுமதியாளர் சங்கம் இந்த அறிவிப்பை வெளியிட்டுள்ளது. ஏற்கனவே 8 கட்டங்களாக இந்த வகுப்புகள் நடத்தப்பட்டு, பயிற்சி பெற்ற அனைவரும் பணியில் அமர்த்தப்பட்டுள்ளனர். இதன் தொடர்ச்சியாக 9-வது கட்ட பயிற்சி வகுப்பு டிசம்பர் மாதம் முதல் வாரத்தில் தொடங்குகிறது. ஜவுளித் துறையில் வேலை தேட விரும்புபவர்கள் இந்த வாய்ப்பைப் பயன்படுத்திக் கொள்ளலாம். கூடுதல் விவரங்களைப் பெற 9489736687, 8838719983 மற்றும் 9600430923 ஆகிய எண்களில் தொடர்பு கொள்ளலாம் என்று தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 கரூரில் இலவச ஜவுளித் தொழில் பயிற்சி - டிசம்பரில் தொடக்கம்!\n\n📰 முழு விவரம்:\nகரூர் மற்றும் மதுரையில் வேலைவாய்ப்புடன் கூடிய இலவச ஜவுளித் தொழில் பயிற்சி (Textile Merchandiser) டிசம்பர் முதல் வாரத்தில் தொடங்குகிறது. கரூர் ஜவுளி உற்பத்தியாளர் மற்றும் ஏற்றுமதியாளர் சங்கம் இந்த 9-வது கட்டப் பயிற்சி வகுப்பை நடத்துகிறது. ஏற்கனவே 8 கட்டங்களாகப் பயிற்சி பெற்ற அனைவரும் பல்வேறு நிறுவனங்களில் பணியில் அமர்த்தப்பட்டுள்ளனர்.\n\n📍 இடம்: கரூர் மற்றும் மதுரை\n🗓️ நாள்: டிசம்பர் முதல் வாரம்\n📞 தொடர்புக்கு: 9489736687, 8838719983, 9600430923\nℹ️ மக்கள் கவனத்திற்கு: ஜவுளித் துறையில் பணியாற்ற ஆர்வமுள்ளவர்கள் இந்த இலவசப் பயிற்சியைப் பயன்படுத்திக் கொள்ளலாம்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nFree textile merchandiser training in Karur and Madurai | Karur job news\n📍 Karur | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Education #KarurNews #கரூர்",
-   "prompts": "A group of young trainees sit in neat rows in a bright classroom-style training hall in Karur, taking notes while an instructor stands at the front near a whiteboard, as part of a free textile merchandiser course that leads to job placement. The hall is in a textile export area of Karur city, with rolls of home-textile fabric and folded bed-linen samples stacked along one wall and a wooden table at the front. The trainees, a mix of young women in cotton salwar kameez and sarees and young men in shirts and trousers, are seen from behind or from the side at a distance, their notebooks open on the desks. It is daytime, with soft natural light coming through tall windows and ceiling fans turning overhead. The camera is at eye level, 35 mm, wide enough to show the whole hall and the instructor. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a neatly arranged table in a textile training office in Karur: a stack of printed notice sheets and a pen rest on a wooden desk beside a folded bed-linen sample and a roll of cotton fabric in soft tones. Behind the table, out of focus, a few trainees sit in a row, seen only from behind. The light is daytime and indirect from a window, and the scene conveys an organised training programme with job placement. The camera is slightly high, 35 mm, focused on the desk and fabric samples with the room softly blurred behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/business-general-news/textile-vocational-training-commences-in-december-at-karur-madurai/4374677",
-   "published": "2026-11-12T23:12:26+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
+   "reel_script": "கரூரில் வீட்டு உபயோக ஜவுளிகளுக்கான சிறப்பு மையம் அமைவதற்கான சாத்தியக்கூறுகளை ஆய்வு செய்ய ரூ.25 லட்சம் நிதி ஒதுக்கப்பட்டுள்ளது. இதற்கான அரசு ஆணை பிறப்பிக்கப்பட்டுள்ளது. கைத்தறி, துணிநூல் மற்றும் கதர்த்துறை அமைச்சர் ம.விஜய் பாலாஜி சட்டமன்றத்தில் இந்த அறிவிப்பை வெளியிட்டார். 2026-27ஆம் ஆண்டிற்கான கைத்தறி மற்றும் துணிநூல் துறை மானியக் கோரிக்கையில் இந்த அறிவிப்பு இடம்பெற்றது. இந்த ஆய்வின் மூலம் மையத்தின் உட்கட்டமைப்பு ஆய்வு செய்யப்படும். தொழில் நிறுவனங்களின் தேவை மற்றும் செயல்பாட்டு மாதிரியும் ஆய்வு செய்யப்படும். நிதிச் சாத்தியக்கூறும் ஆய்வு செய்யப்படும். ஆய்வுக்குப் பின் விரிவான திட்ட அறிக்கை தயாரிக்கப்படும். இதன் மூலம் கரூர் பகுதியில் வலுவான வீட்டு உபயோக ஜவுளித் தொழில் கட்டமைப்பு உருவாகும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🧵 கரூரில் வீட்டு ஜவுளி சிறப்பு மையம்: சாத்தியக்கூறு ஆய்வுக்கு ரூ.25 லட்சம் ஒதுக்கீடு\n\n📰 முழு விவரம்:\nகரூர் பகுதியில் வீட்டு உபயோக ஜவுளிகளுக்கான சிறப்பு மையம் (Centre of Excellence for HomeTech Textiles) அமைப்பதற்கான சாத்தியக்கூறுகளை ஆய்வு செய்ய ரூ.25 லட்சம் நிதி ஒதுக்கி அரசு ஆணையிட்டுள்ளது.\nகைத்தறி, துணிநூல் மற்றும் கதர்த்துறை அமைச்சர் ம.விஜய் பாலாஜி சட்டமன்றத்தில் 2026-27ஆம் ஆண்டிற்கான மானியக் கோரிக்கையில் இந்த அறிவிப்பை வெளியிட்டார்.\nஆய்வில் மையத்தின் உட்கட்டமைப்பு, தொழில் நிறுவனங்களின் தேவை, செயல்பாட்டு மாதிரி, நிதிச் சாத்தியக்கூறு ஆகியன ஆய்வு செய்யப்படும்.\nஆய்வுக்குப் பின் விரிவான திட்ட அறிக்கை தயாரிக்கப்படும். இதன் மூலம் கரூரில் வலுவான வீட்டு உபயோக ஜவுளித் தொழில் கட்டமைப்பு ஏற்படும்.\n\nKarur HomeTech textiles centre feasibility study Rs 25 lakh | Karur news\n📍 கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A row of power looms and textile workers in a home-textile export unit in Karur city, where a group of workers in shirts and sarees stands near stacked rolls of bed linen and towels, with a few weavers at their machines. Behind them, a government officer in a formal shirt reviews papers on a table with a rolled-up blueprint, signalling a planning meeting for a new textile centre. The hall has high ceilings, tube lights and open windows letting in daylight. Bolts of fabric and cotton spools fill the shelves along the wall, and a few two-wheelers are parked outside the factory gate on a dusty street. Eye-level view, 35 mm lens, wide enough to show the workshop floor, the officials and the textile stock, with people seen from behind or slightly blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked rolls of white and printed home-textile fabric, such as bed sheets and towel cloth, on a wooden table in a Karur textile unit. Beside them lie a set of folded plans and a clipboard, suggesting a feasibility review. Out of focus behind are the frames and threads of power looms and the shadows of workers moving in the background. Soft daylight from a side window lights the fabric weave, showing its texture clearly. Camera at a slightly high angle, 35 mm lens, shallow depth of field, with no readable text or labels visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/%E0%AE%95%E0%AE%B0%E0%AF%82%E0%AE%B0%E0%AF%8D-%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81-%E0%AE%89",
+   "published": "2026-11-12T21:33:04+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794572470/karur360/zclcypjwxjoj6fx6maau.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794572474/karur360/m4i3onuz83qyioyyhofl.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மரவாபாளையத்தில் இலவச ரத்த பரிசோதனை முகாம்",
-   "english_headline": "Free blood test camp held at Maravapalayam near Noyyal",
-   "category": "Health",
-   "location": "Maravapalayam, Noyyal, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சுகாதார முகாம்",
-    "loc": "மரவாபாளையம், நொய்யல்",
-    "hl1": "மரவாபாளையத்தில் ரத்த பரிசோதனை முகாம்",
-    "hl2": "வீடுகளுக்கு",
-    "slides": [
-     {
-      "title": "முகாம் எங்கே?",
-      "lines": [
-       "நொய்யல் அருகே மரவாபாளையம் பகுதியில் முகாம் நடந்தது",
-       "ஓலப்பாளையம் அரசு ஆரம்ப சுகாதார நிலையம் சார்பில்"
-      ]
-     },
-     {
-      "title": "யார் பரிசோதனை?",
-      "lines": [
-       "சுகாதார செவிலியர், சுகாதார தன்னார்வலர்கள் குழு",
-       "சுற்றுவட்டார வீடுகளுக்கு நேரடியாகச் சென்றனர்"
-      ]
-     },
-     {
-      "title": "என்ன பரிசோதனை?",
-      "lines": [
-       "ரத்தம் எடுத்து சர்க்கரை, ரத்த அழுத்த அளவு பரிசோதனை",
-       "காய்ச்சல், தலைவலி, கால் வலி உள்ளிட்ட நோய்களுக்குப் பரிசோதனை"
-      ]
-     },
-     {
-      "title": "யாருக்கு?",
-      "lines": [
-       "முதியவர்கள், பாலூட்டும் தாய்மார்கள்",
-       "குழந்தைகள், மாற்றுத்திறனாளிகள் உட்பட பலருக்கு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "நொய்யல் அருகே மரவாபாளையம் பகுதியில் ஓலப்பாளையம் அரசு ஆரம்ப சுகாதார நிலையம் சார்பில் ரத்த பரிசோதனை முகாம் நடைபெற்றது. சுகாதார செவிலியர் மற்றும் சுகாதார தன்னார்வலர்கள் குழுவினர் சுற்றுவட்டார வீடுகளுக்கு நேரடியாகச் சென்றனர். முதியவர்கள், பாலூட்டும் தாய்மார்கள், குழந்தைகள், சிறுவர், சிறுமியர் மற்றும் மாற்றுத்திறனாளிகளுக்கு ரத்தம் எடுக்கப்பட்டது. சர்க்கரை அளவு மற்றும் ரத்த அழுத்த அளவு பரிசோதிக்கப்பட்டது. காய்ச்சல், தலைவலி, கால் வலி, உடல் வலி, கண் வலி, இடுப்பு வலி உள்ளிட்ட நோய்களுக்கும் பரிசோதனை செய்யப்பட்டது. பரிசோதனைக்குப் பின் சர்க்கரை நோய், ரத்த அழுத்தம், சத்து மாத்திரைகள் மற்றும் காய்ச்சல் உள்ளிட்ட நோய்களுக்கான மருந்து மாத்திரைகள் வழங்கப்பட்டன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🩸 மரவாபாளையத்தில் ரத்த பரிசோதனை முகாம்\n\n📰 முழு விவரம்:\nநொய்யல் அருகே மரவாபாளையம் பகுதியில் ஓலப்பாளையம் அரசு ஆரம்ப சுகாதார நிலையம் சார்பில் ரத்த பரிசோதனை முகாம் நடைபெற்றது. சுகாதார செவிலியர் மற்றும் சுகாதார தன்னார்வலர்கள் குழுவினர் சுற்றுவட்டார வீடுகளுக்கு நேரடியாகச் சென்று பரிசோதனை செய்தனர்.\n🧪 முதியவர்கள், பாலூட்டும் தாய்மார்கள், குழந்தைகள், சிறுவர், சிறுமியர், மாற்றுத்திறனாளிகளுக்கு ரத்தம் எடுத்து சர்க்கரை மற்றும் ரத்த அழுத்த அளவு பரிசோதிக்கப்பட்டது.\n🩺 காய்ச்சல், தலைவலி, கால் வலி, உடல் வலி, கண் வலி, இடுப்பு வலி உள்ளிட்ட நோய்களுக்கும் பரிசோதனை செய்யப்பட்டது.\n💊 பரிசோதனைக்குப் பின் சர்க்கரை நோய், ரத்த அழுத்தம், சத்து மாத்திரைகள் மற்றும் காய்ச்சல் உள்ளிட்ட நோய்களுக்கான மருந்து மாத்திரைகள் வழங்கப்பட்டன.\n\nFree blood test camp Maravapalayam Noyyal | Karur news\n📍 மரவாபாளையம், நொய்யல், கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Noyyal #சுகாதாரம் #KarurNews",
-   "prompts": "A health nurse in a white saree and two health volunteers kneel beside an elderly woman seated on a plastic chair in the open courtyard of a village house in Maravapalayam near Noyyal, Karur district, as a free blood test camp is held. The nurse holds a blood sugar testing kit and a blood pressure cuff, while the volunteers set out sample tubes and cotton swabs on a small table. Around them, a nursing mother holding a baby, a young girl and a differently-abled man on a wheelchair wait their turn under the shade of a tiled-roof house. Narrow village lane with mud-plastered walls, a few two-wheelers parked at the gate and paddy fields visible beyond the compound wall. Bright daylight, soft shadows. Camera at eye level, 35 mm lens, wide enough to show the courtyard, the health team and the waiting villagers. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small table in a village house courtyard in Maravapalayam, Karur district, laid out for a blood test camp. Neatly arranged on a white cloth are a glucometer with test strips, a blood pressure monitor, sterile lancets, cotton swabs, a row of medicine strips and packets of tablets for sugar, blood pressure and fever, and a stack of supplement tablet strips. A nurse's gloved hand in the corner of the frame points to one strip. Behind the table, a blurred view of a red-oxide floor and a plastic chair, with a visitor seen only from behind. Natural daylight from a side doorway, shallow depth of field, camera slightly high, 35 mm lens. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/free-blood-test-camp-at-maravapalayam/4374858",
-   "published": "2026-11-13T06:48:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794572499/karur360/jaz0nyc4e6cuemcxqr6x.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794572514/karur360/q35dwaswrqxxazequ5eq.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581405/karur360/zxghser12hxm4kiu72oz.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581408/karur360/t6doq320yca0mzoelot8.jpg"
    ]
   }
  ]
