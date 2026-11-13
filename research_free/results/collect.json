@@ -3,22 +3,22 @@
   "earlier stories still waiting for images: []",
   "instagram check: 11 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/naga-chaturthi-worship-at-pambalamman-temple/4374853",
-  "manual link added: https://www.dinakaran.com/news/%E0%AE%95%E0%AE%B0%E0%AF%82%E0%AE%B0%E0%AF%8D-%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81-%E0%AE%89",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/போக்ஸோ-சட்டத்தில்-கைதானதொழிலாளிக்கு-5-ஆண்டுகள்-சிறை",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/856-lakh-voters-in-karur-district",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/video-of-farmer-s-car-being-attacked-in-aravakurichi-goes-viral/4374559",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/district-draft-electoral-roll-released-in-four-constituencies-8-56-lakh-electors/4374840",
   "candidate filter: collected=3",
   "to write: 3 Karur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "try (N) manual=True: https://www.dinakaran.com/news/%E0%AE%95%E0%AE%B0%E0%AF%82%E",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
-  "filed: 3 Karur district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "NOT filed (N) மாவட்ட வரைவு வாக்காளர் பட்டியல் வெளியீடு நான்கு தொ: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
+  "filed: 2 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
@@ -26,250 +26,183 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கிருஷ்ணராயபுரம் லட்சுமணம்பட்டியில் பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி வழிபாடு",
-   "english_headline": "Naga Chaturthi worship at Pambalamman temple in Lakshmanampatti, Krishnarayapuram",
-   "category": "Temples & Events",
-   "location": "Lakshmanampatti, Krishnarayapuram taluk, Karur district",
-   "importance": "Low",
+   "tamil_headline": "அரவக்குறிச்சி அருகே விவசாயியின் கார் மீது தாக்குதல்: காற்றாலை நிறுவன ஊழியர்கள் மீது புகார்",
+   "english_headline": "Farmer's car attacked near Aravakurichi: Clash between windmill company staff and locals over land issues",
+   "category": "Crime & Safety",
+   "location": "Aravakurichi, Karur district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கோவில் நிகழ்வு",
-    "loc": "லட்சுமணம்பட்டி, கிருஷ்ணராயபுரம்",
-    "hl1": "லட்சுமணம்பட்டியில் நாக சதுர்த்தி வழிபாடு",
-    "hl2": "பாம்பாலம்மன் கோவிலில்",
+    "cat": "மோதல்",
+    "loc": "அரவக்குறிச்சி",
+    "hl1": "அரவக்குறிச்சியில் விவசாயி கார் மீது",
+    "hl2": "காற்றாலை ஊழியர்கள் மீது",
     "slides": [
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "கிருஷ்ணராயபுரம் அடுத்த லட்சுமணம்பட்டி",
-       "பாம்பாலம்மன் கோவில் வளாகத்தில் நடந்தது",
-       "நாக சதுர்த்தி நிகழ்ச்சியை முன்னிட்டு"
-      ]
-     },
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "பாம்பாலம்மன் சுவாமிக்கு சிறப்பு வழிபாடு",
-       "பூஜை நடந்தது",
-       "பக்தர்கள் நேர்த்திக்கடன் செலுத்தினர்"
+       "அரவக்குறிச்சி அருகே விவசாயியின் கார் தாக்கப்பட்ட வீடியோ",
+       "காற்றாலை நிறுவன ஊழியர்களுக்கும் மக்களுக்கும் இடையே",
+       "நில விவகாரம் தொடர்பாக மோதல் ஏற்பட்டதாகத் தகவல்"
       ]
      },
      {
-      "title": "பக்தர்கள் வழிபாடு",
+      "title": "முக்கியப் புகார்",
       "lines": [
-       "கோவில் வளாகத்தில் பொங்கல் வைத்து வழிபாடு",
-       "சேவல், கோழி அறுத்து வழிபட்டனர்",
-       "லட்சுமணம்பட்டி, பழையஜெயங்கொண்டம் பக்தர்கள்"
+       "இடைத்தரகர்கள் நில விவகாரங்களில் தலையிடுவதாகக் குற்றச்சாட்டு",
+       "விவசாயிகளிடம் ஆதிக்கத்தைச் செலுத்த முயற்சிப்பதாகப் புகார்",
+       "மிரட்டல் மற்றும் அத்துமீறல் நடப்பதாக விவசாயிகள் கவலை"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "<b>சிசிடிவி</b> காட்சிகளை ஆய்வு செய்யப் போலீசாருக்குக் கோரிக்கை",
+       "தாக்குதலில் ஈடுபட்டவர்கள் மீது நடவடிக்கை எடுக்க வலியுறுத்தல்",
+       "கலெக்டர் மற்றும் எஸ்.பி. நேரடியாக ஆய்வு செய்யக் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கிருஷ்ணராயபுரம் அடுத்த லட்சுமணம்பட்டியில் பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி சிறப்பு வழிபாடு நடைபெற்றது. நாக சதுர்த்தி நிகழ்ச்சியை முன்னிட்டு பாம்பாலம்மன் சுவாமிக்கு சிறப்பு வழிபாடு மற்றும் பூஜை நடந்தது. நேர்த்திக்கடன் செலுத்தும் பக்தர்கள் கோவில் வளாகத்தில் பொங்கல் வைத்து, சேவல், கோழி அறுத்து வழிபட்டனர். லட்சுமணம்பட்டி, பழையஜெயங்கொண்டம் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் இருந்து பக்தர்கள் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 கிருஷ்ணராயபுரம் லட்சுமணம்பட்டியில் பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி சிறப்பு வழிபாடு\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த லட்சுமணம்பட்டியில் உள்ள பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி நிகழ்ச்சியை முன்னிட்டு சிறப்பு வழிபாடு நடைபெற்றது.\nபாம்பாலம்மன் சுவாமிக்கு சிறப்பு வழிபாடு செய்து பூஜை நடத்தப்பட்டது.\nநேர்த்திக்கடன் செலுத்தும் பக்தர்கள் கோவில் வளாகத்தில் பொங்கல் வைத்து, சேவல், கோழி அறுத்து வழிபட்டனர்.\nலட்சுமணம்பட்டி, பழையஜெயங்கொண்டம் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் இருந்து பக்தர்கள் கலந்துகொண்டனர்.\n\nNaga Chaturthi worship Pambalamman temple Lakshmanampatti | Karur news\n📍 லட்சுமணம்பட்டி, கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
-   "prompts": "Devotees gather in the open courtyard of the Pambalamman temple in Lakshmanampatti village, Krishnarayapuram, on Naga Chaturthi morning. Groups of men in white veshti and shirts and women in cotton sarees stand near a simple village-style temple with a small shrine and a painted gopuram-style entrance. In the foreground, several clay pots of pongal are boiling over firewood hearths on the temple grounds, with steam rising into the air. A few devotees carry brass plates of flowers, turmeric and coconuts. Some people are seen from behind, and others stand at a distance near the shrine. The scene is in bright daylight with a clear sky. Shot at eye level, 35 mm lens, wide enough to show the temple and the crowd of devotees. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the offering area at the Pambalamman temple in Lakshmanampatti, Krishnarayapuram. Clay pots of pongal are placed over a small fire of dried coconut fronds and firewood on the temple ground, with brass vessels, turmeric, kumkum and betel leaves arranged on a banana leaf beside them. A devotee's hands, seen from behind, hold a plate of flowers and a few small sprigs of neem near the pot. In the blurred background, a few villagers in veshti and sarees stand near the temple wall. Daylight, soft natural light. Shot at slightly high angle, 50 mm lens, shallow depth of field to focus on the pongal pots and offerings. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/naga-chaturthi-worship-at-pambalamman-temple/4374853",
-   "published": "2026-11-13T06:45:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 47 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "அரவக்குறிச்சி அருகே விவசாயியின் கார் தாக்கப்பட்ட வீடியோ சமூக வலைதளங்களில் பரவி வருகிறது. கரூர் மாவட்டம் அரவக்குறிச்சி பகுதியில் காற்றாலை நிறுவன ஊழியர்களுக்கும் அப்பகுதி மக்களுக்கும் இடையே நில விவகாரம் தொடர்பாக வாக்குவாதம் ஏற்பட்டுள்ளது. அப்போது விவசாயி ஒருவரின் கார் தாக்கப்பட்டதாகக் கூறப்படுகிறது. காற்றாலை நிறுவனங்களின் பெயரைப் பயன்படுத்தி சில இடைத்தரகர்கள் நில விவகாரங்களில் தலையிடுவதாகப் புகார் எழுந்துள்ளது. விவசாயிகளிடம் ஆதிக்கத்தைச் செலுத்த முயற்சிப்பதோடு மோதலிலும் ஈடுபடுவதாக மக்கள் குற்றம் சாட்டுகின்றனர். இந்தச் சம்பவம் தொடர்பான சிசிடிவி காட்சிகளின் உண்மைத்தன்மையை ஆய்வு செய்ய வேண்டும் எனப் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். தாக்குதலில் ஈடுபட்டவர்கள் யார் மற்றும் மோதலுக்கான காரணம் குறித்து போலீசார் விசாரணை நடத்த வேண்டும். காற்றாலை நிறுவன ஊழியர்கள் மற்றும் இடைத்தரகர்களின் விவரங்களைச் சரிபார்க்க வேண்டும் என்றும் விவசாயிகள் வலியுறுத்தியுள்ளனர். மாவட்ட ஆட்சியர் மற்றும் மாவட்ட காவல் கண்காணிப்பாளர் இந்த விவகாரத்தில் நேரடியாகக் கவனம் செலுத்த வேண்டும் எனக் கேட்டுக்கொள்ளப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 அரவக்குறிச்சி அருகே விவசாயியின் கார் மீது தாக்குதல் - காற்றாலை நிறுவன ஊழியர்கள் மீது புகார்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் அரவக்குறிச்சி அருகே காற்றாலை நிறுவன ஊழியர்களுக்கும் அப்பகுதி மக்களுக்கும் இடையே நில விவகாரம் தொடர்பாக மோதல் ஏற்பட்டுள்ளது. இதில் விவசாயி ஒருவரின் கார் தாக்கப்பட்ட வீடியோ தற்போது சமூக வலைதளங்களில் பரவி வருகிறது.\nகாற்றாலை நிறுவனங்களின் பெயரைப் பயன்படுத்தி சில இடைத்தரகர்கள் நில விவகாரங்களில் தலையிடுவதாகவும், விவசாயிகளை மிரட்டுவதாகவும் குற்றச்சாட்டு எழுந்துள்ளது. இந்தச் சம்பவம் தொடர்பான சிசிடிவி காட்சிகளை ஆய்வு செய்து, தாக்குதலில் ஈடுபட்டவர்கள் மீது நடவடிக்கை எடுக்க வேண்டும் எனப் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\nமேலும், மாவட்ட ஆட்சியர் மற்றும் மாவட்ட காவல் கண்காணிப்பாளர் இந்த விவகாரத்தில் தலையிட்டு, காற்றாலை நிறுவனங்களின் செயல்பாடுகளை ஆய்வு செய்ய வேண்டும் என விவசாயிகள் வலியுறுத்தியுள்ளனர்.\n\nAravakurichi farmer car attacked | Karur news\n📍 அரவக்குறிச்சி, கரூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #CrimeNews #KarurNews",
+   "prompts": "A farmer's car is being pelted with stones and sticks by a crowd, the vehicle’s front bumper dented and windshield cracked. The scene unfolds on a dusty rural road just outside Aravakurichi, flanked by low scrub vegetation typical of the Karur countryside. From behind, a group of men in khaki‑style shirts and caps—identified as windmill company staff—stand opposite a larger cluster of local villagers wearing simple shirts and veshti, both groups gesturing angrily while keeping their faces turned away. The only vehicle visible is the farmer’s sedan, its front end showing visible damage and scattered debris on the road. The lighting is bright daylight with a clear sky, suggesting mid‑morning. Shot from eye level with a 35 mm lens, the frame captures the road stretch wide enough to show the confrontation and the damaged car. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows the farmer’s car front bumper, a large dent and shattered glass fragments scattered on the dusty road surface. The damaged metal glints under the harsh midday sun, with a few broken stone pieces and a torn piece of cloth lying beside it, hinting at the assault. No people are in focus; only the vehicle’s wreckage and the surrounding dry ground are visible. The weather is clear and sunny, casting sharp shadows. The camera is positioned slightly high, using a 35 mm lens to fill the frame with the car’s front, emphasizing the damage as the key evidence of the clash. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/video-of-farmer-s-car-being-attacked-in-aravakurichi-goes-viral/4374559",
+   "published": "2026-11-12T21:53:19+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581366/karur360/smlvfgl57d0wlzbuzwe0.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581384/karur360/djwlc0gmu6excdklrim9.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794586608/karur360/rtlmi6dniitujcgudufi.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794586612/karur360/ymae705ambpl5hw2hh2x.jpg"
    ]
   },
   {
-   "tamil_headline": "போக்ஸோ வழக்கில் வெங்கமேடு தொழிலாளிக்கு 5 ஆண்டு சிறை",
-   "english_headline": "Venkamedu labourer gets 5 years in jail under POCSO for abusing 10-year-old girl",
-   "category": "Crime & Safety",
-   "location": "Venkamedu, Karur district",
+   "tamil_headline": "கரூர் மாவட்டத்தில் 8,56,198 வாக்காளர்கள்",
+   "english_headline": "Karur district has 8,56,198 voters in the draft electoral roll",
+   "category": "Government & Services",
+   "location": "Karur, Aravakurichi, Krishnarayapuram and Kulithalai constituencies, Karur district",
    "importance": "High",
-   "scope": "",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நீதிமன்றத் தீர்ப்பு",
-    "loc": "வெங்கமேடு, கரூர்",
-    "hl1": "போக்ஸோ வழக்கில் 5 ஆண்டு சிறை",
-    "hl2": "கரூர் மகளிர் விரைவு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கரூர் வெங்கமேடு அருகம்பாளையத்தில் நடந்த சம்பவம்",
-       "மார்ச் மாதம் வீட்டின் அருகே விளையாடிய <b>10 வயது</b>",
-       "தொழிலாளி வேலுச்சாமி (<b>56</b>) மீது குற்றச்சாட்டு"
-      ]
-     },
-     {
-      "title": "புகாரும் கைதும்",
-      "lines": [
-       "சிறுமியின் பெற்றோர் புகார் அளித்தனர்",
-       "கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் போக்ஸோ சட்டத்தில்",
-       "வேலுச்சாமி கைது செய்யப்பட்டார்"
-      ]
-     },
-     {
-      "title": "தீர்ப்பு",
-      "lines": [
-       "வியாழக்கிழமை கரூர் மகளிர் விரைவு நீதிமன்றம் தீர்ப்பளித்தது",
-       "நீதிபதி தங்கவேல் குற்றவாளிக்கு <b>5 ஆண்டு</b> சிறைத்தண்டனை",
-       "போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் வெங்கமேடு அருகம்பாளையத்தைச் சேர்ந்த தொழிலாளிக்கு 5 ஆண்டு சிறைத் தண்டனை விதிக்கப்பட்டுள்ளது. தொழிலாளி வேலுச்சாமிக்கு 56 வயது. இவர் கடந்த மார்ச் மாதம் வீட்டின் அருகே விளையாடிக்கொண்டிருந்த அதே பகுதியைச் சேர்ந்த 10 வயது சிறுமிக்கு பாலியல் தொந்தரவு கொடுத்ததாகப் புகார் எழுந்தது. சிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் வேலுச்சாமி மீது போக்ஸோ சட்டத்தின் கீழ் வழக்குப் பதிவு செய்து அவரைக் கைது செய்தனர். பின்னர் வழக்கு கரூர் மகளிர் விரைவு நீதிமன்றத்தில் நடைபெற்றது. வியாழக்கிழமை வழக்கை விசாரித்த நீதிபதி தங்கவேல், குற்றவாளி வேலுச்சாமிக்கு 5 ஆண்டு சிறைத்தண்டனை விதித்து உத்தரவிட்டார். இதையடுத்து வேலுச்சாமியைப் போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில் அடைத்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ வெங்கமேடு தொழிலாளிக்கு போக்ஸோ வழக்கில் 5 ஆண்டு சிறை\n\n📰 முழு விவரம்:\nகரூர் வெங்கமேடு அருகம்பாளையத்தைச் சேர்ந்த தொழிலாளி வேலுச்சாமி (56 வயது), கடந்த மார்ச் மாதம் வீட்டின் அருகே விளையாடிக்கொண்டிருந்த அதே பகுதியைச் சேர்ந்த 10 வயது சிறுமிக்கு பாலியல் தொந்தரவு கொடுத்ததாகப் புகார் எழுந்தது.\nசிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில், கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் போக்ஸோ சட்டத்தின் கீழ் வழக்குப் பதிவு செய்து அவரைக் கைது செய்து, கரூர் மகளிர் விரைவு நீதிமன்றத்தில் வழக்குத் தொடர்ந்தனர்.\nவியாழக்கிழமை வழக்கை விசாரித்த நீதிபதி தங்கவேல், குற்றவாளி வேலுச்சாமிக்கு 5 ஆண்டு சிறைத்தண்டனை விதித்து உத்தரவிட்டார்.\nதண்டனைக்குப் பின் வேலுச்சாமியை போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில் அடைத்தனர்.\n\nKarur POCSO case, 5 years jail | Karur news\n📍 வெங்கமேடு, கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A Tamil Nadu police constable in khaki escorts a 56-year-old labourer in a white shirt and veshti out of the Karur women's fast-track court after sentencing, with a police jeep waiting at the gate. The place is the courthouse compound in Karur town, with a plain concrete verandah, tiled roof, red-brick pillars and a low wall along the road. Two policewomen in khaki walk behind, and a few onlookers stand seen from behind near a tamarind tree. The convict received 5 years' imprisonment under the POCSO Act and is being taken to a prison van under security. Bright daytime, clear sky. Shot at eye level on a 35 mm lens, wide enough to show the courthouse entrance and the police jeep, faces turned away or blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/போக்ஸோ-சட்டத்தில்-கைதானதொழிலாளிக்கு-5-ஆண்டுகள்-சிறை",
-   "published": "2026-11-12T21:06:49.829Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established fact is a minor wording shift, but the reel_script also states the accused was 'தொழிலாளி' and the case was 'விரைவு நீதிமன்றத்தில் நடைபெற்றது' which is acceptable; however, the slides_spec line 'தொழிலாளி வேலுச்சாமி (56) மீது குற்றச்சாட்டு' and the caption's 'பாலியல் தொந்தரவு கொடுத்ததாகப் புகார் எழுந்தது' are acceptable paraphrases of the article's 'கொடுத்தாராம்'; fact-check: caption states the accused 'அவரைக் கைது செய்து, கரூர் மகளிர் விரைவு நீதிமன்றத்தில் வழக்குத் தொடர்ந்தனர்' — the sentence is grammatically broken in Tamil: 'கைது செய்து' is attached to 'வழக்குப் பதிவு செய்து' and the subject-object relation is unclear, making the sentence hard to parse; fact-check: slides_spec slide 2 line 'கரூர் அனைத்து மகளிர் காவல் நிலையத்தினர் போக்ஸோ சட்டத்தில்' is an incomplete sentence (missing the verb 'வழக்குப் பதிந்து'), so the line has no clear meaning on its own; fact-check: slides_spec slide 3 line 'போலீஸார் பலத்த பாதுகாப்புடன் திருச்சி மத்திய சிறையில்' is an incomplete sentence (missing the verb 'அடைத்தனர்'), so the line has no clear meaning on its own",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 4 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581393/karur360/oev6fbudratvjqv7jnkw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் வீட்டு ஜவுளி சிறப்பு மையம்: சாத்தியக்கூறு ஆய்வுக்கு ரூ.25 லட்சம் ஒதுக்கீடு",
-   "english_headline": "Karur to get study for HomeTech Textiles centre; Rs 25 lakh sanctioned for feasibility study",
-   "category": "Business & Prices",
-   "location": "Karur district, Tamil Nadu",
-   "importance": "Medium",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தொழில் அறிவிப்பு",
+    "cat": "வாக்காளர் பட்டியல்",
     "loc": "கரூர் மாவட்டம்",
-    "hl1": "கரூரில் ஜவுளி சிறப்பு மையம் அமைய ஆய்வு",
-    "hl2": "ரூ.25 லட்சம் ஒதுக்கீடு",
+    "hl1": "கரூர் மாவட்டத்தில் 8,56,198 வாக்காளர்கள்",
+    "hl2": "இறுதிப் பட்டியல் ஜன. 4",
     "slides": [
      {
-      "title": "என்ன அறிவிப்பு?",
+      "title": "வரைவு பட்டியல்",
       "lines": [
-       "கரூர் பகுதியில் வீட்டு உபயோக ஜவுளிகளுக்கான சிறப்பு மையம்",
-       "இந்த ஆய்வுக்கு <b>ரூ.25 லட்சம்</b> நிதி ஒதுக்கீடு",
-       "அரசு ஆணை பிறப்பிக்கப்பட்டுள்ளது"
+       "கரூரில் வியாழக்கிழமை வரைவு வாக்காளர் பட்டியல் வெளியீடு",
+       "மாவட்டத்தில் மொத்தம் <b>8,56,198</b> வாக்காளர்கள்",
+       "4 சட்டப்பேரவைத் தொகுதிகளிலும் பட்டியல் வெளியீடு"
       ]
      },
      {
-      "title": "யார் அறிவித்தது?",
+      "title": "தொகுதி வாரி",
       "lines": [
-       "கைத்தறி, துணிநூல் மற்றும் கதர்த்துறை அமைச்சர் ம.விஜய் பாலாஜி",
-       "சட்டமன்றத்தில் 2026-27ஆம் ஆண்டு மானியக் கோரிக்கையில்",
-       "விரிவான திட்ட அறிக்கை தயாரிக்கப்படும்"
+       "அரவக்குறிச்சி: <b>1,96,086</b> வாக்காளர்கள்",
+       "கரூர்: <b>2,31,636</b> வாக்காளர்கள்",
+       "கிருஷ்ணராயபுரம் (தனி): <b>2,04,103</b> வாக்காளர்கள்"
       ]
      },
      {
-      "title": "ஆய்வில் என்ன?",
+      "title": "சிறப்பு முகாம்கள்",
       "lines": [
-       "மையத்தின் உட்கட்டமைப்பு ஆய்வு செய்யப்படும்",
-       "தொழில் நிறுவனங்களின் தேவை, செயல்பாட்டு மாதிரி ஆய்வு",
-       "நிதிச் சாத்தியக்கூறும் ஆய்வு செய்யப்படும்"
+       "அக். 21, 22, 29 தேதிகளில் சிறப்பு முகாம்கள்",
+       "பெயர் சேர்க்க, நீக்க விண்ணப்பிக்கலாம்",
+       "இறுதி வாக்காளர் பட்டியல் ஜன. 4 வெளியீடு"
+      ]
+     },
+     {
+      "title": "உதவி எண்",
+      "lines": [
+       "படிவம்-8 மூலம் திருத்தம், இடமாற்றம் செய்யலாம்",
+       "உதவிக்கு கட்டணமில்லா எண் <b>1950</b>",
+       "மாவட்ட ஆட்சியர் அலுவலக தேர்தல் பிரிவில் சேவை மையம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் வீட்டு உபயோக ஜவுளிகளுக்கான சிறப்பு மையம் அமைவதற்கான சாத்தியக்கூறுகளை ஆய்வு செய்ய ரூ.25 லட்சம் நிதி ஒதுக்கப்பட்டுள்ளது. இதற்கான அரசு ஆணை பிறப்பிக்கப்பட்டுள்ளது. கைத்தறி, துணிநூல் மற்றும் கதர்த்துறை அமைச்சர் ம.விஜய் பாலாஜி சட்டமன்றத்தில் இந்த அறிவிப்பை வெளியிட்டார். 2026-27ஆம் ஆண்டிற்கான கைத்தறி மற்றும் துணிநூல் துறை மானியக் கோரிக்கையில் இந்த அறிவிப்பு இடம்பெற்றது. இந்த ஆய்வின் மூலம் மையத்தின் உட்கட்டமைப்பு ஆய்வு செய்யப்படும். தொழில் நிறுவனங்களின் தேவை மற்றும் செயல்பாட்டு மாதிரியும் ஆய்வு செய்யப்படும். நிதிச் சாத்தியக்கூறும் ஆய்வு செய்யப்படும். ஆய்வுக்குப் பின் விரிவான திட்ட அறிக்கை தயாரிக்கப்படும். இதன் மூலம் கரூர் பகுதியில் வலுவான வீட்டு உபயோக ஜவுளித் தொழில் கட்டமைப்பு உருவாகும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧵 கரூரில் வீட்டு ஜவுளி சிறப்பு மையம்: சாத்தியக்கூறு ஆய்வுக்கு ரூ.25 லட்சம் ஒதுக்கீடு\n\n📰 முழு விவரம்:\nகரூர் பகுதியில் வீட்டு உபயோக ஜவுளிகளுக்கான சிறப்பு மையம் (Centre of Excellence for HomeTech Textiles) அமைப்பதற்கான சாத்தியக்கூறுகளை ஆய்வு செய்ய ரூ.25 லட்சம் நிதி ஒதுக்கி அரசு ஆணையிட்டுள்ளது.\nகைத்தறி, துணிநூல் மற்றும் கதர்த்துறை அமைச்சர் ம.விஜய் பாலாஜி சட்டமன்றத்தில் 2026-27ஆம் ஆண்டிற்கான மானியக் கோரிக்கையில் இந்த அறிவிப்பை வெளியிட்டார்.\nஆய்வில் மையத்தின் உட்கட்டமைப்பு, தொழில் நிறுவனங்களின் தேவை, செயல்பாட்டு மாதிரி, நிதிச் சாத்தியக்கூறு ஆகியன ஆய்வு செய்யப்படும்.\nஆய்வுக்குப் பின் விரிவான திட்ட அறிக்கை தயாரிக்கப்படும். இதன் மூலம் கரூரில் வலுவான வீட்டு உபயோக ஜவுளித் தொழில் கட்டமைப்பு ஏற்படும்.\n\nKarur HomeTech textiles centre feasibility study Rs 25 lakh | Karur news\n📍 கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A row of power looms and textile workers in a home-textile export unit in Karur city, where a group of workers in shirts and sarees stands near stacked rolls of bed linen and towels, with a few weavers at their machines. Behind them, a government officer in a formal shirt reviews papers on a table with a rolled-up blueprint, signalling a planning meeting for a new textile centre. The hall has high ceilings, tube lights and open windows letting in daylight. Bolts of fabric and cotton spools fill the shelves along the wall, and a few two-wheelers are parked outside the factory gate on a dusty street. Eye-level view, 35 mm lens, wide enough to show the workshop floor, the officials and the textile stock, with people seen from behind or slightly blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked rolls of white and printed home-textile fabric, such as bed sheets and towel cloth, on a wooden table in a Karur textile unit. Beside them lie a set of folded plans and a clipboard, suggesting a feasibility review. Out of focus behind are the frames and threads of power looms and the shadows of workers moving in the background. Soft daylight from a side window lights the fabric weave, showing its texture clearly. Camera at a slightly high angle, 35 mm lens, shallow depth of field, with no readable text or labels visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/%E0%AE%95%E0%AE%B0%E0%AF%82%E0%AE%B0%E0%AF%8D-%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81-%E0%AE%89",
-   "published": "2026-11-12T21:33:04+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூர் மாவட்டத்தில் மொத்தம் 8,56,198 வாக்காளர்கள் உள்ளனர். கரூரில் வியாழக்கிழமை வெளியிடப்பட்ட வரைவு வாக்காளர் பட்டியலின்படி இந்த எண்ணிக்கை தெரிவிக்கப்பட்டுள்ளது. மாவட்ட ஆட்சியர் ச. பிரசன்னா ராமசாமி வரைவு பட்டியலை வெளியிட்டார். இந்தப் பட்டியல் 2027 ஜனவரி 1ஆம் தேதியைத் தகுதி நாளாகக் கொண்டு தயாரிக்கப்பட்டுள்ளது. அரவக்குறிச்சி தொகுதியில் 1,96,086 வாக்காளர்களும், கரூர் தொகுதியில் 2,31,636 வாக்காளர்களும் உள்ளனர். கிருஷ்ணராயபுரம் தனி தொகுதியில் 2,04,103 வாக்காளர்களும், குளித்தலை தொகுதியில் 2,24,373 வாக்காளர்களும் உள்ளனர். மாவட்டத்தில் 1,115 வாக்குச்சாவடி மையங்களும், 654 வாக்குச்சாவடி அமைவிடங்களும் உள்ளன. பெயர் சேர்க்க, நீக்க உள்ளிட்ட பணிகளுக்காக அக்டோபர் 21, 22 மற்றும் 29ஆம் தேதிகளில் சிறப்பு முகாம்கள் நடைபெறும். பெயர் திருத்தம், இடமாற்றம் செய்ய படிவம்-8 மூலம் விண்ணப்பிக்க வேண்டும். உதவிக்கு கட்டணமில்லா எண் 1950ஐத் தொடர்பு கொள்ளலாம். இறுதி வாக்காளர் பட்டியல் 2027 ஜனவரி 4ஆம் தேதி வெளியிடப்படும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ கரூர் மாவட்டத்தில் 8,56,198 வாக்காளர்கள் – வரைவு பட்டியல் வெளியீடு\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட ஆட்சியர் ச. பிரசன்னா ராமசாமி, அங்கீகரிக்கப்பட்ட அரசியல் கட்சியினர் முன்னிலையில் வரைவு வாக்காளர் பட்டியலை வெளியிட்டார். 2027 ஜனவரி 1ஆம் தேதியைத் தகுதி நாளாகக் கொண்டு புகைப்படத்துடன் கூடிய சிறப்பு சுருக்கமுறைத் திருத்தம் நடைபெறுகிறது.\n👥 அரவக்குறிச்சி 1,96,086 | கரூர் 2,31,636 | கிருஷ்ணராயபுரம் (தனி) 2,04,103 | குளித்தலை 2,24,373 – மொத்தம் 8,56,198 வாக்காளர்கள்\n🏫 1,115 வாக்குச்சாவடி மையங்கள், 654 வாக்குச்சாவடி அமைவிடங்கள்\n📝 அக். 21, 22, 29 தேதிகளில் சிறப்பு முகாம்கள்; பெயர் சேர்க்க, நீக்கக் கோரலாம்.\n✅ இறுதி வாக்காளர் பட்டியல் 2027 ஜனவரி 4ஆம் தேதி வெளியாகும்.\nℹ️ பெயர் திருத்தம், இடமாற்றம், மாற்று அடையாள அட்டை, மாற்றுத்திறனாளி குறியீட்டுக்கு படிவம்-8ல் விண்ணப்பியுங்கள்.\n📞 தொடர்புக்கு: கட்டணமில்லா எண் 1950 (மாவட்ட ஆட்சியர் அலுவலக தேர்தல் பிரிவு)\n\nKaur district 8,56,198 voters draft roll | Karur news\n📍 கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "Inside the Karur district collectorate office hall in Karur city, a senior district election officer in a formal shirt stands at a long wooden table, holding up a bound printed draft electoral roll while officials sit beside him in government office attire. Several political party representatives in shirts and veshti or trousers sit in rows of plastic chairs seen from behind, and constituency electoral registration officers stand near a backdrop of government office wall and tubelight fixtures. Stacks of printed voter lists, files and forms lie on the table, and a small microphone is placed in front. It is daytime with soft tubelight and daylight from tall windows, and the camera is at eye level with a 35 mm wide lens showing the whole hall and the table with the roll. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/856-lakh-voters-in-karur-district",
+   "published": "2026-11-12T21:02:47.301Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 8; slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581405/karur360/zxghser12hxm4kiu72oz.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794581408/karur360/t6doq320yca0mzoelot8.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794586709/karur360/k8cpux3rpyor0dobmxbb.jpg"
    ]
   }
  ]
