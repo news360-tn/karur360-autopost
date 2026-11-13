@@ -1,9 +1,8 @@
-07:34:10 story catch-up karur: quota 3/50, 2 recent posts, 1 live stories, owner ids ['17841444626877594', '29966472656372622']
-07:34:10 2 stories in the queue, ready to post: 2
-07:34:10   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-07:34:10    RN-2 review= 'Auto' images= 98 spec= 761 pages= ['karur'] links= '' '' age_h= 0.4 ready= True set_started= True
-07:34:10    RN-3 review= 'Auto' images= 98 spec= 789 pages= ['karur'] links= '' '' age_h= 0.4 ready= True set_started= True
-07:34:11 publishing quota karur: 3/50
-07:34:13 instagram duplicate check karur: 2 recent posts read
-07:34:13    RN-3 waits for the 12-minute gap after the last post on ['karur']
-07:34:13    RN-2 waits for the 12-minute gap after the last post on ['karur']
+07:45:49 story catch-up karur: quota 3/50, 2 recent posts, 1 live stories, owner ids ['17841444626877594', '29966472656372622']
+07:45:49 2 stories in the queue, ready to post: 2
+07:45:49   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+07:45:49    RN-2 review= 'Auto' images= 98 spec= 761 pages= ['karur'] links= '' '' age_h= 0.6 ready= True set_started= True
+07:45:49    RN-3 review= 'Auto' images= 98 spec= 789 pages= ['karur'] links= '' '' age_h= 0.6 ready= True set_started= True
+07:45:50 publishing quota karur: 3/50
+07:45:51 instagram duplicate check karur: 2 recent posts read
+07:45:51    RN-2 waits for the 12-minute gap after the last post on ['karur']
