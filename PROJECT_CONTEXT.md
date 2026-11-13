@@ -81,6 +81,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `e72c0cc` | evening round 19:00 -> 17:00 IST (evening posts got far fewer views). Reel: spoken sentence 1 names the town and states the news (no question / teaser). ABP / Samayam named as sources (owner 13 Nov) |
+| 2026-11-13 | `2c8830d` | powercut: notices written |
 | 2026-11-13 | `87e31b4` | power cut: a notice filed under another district's page is refused unless its headline names this district (13 Nov: Trichy took Coimbatore's Peelamedu cut - its text named a Trichy word) |
 | 2026-11-13 | `24d271c` | powercut: notices written |
 | 2026-11-13 | `1d11a88` | powercut: notices written |
@@ -109,6 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `f8a17ca` | pick: picked news saved |
 | 2026-11-13 | `84f763f` | pick: list sent |
 | 2026-11-13 | `70cf5b1` | powercut: notices written |
-| 2026-11-12 | `b3230ea` | powercut: notices written |
-| 2026-11-12 | `794fc9f` | powercut: notices written |
 <!-- recent-changes:end -->
