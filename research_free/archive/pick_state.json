@@ -39,7 +39,8 @@
    "category": "பொது",
    "score": 6.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T20:16:57.185525+05:30"
   },
   "Cc38adf9": {
    "id": "Cc38adf9",
@@ -51,7 +52,8 @@
    "category": "பொது",
    "score": 5.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T20:16:57.185529+05:30"
   },
   "C104550f": {
    "id": "C104550f",
@@ -66,7 +68,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/%E0%AE%AA%E0%AF%8B%E0%AE%95%E0%AF%8D%E0%AE%B8%E0%AF%8B-%E0%AE%9A%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%B3%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-5-%E0%AE%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%88"
    ],
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T20:16:57.185532+05:30"
   },
   "Ccf0c8cf": {
    "id": "Ccf0c8cf",
@@ -341,8 +344,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-13T21:15:54.259283+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 09:15 PM - automatic top 3",
+    "ids": [
+     "C84c04f7",
+     "Cc38adf9",
+     "C104550f"
+    ],
+    "at": "2026-11-13T20:16:57.185504+05:30"
+   },
+   "written": [
+    "C104550f",
+    "C84c04f7",
+    "Cc38adf9"
+   ]
   }
  },
  "retry": {}
