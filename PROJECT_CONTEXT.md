@@ -81,6 +81,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `ff199ff` | reel: same design as Coimbatore 360 (colours, shapes, fonts) - per-page themes removed; end card keeps 'Source:' (owner 12 Nov); waiting reels rebuilt |
+| 2026-11-13 | `0cb067b` | pick: written and posted |
+| 2026-11-13 | `4e73405` | powercut: notices written |
+| 2026-11-13 | `081894a` | powercut: notices written |
+| 2026-11-13 | `bda39a0` | pick: picked news saved |
+| 2026-11-13 | `4666f2d` | pick: picked news saved |
+| 2026-11-13 | `edaaf53` | pick: list sent |
+| 2026-11-13 | `13781fa` | powercut: notices written |
+| 2026-11-13 | `4a17c76` | powercut: notices written |
+| 2026-11-13 | `043ffb9` | powercut: notices written |
 | 2026-11-13 | `e50fc57` | reel: new Karur 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
 | 2026-11-13 | `df0511f` | powercut: notices written |
 | 2026-11-13 | `ade6ea9` | powercut: notices written |
@@ -101,14 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-12 | `032913c` | stories shared |
 | 2026-11-12 | `13115d8` | powercut: notices written |
 | 2026-11-12 | `efe4a3a` | powercut: notices written |
-| 2026-11-12 | `cd3572f` | TRIAL: direct reel upload ON for this new page (file instead of Cloudinary link; falls back to the link; never posts twice) |
-| 2026-11-12 | `d886981` | cloudinary: keep the last 48 h only, clean once every 48 h (own workflow; hourly step removed) |
-| 2026-11-12 | `5e96ee9` | powercut: notices written |
-| 2026-11-12 | `7c6e6db` | powercut: notices written |
-| 2026-11-12 | `de83ccb` | post: start the next posting run after the 12-minute gap while stories wait (GitHub runs the 5-min schedule ~hourly; Coimbatore had 23 waiting, 1 posted per hour) |
-| 2026-11-12 | `61fd6e5` | bridge: create the News tab (31 column names) when the new Log Sheet does not have it - pick failed 12 Nov with getLastRow of null |
-| 2026-11-12 | `da5ddf5` | Karur 360 live (owner 12 Nov) |
-| 2026-11-12 | `0244098` | Cloudinary clean-up: this page's files older than 3 days deleted every hour (at 50% of the free limit reels older than 26 h too); a deleted prebuilt reel is uploaded again; rasipalan pictures in the page folder. keys-check: test-only workflow (manual), prints OK/FAIL per secret |
-| 2026-11-12 | `e80c92b` | karur 360: local news for the district - Tamil papers only (Dinamalar, Dinamani + Dinakaran / OneIndia where fresh), district towns and searches, power-cut searches, writer rules, town hashtags; whole district; tests updated |
-| 2026-11-12 | `574c588` | karur 360: Sheet and Drive folder ids set (its own Sheet and folder) |
 <!-- recent-changes:end -->
