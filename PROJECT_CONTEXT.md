@@ -81,6 +81,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `1c706af` | reel: premium story panel (owner 13 Nov) - photo top 60 %, emerald panel with the headline and captions, champagne gold, ivory cards, serif Tamil headline, no black; district map + town pin (OpenStreetMap), word-by-word headline, count-up numbers, news-type layer (power-cut time bar / accident / rain / police), smooth loop, light sound effects. Voice, timing and facts unchanged |
+| 2026-11-13 | `2ec5746` | powercut: notices written |
+| 2026-11-13 | `4f73e72` | pick: written and posted |
+| 2026-11-13 | `389d83f` | pick: picked news saved |
+| 2026-11-13 | `41d1049` | pick: picked news saved |
+| 2026-11-13 | `dba7ded` | pick: list sent |
 | 2026-11-13 | `b7ad7fa` | 2 pictures per reel (owner 13 Nov): the news article's own photos first (vision-checked), one photo -> a closer crop as the second, none -> 2 AI pictures |
 | 2026-11-13 | `92b49e8` | powercut: notices written |
 | 2026-11-13 | `6f85e53` | powercut: notices written |
@@ -105,10 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `edaaf53` | pick: list sent |
 | 2026-11-13 | `13781fa` | powercut: notices written |
 | 2026-11-13 | `4a17c76` | powercut: notices written |
-| 2026-11-13 | `043ffb9` | powercut: notices written |
-| 2026-11-13 | `e50fc57` | reel: new Karur 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
-| 2026-11-13 | `df0511f` | powercut: notices written |
-| 2026-11-13 | `ade6ea9` | powercut: notices written |
-| 2026-11-13 | `dbefcc7` | pick: written and posted |
-| 2026-11-13 | `1058bc0` | stories shared |
 <!-- recent-changes:end -->
