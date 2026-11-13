@@ -81,6 +81,13 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `87e31b4` | power cut: a notice filed under another district's page is refused unless its headline names this district (13 Nov: Trichy took Coimbatore's Peelamedu cut - its text named a Trichy word) |
+| 2026-11-13 | `24d271c` | powercut: notices written |
+| 2026-11-13 | `1d11a88` | powercut: notices written |
+| 2026-11-13 | `4ecbca2` | powercut: notices written |
+| 2026-11-13 | `fb49029` | stories shared |
+| 2026-11-13 | `42e51df` | powercut: notices written |
+| 2026-11-13 | `3ff4a4b` | powercut: notices written |
 | 2026-11-13 | `ff199ff` | reel: same design as Coimbatore 360 (colours, shapes, fonts) - per-page themes removed; end card keeps 'Source:' (owner 12 Nov); waiting reels rebuilt |
 | 2026-11-13 | `0cb067b` | pick: written and posted |
 | 2026-11-13 | `4e73405` | powercut: notices written |
@@ -104,11 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `70cf5b1` | powercut: notices written |
 | 2026-11-12 | `b3230ea` | powercut: notices written |
 | 2026-11-12 | `794fc9f` | powercut: notices written |
-| 2026-11-12 | `5482d3c` | voice: numbers read the way people say them - English names in English (பிளஸ் டூ, குரூப் ஃபோர், டி ட்வென்டி, ஃபைவ் ஜி), endings joined (நாற்பதுக்கும், ...ஒன்றில், ரூபாய்க்கு), நெ. -> எண் |
-| 2026-11-12 | `4ad506f` | voice: 'பிளஸ் 2' is read 'பிளஸ் டூ' (was 'பிளஸ் இரண்டு', RN-534); 'பிளஸ் 1' -> 'பிளஸ் ஒன்' |
-| 2026-11-12 | `b0065fb` | direct upload: create the resumable container on a versioned Instagram API (Salem RN-1: unversioned call wanted video_url; fell back to the link correctly) |
-| 2026-11-12 | `a57cd9f` | reel: spoken follow line names this page (was 'Follow Coimbatore Three Sixty'); waiting reels rebuilt |
-| 2026-11-12 | `032913c` | stories shared |
-| 2026-11-12 | `13115d8` | powercut: notices written |
-| 2026-11-12 | `efe4a3a` | powercut: notices written |
 <!-- recent-changes:end -->
