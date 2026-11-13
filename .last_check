@@ -1,11 +1,10 @@
-18:17:55 story catch-up karur: quota 14/50, 8 recent posts, 6 live stories, owner ids ['17841444626877594', '29966472656372622']
-18:18:20 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081254957487563 ERROR) - tried again next run
-18:18:20 3 stories in the queue, ready to post: 3
-18:18:20   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-18:18:20    RN-8 review= 'Auto' images= 195 spec= 615 pages= ['karur'] links= '' '' age_h= 0.5 ready= True set_started= True
-18:18:20    RN-9 review= 'Auto' images= 195 spec= 694 pages= ['karur'] links= '' '' age_h= 0.5 ready= True set_started= True
-18:18:20    RN-10 review= 'Auto' images= 195 spec= 851 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
-18:18:21 publishing quota karur: 14/50
-18:18:23 instagram duplicate check karur: 8 recent posts read
-18:18:23    RN-9 waits for the 12-minute gap after the last post on ['karur']
-18:18:23    RN-8 waits for the 12-minute gap after the last post on ['karur']
+18:30:02 story catch-up karur: quota 15/50, 9 recent posts, 6 live stories, owner ids ['17841444626877594', '29966472656372622']
+18:30:35 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081257699487563 ERROR) - tried again next run
+18:30:35 2 stories in the queue, ready to post: 2
+18:30:35   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+18:30:35    RN-8 review= 'Auto' images= 195 spec= 615 pages= ['karur'] links= '' '' age_h= 0.7 ready= True set_started= True
+18:30:35    RN-9 review= 'Auto' images= 195 spec= 694 pages= ['karur'] links= '' '' age_h= 0.7 ready= True set_started= True
+18:30:37 publishing quota karur: 15/50
+18:30:39 instagram duplicate check karur: 9 recent posts read
+18:30:39    RN-9 waits for the 12-minute gap after the last post on ['karur']
+18:30:39    RN-8 waits for the 12-minute gap after the last post on ['karur']
