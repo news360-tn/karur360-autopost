@@ -1,11 +1,9 @@
-11:13:43 story catch-up karur: quota 10/50, 6 recent posts, 4 live stories, owner ids ['17841444626877594', '29966472656372622']
-11:14:15 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081170981487563 ERROR) - tried again next run
-11:14:15 2 stories in the queue, ready to post: 2
-11:14:15   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-11:14:15    RN-6 review= 'Auto' images= 98 spec= 755 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-11:14:15    RN-7 review= 'Auto' images= 98 spec= 835 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-11:14:16 publishing quota karur: 10/50
-11:14:18 instagram duplicate check karur: 6 recent posts read
-11:14:18    RN-6 waits for the 12-minute gap after the last post on ['karur']
-11:14:18    RN-7 waits for the 12-minute gap after the last post on ['karur']
-11:14:18 prebuilding ahead of the set start: ['RN-6', 'RN-7']
+11:26:41 story catch-up karur: quota 10/50, 6 recent posts, 4 live stories, owner ids ['17841444626877594', '29966472656372622']
+11:27:04 story catch-up karur: post 18130910275851507 not shared (Instagram container 18081173027487563 ERROR) - tried again next run
+11:27:04 2 stories in the queue, ready to post: 2
+11:27:04   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+11:27:04    RN-6 review= 'Auto' images= 98 spec= 755 pages= ['karur'] links= '' '' age_h= 0.3 ready= True set_started= True
+11:27:04    RN-7 review= 'Auto' images= 98 spec= 835 pages= ['karur'] links= '' '' age_h= 0.3 ready= True set_started= True
+11:27:05 publishing quota karur: 10/50
+11:27:07 instagram duplicate check karur: 6 recent posts read
+11:27:07    RN-7 waits for the 12-minute gap after the last post on ['karur']
