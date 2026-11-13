@@ -11,7 +11,8 @@
    "category": "சாலை",
    "score": 9.8,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T10:59:55.523774+05:30"
   },
   "C6b3b045": {
    "id": "C6b3b045",
@@ -23,7 +24,8 @@
    "category": "கல்வி",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T10:59:55.523779+05:30"
   },
   "C548f10a": {
    "id": "C548f10a",
@@ -35,7 +37,8 @@
    "category": "பொது",
    "score": 7.0,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T10:59:55.523781+05:30"
   },
   "C578afc6": {
    "id": "C578afc6",
@@ -50,7 +53,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/government-honours-karur-youth-for-donating-organs/4374560"
    ],
-   "listed_at": "2026-11-13T07:06:18.945206+05:30"
+   "listed_at": "2026-11-13T07:06:18.945206+05:30",
+   "picked_at": "2026-11-13T10:59:55.523783+05:30"
   },
   "C8be88ca": {
    "id": "C8be88ca",
@@ -317,8 +321,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-13T11:59:15.715071+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 11:59 AM - automatic top 4",
+    "ids": [
+     "C9383a66",
+     "C6b3b045",
+     "C548f10a",
+     "C578afc6"
+    ],
+    "at": "2026-11-13T10:59:55.523753+05:30"
+   },
+   "written": [
+    "C548f10a",
+    "C578afc6",
+    "C6b3b045",
+    "C9383a66"
+   ]
   }
  },
  "retry": {}
