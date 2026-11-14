@@ -1,65 +1,20 @@
-13:48:19 round 2026-11-14_13: news published 14 Nov 09:56 -> 14 Nov 13:48 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-13:48:19 insights 2026-11-14T13:48+05:30 (21 reels): topic weights {'temple': 0.81, 'accident': 1.5, 'education': 0.16}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🛕 குளித்தலை அருகே அம்மன் கோவில் பீடம் சேதம்: போலீசார் வழக்குப் பதிவு']
-13:48:59 41 links on the two papers' Karur pages
-13:49:13 skipped: published before this window=10, not Karur district=9, already posted=3, same event already posted=2, only a headline=1
-13:49:13 list: 0 new + 16 earlier news not posted yet
-13:49:13    1. [விபத்து] பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி (தினமலர்) (earlier)
-13:49:13    2. [பொது] சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு (தினமலர்) (earlier)
-13:49:13    3. [பொது] பணம் வைத்து சூதாட்டம் ஐந்து பேருக்கு காப்பு (தினமலர்) (earlier)
-13:49:13    4. [பொது] உளுந்து செடிகளின் களைகள் அகற்றம் (தினமலர்) (earlier)
-13:49:13    5. [பொது] வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை (தினமலர்) (earlier)
-13:49:13    6. [சாலை] விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்பு (தினமலர்) (earlier)
-13:49:13    7. [கல்வி] பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல் (தினமலர்) (earlier)
-13:49:13    8. [பொது] பஸ்கள் நின்று செல்லாததால் மீண்டும் மறியல் போராட்டம் (தினமலர்) (earlier)
-13:49:13    9. [பொது] சித்தா பிரிவு சார்பில் விழிப்புணர்வு முகாம் (தினமலர்) (earlier)
-13:49:13   10. [ரயில்] பராமரிப்பு பணிக்காக நொய்யல் ரயில்வே கேட் நாளை மூடல் (தினமலர் + தினமணி) (earlier)
-13:49:13   11. [பொது] நிழற்கூடம் இன்றி மக்கள் அவதி (தினமலர்) (earlier)
-13:49:13   12. [பொது] சி.ஐ.டி.யு., மாநில நிர்வாகிகள் கூட்டம் (தினமலர்) (earlier)
-13:49:13   13. [பொது] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம் (தினமலர்) (earlier)
-13:49:13   14. [பொது] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி (தினமலர்) (earlier)
-13:49:13   15. [பொது] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி (தினமலர்) (earlier)
-13:49:13   16. [பொது] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், நவ. 14 (தினமலர்) (earlier)
-13:49:13 automatic pick (owner 2 Nov): no e-mail - the top 3 are written at once
-ROUND=2026-11-14_13
-13:49:17 could not mark the automatic pick on the page: bridge pickAuto: no such round
-13:49:17 decided: no submit by 02:48 PM - automatic top 3 -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/youth-dies-after-falling-from-bike/4375799 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/4-booked-for-cockfighting/4375801 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/save-up-to-five-people-on-gambling-with-money/4375803
-13:57:43 3 listed news now in the Sheet
-13:57:49 instagram duplicate check karur: 24 recent posts read
-13:57:49 verify 2026-11-14_13: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-13:57:49    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-13:57:49    NOT POSTED Cafdd9fd: queued RN-23 (Queued) - பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி
-13:57:49    NOT POSTED Cc628de1: queued RN-24 (Queued) - பணம் வைத்து சூதாட்டம் ஐந்து பேருக்கு காப்பு
-14:02:54 instagram duplicate check karur: 24 recent posts read
-14:02:54 verify 2026-11-14_13: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:02:54    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:02:54    NOT POSTED Cafdd9fd: queued RN-23 (Queued) - பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி
-14:02:54    NOT POSTED Cc628de1: queued RN-24 (Queued) - பணம் வைத்து சூதாட்டம் ஐந்து பேருக்கு காப்பு
-14:07:59 instagram duplicate check karur: 25 recent posts read
-14:07:59 verify 2026-11-14_13: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:07:59    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:07:59    NOT POSTED Cc628de1: queued RN-24 (Queued) - பணம் வைத்து சூதாட்டம் ஐந்து பேருக்கு காப்பு
-14:13:05 instagram duplicate check karur: 25 recent posts read
-14:13:05 verify 2026-11-14_13: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:13:05    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:13:05    NOT POSTED Cc628de1: queued RN-24 (Queued) - பணம் வைத்து சூதாட்டம் ஐந்து பேருக்கு காப்பு
-14:18:11 instagram duplicate check karur: 25 recent posts read
-14:18:11 verify 2026-11-14_13: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:18:11    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:18:11    NOT POSTED Cc628de1: queued RN-24 (Queued) - பணம் வைத்து சூதாட்டம் ஐந்து பேருக்கு காப்பு
-14:23:16 instagram duplicate check karur: 26 recent posts read
-14:23:16 verify 2026-11-14_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:23:16    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:28:22 instagram duplicate check karur: 26 recent posts read
-14:28:22 verify 2026-11-14_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:28:22    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:33:28 instagram duplicate check karur: 26 recent posts read
-14:33:28 verify 2026-11-14_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:33:28    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:38:33 instagram duplicate check karur: 26 recent posts read
-14:38:33 verify 2026-11-14_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:38:33    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:43:38 instagram duplicate check karur: 26 recent posts read
-14:43:38 verify 2026-11-14_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:43:38    NOT POSTED C12908b4: queued RN-25 (Queued) - சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு
-14:48:42 verify 2026-11-14_13: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+17:29:52 round 2026-11-14_17: news published 14 Nov 13:48 -> 14 Nov 17:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+17:29:52 insights 2026-11-14T17:29+05:30 (24 reels): topic weights {'temple': 1.33, 'accident': 1.03, 'education': -0.23, 'poultry_agri': -0.5}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
+17:30:35 38 links on the two papers' Karur pages
+17:30:52 skipped: published before this window=10, not Karur district=7, already posted=4, same event already posted=2
+17:30:52 list: 0 new + 13 earlier news not posted yet
+17:30:52    1. [பொது] உளுந்து செடிகளின் களைகள் அகற்றம் (தினமலர்) (earlier)
+17:30:52    2. [பொது] வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை (தினமலர்) (earlier)
+17:30:52    3. [சாலை] விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்பு (தினமலர்) (earlier)
+17:30:52    4. [கல்வி] பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல் (தினமலர்) (earlier)
+17:30:52    5. [பொது] பஸ்கள் நின்று செல்லாததால் மீண்டும் மறியல் போராட்டம் (தினமலர்) (earlier)
+17:30:52    6. [பொது] சித்தா பிரிவு சார்பில் விழிப்புணர்வு முகாம் (தினமலர்) (earlier)
+17:30:52    7. [ரயில்] பராமரிப்பு பணிக்காக நொய்யல் ரயில்வே கேட் நாளை மூடல் (தினமலர் + தினமணி) (earlier)
+17:30:52    8. [பொது] நிழற்கூடம் இன்றி மக்கள் அவதி (தினமலர்) (earlier)
+17:30:52    9. [பொது] சி.ஐ.டி.யு., மாநில நிர்வாகிகள் கூட்டம் (தினமலர்) (earlier)
+17:30:52   10. [பொது] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம் (தினமலர்) (earlier)
+17:30:52   11. [பொது] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி (தினமலர்) (earlier)
+17:30:52   12. [பொது] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி (தினமலர்) (earlier)
+17:30:52   13. [பொது] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், நவ. 14 (தினமலர்) (earlier)
+17:30:52 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-14_17
