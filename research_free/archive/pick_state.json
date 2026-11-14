@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-14T21:30:24.816608+05:30",
+ "last_end": "2026-11-15T01:29:20.206642+05:30",
  "pool": {
   "Ca1934c8": {
    "id": "Ca1934c8",
@@ -17,65 +17,6 @@
    "listed_at": "2026-11-14T09:56:23.778057+05:30",
    "picked_at": "2026-11-14T09:58:43.334358+05:30",
    "refused": "not filed: duplicate after write"
-  },
-  "C9e0d6e8": {
-   "id": "C9e0d6e8",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-camp-organised-by-siddha-unit/4375800",
-   "title": "சித்தா பிரிவு சார்பில் விழிப்புணர்வு முகாம்",
-   "summary": "கரூர்:கரூர் அரசு மருத்துவக் கல்லுாரி மருத்துவ மனை சித்தா பிரிவு சார்பில், கவுண்டம்பாளையம் அரசு தொடக்கப்பள்ளியில், விழிப்புணர்வு முகாம் நடந்தது.",
-   "source": "தினமலர்",
-   "published": "2026-11-14T07:02:00+05:30",
-   "category": "பொது",
-   "score": 7.0,
-   "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T21:31:26.066962+05:30",
-   "posted": true
-  },
-  "C1dd954f": {
-   "id": "C1dd954f",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/closure-of-noyyal-railway-gate-tomorrow-for-maintenance-work/4375806",
-   "title": "பராமரிப்பு பணிக்காக நொய்யல் ரயில்வே கேட் நாளை மூடல்",
-   "summary": "கரூர்:நொய்யல் ரயில்வே கேட் பராமரிப்பு பணிகள் காரணமாக, நாளை முதல் (15) மூடப்படுகிறது. கரூர் - ஈரோடு ரயில்வே வழித்தடத்தில் நொய்யல் ரயில்வே கேட் உள்ளது.",
-   "source": "தினமலர் + தினமணி",
-   "published": "2026-11-14T07:05:00+05:30",
-   "category": "ரயில்",
-   "score": 7.0,
-   "power_cut": false,
-   "alts": [
-    "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/பராமரிப்புப்-பணி-நாளைமுதல்-10-நாள்களுக்கு-நொய்யல்-ரயில்வே-கேட்-மூடல்"
-   ],
-   "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T21:31:26.066964+05:30",
-   "posted": true
-  },
-  "Cd36f634": {
-   "id": "Cd36f634",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-suffer-without-shelter/4375798",
-   "title": "நிழற்கூடம் இன்றி மக்கள் அவதி",
-   "summary": "கரூர்:கரூர் அருகே, நிழற்கூடம் இல்லாததால் பொதுமக்கள் பெரும் அவதிப்படுகின்றனர். கரூர் மாவட்டம், புலியூர் டவுன் பஞ்சாயத்து, திருச்சி சாலையில் உள்ளது.",
-   "source": "தினமலர்",
-   "published": "2026-11-14T07:00:00+05:30",
-   "category": "பொது",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T21:31:26.066966+05:30",
-   "posted": true
-  },
-  "C8bf1acd": {
-   "id": "C8bf1acd",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-meeting-of-state-administrators/4375802",
-   "title": "சி.ஐ.டி.யு., மாநில நிர்வாகிகள் கூட்டம்",
-   "summary": "கரூர்:இந்திய தொழிற்சங்க மையம் (சி.ஐ.டி.யு.,) சார்பில் மாநில நிர்வாகிகள் மற்றும் மாவட்ட செயலாளர்கள் ஆலோசனை கூட்டம், மாநில துணைத்தலைவர் மாலதி தலைமையில், கரூரில் சங்க அலுவலகத்தில் நடந்தது.",
-   "source": "தினமலர்",
-   "published": "2026-11-14T07:03:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T21:31:26.066967+05:30",
-   "posted": true
   },
   "C7ac17a6": {
    "id": "C7ac17a6",
@@ -124,6 +65,30 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-14T09:56:23.778057+05:30"
+  },
+  "C8b6a4fb": {
+   "id": "C8b6a4fb",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-news/ration-rice-scam-complaint-to-minister/4376410",
+   "title": "ரேஷன் அரிசி மோசம் அமைச்சரிடம் புகார்",
+   "summary": "குளித்தலை: கரூர் மாவட்டம், குளித்தலை அருகே சிவாயத்தில் தமிழ்நாடு நுகர்பொருள் வாணிப கழக புதிய கிடங்கை திறந்து வைத்த, உணவு துறை அமைச்சர் வெங்கடரமணனிடம், அப்பகுதி மக்கள், ‘கிடங்கில் உள்ள அரிசியில் இருந்து வண்டு, புழுக்கள...",
+   "source": "தினமலர்",
+   "published": "2026-11-14T21:34:33+05:30",
+   "category": "பொது",
+   "score": 7.0,
+   "power_cut": false,
+   "listed_at": "2026-11-15T01:29:20.206642+05:30"
+  },
+  "Cf31b92b": {
+   "id": "Cf31b92b",
+   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/it-is-essential-to-secure-the-storage-warehouse-in-a-way-that-ensures-food-items-remain-unaffected",
+   "title": "உணவுப் பொருள்கள் பாதிக்காத வகையில் சேமிப்பு கிடங்கை பாதுகாப்பது அவசியம்: அமைச்சா் பி. வெங்கடரமணன்",
+   "summary": "எலிகள், பூச்சிகளால் உணவுப் பொருள்கள் பாதிக்காத வகையில் சேமிப்புக் கிடங்கை பாதுகாப்பது அவசியம் என்றாா் உணவு மற்றும் உணவுப்பொருள் வழங்கல் துறை அமைச்சா் பி.வெங்கடரமணன்..கரூா் மாவட்டம், குளித்தலை அடுத்த சிவாயத்தில் புதிதா...",
+   "source": "தினமணி",
+   "published": "2026-11-14T19:10:00.218Z",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-15T01:29:20.206642+05:30"
   }
  },
  "rounds": {
@@ -553,6 +518,24 @@
     "C9e0d6e8",
     "Cd36f634"
    ]
+  },
+  "2026-11-15_01": {
+   "window": [
+    "2026-11-14T21:30:24.816608+05:30",
+    "2026-11-15T01:29:20.206642+05:30"
+   ],
+   "ids": [
+    "C8b6a4fb",
+    "Cf31b92b",
+    "C7ac17a6",
+    "Ca03fd80",
+    "Cab5bc62",
+    "C553753c"
+   ],
+   "sent": false,
+   "deadline": "2026-11-15T02:29:20.206642+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T21:30+05:30",
- "posts_measured": 28,
+ "updated": "2026-11-15T01:29+05:30",
+ "posts_measured": 31,
  "topic_weight": {
   "temple": 1.5,
-  "accident": 0.73,
-  "education": -0.43,
+  "accident": 0.52,
+  "education": -0.46,
   "poultry_agri": -0.5,
   "civic": -0.5
  },
@@ -16,7 +16,7 @@
   "power_cut": 1,
   "poultry_agri": 3,
   "politics": 2,
-  "civic": 3,
+  "civic": 4,
   "crime": 2,
   "weather": 1
  },
@@ -32,7 +32,7 @@
   "🛕 குளித்தலை அருகே அம்மன் கோவில் பீடம் சேதம்: போலீசார் வழக்குப் பதிவு",
   "🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது"
  ],
- "avg_watch_s": 6.9,
+ "avg_watch_s": 6.6,
  "best_topics": [
   "temple",
   "accident",
