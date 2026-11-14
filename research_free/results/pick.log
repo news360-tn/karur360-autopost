@@ -1,105 +1,15 @@
-17:29:52 round 2026-11-14_17: news published 14 Nov 13:48 -> 14 Nov 17:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-17:29:52 insights 2026-11-14T17:29+05:30 (24 reels): topic weights {'temple': 1.33, 'accident': 1.03, 'education': -0.23, 'poultry_agri': -0.5}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
-17:30:35 38 links on the two papers' Karur pages
-17:30:52 skipped: published before this window=10, not Karur district=7, already posted=4, same event already posted=2
-17:30:52 list: 0 new + 13 earlier news not posted yet
-17:30:52    1. [பொது] உளுந்து செடிகளின் களைகள் அகற்றம் (தினமலர்) (earlier)
-17:30:52    2. [பொது] வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை (தினமலர்) (earlier)
-17:30:52    3. [சாலை] விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்பு (தினமலர்) (earlier)
-17:30:52    4. [கல்வி] பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல் (தினமலர்) (earlier)
-17:30:52    5. [பொது] பஸ்கள் நின்று செல்லாததால் மீண்டும் மறியல் போராட்டம் (தினமலர்) (earlier)
-17:30:52    6. [பொது] சித்தா பிரிவு சார்பில் விழிப்புணர்வு முகாம் (தினமலர்) (earlier)
-17:30:52    7. [ரயில்] பராமரிப்பு பணிக்காக நொய்யல் ரயில்வே கேட் நாளை மூடல் (தினமலர் + தினமணி) (earlier)
-17:30:52    8. [பொது] நிழற்கூடம் இன்றி மக்கள் அவதி (தினமலர்) (earlier)
-17:30:52    9. [பொது] சி.ஐ.டி.யு., மாநில நிர்வாகிகள் கூட்டம் (தினமலர்) (earlier)
-17:30:52   10. [பொது] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம் (தினமலர்) (earlier)
-17:30:52   11. [பொது] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி (தினமலர்) (earlier)
-17:30:52   12. [பொது] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி (தினமலர்) (earlier)
-17:30:52   13. [பொது] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், நவ. 14 (தினமலர்) (earlier)
-17:30:52 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-14_17
-17:30:53 round 2026-11-14_17 (at least 5, up to 3 more of well-watched topics): 13 news to choose from (0 from earlier rounds), ranked by this page's insights
-17:30:53   PICK   1.   9.0 [other +0.00 pattern] உளுந்து செடிகளின் களைகள் அகற்றம்
-17:30:53   PICK   2.   8.0 [other +0.00 pattern] வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை
-17:30:53   PICK   3.   7.8 [civic +0.00 pattern] விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-17:30:53   PICK   4.   7.0 [other +0.00 pattern] பஸ்கள் நின்று செல்லாததால் மீண்டும் மறியல் போராட்டம்
-17:30:53   PICK   5.   6.7 [education -0.10 pattern] பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-17:30:53          6.   6.0 [other +0.00 pattern] சித்தா பிரிவு சார்பில் விழிப்புணர்வு முகாம்
-17:30:53          7.   6.0 [other +0.00 pattern] பராமரிப்பு பணிக்காக நொய்யல் ரயில்வே கேட் நாளை மூடல்
-17:30:53          8.   5.0 [other +0.00 pattern] நிழற்கூடம் இன்றி மக்கள் அவதி
-17:30:53          9.   2.0 [other +0.00 pattern] சி.ஐ.டி.யு., மாநில நிர்வாகிகள் கூட்டம்
-17:30:53         10.   2.0 [other +0.00 pattern] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-17:30:53         11.   2.0 [other +0.00 pattern] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-17:30:53         12.   2.0 [other +0.00 pattern] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி
-17:30:53         13.   1.1 [poultry_agri -0.30 pattern] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-17:30:53 decided: automatic: top 5 of 13 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-weeds-of-chickpea-plants/4375804 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/a-speed-limit-is-required-to-prevent-an-accident-in-the-curve-area/4375812 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/drivers-expect-electric-lights-on-expansion-road/4375795 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/buses-stopped-protest-resumes/4375805 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cake-greeting-cards-distributed-to-school-children/4375794
-17:34:24 5 listed news now in the Sheet
-17:34:31 instagram duplicate check karur: 27 recent posts read
-17:34:33 verify 2026-11-14_17: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:34:33    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-17:34:33    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-17:34:33    NOT POSTED C6197562: queued RN-26 (Queued) - பஸ்கள் நின்று செல்லாததால் மீண்டும் மறியல் போராட்டம்
-17:34:33    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-17:34:33    NOT POSTED Ce3dd015: queued RN-27 (Queued) - வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை
-17:39:40 instagram duplicate check karur: 28 recent posts read
-17:39:42 verify 2026-11-14_17: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:39:42    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-17:39:42    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-17:39:42    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-17:39:42    NOT POSTED Ce3dd015: queued RN-27 (Queued) - வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை
-17:44:49 instagram duplicate check karur: 28 recent posts read
-17:44:50 verify 2026-11-14_17: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:44:50    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-17:44:50    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-17:44:50    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-17:44:50    NOT POSTED Ce3dd015: queued RN-27 (Queued) - வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை
-17:49:58 instagram duplicate check karur: 28 recent posts read
-17:49:59 verify 2026-11-14_17: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:49:59    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-17:49:59    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-17:49:59    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-17:49:59    NOT POSTED Ce3dd015: queued RN-27 (Queued) - வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை
-17:55:05 instagram duplicate check karur: 29 recent posts read
-17:55:07 verify 2026-11-14_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:55:07    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-17:55:07    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-17:55:07    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-18:00:13 instagram duplicate check karur: 29 recent posts read
-18:00:14 verify 2026-11-14_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:00:14    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:00:14    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:00:14    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-18:05:20 instagram duplicate check karur: 29 recent posts read
-18:05:22 verify 2026-11-14_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:05:22    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:05:22    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:05:22    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-18:10:28 instagram duplicate check karur: 29 recent posts read
-18:10:30 verify 2026-11-14_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:10:30    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:10:30    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:10:30    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-18:15:35 instagram duplicate check karur: 29 recent posts read
-18:15:37 verify 2026-11-14_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:15:37    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:15:37    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:15:37    NOT POSTED Cbe86d3e: queued RN-30 (Queued) - உளுந்து செடிகளின் களைகள் அகற்றம்
-18:20:43 instagram duplicate check karur: 30 recent posts read
-18:20:44 verify 2026-11-14_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:20:44    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:20:44    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:25:50 instagram duplicate check karur: 30 recent posts read
-18:25:52 verify 2026-11-14_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:25:52    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:25:52    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:30:58 instagram duplicate check karur: 30 recent posts read
-18:31:00 verify 2026-11-14_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:31:00    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:31:00    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:36:06 instagram duplicate check karur: 30 recent posts read
-18:36:07 verify 2026-11-14_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:36:07    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
-18:36:07    NOT POSTED C4b5434e: queued RN-29 (Queued) - விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்
-18:41:14 verify 2026-11-14_17: 4 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:41:14    SKIPPED Cce2a465: skipped RN-28: held: fact-check problems - numbers not found in the article: 77962, 83097 - பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல்
+21:30:24 round 2026-11-14_21: news published 14 Nov 17:29 -> 14 Nov 21:30 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+21:30:24 insights 2026-11-14T21:30+05:30 (28 reels): topic weights {'temple': 1.5, 'accident': 0.73, 'education': -0.43, 'poultry_agri': -0.5, 'civic': -0.5}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
+21:31:03 43 links on the two papers' Karur pages
+21:31:24 skipped: not Karur district=12, published before this window=10, already posted=6, same event already posted=2
+21:31:24 list: 0 new + 8 earlier news not posted yet
+21:31:24    1. [பொது] சித்தா பிரிவு சார்பில் விழிப்புணர்வு முகாம் (தினமலர்) (earlier)
+21:31:24    2. [ரயில்] பராமரிப்பு பணிக்காக நொய்யல் ரயில்வே கேட் நாளை மூடல் (தினமலர் + தினமணி) (earlier)
+21:31:24    3. [பொது] நிழற்கூடம் இன்றி மக்கள் அவதி (தினமலர்) (earlier)
+21:31:24    4. [பொது] சி.ஐ.டி.யு., மாநில நிர்வாகிகள் கூட்டம் (தினமலர்) (earlier)
+21:31:24    5. [பொது] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம் (தினமலர்) (earlier)
+21:31:24    6. [பொது] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி (தினமலர்) (earlier)
+21:31:24    7. [பொது] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி (தினமலர்) (earlier)
+21:31:24    8. [பொது] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், நவ. 14 (தினமலர்) (earlier)
+21:31:24 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-14_21
