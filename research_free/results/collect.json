@@ -1,26 +1,33 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 24 recent posts read from the page",
+  "instagram check: 27 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/youth-dies-after-falling-from-bike/4375799",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/4-booked-for-cockfighting/4375801",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/save-up-to-five-people-on-gambling-with-money/4375803",
-  "candidate filter: collected=3",
-  "to write: 3 Karur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Karur; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-weeds-of-chickpea-plants/4375804",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/a-speed-limit-is-required-to-prevent-an-accident-in-the-curve-area/4375812",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/drivers-expect-electric-lights-on-expansion-road/4375795",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/buses-stopped-protest-resumes/4375805",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cake-greeting-cards-distributed-to-school-children/4375794",
+  "candidate filter: collected=5",
+  "to write: 5 Karur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "real photo from the source (Dinamalar) for 'Road blockade near Aravakurichi as buses'",
+  "auto images: 1 of 1 stories ({})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 71 min",
-  "filed: 3 Karur district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
+  "filed: 5 Karur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -29,102 +36,91 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1341 (char 1340)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (25s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.5-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (50s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (46s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok gemini/gemini-3-flash-preview (42s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -132,208 +128,300 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "தென்னிலை அருகே பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி",
-   "english_headline": "Youth dies after falling from bike near Thennilai, Karur district",
-   "category": "Crime & Safety",
-   "location": "Thennilai, Karur district",
+   "tamil_headline": "அரவக்குறிச்சி அருகே பஸ்கள் நிற்காததால் சாலை மறியல்: 1 மணி நேரம் போக்குவரத்து பாதிப்பு",
+   "english_headline": "Road blockade near Aravakurichi as buses fail to stop at Kumaranthanvalasu shelter; traffic hit for 1 hour",
+   "category": "Roads & Transport",
+   "location": "Kumaranthanvalasu, Aravakurichi taluk, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "தென்னிலை, கரூர்",
-    "hl1": "தென்னிலை அருகே பைக் விபத்தில் வாலிபர்",
-    "hl2": "தலையில் படுகாயம்",
+    "cat": "சாலை மறியல்",
+    "loc": "குமரன்டாண்வலசு, அரவக்குறிச்சி",
+    "hl1": "அரவக்குறிச்சியில் சாலை மறியல்",
+    "hl2": "பஸ்கள் நிற்காததால் போராட்டம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "தென்னிலை அருகே பைக்கில் இருந்து வாலிபர் தவறி விழுந்தார்",
-       "வைரமடை சாலையில் பைக் நிலை தடுமாறியது",
-       "தலையில் படுகாயம் அடைந்தார்"
+       "அரவக்குறிச்சி அருகே <b>குமரன்டாண்வலசு</b> பகுதியில் மறியல்",
+       "நேற்று காலை <b>6:30</b> மணிக்கு மக்கள் போராட்டம்",
+       "பஸ்கள் நிழற்கூடத்தில் நிற்காததால் அதிருப்தி"
       ]
      },
      {
-      "title": "யார் அவர்?",
+      "title": "பின்னணி என்ன?",
       "lines": [
-       "ஈரோடு மாவட்டம், மொடக்குறிச்சி விளக்கேத்தியைச் சேர்ந்தவர்",
-       "பழனிசாமியின் மகன் சந்தோஷ், <b>28</b> வயது",
-       "கடந்த <b>11ஆம் தேதி</b> மாலை நடந்தது"
+       "அரவக்குறிச்சி செல்ல மக்கள் <b>2 கி.மீ.</b> நடக்க வேண்டிய நிலை",
+       "கடந்த ஆண்டு எம்.பி. நிதியில் நிழற்கூடம் கட்டப்பட்டது",
+       "இருப்பினும் பஸ்கள் நிற்காமல் செல்வதாகப் புகார்"
       ]
      },
      {
-      "title": "என்ன ஆனது?",
+      "title": "பாதிப்பு",
       "lines": [
-       "கரூரில் உள்ள தனியார் மருத்துவமனைக்கு செல்லும் வழியில்",
-       "மனைவி கோமதி, <b>21</b> வயது, போலீசில் புகார் செய்தார்",
-       "தென்னிலை போலீசார் விசாரிக்கின்றனர்"
+       "பள்ளப்பட்டி - கரூர் சாலையில் <b>1 மணி நேரம்</b>",
+       "10 நாட்களுக்கு முன்பும் மறியல் நடந்தது",
+       "போலீசார் பேச்சுவார்த்தைக்குப் பின் மக்கள் கலைந்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தென்னிலை அருகே பைக்கில் இருந்து தவறி விழுந்த 28 வயது வாலிபர் உயிரிழந்தார். ஈரோடு மாவட்டம், மொடக்குறிச்சி விளக்கேத்தியைச் சேர்ந்த சந்தோஷ் என்பவர் இச்சம்பவத்தில் உயிரிழந்தார். கடந்த 11ஆம் தேதி மாலை, தென்னிலை அருகே வைரமடை சாலையில் பஜாஜ் பல்சர் பைக்கில் சென்று கொண்டிருந்தார். அப்போது பைக் திடீரென நிலை தடுமாறியதில் சந்தோஷ் கீழே விழுந்தார். தலையில் படுகாயம் அடைந்த அவர், கரூரில் உள்ள தனியார் மருத்துவமனைக்கு செல்லும் வழியில் உயிரிழந்தார். சந்தோஷின் மனைவி கோமதி, 21 வயது, போலீசில் புகார் செய்துள்ளார். தென்னிலை போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏍️ தென்னிலை அருகே பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி\n\n📰 முழு விவரம்:\nதென்னிலை அருகே வைரமடை சாலையில் பஜாஜ் பல்சர் பைக்கில் சென்ற ஈரோடு மாவட்டம், மொடக்குறிச்சி விளக்கேத்தியைச் சேர்ந்த சந்தோஷ் (28 வயது), திடீரென பைக் நிலை தடுமாறி கீழே விழுந்தார். தலையில் படுகாயம் அடைந்த அவர், கரூரில் உள்ள தனியார் மருத்துவமனைக்கு செல்லும் வழியில் உயிரிழந்தார். இதுகுறித்து அவரது மனைவி கோமதி (21 வயது), போலீசில் புகார் செய்தார்.\n📍 இடம்: வைரமடை சாலை, தென்னிலை அருகே\n🗓️ நாள்: கடந்த 11ஆம் தேதி மாலை\n👮 நடவடிக்கை: தென்னிலை போலீசார் விசாரித்து வருகின்றனர்\n\nThennilai bike accident youth dies | Karur news\n📍 தென்னிலை, கரூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Thennilai #சாலை_விபத்து #KarurNews",
-   "prompts": "A Tamil Nadu police constable in khaki uniform stands beside a parked Bajaj Pulsar motorcycle on the Vairamadai road near Thennilai in Karur district, while two villagers in shirts and veshti stand at a distance on the roadside. The narrow rural tar road runs between green paddy fields and a few banana trees, with a low concrete compound wall and a small village house on one side. A couple of two-wheelers and an autorickshaw are parked at the edge of the road, and a Tamil Nadu police jeep is parked a little further away. It is early evening, with soft golden light fading over the fields and a faint haze in the air. The people are seen from behind or far away, and no injuries or blood are visible. Camera at eye level, 35 mm, wide enough to show the road, fields and the bike. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a black and silver Bajaj Pulsar motorcycle lying on the edge of a rural tar road near Thennilai in Karur district, its handlebar slightly tilted and its side mirror cracked. Beside it, the rough shoulder of the road has loose gravel and dry leaves, and a green paddy field stretches behind a low mud bund. A pair of worn rubber slippers lies on the road nearby, and a police constable's khaki-clad leg is visible at the edge of the frame. It is evening with warm fading daylight, and the mood is quiet and sombre. No blood, no injured person, and no readable number plates or text. Camera at slightly high angle, 35 mm, shallow depth of field focusing on the motorcycle. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/youth-dies-after-falling-from-bike/4375799",
-   "published": "2026-11-14T07:01:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "அரவக்குறிச்சி அருகே பஸ்கள் நிற்காததால் பொதுமக்கள் சாலை மறியலில் ஈடுபட்டனர். அரவக்குறிச்சி அருகே உள்ள குமரன்டாண்வலசு பகுதியில் நேற்று காலை 6:30 மணி அளவில் இந்த போராட்டம் நடைபெற்றது. இப்பகுதி மக்கள் அரவக்குறிச்சிக்கு செல்ல 2 கிலோமீட்டர் தூரம் நடந்து செல்ல வேண்டிய நிலை உள்ளது. இதற்காக கடந்த ஆண்டு நாடாளுமன்ற உறுப்பினர் நிதியில் பயணிகள் நிழற்கூடம் அமைக்கப்பட்டது. ஆனால் நிழற்கூடம் அமைக்கப்பட்டும் பஸ்கள் அங்கு நின்று செல்வதில்லை என மக்கள் புகார் தெரிவித்துள்ளனர். ஏற்கனவே 10 நாட்களுக்கு முன்பு இதே காரணத்திற்காக மக்கள் மறியலில் ஈடுபட்டனர். அப்போது அதிகாரிகள் உறுதி அளித்த நிலையில் எந்த நடவடிக்கையும் எடுக்கப்படாததால் மீண்டும் போராட்டம் வெடித்தது. பள்ளப்பட்டியில் இருந்து கரூர் செல்லும் முக்கிய சாலையில் 1 மணி நேரத்திற்கு மேலாக போக்குவரத்து பாதிக்கப்பட்டது. ஓரிரு நாட்களில் பஸ்கள் நின்று செல்ல நடவடிக்கை எடுக்கப்படும் என போலீசார் உறுதி அளித்தனர். இதையடுத்து பொதுமக்கள் போராட்டத்தை கைவிட்டு கலைந்து சென்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 அரவக்குறிச்சி அருகே பஸ்கள் நிற்காததால் சாலை மறியல் - 1 மணி நேரம் போக்குவரத்து பாதிப்பு\n\n📰 முழு விவரம்:\nஅரவக்குறிச்சி அருகே உள்ள குமரன்டாண்வலசு பகுதியில் பஸ்கள் நின்று செல்லாததைக் கண்டித்து பொதுமக்கள் நேற்று காலை 6:30 மணிக்கு திடீர் சாலை மறியலில் ஈடுபட்டனர். இப்பகுதி மக்கள் அரவக்குறிச்சி செல்ல 2 கி.மீ. தூரம் நடக்க வேண்டியுள்ளதால், கடந்த ஆண்டு எம்.பி. நிதியில் நிழற்கூடம் கட்டப்பட்டது. இருப்பினும் பஸ்கள் அங்கு நிற்காமல் செல்வதால் மக்கள் அதிருப்தி அடைந்துள்ளனர். 10 நாட்களுக்கு முன்பும் இதேபோல மறியல் நடந்த நிலையில், அதிகாரிகள் நடவடிக்கை எடுக்காததால் மீண்டும் போராட்டம் நடைபெற்றது. இதனால் பள்ளப்பட்டி - கரூர் சாலையில் 1 மணி நேரம் போக்குவரத்து பாதிக்கப்பட்டது. ஓரிரு நாட்களில் நடவடிக்கை எடுக்கப்படும் என போலீசார் உறுதியளித்ததை அடுத்து மறியல் கைவிடப்பட்டது.\n\n📍 இடம்: குமரன்டாண்வலசு, அரவக்குறிச்சி\n🗓️ நாள்: 13 நவம்பர் 2026\n🕘 நேரம்: காலை 6:30 மணி\n👮 நடவடிக்கை: போலீசார் பேச்சுவார்த்தை, 2 நாளில் நடவடிக்கை உறுதி\n\nAravakurichi road blockade Kumaranthanvalasu bus stop issue | Karur news\n📍 Kumaranthanvalasu, Aravakurichi | 14 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #சாலைமறியல் #KarurNews",
+   "prompts": "A line of local residents blocks the main road, standing shoulder‑to‑shoulder across the carriageway to prevent buses from passing. The protest is the focal action, with people holding makeshift barriers and gesturing towards the approaching traffic. The scene is set on the highway through Kumaranthanvalasu, a rural stretch of road flanked by a modest bus shelter made of metal and a concrete base, typical of Karur’s roadside stops. From behind, the protesters wear simple shirts and veshti, some in sarees, and a few police officers in khaki stand a short distance away, their jeep parked near the shelter. Early morning light casts long shadows; the sky is clear. Shot at eye level with a 35 mm lens, wide enough to capture the road, shelter and the line of protesters. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of the bus shelter at Kumaranthanvalasu, showing its metal roof, painted signboard (blurred to avoid legible text) and a police officer’s hand resting on the shelter’s pole, indicating official attention. The shelter sits on a concrete pad beside the road, with a few discarded flyers and a small wooden barricade placed in front. The background hints at the road surface and a distant line of halted traffic. The lighting is soft morning daylight, no rain. Camera positioned slightly high, 35 mm, focusing on the shelter and the officer’s uniform, providing a clear detail that signals the cause of the blockade. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/buses-stopped-protest-resumes/4375805",
+   "published": "2026-11-14T07:04:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644658/karur360/jdpqiijoq9wdxma3dohk.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644732/karur360/vr26vtdvebhqsoytkmxx.jpg"
-   ]
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657747/karur360/uyu1i4xd08zudyvkghmr.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657747/karur360/uu5thiln57a5uugc5mc1.jpg"
+   ],
+   "real_photo": "Dinamalar"
   },
   {
-   "tamil_headline": "குளித்தலை அருகே பணம் வைத்து சூதாடிய ஐந்து பேர் கைது",
-   "english_headline": "Five men arrested for gambling for money near Kulithalai; Rs 1,000 seized",
-   "category": "Crime & Safety",
-   "location": "Kasthuri Kurumbapatti, Kulithalai taluk, Karur district",
+   "tamil_headline": "தாதகவுண்டனூர் வளைவு சாலையில் விபத்து அபாயம்: வேகத்தடை அமைக்க கோரிக்கை",
+   "english_headline": "Dangerous curve on Thathagavundanur road in Krishnarayapuram: residents demand a speed breaker to prevent accidents",
+   "category": "Roads & Transport",
+   "location": "Thathagavundanur curve road near Pudhupatti, Krishnarayapuram, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "கஸ்தூரி குரும்பபட்டி, குளித்தலை",
-    "hl1": "குளித்தலை அருகே சூதாடிய 5 பேர் கைது",
-    "hl2": "ரூ.1,000 பறிமுதல்",
+    "cat": "சாலை பாதுகாப்பு",
+    "loc": "கிருஷ்ணராயபுரம்",
+    "hl1": "கிருஷ்ணராயபுரத்தில் விபத்து அபாய வளைவு",
+    "hl2": "வேகத்தடை அமைக்க கோரிக்கை",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே?",
       "lines": [
-       "குளித்தலை அடுத்த கஸ்தூரி குரும்பபட்டியில் பணம் வைத்து",
-       "பாலவிடுதி போலீசார் சம்பவ இடத்தை சுற்றி வளைத்தனர்",
-       "தகவலின்படி நேற்று முன்தினம் நடவடிக்கை"
+       "தாதகவுண்டனூர் வளைவு சாலையில்",
+       "புதுப்பட்டி வளைவு சாலை அருகே",
+       "கிருஷ்ணராயபுரம் அடுத்த பகுதி"
       ]
      },
      {
-      "title": "யார் கைது?",
+      "title": "ஏன் ஆபத்து?",
       "lines": [
-       "ராஜ்குமார், 28 - தூளிபட்டி",
-       "தமிழ்வாணன், 28 - நல்லூர்பட்டி",
-       "அந்தோணி பீட்டர், 33 - மணப்பாறை"
+       "வளைவில் வேகமாக வரும் வாகன ஓட்டிகள் கீழே விழுகின்றனர்",
+       "வளைவு பிரிவு சாலையில் அடிக்கடி விபத்துகள் நடக்கின்றன",
+       "பிரிவுகளில் மூன்று பிரிவு சாலையாக இருக்கிறது"
       ]
      },
      {
-      "title": "மேலும் இருவர்",
+      "title": "என்ன கோரிக்கை?",
       "lines": [
-       "ராஜலிங்கம், 37 - கஸ்தூரி குரும்பபட்டி",
-       "சதீஷ்குமார், 30 - ஐந்து பேரில் ஒருவர்",
-       "ஐந்து பேரும் போலீசாரால் கைது செய்யப்பட்டனர்"
-      ]
-     },
-     {
-      "title": "பறிமுதல்",
-      "lines": [
-       "அவர்களிடமிருந்து <b>ரூ.1,000</b> பறிமுதல்",
-       "பணம் வைத்து சூதாடியதாக வழக்குப் பதிவு",
-       "சூதாட்டத்தைத் தடுக்கும் நடவடிக்கை தொடரும்"
+       "வளைவு சாலை அருகே <b>வேகத்தடை</b> அமைக்க வேண்டும்",
+       "விபத்துகளைத் தடுக்க நடவடிக்கை எடுக்க வேண்டும்",
+       "மகாதானபுரம் முதல் பஞ்சப்பட்டி வரை நெடுஞ்சாலை செல்கிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "குளித்தலை அருகே பணம் வைத்து சூதாடிய ஐந்து பேர் போலீசாரால் கைது செய்யப்பட்டனர். குளித்தலை அடுத்த கஸ்தூரி குரும்பபட்டியில் பணம் வைத்து சூதாடுவதாக வந்த தகவலின்படி, நேற்று முன்தினம் பாலவிடுதி போலீசார் அங்கு சென்றனர். போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். தூளிபட்டியைச் சேர்ந்த 28 வயது ராஜ்குமார், நல்லூர்பட்டியைச் சேர்ந்த 28 வயது தமிழ்வாணன், மணப்பாறையைச் சேர்ந்த 33 வயது அந்தோணி பீட்டர் ஆகியோர் கைது செய்யப்பட்டனர். கஸ்தூரி குரும்பபட்டியைச் சேர்ந்த 37 வயது ராஜலிங்கம், 30 வயது சதீஷ்குமார் ஆகியோரும் கைது செய்யப்பட்டனர். அவர்களிடமிருந்து ரூ.1,000 பறிமுதல் செய்யப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த கஸ்தூரி குரும்பபட்டியில் பணம் வைத்து சூதாடுவதாக வந்த தகவலின்படி, நேற்று முன்தினம் பாலவிடுதி போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். அங்கு சூதாடிக்கொண்டிருந்த ஐந்து பேர் கைது செய்யப்பட்டனர். அவர்களிடமிருந்து ரூ.1,000 பறிமுதல் செய்யப்பட்டது.\n📍 இடம்: கஸ்தூரி குரும்பபட்டி, குளித்தலை அடுத்த பகுதி\n👮 நடவடிக்கை: பாலவிடுதி போலீசார் கைது செய்து பணத்தைப் பறிமுதல் செய்தனர்\n\nKulithalai gambling 5 arrested | Karur news\n📍 கஸ்தூரி குரும்பபட்டி, குளித்தலை, கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "Tamil Nadu police in khaki stand over five men seated on a cloth spread on the ground under a shade tree in a village outskirts near Kulithalai, Karur district, as the men are caught in an illegal card gambling raid. The setting is a rural open ground with mud houses, a dirt path, paddy fields and banana plants behind. The men, in shirts and veshti, sit with hands raised or lowered, seen from behind and at a distance, their faces not visible. A police jeep is parked on the dirt road nearby. Daylight, soft afternoon light, shot at eye level with a 35 mm lens wide enough to show the field and the police vehicle. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cloth mat on dusty village ground with a scattered deck of playing cards and a small bundle of seized Rs 1,000 in rupee notes placed on top, a police officer's khaki-clad boot visible at the edge of the frame. Behind the mat, a blurred background of dry earth and a few banana leaves in soft daylight. The shot is taken from slightly high, 35 mm, emphasising the cards and cash as evidence of the gambling raid, with no readable text or faces visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/save-up-to-five-people-on-gambling-with-money/4375803",
-   "published": "2026-11-14T07:03:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 28, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி'); 33, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி'); 37, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி'); 30, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி')",
+   "reel_script": "கிருஷ்ணராயபுரம் அருகே தாதகவுண்டனூர் வளைவு சாலையில் விபத்து ஏற்படும் நிலை உள்ளது. இங்கு வேகத்தடை அமைக்க வேண்டும் என்று கோரிக்கை எழுந்துள்ளது. இந்தப் பகுதி வளைவு சாலையாக இருப்பதால், வாகன ஓட்டிகள் வேகமாக வந்து வளைவில் திரும்பும்போது கீழே விழுகின்றனர். வளைவு பிரிவு சாலையில் வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கிக்கொள்கின்றனர். எனவே, புதுப்பட்டி வளைவு சாலை அருகே வேகத்தடை அமைத்து விபத்துகளைத் தடுக்க வேண்டும். கிருஷ்ணராயபுரம் அடுத்த மகாதானபுரம் நெடுஞ்சாலை பிரிவு சாலை முதல், புதுப்பட்டி, பழைய ஜெயங்கொண்டம், பஞ்சப்பட்டி வரை நெடுஞ்சாலை செல்கிறது. இதன் பிரிவுகளில் இருந்து தாதகவுண்டனூர் செல்லும் வழித்தடம் மூன்று பிரிவு சாலையாக உள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 கிருஷ்ணராயபுரம் தாதகவுண்டனூர் வளைவில் விபத்து அபாயம்: வேகத்தடை கோரிக்கை\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த தாதகவுண்டனூர் வளைவு சாலையில் விபத்து ஏற்படும் நிலை உள்ளது. எனவே புதுப்பட்டி வளைவு சாலை அருகே வேகத்தடை அமைக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது.\nஇந்தப் பகுதி வளைவு சாலையாக இருப்பதால், வாகன ஓட்டிகள் வேகமாக வந்து வளைவில் திரும்பும்போது கீழே விழுகின்றனர். வளைவு பிரிவு சாலையில் வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கிக்கொள்கின்றனர்.\nகிருஷ்ணராயபுரம் அடுத்த மகாதானபுரம் நெடுஞ்சாலை பிரிவு சாலை முதல், புதுப்பட்டி, பழைய ஜெயங்கொண்டம், பஞ்சப்பட்டி வரை நெடுஞ்சாலை செல்கிறது. இதன் பிரிவுகளில் இருந்து தாதகவுண்டனூர் செல்லும் வழித்தடம் மூன்று பிரிவு சாலையாக உள்ளது.\n🚗 வளைவு சாலைகளில் வேகத்தைக் குறைத்து கவனமாகச் செல்லுங்கள்.\n\nThathagavundanur curve road accident risk, speed breaker demand | Karur news\n📍 தாதகவுண்டனூர், கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
+   "prompts": "A two-wheeler rider leans hard into a sharp bend on a narrow rural highway branch road near Pudhupatti in Krishnarayapuram, Karur district, as the road curves away between paddy fields and low village houses. Behind him a few residents stand at the roadside, watching the curve from a distance, their backs partly turned toward the camera. Two-wheelers and a car are parked near a three-way junction where the road splits. The road surface is bare tar with no speed breaker in sight, and the bend is clearly unmarked and sudden. Bright daylight with a clear sky and dry road. Shot at eye level on a 35 mm lens, wide enough to show the curve, the junction and the open fields beyond. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the bare tarred road surface at the sharp curve on the Thathagavundanur link road, with the edge of the carriageway and loose gravel and dust at the verge where riders have skidded. No speed breaker or warning marking is present on the approach to the bend. A single two-wheeler's tyre tracks curve across the tar, and a small patch of paddy field lies beyond the shoulder. Plain daylight, dry road, no people in focus. Shot low at ground level on a 35 mm lens to emphasise the sudden turn and the absence of any safety measure. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/a-speed-limit-is-required-to-prevent-an-accident-in-the-curve-area/4375812",
+   "published": "2026-11-14T07:08:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644750/karur360/jiwo24bgpeiic1wlr4iu.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644807/karur360/zemagfjzgmwesixyudig.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657805/karur360/hkxz69ahv0qzkc8a5p2a.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657813/karur360/tufluin9is0onhexkjnp.jpg"
    ]
   },
   {
-   "tamil_headline": "குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்",
-   "english_headline": "Cockfight near Kulithalai: 4 booked, 9 bikes seized",
-   "category": "Crime & Safety",
-   "location": "Kakkayampatti Nalroad, Kulithalai, Karur district",
+   "tamil_headline": "கரூர் பள்ளிகளில் குழந்தைகள் தின விழா: 83 ஆயிரத்துக்கும் மேற்பட்டோருக்கு கேக் வழங்கல்",
+   "english_headline": "Children's Day cake and greeting card distribution in Karur district schools; over 83,000 people given cakes",
+   "category": "Education",
+   "location": "Jegathabi, Karur district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "காக்காயம்பட்டி, குளித்தலை",
-    "hl1": "குளித்தலை அருகே சேவல் சண்டை: 4 பேர்",
-    "hl2": "9 பைக்குகள் பறிமுதல்",
+    "cat": "பள்ளி நிகழ்ச்சி",
+    "loc": "ஜெகதாபி, கரூர்",
+    "hl1": "ஜெகதாபியில் குழந்தைகள் தின கேக் விழா",
+    "hl2": "மாவட்டம் முழுவதும் 83",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே நடந்தது?",
       "lines": [
-       "குளித்தலை அடுத்த காக்காயம்பட்டி நால்ரோடு அருகே சேவல் சண்டை",
-       "பண்ணைக்களம் பகுதியில் நடைபெற்றதாக தகவல் கிடைத்தது",
-       "தோகைமலை போலீசார் சுற்றி வளைத்தனர்"
+       "ஜெகதாபி அரசு மாதிரி மேல்நிலைப் பள்ளியில் விழா",
+       "குளித்தலை அரசு பெண்கள் மேல்நிலைப் பள்ளியிலும் விழா",
+       "குழந்தைகள் தின விழாவையொட்டி நடைபெற்றது"
       ]
      },
      {
-      "title": "யார் மீது வழக்கு?",
+      "title": "யார் வழங்கினார்?",
       "lines": [
-       "திருச்சி மாவட்டம் தொட்டியம் பூபதி, 29 வயது",
-       "ரத்தினவேல், 29 வயது, நாதிப்பட்டி காமராஜ், 21 வயது",
-       "கொசூர் வீரமலை, 30 வயது - 4 பேர் மீதும் வழக்கு"
+       "கலெக்டர் பிரசன்னா ராமசாமி கேக் வழங்கினார்",
+       "<b>501 பேருக்கு</b> கேக், வாழ்த்து அட்டை வழங்கல்",
+       "குளித்தலையில் வழங்கியவர் தினேஷ் பொன்ராஜ் ஆலிவர்"
       ]
      },
      {
-      "title": "பறிமுதல்",
+      "title": "மாவட்ட அளவில்",
       "lines": [
-       "இவர்களிடம் இருந்து <b>9 பைக்</b> பறிமுதல் செய்யப்பட்டது",
-       "எஸ்.ஐ. பாலசுப்பிரமணியன் தலைமையில் சோதனை",
-       "வழக்கு தோகைமலை போலீசாரால் பதிவு செய்யப்பட்டது"
+       "<b>875</b> அரசு, அரசு உதவி பெறும் பள்ளிகளில் விழா",
+       "<b>83,097</b> பேருக்கு கேக் வழங்கப்பட்டது",
+       "வாழ்த்து அட்டைகள் <b>77,962</b> பேருக்கு வழங்கப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "குளித்தலை அருகே சேவல் சண்டை நடத்தியதாக 4 பேர் மீது வழக்குப் பதிவு செய்யப்பட்டது. குளித்தலை அடுத்த காக்காயம்பட்டி நால்ரோடு அருகே பண்ணைக்களம் பகுதியில் சேவல் சண்டை நடைபெறுவதாக தோகைமலை போலீசாருக்கு தகவல் கிடைத்தது. இதையடுத்து காவல் உதவி ஆய்வாளர் பாலசுப்பிரமணியன் தலைமையில் போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம் தொட்டியத்தைச் சேர்ந்த 29 வயது பூபதி, 29 வயது ரத்தினவேல், நாதிப்பட்டியைச் சேர்ந்த 21 வயது காமராஜ், கொசூரைச் சேர்ந்த 30 வயது வீரமலை ஆகியோர் மீது தோகைமலை போலீசார் வழக்குப் பதிவு செய்தனர். அவர்களிடம் இருந்து 9 பைக்குகள் பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த காக்காயம்பட்டி நால்ரோடு அருகே பண்ணைக்களம் பகுதியில் சேவல் சண்டை நடைபெறுவதாக தோகைமலை போலீசாருக்கு தகவல் கிடைத்தது. எஸ்.ஐ. பாலசுப்பிரமணியன் தலைமையில் போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். சேவல் சண்டையில் ஈடுபட்டதாக 4 பேர் மீது வழக்குப் பதிவு செய்யப்பட்டது. அவர்களிடம் இருந்து 9 பைக்குகள் பறிமுதல் செய்யப்பட்டன.\n\n📍 இடம்: காக்காயம்பட்டி நால்ரோடு அருகே பண்ணைக்களம், குளித்தலை\n🗓️ நாள்: நவம்பர் 14, 2026\n👮 நடவடிக்கை: தோகைமலை போலீசார் வழக்குப் பதிவு; 9 பைக் பறிமுதல்\n\nKulithalai cockfight 4 booked, 9 bikes seized | Karur news\n📍 குளித்தலை, கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "Nine parked two-wheelers stand in a dusty open farm clearing (pannaikkalam) on the outskirts of Kulithalai, Karur district, as khaki-uniformed Tamil Nadu police officers gather beside them in the early daylight. A sub-inspector stands in the middle of the group while constables surround the open ground, marking the raid on the cockfight site. Four men stand at a distance with their backs to the camera, dressed in plain shirts and veshti or trousers, held near the police jeep. Behind them are scattered dry bushes, a mud-brick farm shed, a few banana plants and open paddy fields flat under a pale sky. The bikes are typical Indian motorcycles and scooters, all lined up neatly with their stands down. The scene is unadorned, with no visible text or signboards. Camera at eye level, 35 mm lens, wide enough to show the bikes, the police and the open farm land. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose detail of the seized two-wheelers parked in a row on dry, dusty earth at a Kulithalai farm clearing, with a khaki-clad police constable's boots and the hem of a khaki uniform visible at the edge of the frame. Several motorcycle handlebars, side mirrors and fuel tanks are visible, with a bamboo fence and dry paddy stubble in the background. A small pile of loose cock-fighting feathers and a sisal rope lie on the ground near the bikes, suggesting the illicit event, but nothing gory. Soft, flat daylight falls on the dust, and the scene is calm with no people's faces visible. Camera slightly high, 35 mm lens, shallow depth of field keeping the nearest bike sharp and the police figure softly blurred behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/4-booked-for-cockfighting/4375801",
-   "published": "2026-11-14T07:02:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 29, ('அப்போது சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம், தொட்ட'); 21, ('அப்போது சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம், தொட்ட'); 30, ('அப்போது சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம், தொட்ட')",
+   "reel_script": "ஜெகதாபி அரசு மாதிரி மேல்நிலைப் பள்ளியில் குழந்தைகள் தின விழாவையொட்டி மாணவர்களுக்கு கேக் வழங்கப்பட்டது. 265 மாணவர்கள், 236 மாணவியர் என மொத்தம் 501 பேருக்கு கேக் வழங்கப்பட்டது. கலெக்டர் பிரசன்னா ராமசாமி கேக் மற்றும் முதல்வர் விஜயின் குழந்தைகள் தின வாழ்த்து அட்டைகளை வழங்கினார். கிருஷ்ணராயபுரம் தவெக சட்டமன்ற உறுப்பினர் சத்யா, மாவட்ட முதன்மை கல்வி அலுவலர் ராஜூ, கரூர் வருவாய் கோட்டாட்சியர் கார்த்திகேயன் ஆகியோர் உடனிருந்தனர். குளித்தலை அரசு பெண்கள் மேல்நிலைப் பள்ளியில் நடந்த விழாவில் மாணவியருக்கு கேக் வழங்கியவர் தினேஷ் பொன்ராஜ் ஆலிவர். அவர் தமிழ்நாடு குடிநீர் வடிகால் வாரிய மேலாண்மை இயக்குனரும், கரூர் மாவட்ட கண்காணிப்பு அலுவலரும் ஆவார். மாவட்ட வருவாய் அலுவலர் தங்கவேல் உள்ளிட்ட அரசு அதிகாரிகள் உடனிருந்தனர். கரூர் மாவட்டத்தில் 875 அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில் 83,097 பேருக்கு கேக் வழங்கப்பட்டுள்ளது. 77,962 மாணவ, மாணவியருக்கு வாழ்த்து அட்டைகள் வழங்கப்பட்டன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎂 ஜெகதாபியில் குழந்தைகள் தின கேக் விழா: 501 மாணவர்களுக்கு கேக்\n\n📰 முழு விவரம்:\nகுழந்தைகள் தின விழாவையொட்டி ஜெகதாபி அரசு மாதிரி மேல்நிலைப் பள்ளியில் மாணவ, மாணவியருக்கு கேக் வழங்கும் விழா நடைபெற்றது.\n265 மாணவர், 236 மாணவியர் என மொத்தம் 501 பேருக்கு கேக் மற்றும் முதல்வர் விஜயின் குழந்தைகள் தின வாழ்த்து அட்டைகளை கலெக்டர் பிரசன்னா ராமசாமி வழங்கினார்.\nகிருஷ்ணராயபுரம் தவெக எம்.எல்.ஏ. சத்யா, மாவட்ட முதன்மை கல்வி அலுவலர் ராஜூ, கரூர் ஆர்.டி.ஓ. கார்த்திகேயன் மற்றும் ஆசிரியர்கள் உடனிருந்தனர்.\nகுளித்தலை அரசு பெண்கள் மேல்நிலைப் பள்ளியில் நடந்த விழாவில் தினேஷ் பொன்ராஜ் ஆலிவர் மாணவியருக்கு கேக் வழங்கினார். டி.ஆர்.ஓ. தங்கவேல் உள்ளிட்ட அதிகாரிகள் உடனிருந்தனர்.\nகரூர் மாவட்டத்தில் 875 அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில் படிக்கும் மாணவ, மாணவியர், ஆசிரியர்கள், அலுவலக பணியாளர்கள் என 83,097 பேருக்கு கேக் வழங்கப்பட்டது. 77,962 மாணவ, மாணவியருக்கு குழந்தைகள் தின வாழ்த்து அட்டைகள் வழங்கப்பட்டன.\n\nKarur Children's Day cake distribution to schools | Karur news\n📍 ஜெகதாபி, கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Jegathabi #KarurNews #கரூர்",
+   "prompts": "A group of Tamil Nadu government school students in school uniform stand in rows on the campus of Government Model Higher Secondary School in Jegathabi, Karur district, receiving cakes from a table as a Collector and teachers stand nearby. The school has single-storey brick classroom blocks with tiled roofs, a tall tree and a tiled verandah, and the boys wear white shirts and grey trousers while the girls wear white blouses and navy skirts or pavadai. Several cake boxes and plates of cake sit on a long table covered with a white cloth, and small Children's Day greeting cards are held in the hands of some students. Officials and teachers stand at the table, dressed in formal shirts and sarees, seen from behind or in the distance. It is a bright daytime scene with soft natural light on the campus, and the photo is taken at eye level with a 35 mm wide lens so that the school building and the crowd of students fill the frame. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cake-greeting-cards-distributed-to-school-children/4375794",
+   "published": "2026-11-14T06:56:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 77962, 83097; caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('* கரூர் மாவட்டத்தில், 875 அரசு மற்றும் அரசு உதவி பெறும் பள்ள'); 83 ('* கரூர் மாவட்டத்தில், 875 அரசு மற்றும் அரசு உதவி பெறும் பள்ள'); 97 ('* கரூர் மாவட்டத்தில், 875 அரசு மற்றும் அரசு உதவி பெறும் பள்ள'); 77 ('அதேபோல், 77 ஆயிரத்து, 962 மாணவ, மாணவியருக்கு குழந்தைகள் தின '); 962 ('அதேபோல், 77 ஆயிரத்து, 962 மாணவ, மாணவியருக்கு குழந்தைகள் தின ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657824/karur360/jgbcwozrfvc88cg1jrgj.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் அருகே விரிவாக்க சாலையில் மின் விளக்கு இல்லை: வாகன ஓட்டுனர்கள் அச்சம்",
+   "english_headline": "No street lights on newly widened road near Karur; drivers fear for safety",
+   "category": "Roads & Transport",
+   "location": "Karur - Trichy old road, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை பிரச்சனை",
+    "loc": "கரூர் - திருச்சி பழைய சாலை",
+    "hl1": "கரூர் அருகே விரிவாக்க சாலையில் மின்",
+    "hl2": "வாகன ஓட்டிகள் அச்சம்",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "கரூர் - திருச்சி பழைய சாலையில் விரிவாக்கப் பணிகள் நிறைவு",
+       "புதிய விரிவாக்க சாலையில் மின் கம்பங்கள் அமைக்கப்படவில்லை",
+       "சாலை இருளில் மூழ்கியுள்ளது"
+      ]
+     },
+     {
+      "title": "எந்த வழி?",
+      "lines": [
+       "தொழிற்பேட்டை, எஸ்.வெள்ளாப்பட்டி வழியாகச் செல்லும் சாலை",
+       "மேலப்பாளையம், முடக்கு சாலை வழியாக 25க்கும் மேற்பட்ட",
+       "டாஸ்மாக் குடோனுக்கும் கொசுவலை நிறுவனங்களுக்கும் நாள்தோறும்"
+      ]
+     },
+     {
+      "title": "வாகன ஓட்டிகள்",
+      "lines": [
+       "வாகன ஓட்டிகள் அச்சத்தில் உள்ளனர்",
+       "புதிய சாலையில் மின் கம்பங்கள் அமைத்து விளக்குகள் பொருத்த",
+       "நெடுஞ்சாலைத் துறை அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே புதிதாக விரிவாக்கப்பட்ட சாலையில் மின் விளக்குகள் இல்லாததால் வாகன ஓட்டிகள் அச்சத்தில் உள்ளனர். கரூர் - திருச்சி பழைய சாலையில் சாலை விரிவாக்கப் பணிகள் சமீபத்தில் நிறைவடைந்து, தடுப்புகள் வைக்கப்பட்டுள்ளன. ஆனால் இந்தச் சாலையில் இதுவரை மின் கம்பங்கள் அமைக்கப்படவில்லை. இதனால் புதிய விரிவாக்க சாலை இருளில் மூழ்கியுள்ளது. தொழிற்பேட்டை, எஸ்.வெள்ளாப்பட்டி, மேலப்பாளையம், முடக்கு சாலை வழியாக 25க்கும் மேற்பட்ட கிராமங்களுக்குப் பேருந்து, லாரி உள்ளிட்ட வாகனங்கள் செல்கின்றன. டாஸ்மாக் குடோனுக்கும் கொசுவலை நிறுவனங்களுக்கும் நாள்தோறும் 100க்கும் மேற்பட்ட லாரிகள் சென்று வருகின்றன. புதிய விரிவாக்க சாலையில் மின் கம்பங்கள் அமைத்து விளக்குகளைப் பொருத்த நெடுஞ்சாலைத் துறை அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என வாகன ஓட்டிகள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛣️ கரூர் அருகே விரிவாக்க சாலையில் மின் விளக்கு இல்லை: வாகன ஓட்டிகள் அச்சம்\n\n📰 முழு விவரம்:\nகரூர் - திருச்சி பழைய சாலையில் சாலை விரிவாக்கப் பணிகள் சமீபத்தில் நிறைவடைந்து, தடுப்புகள் வைக்கப்பட்டுள்ளன. ஆனால் இதுவரை மின் கம்பங்கள் அமைக்கப்படவில்லை; புதிய சாலை இருளில் மூழ்கியுள்ளது.\n🚛 தொழிற்பேட்டை, எஸ்.வெள்ளாப்பட்டி, மேலப்பாளையம், முடக்கு சாலை வழியாக 25க்கும் மேற்பட்ட கிராமங்களுக்குப் பேருந்து, லாரி உள்ளிட்ட வாகனங்கள் செல்கின்றன.\n🏭 டாஸ்மாக் குடோன், கொசுவலை நிறுவனங்களுக்கு நாள்தோறும் 100க்கும் மேற்பட்ட லாரிகள் சென்று வருகின்றன.\n⚠️ இதனால் அந்த வழியில் செல்லும் வாகன ஓட்டிகள் அச்சத்தில் உள்ளனர்.\n📍 இடம்: கரூர் - திருச்சி பழைய சாலை, கரூர் மாவட்டம்\n👮 எதிர்பார்ப்பு: புதிய விரிவாக்க சாலையில் மின் கம்பங்கள் அமைத்து விளக்குகளைப் பொருத்த நெடுஞ்சாலைத் துறை அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்.\n\nKarur new road no street lights, drivers fear | Karur news\n📍 கரூர் - திருச்சி பழைய சாலை, கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A row of lorries and a town bus move slowly along a newly widened two-lane road on the outskirts of Karur city, their headlights cutting through the darkness as drivers struggle to see the road ahead. The road is lined with a fresh concrete median barricade, and there are no street lights or electric poles along the stretch, only the dim glow of the vehicles' lamps. Shadows of the empty industrial estate and a few low sheds stand at the roadside. Behind the vehicles, a two-wheeler rider in a shirt and trousers, seen from behind, slows down. Night time, dark sky, no moon visible. Camera: eye level, slightly high, 35 mm, wide enough to show the full stretch of road, long exposure with light trails from headlights. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the freshly laid concrete road barricade running along the edge of a newly widened road, its white-grey surface catching the faint light from a passing lorry's headlamps. Beyond it, the bare asphalt stretches into darkness with no street light poles or electric wires in sight, only an empty roadside of dry grass and dust. A two-wheeler's front wheel and a lorry's tyre are partly visible at the edge of the frame. Night time, dim ambient light. Camera: low angle close to the barricade, 50 mm, shallow depth of field so the barricade is sharp and the dark road recedes behind it. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/drivers-expect-electric-lights-on-expansion-road/4375795",
+   "published": "2026-11-14T06:57:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644832/karur360/y7irj3pc9wye04n3alkd.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644856/karur360/uxdbopkxqgaqpg09vldy.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657841/karur360/jwkwsgyogspbchuxjnoy.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657845/karur360/jis6viaomzz36p7rhhmg.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கிருஷ்ணராயபுரம் பகுதியில் உளுந்து செடிகளின் களைகள் அகற்றம்",
+   "english_headline": "Weeding of urad bean plants underway in Krishnarayapuram farmlands after rain",
+   "category": "Weather & Agriculture",
+   "location": "Vayalur, Panchapatti, Sivayam, Pappakapatti and Pothu Rawuthanpatti, Krishnarayapuram, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விவசாயம்",
+    "loc": "கிருஷ்ணராயபுரம்",
+    "hl1": "கிருஷ்ணராயபுரத்தில் உளுந்து களை அகற்றம்",
+    "hl2": "மழையால் பயிர்கள் நன்கு",
+    "slides": [
+     {
+      "title": "எங்கே விதைத்தனர்?",
+      "lines": [
+       "கிருஷ்ணராயபுரம் அடுத்த வயலூர், பஞ்சப்பட்டி பகுதிகளில்",
+       "சிவாயம், பாப்பகாப்பட்டி, போத்து ராவுத்தன்பட்டியிலும்",
+       "மானாவாரி நிலங்களில் உளுந்து விதைகளைத் தெளித்தனர்"
+      ]
+     },
+     {
+      "title": "தற்போதைய நிலை",
+      "lines": [
+       "மழையால் உளுந்து விதைகள் முளைத்து வளர்ந்து வருகின்றன",
+       "செடிகளின் நடுவில் உள்ள களைகளை அகற்றும் பணி நடைபெறுகிறது",
+       "விவசாயக் கூலித் தொழிலாளர்கள் பணியில் ஈடுபட்டுள்ளனர்"
+      ]
+     },
+     {
+      "title": "மழையின் பலன்",
+      "lines": [
+       "மானாவாரி உளுந்து செடிகளுக்கு மழை நீர் கிடைத்துள்ளது",
+       "அதனால் செடிகள் நன்கு வளர்ச்சி கண்டுள்ளன"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கிருஷ்ணராயபுரம் பகுதியில் உளுந்துச் செடிகளின் நடுவில் உள்ள களைகளை அகற்றும் பணி நடைபெறுகிறது. வயலூர், பஞ்சப்பட்டி, சிவாயம், பாப்பகாப்பட்டி, போத்து ராவுத்தன்பட்டி ஆகிய பகுதிகளில் உள்ள மானாவாரி நிலங்களில் விவசாயிகள் உளுந்து விதைகளைத் தெளித்துள்ளனர். தற்போது பெய்த மழையால் உளுந்து விதைகள் முளைத்து நன்கு வளர்ந்து வருகின்றன. விவசாயக் கூலித் தொழிலாளர்கள் இந்தக் களையெடுக்கும் பணியில் ஈடுபட்டுள்ளனர். மானாவாரி உளுந்துச் செடிகளுக்கு மழை நீர் கிடைத்துள்ளதால் அவை நன்கு வளர்ச்சி கண்டுள்ளன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌱 கிருஷ்ணராயபுரத்தில் உளுந்துச் செடிகளின் களைகள் அகற்றும் பணி தீவிரம்\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த வயலூர், பஞ்சப்பட்டி, சிவாயம், பாப்பகாப்பட்டி, போத்து ராவுத்தன்பட்டி ஆகிய பகுதிகளில் உள்ள மானாவாரி நிலங்களில் விவசாயிகள் உளுந்து விதைகளைத் தெளித்தனர்.\nதற்போது பெய்த மழையால் உளுந்து விதைகள் முளைத்து வளர்ந்து வருகின்றன.\nசெடிகளின் நடுவில் உள்ள களைகளை அகற்றும் பணியில் விவசாயக் கூலித் தொழிலாளர்கள் ஈடுபட்டுள்ளனர்.\nமானாவாரி உளுந்துச் செடிகளுக்கு மழை நீர் கிடைத்துள்ளதால் செடிகள் நன்கு வளர்ச்சி கண்டுள்ளன.\n\nKrishnarayapuram urad bean weeding | Karur news\n📍 கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
+   "prompts": "Farm labourers, mostly women in sarees and men in veshti, bend over rows of young green urad bean plants in a rain-fed field in the Krishnarayapuram farmlands of Karur district, Tamil Nadu, pulling out weeds from between the seedlings. The field is an open flat stretch of dark, moist soil after recent rain, with the crop lush and healthy in neat rows that run toward the distance. A few other fields with green crop and scattered palm trees and low village houses lie far off at the edges. Seen from behind and at a distance, several workers hold small hand tools or work with their hands, some carrying cloth bundles on their heads. The light is soft daylight under an overcast post-rain sky, with fresh greenery and wet soil. Camera at eye level, 35 mm, wide enough to show the rows of crop stretching across the frame and the workers within the field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of young urad bean plants in moist, dark rain-fed soil, their small trifoliate green leaves glistening with rain water. Between the plants, a few weeds are being pulled out, and a worker's bare hand and the edge of a sari or veshti are visible at the frame's edge, bent low over the crop. Tiny droplets sit on the leaves and the soil shows fresh rain wetness, with thin green shoots pushing up everywhere. The background is softly blurred into more green rows of the same crop, suggesting a wide field. Soft overcast daylight with no harsh shadows. Camera slightly above the ground, 35 mm macro-style framing, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-weeds-of-chickpea-plants/4375804",
+   "published": "2026-11-14T07:04:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 58 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657852/karur360/zhfoz8fxr4ilmfoi0xgi.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794657855/karur360/dmecnlolcxzlmqgvpzqg.jpg"
    ]
   }
  ]
