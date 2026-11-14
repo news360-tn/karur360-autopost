@@ -28,7 +28,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30"
+   "listed_at": "2026-11-14T09:56:23.778057+05:30",
+   "picked_at": "2026-11-14T17:30:53.681432+05:30"
   },
   "Ce3dd015": {
    "id": "Ce3dd015",
@@ -40,7 +41,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30"
+   "listed_at": "2026-11-14T09:56:23.778057+05:30",
+   "picked_at": "2026-11-14T17:30:53.681435+05:30"
   },
   "C4b5434e": {
    "id": "C4b5434e",
@@ -52,7 +54,8 @@
    "category": "சாலை",
    "score": 8.8,
    "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30"
+   "listed_at": "2026-11-14T09:56:23.778057+05:30",
+   "picked_at": "2026-11-14T17:30:53.681436+05:30"
   },
   "Cce2a465": {
    "id": "Cce2a465",
@@ -67,7 +70,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/cake-greeting-cards-distributed-to-school-children/4375794"
    ],
-   "listed_at": "2026-11-14T09:56:23.778057+05:30"
+   "listed_at": "2026-11-14T09:56:23.778057+05:30",
+   "picked_at": "2026-11-14T17:30:53.681439+05:30"
   },
   "C6197562": {
    "id": "C6197562",
@@ -79,7 +83,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30"
+   "listed_at": "2026-11-14T09:56:23.778057+05:30",
+   "picked_at": "2026-11-14T17:30:53.681438+05:30"
   },
   "C9e0d6e8": {
    "id": "C9e0d6e8",
@@ -556,8 +561,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-14T18:29:52.696409+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 13 by insights",
+    "ids": [
+     "Cbe86d3e",
+     "Ce3dd015",
+     "C4b5434e",
+     "C6197562",
+     "Cce2a465"
+    ],
+    "at": "2026-11-14T17:30:53.681421+05:30"
+   },
+   "written": [
+    "C4b5434e",
+    "C6197562",
+    "Cbe86d3e",
+    "Cce2a465",
+    "Ce3dd015"
+   ]
   }
  },
  "retry": {}
