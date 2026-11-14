@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-14T01:45:01.673659+05:30",
+ "last_end": "2026-11-14T05:39:21.020111+05:30",
  "pool": {
   "C9383a66": {
    "id": "C9383a66",
@@ -13,20 +13,6 @@
    "power_cut": false,
    "listed_at": "2026-11-13T07:06:18.945206+05:30",
    "picked_at": "2026-11-13T10:59:55.523774+05:30",
-   "refused": "not filed: duplicate after write"
-  },
-  "Ce80df05": {
-   "id": "Ce80df05",
-   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/organs-donated-by-a-person-declared-brain-dead-following-an-accident-body-cremated-with-state-honors",
-   "title": "விபத்தில் மூளைச்சாவு அடைந்தவரின் உறுப்புகள் தானம்: அரசு மரியாதையுடன் உடல் தகனம்",
-   "summary": "விபத்தில் மூளைச்சாவு அடைந்து உடலுறுப்புகளைத் தானம் செய்த இளைஞரின் உடலுக்கு வியாழக்கிழமை அரசு மரியாதை வழங்கப்பட்டது..கரூா் மாவட்டம், மண்மங்கலம் வட்டம், மின்னாம்பள்ளி ஊராட்சிக்குட்பட்ட சங்கரம்பாளையத்தைச் சோ்ந்தவா் துரை...",
-   "source": "தினமணி",
-   "published": "2026-11-12T21:05:23.685Z",
-   "category": "பொது",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-13T17:49:17.106382+05:30",
    "refused": "not filed: duplicate after write"
   },
   "C20cfed4": {
@@ -43,20 +29,6 @@
    "picked_at": "2026-11-13T21:46:06.490810+05:30",
    "refused": "not filed: duplicate after write"
   },
-  "Ccaf22b4": {
-   "id": "Ccaf22b4",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/nurses-stage-protest/4374845",
-   "title": "கோரிக்கைகளை வலியுறுத்தி செவிலியர் ஆர்ப்பாட்டம்",
-   "summary": "கரூர்:கரூர் அரசு மருத்துவக் கல்லுாரி மருத்துவமனை முன், தமிழ்நாடு செவிலியர் மேம்பாட்டு சங்கத்தின் சார்பில், பல்வேறு கோரிக்கைகளை வலியுறுத்தி ஆர்ப்பாட்டம் நடந்தது.",
-   "source": "தினமலர்",
-   "published": "2026-11-13T06:42:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-14T01:47:01.283877+05:30",
-   "posted": true
-  },
   "Cc4525e0": {
    "id": "Cc4525e0",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/108th-anniversary-of-union-bank-of-india/4374847",
@@ -68,34 +40,6 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:06:18.945206+05:30"
-  },
-  "C12d84c5": {
-   "id": "C12d84c5",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4374849",
-   "title": "டி.ஆர்.ஓ., பொறுப்பேற்பு",
-   "summary": "கரூர்:கரூர் டி.ஆர்.ஓ.,வாக பணியாற்றி வந்த விமல்ராஜ், நிர்வாக காரணங்களுக்காக அண்மையில் சென்னைக்கு பணியிட மாற்றம் செய்யப்பட்டார். அவருக்கு பதிலாக, சென்னையில் டி.ஆர்.ஓ.,வாக பணியாற்றி வந்த தங்கவேல், கரூர் மாவட்டத்தின் புதி...",
-   "source": "தினமலர்",
-   "published": "2026-11-13T06:44:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-14T01:47:01.283880+05:30",
-   "posted": true
-  },
-  "Cd5bb6b8": {
-   "id": "Cd5bb6b8",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mentally-ill-married-woman-goes-missing/4374851",
-   "title": "மனநலம் பாதிக்கப்பட்ட திருமணமான பெண் மாயம்",
-   "summary": "அரவக்குறிச்சி:க.பரமத்தி அருகே வீட்டில் துாங்கி கொண்டிருந்த, 38 வயது மனநலம் பாதித்த பெண் மாயமானார். புகழூர் வட்டம், பவித்திரம் கிராமம், பள்ளமருதபட்டி காலனியை சேர்ந்தவர் தேவராஜ்.",
-   "source": "தினமலர்",
-   "published": "2026-11-13T06:45:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-13T07:06:18.945206+05:30",
-   "picked_at": "2026-11-14T01:47:01.283882+05:30",
-   "posted": true
   },
   "C5d09495": {
    "id": "C5d09495",
@@ -363,6 +307,21 @@
     "Ccaf22b4",
     "Cd5bb6b8"
    ]
+  },
+  "2026-11-14_05": {
+   "window": [
+    "2026-11-14T01:45:01.673659+05:30",
+    "2026-11-14T05:39:21.020111+05:30"
+   ],
+   "ids": [
+    "Cc4525e0",
+    "C5d09495",
+    "Ce55e5a2"
+   ],
+   "sent": false,
+   "deadline": "2026-11-14T06:39:21.020111+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
