@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-14T09:56:23.778057+05:30",
+ "last_end": "2026-11-14T13:48:19.486014+05:30",
  "pool": {
   "Ca1934c8": {
    "id": "Ca1934c8",
@@ -17,34 +17,6 @@
    "listed_at": "2026-11-14T09:56:23.778057+05:30",
    "picked_at": "2026-11-14T09:58:43.334358+05:30",
    "refused": "not filed: duplicate after write"
-  },
-  "C889e598": {
-   "id": "C889e598",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/teenager-thief-of-jewellery-and-money-under-goondas-act-arrested/4375808",
-   "title": "நகை, பணம் திருடிய வாலிபர் குண்டர் சட்டத்தின் கீழ் கைது",
-   "summary": "கரூர்:கரூர் மாவட்டம், ஆண்டாங்கோவில் மேற்கு ஆத்துார் புதுார் பகுதியை சேர்ந்தவர் ராஜ்குமார், 36; இவர் கடந்த அக்., 2ல், வீட்டை பூட்டி விட்டு மனைவியுடன், மருத்துவமனைக்கு சென்று விட்டார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-14T07:06:00+05:30",
-   "category": "குற்றம்",
-   "score": 12.2,
-   "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T09:58:43.334362+05:30",
-   "posted": true
-  },
-  "C21a6fca": {
-   "id": "C21a6fca",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/motorcyclist-killed-3-injured-as-car-rams-into-truck/4375797",
-   "title": "பைக் மோதி மூதாட்டி பலி: காரில் சென்ற 3 பேர் காயம்",
-   "summary": "கரூர்:கரூர் அருகே பைக் மோதியதில், நடந்து சென்ற மூதாட்டி உயிரிழந்தார். காரில் சென்ற மூன்று பேருக்கு காயம் ஏற்பட்டது. கரூர் மாவட்டம், புதுப்பாளையம் பகுதியை சேர்ந்தவர் ராமாயி, 63; இவர் கடந்த, 11ல், கரூர் -சேலம் தேசிய நெட...",
-   "source": "தினமலர்",
-   "published": "2026-11-14T07:00:00+05:30",
-   "category": "விபத்து",
-   "score": 11.0,
-   "power_cut": false,
-   "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T09:58:43.334366+05:30",
-   "posted": true
   },
   "Cafdd9fd": {
    "id": "Cafdd9fd",
@@ -557,6 +529,34 @@
    "refused": {
     "Ca1934c8": "not filed: duplicate after write"
    }
+  },
+  "2026-11-14_13": {
+   "window": [
+    "2026-11-14T09:56:23.778057+05:30",
+    "2026-11-14T13:48:19.486014+05:30"
+   ],
+   "ids": [
+    "Cafdd9fd",
+    "C12908b4",
+    "Cc628de1",
+    "Cbe86d3e",
+    "Ce3dd015",
+    "C4b5434e",
+    "Cce2a465",
+    "C6197562",
+    "C9e0d6e8",
+    "C1dd954f",
+    "Cd36f634",
+    "C8bf1acd",
+    "C7ac17a6",
+    "Ca03fd80",
+    "Cab5bc62",
+    "C553753c"
+   ],
+   "sent": false,
+   "deadline": "2026-11-14T14:48:19.486014+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
