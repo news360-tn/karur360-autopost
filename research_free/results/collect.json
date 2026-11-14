@@ -1,377 +1,220 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 31 recent posts read from the page",
+  "instagram check: 34 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-camp-organised-by-siddha-unit/4375800",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/closure-of-noyyal-railway-gate-tomorrow-for-maintenance-work/4375806",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-suffer-without-shelter/4375798",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-meeting-of-state-administrators/4375802",
-  "candidate filter: collected=4",
-  "to write: 4 Karur district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/ration-rice-scam-complaint-to-minister/4376410",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/it-is-essential-to-secure-the-storage-warehouse-in-a-way-that-ensures-food-items-remain-unaffected",
+  "candidate filter: collected=2",
+  "to write: 2 Karur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/ration-rice-s",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
-  "filed: 4 Karur district stories (target 4), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
+  "filed: 2 Karur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1280 (char 1279)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (21s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (24s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3.6-flash (28s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "நொய்யல் ரயில்வே கேட் 10 நாட்களுக்கு மூடல்",
-   "english_headline": "Noiyal Railway Gate closed for 10 days for maintenance",
-   "category": "Roads & Transport",
-   "location": "Noiyal, Karur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை தடை",
-    "loc": "நொய்யல், கரூர்",
-    "hl1": "நொய்யல் ரயில்வே கேட் 10 நாட்கள் மூடல்",
-    "hl2": "நாளை காலை 8 மணி முதல்",
-    "slides": [
-     {
-      "title": "மூடல் விவரம்",
-      "lines": [
-       "நொய்யல் ரயில்வே கேட் மூடப்படுகிறது",
-       "கரூர் - ஈரோடு வழித்தடத்தில் உள்ளது",
-       "பராமரிப்பு பணிக்காக மூடப்படுகிறது"
-      ]
-     },
-     {
-      "title": "நேரம் மற்றும்",
-      "lines": [
-       "நாளை (15 வயது) காலை 8 மணி முதல்",
-       "24ஆம் தேதி மாலை 6 மணி வரை",
-       "மொத்தம் <b>10 நாட்கள்</b> மூடல்"
-      ]
-     },
-     {
-      "title": "மாற்று வழி",
-      "lines": [
-       "நொய்யல் குறுக்கு சாலை வழியாக செல்லவும்",
-       "காகித ஆலை, வேலாயுதம்பாளையம் வழி",
-       "புகழூர் ரயில்வே நிர்வாகம் அறிவித்தது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "நொய்யல் ரயில்வே கேட் 10 நாட்களுக்கு மூடப்படுகிறது. கரூர் - ஈரோடு ரயில்வே வழித்தடத்தில் இந்த கேட் உள்ளது. திருப்பூர், நாமக்கல், கோவை, ஈரோடு, சேலம், அரவக்குறிச்சி, கரமத்தி பகுதிகளுக்கு வாகனங்கள் சென்று வருகின்றன. பராமரிப்பு பணிகள் காரணமாக இந்த மூடல் நடைபெறுகிறது. நாளை 15ஆம் தேதி காலை 8 மணி முதல் மூடப்படுகிறது. 24ஆம் தேதி மாலை 6 மணி வரை மூடல் தொடரும். மொத்தம் 10 நாட்கள் இந்த கேட் மூடப்படும். வாகனங்கள் நொய்யல் குறுக்கு சாலையில் இருந்து செல்ல வேண்டும். காகித ஆலை, வேலாயுதம்பாளையம் வழியாக செல்ல வேண்டும். பரமத்தி வேலூர், நாமக்கல், திருச்செங்கோடு, சேலம் பகுதிகளுக்கு செல்ல வேண்டும். அந்த பகுதியில் இருந்து வரும் வாகனங்கள் வேலாயுதம்பாளையம் வழியாக செல்ல வேண்டும். காகித ஆலை, நொய்யல் குறுக்கு சாலை வழியாக செல்ல வேண்டும். அரவக்குறிச்சி, கரமத்தி, திருப்பூர், ஈரோடு, கோவை பகுதிகளுக்கு செல்ல வேண்டும். புகழூர் ரயில்வே ஸ்டேஷன் நிர்வாகம் இந்த தகவலை தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 நொய்யல் ரயில்வே கேட் 10 நாட்களுக்கு மூடல் - மாற்று வழி விவரம்\n\n📰 முழு விவரம்:\nகரூர் - ஈரோடு ரயில்வே வழித்தடத்தில் உள்ள நொய்யல் ரயில்வே கேட் பராமரிப்பு பணிகள் காரணமாக மூடப்படுகிறது. நாளை 15ஆம் தேதி காலை 8 மணி முதல் 24ஆம் தேதி மாலை 6 மணி வரை மூடல் நடைபெறும். மொத்தம் 10 நாட்கள் இந்த கேட் மூடப்படும். திருப்பூர், நாமக்கல், கோவை, ஈரோடு, சேலம், அரவக்குறிச்சி, கரமத்தி பகுதிகளுக்கு செல்லும் வாகனங்கள் மாற்று வழியை பயன்படுத்த வேண்டும். நொய்யல் குறுக்கு சாலை, காகித ஆலை, வேலாயுதம்பாளையம் வழியாக செல்ல வேண்டும். பரமத்தி வேலூர், நாமக்கல், திருச்செங்கோடு, சேலம் பகுதிகளுக்கு செல்லும் வாகனங்களும் இந்த வழியை பயன்படுத்த வேண்டும். புகழூர் ரயில்வே ஸ்டேஷன் நிர்வாகம் இந்த அறிவிப்பை வெளியிட்டுள்ளது.\n\n📍 இடம்: நொய்யல், கரூர்\n🗓️ நாள்: 15 முதல் 24 வரை\n🕘 நேரம்: காலை 8 மணி முதல் மாலை 6 மணி வரை\nℹ️ மக்கள் கவனத்திற்கு: நொய்யல் குறுக்கு சாலை, காகித ஆலை, வேலாயுதம்பாளையம் வழியாக செல்லவும்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nNoiyal railway gate closed for 10 days | Karur news\n📍 Noiyal, Karur | 14 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Noiyal #KarurNews #கரூர்",
-   "prompts": "A closed railway level crossing gate blocks a road in Noiyal, Karur district, as a line of two-wheelers and a car waits on the approach with their riders standing beside them. The road runs straight toward the railway track, with the crossing's striped barrier lowered across the lanes and the rails visible beyond it. A few motorists in shirts and trousers and a woman in a saree stand near the gate, seen from behind and at a distance. Two-wheelers, a car and a parked lorry sit on the shoulder of the road. Beside the track, a small railway maintenance worker in a fluorescent vest stands near the gate post. It is early morning in clear daylight with soft sunlight across the tracks. Camera at eye level, 35 mm, wide enough to show the gate, the track and the waiting vehicles. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the lowered striped barrier arm of a railway level crossing in Noiyal, Karur district, with its red and white stripes crossing the frame against the blurred railway track and gravel bed behind it. The gate post is concrete and weathered, and a two-wheeler's handlebar and a side mirror are partly visible at the edge of the frame, as if a rider is waiting at the closed gate. Beyond the barrier, the rails stretch into the distance under bright morning daylight. No people are clearly visible, only a blurred figure in a fluorescent vest far behind the gate. Camera slightly low, 50 mm, shallow depth of field to isolate the barrier arm and rails. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/closure-of-noyyal-railway-gate-tomorrow-for-maintenance-work/4375806",
-   "published": "2026-11-14T07:05:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): க.பரமத்தி ('அதன் வழியாக திருப்பூர், நாமக்கல் கோவை, ஈரோடு, சேலம், அரவக்கு'); க.பரமத்தி ('அதேபோல், அந்த பகுதியில் இருந்து வரும் வாகனங்கள், வேலாயுதம்பா')",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672192/karur360/dlfw3kupjj7vrlhaquib.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672224/karur360/p51h1dwghhrwrjbkb7ms.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் சி.ஐ.டி.யு. மாநில நிர்வாகிகள் கூட்டம்: டிசம்பர் 1 டெல்லி போராட்டத்தில் பங்கேற்க தீர்மானம்",
-   "english_headline": "CITU state office bearers meeting held in Karur; decides to join Dec 1 protest in New Delhi",
+   "tamil_headline": "குளித்தலை அருகே சிவாயத்தில் புதிய கிடங்கு திறப்பு",
+   "english_headline": "New 1,000-tonne civil supplies warehouse opened at Sivayam near Kulithalai, Karur district",
    "category": "Government & Services",
-   "location": "Karur town, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ஆலோசனை கூட்டம்",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் சி.ஐ.டி.யு. மாநில கூட்டம்",
-    "hl2": "முக்கிய தீர்மானங்கள்",
-    "slides": [
-     {
-      "title": "ஆலோசனை கூட்டம்",
-      "lines": [
-       "கரூரில் <b>சி.ஐ.டி.யு.</b> மாநில நிர்வாகிகள் கூட்டம்",
-       "சங்க அலுவலகத்தில் நடைபெற்றது",
-       "மாநில துணைத்தலைவர் <b>மாலதி</b> தலைமை"
-      ]
-     },
-     {
-      "title": "முக்கிய",
-      "lines": [
-       "தொழிலாளர் விரோத சட்டங்களை திரும்ப பெற வலியுறுத்தல்",
-       "டிசம்பர் <b>1</b> டெல்லி போராட்டத்தில் பங்கேற்க முடிவு",
-       "தேர்தல் கமிஷனர் ஞானேஷ்குமார் விலகக் கோரிக்கை"
-      ]
-     },
-     {
-      "title": "அரசுக்கு கோரிக்கை",
-      "lines": [
-       "வெளிமுகமை ஆள்சேர்ப்பு உத்தரவை திரும்ப பெற கோரிக்கை",
-       "ஜி.எஸ்.டி. முரண்பாடுகளை மத்திய அரசு களைய வலியுறுத்தல்",
-       "தமிழக அரசு ஊதிய ஒப்பந்த குழு அமைக்கக் கோரிக்கை"
-      ]
-     },
-     {
-      "title": "பங்கேற்ற",
-      "lines": [
-       "மாநில பொதுச்செயலாளர் <b>கண்ணன்</b> பங்கேற்பு",
-       "பொருளாளர் <b>ராஜேந்திரன்</b> கலந்துகொண்டார்",
-       "மாவட்ட தலைவர் <b>ஜீவானந்தம்</b> உள்ளிட்டோர் பங்கேற்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் இந்திய தொழிற்சங்க மையத்தின் மாநில நிர்வாகிகள் மற்றும் மாவட்ட செயலாளர்கள் ஆலோசனை கூட்டம் நடைபெற்றது. இந்தக் கூட்டத்திற்கு மாநில துணைத்தலைவர் மாலதி தலைமை தாங்கினார். கூட்டத்தில் பல்வேறு முக்கிய தீர்மானங்கள் நிறைவேற்றப்பட்டன. தொழிலாளர் விரோத தொகுப்பு சட்டங்களை திரும்ப பெற வேண்டும் என்று வலியுறுத்தப்பட்டது. தேர்தல் கமிஷனர் ஞானேஷ்குமார் பதவி விலகக் கோரி டிசம்பர் 1ஆம் தேதி புதுடெல்லியில் நடைபெறும் போராட்டத்தில் பங்கேற்க முடிவு செய்யப்பட்டது. வெளிமுகமை மூலம் அரசு துறைகளுக்கு ஆட்கள் தேர்வு செய்யும் உத்தரவை தமிழக அரசு திரும்ப பெற வேண்டும் எனக் கோரப்பட்டது. ஜி எஸ் டி யில் உள்ள முரண்பாடுகளை மத்திய அரசு களைய வேண்டும் எனவும் வலியுறுத்தப்பட்டது. தமிழக அரசு ஊதிய ஒப்பந்த குழுவை ஏற்படுத்த வேண்டும் என்றும் கேட்டுக்கொள்ளப்பட்டது. இந்த ஆலோசனைக் கூட்டத்தில் மாநில பொதுச்செயலாளர் கண்ணன், பொருளாளர் ராஜேந்திரன், கரூர் மாவட்ட தலைவர் ஜீவானந்தம், செயலாளர் சுப்பிரமணியன் உட்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ கரூரில் சி.ஐ.டி.யு. மாநில நிர்வாகிகள் கூட்டம்: டிச. 1 டெல்லி போராட்டத்தில் பங்கேற்க தீர்மானம்\n\n📰 முழு விவரம்:\nகரூரில் உள்ள தொழிற்சங்க அலுவலகத்தில் இந்திய தொழிற்சங்க மையம் (சி.ஐ.டி.யு.) சார்பில் மாநில நிர்வாகிகள் மற்றும் மாவட்ட செயலாளர்கள் ஆலோசனை கூட்டம் நடைபெற்றது. இக்கூட்டத்திற்கு மாநில துணைத்தலைவர் மாலதி தலைமை தாங்கினார்.\n\nதொழிலாளர் விரோத தொகுப்பு சட்டங்களை திரும்ப பெற வேண்டும் மற்றும் தேர்தல் கமிஷனர் ஞானேஷ்குமார் பதவி விலகக் கோரி வரும் டிசம்பர் 1ஆம் தேதி புதுடெல்லியில் நடைபெறும் போராட்டத்தில் பங்கேற்பது எனத் தீர்மானம் நிறைவேற்றப்பட்டது. மேலும் வெளிமுகமை மூலம் அரசு துறைகளுக்கு ஆட்கள் தேர்வு செய்யும் உத்தரவை தமிழக அரசு திரும்ப பெற வேண்டும், ஜி.எஸ்.டி. முரண்பாடுகளை மத்திய அரசு களைய வேண்டும், ஊதிய ஒப்பந்த குழுவை தமிழக அரசு அமைக்க வேண்டும் உள்ளிட்ட தீர்மானங்களும் நிறைவேற்றப்பட்டன.\n\n📍 இடம்: சி.ஐ.டி.யு. சங்க அலுவலகம், கரூர்\n👤 தலைமை: மாநில துணைத்தலைவர் மாலதி\n🗓️ முக்கிய முடிவு: டிசம்பர் 1 டெல்லி போராட்டத்தில் பங்கேற்பது\nℹ️ பங்கேற்றோர்: மாநில பொதுச்செயலாளர் கண்ணன், பொருளாளர் ராஜேந்திரன், மாவட்ட தலைவர் ஜீவானந்தம், செயலாளர் சுப்பிரமணியன்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nCITU state executive committee meeting held in Karur | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #CITU #கரூர்",
-   "prompts": "A group of trade union leaders sits in a meeting hall at the CITU office in Karur town, deciding to join a protest in New Delhi. About twenty men in shirts and veshti or trousers sit on plastic chairs arranged in rows around a long table covered with papers and a few water bottles. A chairperson sits at the head of the table, speaking while others listen and take notes. Red union flags lean against the whiteboard-free plain wall, and a ceiling fan turns above. The room is lit by white tube lights, and an open window shows a daytime sky over a Karur town street with a two-wheeler parked outside. Seen from the back of the hall at eye level, 35 mm, wide enough to show the whole room and the people seated. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of papers on a meeting table at the CITU office in Karur, listing resolutions to be taken to a protest in New Delhi. Stacks of printed sheets, a blue ballpoint pen, and a steel water tumbler rest on a dark wooden table, with a few red union flags folded against the wall behind. Hands of a union leader in a white shirt rest beside the papers, slightly blurred. The lighting is indoor tube light mixed with daylight from a window, giving a calm office atmosphere. Camera slightly high, 35 mm, focused on the documents and the table surface. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-meeting-of-state-administrators/4375802",
-   "published": "2026-11-14T07:03:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672230/karur360/jaddvydzmg9yu4ubl85c.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672233/karur360/xohstfzh8cbcxifysrkp.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "புலியூரில் பேருந்து நிறுத்தங்களில் நிழற்கூடம் இல்லாததால் மக்கள் அவதி",
-   "english_headline": "No shelters at Puliyur bus stops on Trichy Road; commuters take refuge in shops during rain and heat",
-   "category": "Civic Issues",
-   "location": "Puliyur town panchayat, Karur district",
+   "location": "Sivayam, Kulithalai, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொதுமக்கள் அவதி",
-    "loc": "புலியூர், கரூர்",
-    "hl1": "புலியூரில் நிழற்கூடம் இல்லாமல் மக்கள்",
-    "hl2": "மழை, வெயிலில் கடைகளில்",
+    "cat": "அரசு திட்டம்",
+    "loc": "சிவாயம், குளித்தலை",
+    "hl1": "சிவாயத்தில் புதிய சேமிப்பு கிடங்கு",
+    "hl2": "ரூ.1.70 கோடியில்",
     "slides": [
      {
-      "title": "எங்கே?",
+      "title": "புதிய கிடங்கு",
       "lines": [
-       "கரூர் அருகே புலியூர் டவுன் பஞ்சாயத்து, திருச்சி சாலை",
-       "இரண்டு பக்கமும் உள்ள பேருந்து நிறுத்தங்களில் நிழற்கூடம்"
+       "குளித்தலை அடுத்த சிவாயத்தில் கூடுதல் வட்ட செயல்முறை கிடங்கு",
+       "ரூ.<b>1.70 கோடி</b> மதிப்பில் கட்டப்பட்டது",
+       "சுமார் <b>1,000 மெட்ரிக் டன்</b> கொள்ளளவு"
       ]
      },
      {
-      "title": "ஏன் முக்கியம்?",
+      "title": "எதற்காக?",
       "lines": [
-       "தனியார் சிமென்ட் ஆலை, பொறியியல் கல்லூரி, பள்ளிகள் உள்ளன",
-       "திருச்சி, கரூர், மணப்பாறை செல்ல மக்கள் தினமும் பேருந்தில்"
+       "அரிசி, சர்க்கரை, பருப்பு, சமையல் எண்ணெய் சேமிப்பு",
+       "நியாயவிலை கடைகளுக்குத் தடையின்றி விநியோகம்",
+       "பொதுமக்களுக்கு உரிய நேரத்தில் பொருள்கள்"
       ]
      },
      {
-      "title": "என்ன நிலை?",
+      "title": "பராமரிப்பு",
       "lines": [
-       "மழை வரும்போதும் வெயில் அதிகமாக இருக்கும்போதும் அவதி",
-       "பேருந்து வரும் வரை அருகிலுள்ள கடைகளில் தஞ்சம்"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "எம்.பி., அல்லது எம்.எல்.ஏ. தொகுதி மேம்பாட்டு நிதியில்",
-       "இரண்டு பக்க நிறுத்தங்களிலும் கட்ட நடவடிக்கை எடுக்க வேண்டும்"
+       "கிடங்கைத் தூய்மையாக பராமரிக்க வேண்டும்",
+       "எலி, பூச்சிகளால் உணவுப் பொருள் பாதிக்காமல் பாதுகாக்க",
+       "அமைச்சர் பி. வெங்கடரமணன் அறிவுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் அருகே புலியூரில் பேருந்து நிறுத்தங்களில் நிழற்கூடம் இல்லாததால் பொதுமக்கள் பெரும் அவதிப்படுகின்றனர். புலியூர் டவுன் பஞ்சாயத்து, திருச்சி சாலையில் உள்ள இரண்டு பக்க பேருந்து நிறுத்தங்களிலும் நிழற்கூடம் இல்லை. அந்தச் சாலையில் தனியார் சிமென்ட் ஆலை, பொறியியல் கல்லூரி, அரசு மற்றும் தனியார் பள்ளிகள், வர்த்தக நிறுவனங்கள் உள்ளன. புலியூரில் இருந்து திருச்சி, கரூர் மற்றும் மணப்பாறை பகுதிகளுக்கு மக்கள் நாள்தோறும் பேருந்துகளில் சென்று வருகின்றனர். கரூர் மாவட்டத்தில் வெயிலின் தாக்கம் குறைந்துள்ள நிலையில் அவ்வப்போது மழை பெய்து வருகிறது. மழை வரும்போதும், வெயில் அதிகம் இருக்கும்போதும், பேருந்து வரும் வரை பொதுமக்கள் அருகில் உள்ள கடைகளில் தஞ்சம் புகும் நிலை உள்ளது. எனவே, நாடாளுமன்ற உறுப்பினர் அல்லது சட்டமன்ற உறுப்பினர் தொகுதி மேம்பாட்டு நிதியின் கீழ் பயணிகள் நிழற்கூடம் கட்ட நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚏 புலியூரில் பேருந்து நிறுத்தங்களில் நிழற்கூடம் இல்லாமல் மக்கள் அவதி\n\n📰 முழு விவரம்:\nகரூர் அருகே புலியூர் டவுன் பஞ்சாயத்து, திருச்சி சாலையில் இரண்டு பக்கமும் உள்ள பேருந்து நிறுத்தங்களில் நிழற்கூடம் இல்லை. இந்தச் சாலையில் தனியார் சிமென்ட் ஆலை, பொறியியல் கல்லூரி, அரசு மற்றும் தனியார் பள்ளிகள், வர்த்தக நிறுவனங்கள் உள்ளன. புலியூரில் இருந்து திருச்சி, கரூர், மணப்பாறை பகுதிகளுக்கு மக்கள் நாள்தோறும் பேருந்துகளில் செல்கின்றனர். மழை பெய்யும்போதும், வெயில் அதிகம் இருக்கும்போதும் பேருந்து வரும் வரை அருகிலுள்ள கடைகளில் தஞ்சம் புக வேண்டிய நிலை உள்ளது.\n🏛️ எம்.பி. அல்லது எம்.எல்.ஏ. தொகுதி மேம்பாட்டு நிதியின் கீழ் பயணிகள் நிழற்கூடம் கட்ட நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் எதிர்பார்க்கின்றனர்.\n\nPuliyur bus stop no shelter, Karur news\n📍 புலியூர், கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of commuters, including women in sarees and students in school uniform, stands at an open roadside bus stop on Trichy Road in Puliyur town panchayat, Karur district, with no shelter above them as light rain falls on the tarred road. Some of them have moved to the edge of a row of small shops with shuttered fronts and hanging plastic sheets, seeking cover while they wait for a bus. The road is a busy two-lane tar road with two-wheelers, an autorickshaw and a private town bus passing by, and a distant cement-factory chimney and an engineering college building can be glimpsed beyond the trees. The people are seen from behind or far away, some holding umbrellas and cloth bags, with wet pavement reflecting the grey daylight. Shot at eye level, 35 mm, wide enough to show the empty bus stop bench, the exposed roadside and the shops. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the bare roadside bus stop on Trichy Road in Puliyur: a concrete pavement edge and a low stone bench with no roof or pillars above it, beside a tarred road with a wet surface where rainwater has collected in shallow puddles. A commuter's sandal and the hem of a saree are visible at the edge of the frame as the person stands in the open, while a shop shutter and a dangling plastic sheet are visible in the background where people have taken refuge. Daylight, overcast sky with light drizzle, dull greyish light on the road. Shot slightly high, 35 mm, focused on the open stop with no shelter overhead to show the lack of a passenger shed. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-suffer-without-shelter/4375798",
-   "published": "2026-11-14T07:00:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "குளித்தலை அருகே சிவாயத்தில் புதிய சேமிப்பு கிடங்கு திறக்கப்பட்டுள்ளது. உணவு மற்றும் உணவுப்பொருள் வழங்கல் துறை அமைச்சர் பி. வெங்கடரமணன் சனிக்கிழமை இந்தக் கிடங்கைத் தொடங்கி வைத்தார். ரூ.1.70 கோடி மதிப்பில் சுமார் 1,000 மெட்ரிக் டன் கொள்ளளவு கொண்ட கூடுதல் வட்ட செயல்முறை கிடங்கு கட்டப்பட்டுள்ளது. இந்தக் கிடங்கில் அரிசி, சர்க்கரை, பருப்பு, சமையல் எண்ணெய் ஆகிய அத்தியாவசியப் பொருள்கள் பாதுகாப்பாக சேமிக்கப்படும். கரூர் மாவட்டத்தில் உள்ள பல்வேறு நியாயவிலை கடைகளுக்கு உரிய நேரத்தில் தடையின்றி விநியோகம் செய்யப்படும். கிடங்கைத் தொடர்ந்து தூய்மையாகவும் சுகாதாரமாகவும் பராமரிக்க வேண்டும் என அமைச்சர் அறிவுறுத்தினார். எலி மற்றும் பூச்சிகளால் உணவுப் பொருள்கள் பாதிக்காத வகையில் உரிய பாதுகாப்பு நடவடிக்கைகள் மேற்கொள்ள வேண்டும் என்றும் அவர் கூறினார். நிகழ்ச்சியில் கிருஷ்ணராயபுரம் சட்டப்பேரவை உறுப்பினர் எம். சத்யா, மாவட்ட வருவாய் அலுவலர் து. தங்கவேல் உள்ளிட்டோர் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏬 குளித்தலை அருகே சிவாயத்தில் ரூ.1.70 கோடியில் புதிய சேமிப்பு கிடங்கு திறப்பு\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த சிவாயத்தில் கூடுதல் வட்ட செயல்முறை கிடங்கு கட்டப்பட்டு மக்கள் பயன்பாட்டுக்குத் திறந்து வைக்கப்பட்டுள்ளது. உணவு மற்றும் உணவுப்பொருள் வழங்கல் துறை அமைச்சர் பி. வெங்கடரமணன் சனிக்கிழமை குத்துவிளக்கேற்றித் தொடங்கி வைத்தார்.\nஇந்தக் கிடங்கில் அரிசி, சர்க்கரை, பருப்பு, சமையல் எண்ணெய் உள்ளிட்ட அத்தியாவசியப் பொருள்கள் சேமிக்கப்பட்டு, கரூர் மாவட்டத்தின் பல்வேறு நியாயவிலை கடைகளுக்கு தடையின்றி விநியோகம் செய்யப்படும்.\n\n📍 இடம்: சிவாயம், குளித்தலை அருகே, கரூர் மாவட்டம்\n🏗️ செலவு: ரூ.1.70 கோடி\n📦 கொள்ளளவு: சுமார் 1,000 மெட்ரிக் டன்\n👮 கவனம்: கிடங்கைத் தூய்மையாகப் பராமரித்து, எலி மற்றும் பூச்சிகளால் உணவுப் பொருள்கள் பாதிக்காமல் பாதுகாக்க வேண்டும் என அமைச்சர் அறிவுறுத்தினார்.\n\nKulithalai new civil supplies warehouse Sivayam | Karur news\n📍 சிவாயம், குளித்தலை, கரூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "A Tamil Nadu minister and local officials light a brass kuthuvilakku lamp to open a newly built civil supplies warehouse in the village of Sivayam near Kulithalai, Karur district. The setting is a rural godown compound with a freshly built, single-storey concrete warehouse with large roller shutters and clean whitewashed walls, set on a dusty village road with paddy fields and a few palm trees beyond. Officials in shirts and sarees and a few men in white veshti stand in a loose group in front of the shutters, seen from behind or at a distance, with a small pandal and a cluster of villagers at the edge. Daytime, bright natural light, a few clouds, late morning. Camera at eye level, 35 mm, wide enough to show the full warehouse and the ceremony. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the stacked gunny sacks of rice, sugar and dal inside the cool, dim interior of the new 1,000-tonne civil supplies warehouse at Sivayam, Karur district. Sacks are piled neatly on wooden pallets in tidy rows along a clean concrete floor, with a tall steel rack and a few brass lamp-like shapes on a side table near the entrance. Light enters in a bright stripe from the open shutter, with dust motes in the air. A tall mesh-screened vent and smooth walls suggest hygienic storage, with no rats or insects visible. Daytime, soft natural light. Camera at slightly high angle, 35 mm, close enough to show texture of the sacks and the clean floor. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/it-is-essential-to-secure-the-storage-warehouse-in-a-way-that-ensures-food-items-remain-unaffected",
+   "published": "2026-11-14T19:10:00.218Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('இந்த கிடங்கின் மூலம் கரூா் மாவட்டத்தில் உள்ள பல்வேறு நியாயவி')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672270/karur360/phyyyozjcuos29hbqra2.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672273/karur360/rzdigxjlfqqoqwpirj0t.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794686719/karur360/qmjxzfnfl8otnbfq5jow.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794686722/karur360/l5x0lnzxdok5scryjo44.jpg"
    ]
   },
   {
-   "tamil_headline": "கவுண்டம்பாளையம் பள்ளியில் டெங்கு, மலேரியா விழிப்புணர்வு முகாம்",
-   "english_headline": "Dengue and malaria awareness camp held at Goundampalayam government primary school",
-   "category": "Health",
-   "location": "Goundampalayam, Karur district",
+   "tamil_headline": "குளித்தலை அருகே ரேஷன் அரிசியில் வண்டு, புழுக்கள்: அமைச்சரிடம் புகார்",
+   "english_headline": "Worms and beetles found in ration rice at Sivayam godown near Kulithalai; residents complain to minister",
+   "category": "Government & Services",
+   "location": "Sivayam, Kulithalai, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதார விழிப்புணர்வு",
-    "loc": "கவுண்டம்பாளையம்",
-    "hl1": "கவுண்டம்பாளையம் பள்ளியில் விழிப்புணர்வு",
-    "hl2": "டெங்கு, மலேரியா குறித்து",
+    "cat": "ரேஷன் அரிசி",
+    "loc": "சிவாயம், குளித்தலை",
+    "hl1": "குளித்தலை அருகே ரேஷன் அரிசியில் வண்டு",
+    "hl2": "அமைச்சரிடம் புகார்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை சித்தா பிரிவு",
-       "கவுண்டம்பாளையம் அரசு தொடக்கப்பள்ளியில் நடைபெற்றது",
-       "டெங்கு, மலேரியா காய்ச்சல் குறித்த விழிப்புணர்வு"
+       "சிவாயத்தில் புதிய நுகர்பொருள் வாணிப கழகக் கிடங்கு திறப்பு",
+       "அரிசியில் வண்டு, புழுக்கள் வெளியேறி குடியிருப்புக்கு",
+       "உணவு துறை அமைச்சர் வெங்கடரமணனிடம் மக்கள் புகார் தெரிவித்தனர்"
       ]
      },
      {
-      "title": "யார் விளக்கம்?",
+      "title": "அமைச்சர் உத்தரவு",
       "lines": [
-       "சித்தா மருத்துவப் பிரிவு டாக்டர்கள் கவிதா, கனிமொழி",
-       "காய்ச்சல் வராமல் தடுக்கும் முறைகள் விளக்கம்",
-       "மாணவ, மாணவியருக்கு <b>நிலவேம்பு கசாயம்</b> வழங்கப்பட்டது"
+       "நிலையப் பொறுப்பாளர் முருகானந்தம் கண்டிக்கப்பட்டார்",
+       "பழைய கிடங்கின் அரிசி மூட்டைகளைப் புதிய கட்டடத்துக்கு மாற்ற",
+       "வண்டு, புழுக்கள் வராமல் நடவடிக்கை எடுக்கவும் உத்தரவு"
       ]
      },
      {
-      "title": "யார் பங்கேற்றனர்?",
+      "title": "ஆய்வில் கண்டது",
       "lines": [
-       "தலைமையாசிரியர் பரணிதரன் பங்கேற்றார்",
-       "ஆசிரியர்கள் தெரசா ராணி, ஜெயபாரதி, சுமதி உள்ளிட்டோர்",
-       "நந்தினி, பிரியா, பிரேமலதா உள்ளிட்டோரும் பங்கேற்றனர்"
+       "இரும்பூதிப்பட்டி கிடங்குகளில் அமைச்சர் ஆய்வு செய்தார்",
+       "அரிசி மூட்டைகள் பராமரிக்கப்படாமல் வண்டு, புழுக்கள் இருந்தன",
+       "தேவையற்ற பொருட்களை அப்புறப்படுத்த உத்தரவு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கவுண்டம்பாளையம் அரசு தொடக்கப்பள்ளியில் டெங்கு, மலேரியா விழிப்புணர்வு முகாம் நடைபெற்றது. இந்த முகாமைக் கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையின் சித்தா பிரிவு நடத்தியது. சித்தா மருத்துவப் பிரிவு டாக்டர்கள் கவிதா, கனிமொழி ஆகியோர் டெங்கு, மலேரியா காய்ச்சல் குறித்து விளக்கம் அளித்துப் பேசினர். காய்ச்சல் வராமல் தடுக்கும் முறைகளும் எடுத்துரைக்கப்பட்டன. பின்னர் மாணவ, மாணவியருக்கு நிலவேம்பு கசாயம் வழங்கப்பட்டது. தலைமையாசிரியர் பரணிதரன், ஆசிரியர்கள் தெரசா ராணி, ஜெயபாரதி, சுமதி, நந்தினி, பிரியா, பிரேமலதா உள்ளிட்டோர் நிகழ்ச்சியில் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🦟 கவுண்டம்பாளையம் பள்ளியில் டெங்கு, மலேரியா விழிப்புணர்வு முகாம்\n\n📰 முழு விவரம்:\nகரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனை சித்தா பிரிவு சார்பில், கவுண்டம்பாளையம் அரசு தொடக்கப்பள்ளியில் விழிப்புணர்வு முகாம் நடைபெற்றது.\nடெங்கு, மலேரியா காய்ச்சல் குறித்தும், அதைத் தடுக்கும் முறைகள் குறித்தும் சித்தா மருத்துவப் பிரிவு டாக்டர்கள் கவிதா, கனிமொழி ஆகியோர் விளக்கம் அளித்தனர்.\nமாணவ, மாணவியருக்கு நிலவேம்பு கசாயம் வழங்கப்பட்டது.\nதலைமையாசிரியர் பரணிதரன், ஆசிரியர்கள் தெரசா ராணி, ஜெயபாரதி, சுமதி, நந்தினி, பிரியா, பிரேமலதா உள்ளிட்டோர் பங்கேற்றனர்.\n\nடெங்கு, மலேரியாவை தடுக்க வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்.\n\nDengue malaria awareness camp at Goundampalayam school, Karur | Karur news\n📍 கவுண்டம்பாளையம், கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Goundampalayam #KarurNews #கரூர்",
-   "prompts": "Inside a classroom of a government primary school in Goundampalayam, Karur district, Tamil Nadu, a Siddha doctor in a cotton saree stands at the front and speaks to a group of school children in Tamil Nadu government school uniform, seated on the floor in rows and seen from behind. Beside her, a headmaster in a shirt and trousers and several women teachers in sarees stand near a green chalkboard with its writing kept out of view. A table at the front holds steel tumblers and a small steel vessel of herbal Nilavembu kasayam, ready for distribution. Through the open windows and doors of the school building, daylight shows a plain whitewashed wall and a concrete veranda. The atmosphere is a calm health awareness camp in the daytime. Camera: eye level, 35 mm, wide enough to show the classroom and the gathering. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of steel tumblers filled with dark green-brown Nilavembu kasayam, the bitter herbal decoction given to students at a dengue and malaria awareness camp at a government primary school in Goundampalayam, Karur district. The tumblers sit on a metal tray on a school desk, with a small steel vessel of the decoction and a few small paper cups beside them. In the background, slightly blurred, the outlines of school children in uniform sit on the floor, seen from behind, and a teacher in a saree stands at a distance. Soft daylight from a classroom window falls across the desk. Camera: close macro focus at a slightly high angle, 35 mm, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-camp-organised-by-siddha-unit/4375800",
-   "published": "2026-11-14T07:02:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, the reel_script claims 'காய்ச்சல் வராமல் தடுக்கும் முறைகளும் எடுத்துரைக்கப்பட்டன' – a loose rendering, but the article says the methods of preventing the fever were explained, which matches; no problem there.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "குளித்தலை அருகே ரேஷன் அரிசியில் வண்டு, புழுக்கள் இருப்பதாக மக்கள் புகார் தெரிவித்துள்ளனர். கரூர் மாவட்டம், சிவாயத்தில் தமிழ்நாடு நுகர்பொருள் வாணிப கழகத்தின் புதிய கிடங்கை உணவு துறை அமைச்சர் வெங்கடரமணன் திறந்து வைத்தார். அப்போது, அப்பகுதி மக்கள் அவரிடம் புகார் அளித்தனர். கிடங்கில் உள்ள அரிசியிலிருந்து வண்டு, புழுக்கள் தொடர்ந்து வெளியேறி அருகில் உள்ள குடியிருப்புக்கு வருவதாக அவர்கள் கூறினர். இதனால் பெரும் அவதிக்கு ஆளாவதாக மக்கள் தெரிவித்தனர். சம்பந்தப்பட்ட நிலைய பொறுப்பாளர் முருகானந்தம் கண்டிக்கப்பட்டார். பழைய கிடங்குகளில் உள்ள அரிசி மூட்டைகளை எடுத்து புதிய கட்டடத்தில் வைக்க அமைச்சர் உத்தரவிட்டார். வண்டு, புழுக்கள் வராமல் நடவடிக்கை எடுக்கவும் உத்தரவிடப்பட்டது. இரும்பூதிப்பட்டியில் உள்ள குளித்தலை, கிருஷ்ணராயபுரம் வட்ட கிடங்குகளில் அமைச்சர் ஆய்வு செய்தார். அங்கு அரிசி மூட்டைகள் பராமரிக்கப்படாமல் வண்டு, புழுக்கள் இருப்பதை அவர் கவனித்தார். பள்ளி குழந்தைகளுக்கு அனுப்பப்படும் உணவுப் பொருட்கள் தரமாக இருக்க வேண்டும் என்றும், முறையாகப் பராமரிக்க வேண்டும் என்றும் அதிகாரியிடம் அவர் வலியுறுத்தினார். கிடங்கில் உள்ள தேவையற்ற பொருட்களை அப்புறப்படுத்தவும் உத்தரவிடப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 குளித்தலை அருகே ரேஷன் அரிசியில் வண்டு, புழுக்கள்: அமைச்சரிடம் புகார்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், சிவாயத்தில் தமிழ்நாடு நுகர்பொருள் வாணிப கழகத்தின் புதிய கிடங்கை உணவு துறை அமைச்சர் வெங்கடரமணன் திறந்து வைத்தார். அப்போது அப்பகுதி மக்கள், கிடங்கில் உள்ள அரிசியில் இருந்து வண்டு, புழுக்கள் தொடர்ந்து வெளியேறி அருகில் உள்ள குடியிருப்புக்கு வருவதால் பெரும் அவதியாக உள்ளது என்று புகார் தெரிவித்தனர்.\nசம்பந்தப்பட்ட நிலைய பொறுப்பாளர் முருகானந்தம் கண்டிக்கப்பட்டார். பழைய கிடங்குகளில் உள்ள அரிசி மூட்டைகளை எடுத்து புதிய கட்டடத்தில் வைக்கவும், வண்டு, புழுக்கள் வராமல் நடவடிக்கை எடுக்கவும் அமைச்சர் உத்தரவிட்டார்.\nஇரும்பூதிப்பட்டியில் உள்ள குளித்தலை, கிருஷ்ணராயபுரம் வட்ட கிடங்குகளில் ஆய்வு செய்தபோது, அரிசி மூட்டைகள் பராமரிக்கப்படாமல் வண்டு, புழுக்கள் இருப்பதை அமைச்சர் கவனித்தார். பள்ளி குழந்தைகளுக்கான உணவுப் பொருட்கள் தரமாக இருக்க வேண்டும் என்றும், கிடங்கில் உள்ள தேவையற்ற பொருட்களை அப்புறப்படுத்த வேண்டும் என்றும் அவர் அதிகாரியிடம் உத்தரவிட்டார்.\n\nKulithalai ration rice worms complaint to minister | Karur news\n📍 சிவாயம், குளித்தலை, கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "A group of local residents stands near the entrance of a government Civil Supplies godown in Sivayam, near Kulithalai, Karur district, quietly raising complaints as officials look on. Inside the warehouse, stacks of rice sacks are piled high on the concrete floor, and a few workers in shirts and veshti walk between them. Several residents, women in sarees and men in shirts, stand in a small cluster, seen from behind and slightly distant, gesturing toward the godown. Behind them rises a low, plain concrete godown building with a tin roof, next to a few houses of the nearby residential colony. It is bright daylight with the warm, hazy look of a Karur afternoon. Shot at eye level on a 35 mm lens, wide enough to show the godown, the stacked sacks, the residents and the housing area together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked rice sacks inside a Civil Supplies godown in Sivayam, near Kulithalai, showing the rough woven gunny bags piled on a concrete floor. The top sacks are slightly open at the seams, with rice grains spilling onto the ground and a few tiny weevils crawling on the grain surface. A worker's bare feet and the edge of a veshti are visible at the frame's edge, and dust hangs in the light coming through a side opening. Daylight filters in softly through the godown's open doors, giving a dull, grainy look. Shot at slightly high angle on a 35 mm lens, close enough to show the beetles and grain clearly. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/ration-rice-scam-complaint-to-minister/4376410",
+   "published": "2026-11-14T21:34:33+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672279/karur360/lfph41nyjsuecdfdktr9.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794672283/karur360/seotamrgeqlihc3rrunm.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794686761/karur360/sexiro2cxjzjkapzwmgr.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794686765/karur360/keixfxnbojujfpqoae9w.jpg"
    ]
   }
  ]
