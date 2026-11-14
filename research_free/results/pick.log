@@ -1,36 +1,26 @@
-05:39:21 round 2026-11-14_05: news published 14 Nov 01:45 -> 14 Nov 05:39 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-05:39:21 insights 2026-11-14T05:39+05:30 (17 reels): topic weights {'temple': -0.43, 'education': 0.65}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🛕 குளித்தலை அருகே அம்மன் கோவில் பீடம் சேதம்: போலீசார் வழக்குப் பதிவு']
-05:39:47 40 links on the two papers' Karur pages
-05:40:24 skipped: already posted=11, published before this window=11, not Karur district=10
-05:40:24 list: 0 new + 3 earlier news not posted yet
-05:40:24    1. [பொது] யூனியன் வங்கியின் 108-வது ஆண்டு விழா (தினமலர்) (earlier)
-05:40:24    2. [பொது] மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம் (தினமலர்) (earlier)
-05:40:24    3. [பொது] வரும் 17ல் கறவை மாடு வளர்ப்பு பயிற்சி வகுப்பு (தினமலர்) (earlier)
-05:40:24 automatic pick (owner 2 Nov): no e-mail - the top 3 are written at once
-ROUND=2026-11-14_05
-05:40:25    not picked automatically (ceremony / award / awareness event (low views)): யூனியன் வங்கியின் 108-வது ஆண்டு விழா
-05:40:27 could not mark the automatic pick on the page: bridge pickAuto: no such round
-05:40:27 decided: no submit by 06:39 AM - automatic top 3 -> 2 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-the-hive-that-threatened-the-people/4374854 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cattle-breeding-training-course-to-be-held-on-17th/4374859
-05:44:54 2 listed news now in the Sheet
-05:45:00 instagram duplicate check karur: 18 recent posts read
-05:45:00 verify 2026-11-14_05: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-05:45:00    NOT POSTED C5d09495: queued RN-20 (Queued) - மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்
-05:45:00    NOT POSTED Ce55e5a2: queued RN-19 (Queued) - வரும் 17ல் கறவை மாடு வளர்ப்பு பயிற்சி வகுப்பு
-05:50:07 instagram duplicate check karur: 18 recent posts read
-05:50:07 verify 2026-11-14_05: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-05:50:07    NOT POSTED C5d09495: queued RN-20 (Queued) - மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்
-05:50:07    NOT POSTED Ce55e5a2: queued RN-19 (Queued) - வரும் 17ல் கறவை மாடு வளர்ப்பு பயிற்சி வகுப்பு
-05:55:13 instagram duplicate check karur: 19 recent posts read
-05:55:13 verify 2026-11-14_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-05:55:13    NOT POSTED C5d09495: queued RN-20 (Queued) - மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்
-06:00:20 instagram duplicate check karur: 19 recent posts read
-06:00:20 verify 2026-11-14_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:00:20    NOT POSTED C5d09495: queued RN-20 (Queued) - மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்
-06:05:27 instagram duplicate check karur: 19 recent posts read
-06:05:27 verify 2026-11-14_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:05:27    NOT POSTED C5d09495: queued RN-20 (Queued) - மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்
-06:10:32 instagram duplicate check karur: 19 recent posts read
-06:10:32 verify 2026-11-14_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:10:32    NOT POSTED C5d09495: queued RN-20 (Queued) - மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்
-06:15:37 verify 2026-11-14_05: 2 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+09:56:23 round 2026-11-14_09: news published 14 Nov 05:39 -> 14 Nov 09:56 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+09:56:23 insights 2026-11-14T09:56+05:30 (19 reels): topic weights {'temple': 0.49, 'education': 0.0}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🛕 குளித்தலை அருகே அம்மன் கோவில் பீடம் சேதம்: போலீசார் வழக்குப் பதிவு']
+09:57:52 42 links on the two papers' Karur pages
+09:58:38 skipped: published before this window=9, not Karur district=5, already posted=3, same event already posted=2, no title=1
+09:58:38 list: 19 new + 0 earlier news not posted yet
+09:58:38    1. [குற்றம்] திருட்டு வழக்கு குற்றவாளி மீது குண்டா் சட்டத்தில் நடவடிக்கை (தினமணி)
+09:58:38    2. [குற்றம்] நகை, பணம் திருடிய வாலிபர் குண்டர் சட்டத்தின் கீழ் கைது (தினமலர்)
+09:58:38    3. [விபத்து] பைக் மோதி மூதாட்டி பலி: காரில் சென்ற 3 பேர் காயம் (தினமலர்)
+09:58:38    4. [விபத்து] பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி (தினமலர்)
+09:58:38    5. [பொது] சேவல் சண்டையில் ஈடுபட்ட 4 பேர் மீது வழக்கு பதிவு (தினமலர்)
+09:58:38    6. [பொது] பணம் வைத்து சூதாட்டம் ஐந்து பேருக்கு காப்பு (தினமலர்)
+09:58:38    7. [பொது] உளுந்து செடிகளின் களைகள் அகற்றம் (தினமலர்)
+09:58:38    8. [பொது] வளைவு பகுதியில் விபத்தை தடுக்க வேகத்தடை தேவை (தினமலர்)
+09:58:38    9. [சாலை] விரிவாக்க சாலையில் மின் விளக்கு வாகன ஓட்டுனர்கள் எதிர்பார்ப்பு (தினமலர்)
+09:58:38   10. [கல்வி] பள்ளி மாணவர்களுக்கு கேக், வாழ்த்து அட்டை வழங்கல் (தினமலர்)
+09:58:38   11. [பொது] பஸ்கள் நின்று செல்லாததால் மீண்டும் மறியல் போராட்டம் (தினமலர்)
+09:58:38   12. [பொது] சித்தா பிரிவு சார்பில் விழிப்புணர்வு முகாம் (தினமலர்)
+09:58:38   13. [ரயில்] பராமரிப்பு பணிக்காக நொய்யல் ரயில்வே கேட் நாளை மூடல் (தினமலர் + தினமணி)
+09:58:38   14. [பொது] நிழற்கூடம் இன்றி மக்கள் அவதி (தினமலர்)
+09:58:38   15. [பொது] சி.ஐ.டி.யு., மாநில நிர்வாகிகள் கூட்டம் (தினமலர்)
+09:58:38   16. [பொது] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம் (தினமலர்)
+09:58:38   17. [பொது] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி (தினமலர்)
+09:58:38   18. [பொது] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி (தினமலர்)
+09:58:38   19. [பொது] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், நவ. 14 (தினமலர்)
+09:58:38 automatic pick (owner 2 Nov): no e-mail - the top 3 are written at once
+ROUND=2026-11-14_09
