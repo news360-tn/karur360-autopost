@@ -1,232 +1,339 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 21 recent posts read from the page",
+  "instagram check: 24 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/திருட்டு-வழக்கு-குற்றவாளி-மீதுகுண்டா்-சட்டத்தில்-நடவடிக்கை",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/teenager-thief-of-jewellery-and-money-under-goondas-act-arrested/4375808",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/motorcyclist-killed-3-injured-as-car-rams-into-truck/4375797",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/youth-dies-after-falling-from-bike/4375799",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/4-booked-for-cockfighting/4375801",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/save-up-to-five-people-on-gambling-with-money/4375803",
   "candidate filter: collected=3",
   "to write: 3 Karur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "NOT filed (N) திருட்டு வழக்கு குற்றவாளி மீது\nகுண்டா் சட்டத்தில் : duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min",
-  "filed: 2 Karur district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 71 min",
+  "filed: 3 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (16s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (18s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (8s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (25s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (50s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (46s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூரில் வீட்டின் பூட்டை உடைத்து நகை, பணம் திருட்டு: வாலிபர் மீது குண்டர் சட்டம் பாய்ந்தது",
-   "english_headline": "Man arrested under Goondas Act for breaking into locked home and stealing gold and cash in Karur",
+   "tamil_headline": "தென்னிலை அருகே பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி",
+   "english_headline": "Youth dies after falling from bike near Thennilai, Karur district",
    "category": "Crime & Safety",
-   "location": "Andankovil West, Karur district",
+   "location": "Thennilai, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "தென்னிலை, கரூர்",
+    "hl1": "தென்னிலை அருகே பைக் விபத்தில் வாலிபர்",
+    "hl2": "தலையில் படுகாயம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "தென்னிலை அருகே பைக்கில் இருந்து வாலிபர் தவறி விழுந்தார்",
+       "வைரமடை சாலையில் பைக் நிலை தடுமாறியது",
+       "தலையில் படுகாயம் அடைந்தார்"
+      ]
+     },
+     {
+      "title": "யார் அவர்?",
+      "lines": [
+       "ஈரோடு மாவட்டம், மொடக்குறிச்சி விளக்கேத்தியைச் சேர்ந்தவர்",
+       "பழனிசாமியின் மகன் சந்தோஷ், <b>28</b> வயது",
+       "கடந்த <b>11ஆம் தேதி</b> மாலை நடந்தது"
+      ]
+     },
+     {
+      "title": "என்ன ஆனது?",
+      "lines": [
+       "கரூரில் உள்ள தனியார் மருத்துவமனைக்கு செல்லும் வழியில்",
+       "மனைவி கோமதி, <b>21</b> வயது, போலீசில் புகார் செய்தார்",
+       "தென்னிலை போலீசார் விசாரிக்கின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தென்னிலை அருகே பைக்கில் இருந்து தவறி விழுந்த 28 வயது வாலிபர் உயிரிழந்தார். ஈரோடு மாவட்டம், மொடக்குறிச்சி விளக்கேத்தியைச் சேர்ந்த சந்தோஷ் என்பவர் இச்சம்பவத்தில் உயிரிழந்தார். கடந்த 11ஆம் தேதி மாலை, தென்னிலை அருகே வைரமடை சாலையில் பஜாஜ் பல்சர் பைக்கில் சென்று கொண்டிருந்தார். அப்போது பைக் திடீரென நிலை தடுமாறியதில் சந்தோஷ் கீழே விழுந்தார். தலையில் படுகாயம் அடைந்த அவர், கரூரில் உள்ள தனியார் மருத்துவமனைக்கு செல்லும் வழியில் உயிரிழந்தார். சந்தோஷின் மனைவி கோமதி, 21 வயது, போலீசில் புகார் செய்துள்ளார். தென்னிலை போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏍️ தென்னிலை அருகே பைக்கில் இருந்து தவறி விழுந்த வாலிபர் பலி\n\n📰 முழு விவரம்:\nதென்னிலை அருகே வைரமடை சாலையில் பஜாஜ் பல்சர் பைக்கில் சென்ற ஈரோடு மாவட்டம், மொடக்குறிச்சி விளக்கேத்தியைச் சேர்ந்த சந்தோஷ் (28 வயது), திடீரென பைக் நிலை தடுமாறி கீழே விழுந்தார். தலையில் படுகாயம் அடைந்த அவர், கரூரில் உள்ள தனியார் மருத்துவமனைக்கு செல்லும் வழியில் உயிரிழந்தார். இதுகுறித்து அவரது மனைவி கோமதி (21 வயது), போலீசில் புகார் செய்தார்.\n📍 இடம்: வைரமடை சாலை, தென்னிலை அருகே\n🗓️ நாள்: கடந்த 11ஆம் தேதி மாலை\n👮 நடவடிக்கை: தென்னிலை போலீசார் விசாரித்து வருகின்றனர்\n\nThennilai bike accident youth dies | Karur news\n📍 தென்னிலை, கரூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Thennilai #சாலை_விபத்து #KarurNews",
+   "prompts": "A Tamil Nadu police constable in khaki uniform stands beside a parked Bajaj Pulsar motorcycle on the Vairamadai road near Thennilai in Karur district, while two villagers in shirts and veshti stand at a distance on the roadside. The narrow rural tar road runs between green paddy fields and a few banana trees, with a low concrete compound wall and a small village house on one side. A couple of two-wheelers and an autorickshaw are parked at the edge of the road, and a Tamil Nadu police jeep is parked a little further away. It is early evening, with soft golden light fading over the fields and a faint haze in the air. The people are seen from behind or far away, and no injuries or blood are visible. Camera at eye level, 35 mm, wide enough to show the road, fields and the bike. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a black and silver Bajaj Pulsar motorcycle lying on the edge of a rural tar road near Thennilai in Karur district, its handlebar slightly tilted and its side mirror cracked. Beside it, the rough shoulder of the road has loose gravel and dry leaves, and a green paddy field stretches behind a low mud bund. A pair of worn rubber slippers lies on the road nearby, and a police constable's khaki-clad leg is visible at the edge of the frame. It is evening with warm fading daylight, and the mood is quiet and sombre. No blood, no injured person, and no readable number plates or text. Camera at slightly high angle, 35 mm, shallow depth of field focusing on the motorcycle. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/youth-dies-after-falling-from-bike/4375799",
+   "published": "2026-11-14T07:01:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644658/karur360/jdpqiijoq9wdxma3dohk.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644732/karur360/vr26vtdvebhqsoytkmxx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குளித்தலை அருகே பணம் வைத்து சூதாடிய ஐந்து பேர் கைது",
+   "english_headline": "Five men arrested for gambling for money near Kulithalai; Rs 1,000 seized",
+   "category": "Crime & Safety",
+   "location": "Kasthuri Kurumbapatti, Kulithalai taluk, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
     "cat": "குற்றச் செய்தி",
-    "loc": "ஆண்டாங்கோவில், கரூர்",
-    "hl1": "கரூரில் நகை, பணம் திருடியவர் கைது",
-    "hl2": "குண்டர் சட்டத்தின் கீழ்",
-    "slides": [
-     {
-      "title": "சம்பவ விவரம்",
-      "lines": [
-       "கடந்த <b>அக்டோபர் 2ம் தேதி</b> சம்பவம்",
-       "கரூர் <b>ஆண்டாங்கோவில் மேற்கு</b> பகுதியில் திருட்டு",
-       "வீட்டை பூட்டிவிட்டு மருத்துவமனை சென்ற போது துணிச்சல்"
-      ]
-     },
-     {
-      "title": "திருடப்பட்டவை",
-      "lines": [
-       "<b>4.5 பவுன்</b> தங்க நகை திருடப் பட்டது",
-       "<b>ரூ.1.30 லட்சம்</b> ரொக்கப் பணம் திருட்டு",
-       "பூட்டை உடைத்து நபர் திருடிச் சென்றார்"
-      ]
-     },
-     {
-      "title": "குண்டர் சட்டம்",
-      "lines": [
-       "சிவகாங்கையைச் சேர்ந்த <b>24 வயது</b> வாலிபர் கைது",
-       "எஸ்.பி. <b>ரகுபதி</b> பரிந்துரையின் பேரில் நடவடிக்கை",
-       "கலெக்டர் <b>பிரசன்னா ராமசாமி</b> உத்தரவு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் அருகே வீட்டின் பூட்டை உடைத்து நகை, பணம் திருடிய வாலிபர் குண்டர் சட்டத்தில் கைது செய்யப்பட்டார். கரூர் மாவட்டம் ஆண்டாங்கோவில் மேற்கு ஆத்தூர் புதூர் பகுதியைச் சேர்ந்த 36 வயது நபர், கடந்த அக்டோபர் 2ம் தேதி வீட்டை பூட்டிவிட்டு மனைவியுடன் மருத்துவமனைக்குச் சென்றார். அந்த நேரத்தில் வீட்டின் பூட்டை உடைத்து உள்ளே புகுந்த நபர், 4.5 பவுன் தங்க நகை மற்றும் ரூ.1.30 லட்சம் பணத்தை திருடிச் சென்றார். இது குறித்து கரூர் டவுன் காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது. விசாரணையில், சிவகங்கை மாவட்டம் கிழவாணியங்குடியைச் சேர்ந்த 24 வயது வாலிபர் இந்த திருட்டில் ஈடுபட்டது தெரியவந்தது. இதையடுத்து அந்த வாலிபரை கரூர் டவுன் போலீசார் கைது செய்து திருச்சி மத்திய சிறையில் அடைத்தனர். தொடர்ந்து, அவரை குண்டர் சட்டத்தின் கீழ் கைது செய்ய மாவட்ட காவல் கண்காணிப்பாளர் ரகுபதி பரிந்துரை செய்தார். இந்த பரிந்துரையை ஏற்று மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி உத்தரவு பிறப்பித்தார். இதன்படி திருச்சி மத்திய சிறையில் உள்ள அந்த வாலிபரிடம் குண்டர் சட்டத்தில் கைது செய்யப்பட்டதற்கான உத்தரவு நகலை கரூர் டவுன் போலீசார் வழங்கினர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கரூரில் வீட்டின் பூட்டை உடைத்து நகை, பணம் திருடிய வாலிபர் மீது குண்டர் சட்டம் பாய்ந்தது\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் ஆண்டாங்கோவில் மேற்கு ஆத்தூர் புதூர் பகுதியைச் சேர்ந்த 36 வயது நபர், கடந்த அக்டோபர் 2ம் தேதி வீட்டை பூட்டிவிட்டு மனைவியுடன் மருத்துவமனை சென்றிருந்தார். அப்போது வீட்டின் பூட்டை உடைத்து 4.5 பவுன் தங்க நகை மற்றும் ரூ.1.30 லட்சம் பணத்தை மர்ம நபர் திருடிச் சென்றார்.\n\nஇது குறித்த புகாரின்பேரில், சிவகங்கை மாவட்டம் கிழவாணியங்குடியைச் சேர்ந்த 24 வயது வாலிபரை கரூர் டவுன் போலீசார் கைது செய்து திருச்சி மத்திய சிறையில் அடைத்தனர். இந்நிலையில், எஸ்.பி. ரகுபதி கொடுத்த பரிந்துரையின்படி, மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி அந்த வாலிபரை குண்டர் சட்டத்தின் கீழ் கைது செய்ய உத்தரவிட்டார். இதற்கான நகலை திருச்சி மத்திய சிறையில் போலீசார் வழங்கினர்.\n\n📍 இடம்: ஆண்டாங்கோவில் மேற்கு, கரூர்\n🗓️ நாள்: அக்டோபர் 2 (சம்பவ நாள்)\n👮 நடவடிக்கை: குண்டர் சட்டத்தின் கீழ் கைது (திருச்சி மத்திய சிறை)\n\nபாதுகாப்பு விழிப்புணர்விற்காக இச்செய்தியை Share செய்யுங்கள்.\n\nKarur burglary case Goondas Act arrest Trichy jail | Karur news\n📍 Andankovil West, Karur | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Andankovil #Crime #கரூர்",
-   "prompts": "A Tamil Nadu police officer in khaki stands outside a residential house in Andankovil West, Karur, reviewing a document that marks the detention of a suspect under the Goondas Act. The narrow village-style street has single-storey concrete houses with tiled and sloped roofs, a few two-wheelers parked by the walls, and a low compound gate. Two men in shirts and veshti stand nearby, seen from behind and at a distance, watching quietly. The house door is shut with a visibly broken, hanging lock on the wooden frame, suggesting a recent break-in. It is bright daylight with a clear sky and soft shadows on the road. Shot at eye level on a 35 mm lens, wide enough to show the street, the house and the officer together, slightly high angle to include the rooftops. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a broken iron padlock and damaged door hasp on the wooden front door of a small house in Karur, with the metal bolt pulled out of the frame and splintered wood around it. On a plain wooden table beside the door, a small pile of gold jewellery in a plastic tray sits next to a neat stack of rupee cash bundles, with a folded paper file beside them. A Tamil Nadu police khaki sleeve and boot are just visible at the edge of the frame, out of focus. The light is natural daylight from the side, warm and clear. Shot at close range on a 35 mm lens with shallow depth of field, focus on the broken lock and the jewellery, camera at table height. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/teenager-thief-of-jewellery-and-money-under-goondas-act-arrested/4375808",
-   "published": "2026-11-14T07:06:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630614/karur360/oblngscpz3ozo2byalga.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630622/karur360/gfprdb2noptoifxtns43.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூர் அருகே பைக் மோதி மூதாட்டி பலி: காரில் சென்ற 3 பேர் காயம்",
-   "english_headline": "Woman, 63, killed after bike hits her near Karur; three in car injured",
-   "category": "Roads & Transport",
-   "location": "Semmadai area, Karur-Salem national highway, Karur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "செம்மடை, கரூர்",
-    "hl1": "கரூர் அருகே பைக் மோதி மூதாட்டி பலி",
-    "hl2": "காரில் சென்ற 3 பேர் காயம்",
+    "loc": "கஸ்தூரி குரும்பபட்டி, குளித்தலை",
+    "hl1": "குளித்தலை அருகே சூதாடிய 5 பேர் கைது",
+    "hl2": "ரூ.1,000 பறிமுதல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கரூர் - சேலம் தேசிய நெடுஞ்சாலை, செம்மடை பகுதியில் விபத்து",
-       "நடந்து சென்ற மூதாட்டி ராமாயி, <b>63</b>, பைக் மோதியதில்",
-       "தலையில் அடிபட்டு உயிரிழந்தார்"
+       "குளித்தலை அடுத்த கஸ்தூரி குரும்பபட்டியில் பணம் வைத்து",
+       "பாலவிடுதி போலீசார் சம்பவ இடத்தை சுற்றி வளைத்தனர்",
+       "தகவலின்படி நேற்று முன்தினம் நடவடிக்கை"
       ]
      },
      {
-      "title": "யார் ஓட்டினார்?",
+      "title": "யார் கைது?",
       "lines": [
-       "தான்தோன்றிமலையைச் சேர்ந்த தினேஷ்குமார், <b>24</b>, பைக்கை ஓட்டினார்",
-       "நடந்து சென்ற மூதாட்டி மீது பைக் மோதியது"
+       "ராஜ்குமார், 28 - தூளிபட்டி",
+       "தமிழ்வாணன், 28 - நல்லூர்பட்டி",
+       "அந்தோணி பீட்டர், 33 - மணப்பாறை"
       ]
      },
      {
-      "title": "காரில் காயம்",
+      "title": "மேலும் இருவர்",
       "lines": [
-       "பைக்கின் பின்னால் சென்ற மாருதி ஸ்விப்ட் கார் திடீரென",
-       "காரில் பயணித்த <b>3</b> பேருக்கு காயம்",
-       "சுந்தரமூர்த்தி, <b>67</b>; ஷாலினி, <b>10</b>; ரோகித், <b>1</b>"
+       "ராஜலிங்கம், 37 - கஸ்தூரி குரும்பபட்டி",
+       "சதீஷ்குமார், 30 - ஐந்து பேரில் ஒருவர்",
+       "ஐந்து பேரும் போலீசாரால் கைது செய்யப்பட்டனர்"
       ]
      },
      {
-      "title": "விசாரணை",
+      "title": "பறிமுதல்",
       "lines": [
-       "கார் ஓட்டுநர் விஜயகுமார், பைக் மீது மோதாமல் இருக்க",
-       "வாங்கல் போலீசார் விசாரணை நடத்தி வருகின்றனர்"
+       "அவர்களிடமிருந்து <b>ரூ.1,000</b> பறிமுதல்",
+       "பணம் வைத்து சூதாடியதாக வழக்குப் பதிவு",
+       "சூதாட்டத்தைத் தடுக்கும் நடவடிக்கை தொடரும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் அருகே பைக் மோதியதில் மூதாட்டி ஒருவர் உயிரிழந்தார். கரூர் மாவட்டம், புதுப்பாளையம் பகுதியைச் சேர்ந்த ராமாயி (63 வயது), நடந்து சென்று கொண்டிருந்தார். கடந்த 11ஆம் தேதி கரூர் - சேலம் தேசிய நெடுஞ்சாலை, செம்மடை பகுதியில் இந்தச் சம்பவம் நடந்தது. தான்தோன்றிமலையைச் சேர்ந்த தினேஷ்குமார் (24 வயது), ஓட்டிச் சென்ற பைக், ராமாயி மீது மோதியது. தலையில் அடிபட்டு ராமாயி உயிரிழந்தார். இதற்கிடையே, பைக்குக்குப் பின்னால் சென்ற மாருதி ஸ்விப்ட் கார் ஓட்டுநர் விஜயகுமார், பைக் மீது மோதாமல் இருக்க திடீரெனப் பிரேக் போட்டார். இதனால் காரில் பயணித்த மூவருக்குக் காயம் ஏற்பட்டது. கரூர் ஆத்தூரைச் சேர்ந்த சுந்தரமூர்த்தி, 67; ஷாலினி, 10; ரோகித், 1; ஆகியோருக்குக் காயம். வாங்கல் போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚗 கரூர் அருகே பைக் மோதி 63 வயது மூதாட்டி பலி, காரில் சென்ற 3 பேர் காயம்\n\n📰 முழு விவரம்:\nகரூர் - சேலம் தேசிய நெடுஞ்சாலை, செம்மடை பகுதியில் நடந்து சென்ற புதுப்பாளையத்தைச் சேர்ந்த ராமாயி (63 வயது), மீது தான்தோன்றிமலையைச் சேர்ந்த தினேஷ்குமார் (24 வயது), ஓட்டிச் சென்ற பைக் மோதியது. தலையில் அடிபட்டு ராமாயி உயிரிழந்தார்.\nஇதற்கிடையே, பைக்குக்குப் பின்னால் சென்ற மாருதி ஸ்விப்ட் கார் ஓட்டுநர் விஜயகுமார், பைக் மீது மோதாமல் இருக்க திடீரெனப் பிரேக் போட்டார். இதனால் காரில் பயணித்த ஆத்தூரைச் சேர்ந்த சுந்தரமூர்த்தி, 67; ஷாலினி, 10; ரோகித், 1; ஆகிய மூவருக்கும் காயம் ஏற்பட்டது.\n👮 நடவடிக்கை: வாங்கல் போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\nKarur bike accident woman killed, three injured in car | Karur news\n📍 செம்மடை, கரூர் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #சாலை_விபத்து #கரூர்",
-   "prompts": "A Maruti Swift car stands skidded to a halt on the Karur-Salem national highway at Semmadai, its front braked hard just behind a two-wheeler lying on its side on the tarmac, while a small crowd of onlookers and Tamil Nadu police in khaki stand at a distance near the roadside. The place is a wide four-lane national highway on the outskirts of Karur city, with a concrete median divider, a few roadside shops with shuttered fronts, and a row of trees and electric poles beside it. Two onlookers in shirts and trousers and a woman in a cotton saree stand on the footpath, seen from behind and far away; a policeman in khaki points towards the road. The scene shows a bike and a Maruti Swift car as the main vehicles, with a few lorries and two-wheelers passing in the distance. It is broad daylight with clear sky and flat sunlight. Camera at eye level, 35 mm, wide enough to show the highway, the stopped car, the bike and the crowd. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the rear of a Maruti Swift car parked at an angle on the national highway shoulder, its brake lights visible and a dented bumper, with a small patch of skid marks dark on the asphalt in front of it. Behind it, a two-wheeler lies on the road edge with its handlebar bent, and a faded walking-path white line runs along the shoulder. Near the kerb, a single pair of worn chappals lies on the road, marking where the elderly pedestrian had been walking, while a policeman in khaki stands far back by a roadside barrier. The place is the Karur-Salem national highway near Semmadai, with the road surface grey, a concrete drain along the shoulder and electric poles beside it. The light is bright daytime sun with a clear sky. Camera slightly high, 35 mm, focusing on the car, bike and footwear on the asphalt with the highway receding behind them. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/motorcyclist-killed-3-injured-as-car-rams-into-truck/4375797",
-   "published": "2026-11-14T07:00:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('கரூர் மாவட்டம், புதுப்பாளையம் பகுதியை சேர்ந்தவர் ராமாயி, 63;')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "குளித்தலை அருகே பணம் வைத்து சூதாடிய ஐந்து பேர் போலீசாரால் கைது செய்யப்பட்டனர். குளித்தலை அடுத்த கஸ்தூரி குரும்பபட்டியில் பணம் வைத்து சூதாடுவதாக வந்த தகவலின்படி, நேற்று முன்தினம் பாலவிடுதி போலீசார் அங்கு சென்றனர். போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். தூளிபட்டியைச் சேர்ந்த 28 வயது ராஜ்குமார், நல்லூர்பட்டியைச் சேர்ந்த 28 வயது தமிழ்வாணன், மணப்பாறையைச் சேர்ந்த 33 வயது அந்தோணி பீட்டர் ஆகியோர் கைது செய்யப்பட்டனர். கஸ்தூரி குரும்பபட்டியைச் சேர்ந்த 37 வயது ராஜலிங்கம், 30 வயது சதீஷ்குமார் ஆகியோரும் கைது செய்யப்பட்டனர். அவர்களிடமிருந்து ரூ.1,000 பறிமுதல் செய்யப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த கஸ்தூரி குரும்பபட்டியில் பணம் வைத்து சூதாடுவதாக வந்த தகவலின்படி, நேற்று முன்தினம் பாலவிடுதி போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். அங்கு சூதாடிக்கொண்டிருந்த ஐந்து பேர் கைது செய்யப்பட்டனர். அவர்களிடமிருந்து ரூ.1,000 பறிமுதல் செய்யப்பட்டது.\n📍 இடம்: கஸ்தூரி குரும்பபட்டி, குளித்தலை அடுத்த பகுதி\n👮 நடவடிக்கை: பாலவிடுதி போலீசார் கைது செய்து பணத்தைப் பறிமுதல் செய்தனர்\n\nKulithalai gambling 5 arrested | Karur news\n📍 கஸ்தூரி குரும்பபட்டி, குளித்தலை, கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "Tamil Nadu police in khaki stand over five men seated on a cloth spread on the ground under a shade tree in a village outskirts near Kulithalai, Karur district, as the men are caught in an illegal card gambling raid. The setting is a rural open ground with mud houses, a dirt path, paddy fields and banana plants behind. The men, in shirts and veshti, sit with hands raised or lowered, seen from behind and at a distance, their faces not visible. A police jeep is parked on the dirt road nearby. Daylight, soft afternoon light, shot at eye level with a 35 mm lens wide enough to show the field and the police vehicle. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cloth mat on dusty village ground with a scattered deck of playing cards and a small bundle of seized Rs 1,000 in rupee notes placed on top, a police officer's khaki-clad boot visible at the edge of the frame. Behind the mat, a blurred background of dry earth and a few banana leaves in soft daylight. The shot is taken from slightly high, 35 mm, emphasising the cards and cash as evidence of the gambling raid, with no readable text or faces visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/save-up-to-five-people-on-gambling-with-money/4375803",
+   "published": "2026-11-14T07:03:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 28, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி'); 33, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி'); 37, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி'); 30, ('அப்போது தூளிபட்டியை சேர்ந்த ராஜ்குமார், 28, நல்லூர்பட்டி தமி')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630630/karur360/ngaamxm7hhluukrgioue.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630638/karur360/ajlugt6js8ffhzk3htd8.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644750/karur360/jiwo24bgpeiic1wlr4iu.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644807/karur360/zemagfjzgmwesixyudig.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்",
+   "english_headline": "Cockfight near Kulithalai: 4 booked, 9 bikes seized",
+   "category": "Crime & Safety",
+   "location": "Kakkayampatti Nalroad, Kulithalai, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "காக்காயம்பட்டி, குளித்தலை",
+    "hl1": "குளித்தலை அருகே சேவல் சண்டை: 4 பேர்",
+    "hl2": "9 பைக்குகள் பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குளித்தலை அடுத்த காக்காயம்பட்டி நால்ரோடு அருகே சேவல் சண்டை",
+       "பண்ணைக்களம் பகுதியில் நடைபெற்றதாக தகவல் கிடைத்தது",
+       "தோகைமலை போலீசார் சுற்றி வளைத்தனர்"
+      ]
+     },
+     {
+      "title": "யார் மீது வழக்கு?",
+      "lines": [
+       "திருச்சி மாவட்டம் தொட்டியம் பூபதி, 29 வயது",
+       "ரத்தினவேல், 29 வயது, நாதிப்பட்டி காமராஜ், 21 வயது",
+       "கொசூர் வீரமலை, 30 வயது - 4 பேர் மீதும் வழக்கு"
+      ]
+     },
+     {
+      "title": "பறிமுதல்",
+      "lines": [
+       "இவர்களிடம் இருந்து <b>9 பைக்</b> பறிமுதல் செய்யப்பட்டது",
+       "எஸ்.ஐ. பாலசுப்பிரமணியன் தலைமையில் சோதனை",
+       "வழக்கு தோகைமலை போலீசாரால் பதிவு செய்யப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குளித்தலை அருகே சேவல் சண்டை நடத்தியதாக 4 பேர் மீது வழக்குப் பதிவு செய்யப்பட்டது. குளித்தலை அடுத்த காக்காயம்பட்டி நால்ரோடு அருகே பண்ணைக்களம் பகுதியில் சேவல் சண்டை நடைபெறுவதாக தோகைமலை போலீசாருக்கு தகவல் கிடைத்தது. இதையடுத்து காவல் உதவி ஆய்வாளர் பாலசுப்பிரமணியன் தலைமையில் போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம் தொட்டியத்தைச் சேர்ந்த 29 வயது பூபதி, 29 வயது ரத்தினவேல், நாதிப்பட்டியைச் சேர்ந்த 21 வயது காமராஜ், கொசூரைச் சேர்ந்த 30 வயது வீரமலை ஆகியோர் மீது தோகைமலை போலீசார் வழக்குப் பதிவு செய்தனர். அவர்களிடம் இருந்து 9 பைக்குகள் பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த காக்காயம்பட்டி நால்ரோடு அருகே பண்ணைக்களம் பகுதியில் சேவல் சண்டை நடைபெறுவதாக தோகைமலை போலீசாருக்கு தகவல் கிடைத்தது. எஸ்.ஐ. பாலசுப்பிரமணியன் தலைமையில் போலீசார் சம்பவ இடத்தைச் சுற்றி வளைத்தனர். சேவல் சண்டையில் ஈடுபட்டதாக 4 பேர் மீது வழக்குப் பதிவு செய்யப்பட்டது. அவர்களிடம் இருந்து 9 பைக்குகள் பறிமுதல் செய்யப்பட்டன.\n\n📍 இடம்: காக்காயம்பட்டி நால்ரோடு அருகே பண்ணைக்களம், குளித்தலை\n🗓️ நாள்: நவம்பர் 14, 2026\n👮 நடவடிக்கை: தோகைமலை போலீசார் வழக்குப் பதிவு; 9 பைக் பறிமுதல்\n\nKulithalai cockfight 4 booked, 9 bikes seized | Karur news\n📍 குளித்தலை, கரூர் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "Nine parked two-wheelers stand in a dusty open farm clearing (pannaikkalam) on the outskirts of Kulithalai, Karur district, as khaki-uniformed Tamil Nadu police officers gather beside them in the early daylight. A sub-inspector stands in the middle of the group while constables surround the open ground, marking the raid on the cockfight site. Four men stand at a distance with their backs to the camera, dressed in plain shirts and veshti or trousers, held near the police jeep. Behind them are scattered dry bushes, a mud-brick farm shed, a few banana plants and open paddy fields flat under a pale sky. The bikes are typical Indian motorcycles and scooters, all lined up neatly with their stands down. The scene is unadorned, with no visible text or signboards. Camera at eye level, 35 mm lens, wide enough to show the bikes, the police and the open farm land. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose detail of the seized two-wheelers parked in a row on dry, dusty earth at a Kulithalai farm clearing, with a khaki-clad police constable's boots and the hem of a khaki uniform visible at the edge of the frame. Several motorcycle handlebars, side mirrors and fuel tanks are visible, with a bamboo fence and dry paddy stubble in the background. A small pile of loose cock-fighting feathers and a sisal rope lie on the ground near the bikes, suggesting the illicit event, but nothing gory. Soft, flat daylight falls on the dust, and the scene is calm with no people's faces visible. Camera slightly high, 35 mm lens, shallow depth of field keeping the nearest bike sharp and the police figure softly blurred behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/4-booked-for-cockfighting/4375801",
+   "published": "2026-11-14T07:02:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 29, ('அப்போது சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம், தொட்ட'); 21, ('அப்போது சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம், தொட்ட'); 30, ('அப்போது சேவல் சண்டையில் ஈடுபட்டதாக, திருச்சி மாவட்டம், தொட்ட')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644832/karur360/y7irj3pc9wye04n3alkd.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794644856/karur360/uxdbopkxqgaqpg09vldy.jpg"
    ]
   }
  ]
