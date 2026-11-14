@@ -15,7 +15,8 @@
     "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81-%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B5%E0%AE%BE%E0%AE%B3%E0%AE%BF-%E0%AE%AE%E0%AF%80%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%81%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BE%E0%AF%8D-%E0%AE%9A%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A8%E0%AE%9F%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88"
    ],
    "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T09:58:43.334358+05:30"
+   "picked_at": "2026-11-14T09:58:43.334358+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C889e598": {
    "id": "C889e598",
@@ -28,7 +29,8 @@
    "score": 12.2,
    "power_cut": false,
    "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T09:58:43.334362+05:30"
+   "picked_at": "2026-11-14T09:58:43.334362+05:30",
+   "posted": true
   },
   "C21a6fca": {
    "id": "C21a6fca",
@@ -41,7 +43,8 @@
    "score": 11.0,
    "power_cut": false,
    "listed_at": "2026-11-14T09:56:23.778057+05:30",
-   "picked_at": "2026-11-14T09:58:43.334366+05:30"
+   "picked_at": "2026-11-14T09:58:43.334366+05:30",
+   "posted": true
   },
   "Cafdd9fd": {
    "id": "Cafdd9fd",
@@ -550,7 +553,10 @@
     "C21a6fca",
     "C889e598",
     "Ca1934c8"
-   ]
+   ],
+   "refused": {
+    "Ca1934c8": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
