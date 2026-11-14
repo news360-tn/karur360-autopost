@@ -1,211 +1,232 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 18 recent posts read from the page",
+  "instagram check: 21 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-the-hive-that-threatened-the-people/4374854",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cattle-breeding-training-course-to-be-held-on-17th/4374859",
-  "candidate filter: collected=2",
-  "to write: 2 Karur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Karur; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/திருட்டு-வழக்கு-குற்றவாளி-மீதுகுண்டா்-சட்டத்தில்-நடவடிக்கை",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/teenager-thief-of-jewellery-and-money-under-goondas-act-arrested/4375808",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/motorcyclist-killed-3-injured-as-car-rams-into-truck/4375797",
+  "candidate filter: collected=3",
+  "to write: 3 Karur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min",
-  "filed: 2 Karur district stories (target 2), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "NOT filed (N) திருட்டு வழக்கு குற்றவாளி மீது\nகுண்டா் சட்டத்தில் : duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min",
+  "filed: 2 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (22s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (28s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.5-flash (14s)",
+  "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (16s)",
+  "ok gemini/gemini-3.6-flash (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "ok gemini/gemini-3.5-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூரில் கறவை மாடு வளர்ப்பு பயிற்சி வகுப்பு வரும் 17ம் தேதி",
-   "english_headline": "Dairy cattle rearing training course on 17 Nov at Pandudhagaranpudur near Karur",
-   "category": "Education",
-   "location": "Pandudhagaranpudur, Manmangalam, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பயிற்சி வகுப்பு",
-    "loc": "பண்டுதகாரன்புதூர்",
-    "hl1": "பண்டுதகாரன்புதூர்: கறவை மாடு பயிற்சி",
-    "hl2": "வரும் <b>17ம் தேதி</b>",
-    "slides": [
-     {
-      "title": "எப்போது, எங்கே?",
-      "lines": [
-       "வரும் <b>17ம் தேதி</b> பயிற்சி நடைபெறும்",
-       "மண்மங்கலம் அருகே, பண்டுதகாரன்புதூர்",
-       "கால்நடை பல்கலைக்கழக பயிற்சி மையத்தில்"
-      ]
-     },
-     {
-      "title": "என்ன",
-      "lines": [
-       "கறவை மாட்டு இனங்கள், கன்று பராமரிப்பு",
-       "தீவனம், நோய் தடுப்பு, தடுப்பூசி அட்டவணை",
-       "பண்ணை நிர்வாகம், சந்தைப்படுத்துதல்"
-      ]
-     },
-     {
-      "title": "சேர்க்கை விவரம்",
-      "lines": [
-       "சான்றிதழுடன் கூடிய பயிற்சி",
-       "கட்டணம் <b>590 ரூபாய்</b>",
-       "முன்பதிவு செய்பவர்களுக்கு முன்னுரிமை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பண்டுதகாரன்புதூரில் வரும் 17ஆம் தேதி கறவை மாடு வளர்ப்பு பயிற்சி வகுப்பு நடைபெறுகிறது. இந்தப் பயிற்சி கரூர் மாவட்டம் மண்மங்கலம் அருகே உள்ள பண்டுதகாரன்புதூர் கால்நடை பல்கலைக்கழக பயிற்சி மற்றும் ஆராய்ச்சி மையத்தின் சார்பில் நடத்தப்படுகிறது. பயிற்சி மையத்தின் தலைவர் சக்திவேல் இதுகுறித்த செய்திக்குறிப்பை வெளியிட்டுள்ளார். சான்றிதழுடன் கூடிய இந்தப் பயிற்சியில் கறவை மாட்டு இனங்கள் மற்றும் அவற்றின் சிறப்பு குறித்து விளக்கப்படும். கன்று பராமரிப்பு, கொட்டகை அமைப்பு, தீவனம் மற்றும் மேய்ச்சல் மேலாண்மை குறித்தும் பயிற்சி அளிக்கப்படும். இனப்பெருக்க மேலாண்மை, நோய் தடுப்பு, தடுப்பூசி மற்றும் குடற்புழு நீக்க அட்டவணை பற்றியும் கற்றுத்தரப்படும். பண்ணை நிர்வாகம், பதிவேடு பராமரிப்பு, சந்தைப்படுத்துதல் மற்றும் சுயதொழில் வாய்ப்பு குறித்தும் செயல்முறை விளக்கங்களுடன் பயிற்சி வழங்கப்படும். புதியதாக பண்ணை அமைத்தல், இனத்தேர்வு மற்றும் தீவன திட்டமிடல் குறித்த தொழில்நுட்ப ஆலோசனையும் வழங்கப்படும். பயிற்சியில் பங்கேற்பவர்களுக்கு சான்றிதழ், பயிற்சி கையேடு மற்றும் மதிய உணவு வழங்கப்படும். பயிற்சிக் கட்டணம் 590 ரூபாய். முன்பதிவு செய்பவர்களுக்கு முன்னுரிமை வழங்கப்படும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐄 பண்டுதகாரன்புதூரில் வரும் 17ம் தேதி கறவை மாடு வளர்ப்பு பயிற்சி\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் மண்மங்கலம் அருகே உள்ள பண்டுதகாரன்புதூர் கால்நடை பல்கலைக்கழக பயிற்சி மற்றும் ஆராய்ச்சி மையத்தின் சார்பில், சான்றிதழுடன் கூடிய கறவை மாடு வளர்ப்பு பயிற்சி வரும் 17ம் தேதி நடைபெறுகிறது. இனங்கள், கன்று பராமரிப்பு, கொட்டகை அமைப்பு, தீவனம், நோய் தடுப்பு, தடுப்பூசி அட்டவணை, பண்ணை நிர்வாகம், சந்தைப்படுத்துதல் மற்றும் சுயதொழில் வாய்ப்பு குறித்து செயல்முறை விளக்கங்களுடன் பயிற்சி அளிக்கப்படும். புதிய பண்ணை அமைத்தல், இனத்தேர்வு மற்றும் தீவன திட்டமிடல் குறித்த தொழில்நுட்ப ஆலோசனையும் வழங்கப்படும். பங்கேற்பாளர்களுக்குச் சான்றிதழ், பயிற்சி கையேடு மற்றும் மதிய உணவு வழங்கப்படும். பயிற்சிக் கட்டணம் 590 ரூபாய். முன்பதிவு செய்பவர்களுக்கு முன்னுரிமை வழங்கப்படும்.\n\n📍 இடம்: பண்டுதகாரன்புதூர், மண்மங்கலம் அருகே, கரூர் மாவட்டம்\n🗓️ நாள்: வரும் 17ம் தேதி\n💰 கட்டணம்: 590 ரூபாய்\n\nKarur dairy cattle rearing training on 17th | Karur news\n📍 Pandudhagaranpudur, Karur district | 14 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Karur #KarurNews #கரூர்",
-   "prompts": "COVER: A group of men and women sit in rows inside a simple, open-sided training hall at the Pandudhagaranpudur Cattle University Training and Research Center. The participants, dressed in casual shirts and sarees, face a podium where a trainer in a shirt and trousers stands, gesturing towards a whiteboard or chart. The room is filled with natural light streaming through large windows. In the background, the exterior of the center is visible, showing a rural setting with greenery. The atmosphere is focused and educational, with attendees taking notes. The camera is positioned at eye level, 35 mm, capturing the wide view of the classroom and the attentive audience from a distance, ensuring no faces are clearly recognizable. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nDETAIL: A close-up shot of a table in the corner of the training room, displaying the materials provided to the participants. On the table, there are stacks of printed training handbooks and certificates from the Tamil Nadu Veterinary and Animal Sciences University. Next to the documents, a tray of lunch items, including rice and vegetables, is arranged, indicating the meal provided to the trainees. The focus is sharp on the papers and food, while the background is slightly blurred, showing the legs of the chairs and the floor of the training center. The lighting is bright daylight, highlighting the texture of the paper and the food items. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cattle-breeding-training-course-to-be-held-on-17th/4374859",
-   "published": "2026-11-13T06:48:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794615246/karur360/iatp4wud0fq4eri6vwtv.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794615249/karur360/dvy7di33fsdkfsdsg0fx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "புஞ்சை தோட்டக்குறிச்சியில் மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்",
-   "english_headline": "Wasp nest threatening people removed in Punjai Thottakurichi, Karur",
-   "category": "Civic Issues",
-   "location": "Mel Oratthai, Punjai Thottakurichi town panchayat, Karur district",
+   "tamil_headline": "கரூரில் வீட்டின் பூட்டை உடைத்து நகை, பணம் திருட்டு: வாலிபர் மீது குண்டர் சட்டம் பாய்ந்தது",
+   "english_headline": "Man arrested under Goondas Act for breaking into locked home and stealing gold and cash in Karur",
+   "category": "Crime & Safety",
+   "location": "Andankovil West, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொதுமக்கள் நலன்",
-    "loc": "புஞ்சை தோட்டக்குறிச்சி",
-    "hl1": "புஞ்சை தோட்டக்குறிச்சியில் கதண்டு கூடு",
-    "hl2": "மக்கள் நிம்மதி",
+    "cat": "குற்றச் செய்தி",
+    "loc": "ஆண்டாங்கோவில், கரூர்",
+    "hl1": "கரூரில் நகை, பணம் திருடியவர் கைது",
+    "hl2": "குண்டர் சட்டத்தின் கீழ்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "சம்பவ விவரம்",
       "lines": [
-       "மேல் ஒரத்தை பகுதியில் தோப்பில் கதண்டு கூடு",
-       "தென்னை மரத்தில் ஆயிரக்கணக்கான விஷ கதண்டுகள்",
-       "அவ்வழியாகச் செல்லும் பொதுமக்களைக் கொட்டின"
+       "கடந்த <b>அக்டோபர் 2ம் தேதி</b> சம்பவம்",
+       "கரூர் <b>ஆண்டாங்கோவில் மேற்கு</b> பகுதியில் திருட்டு",
+       "வீட்டை பூட்டிவிட்டு மருத்துவமனை சென்ற போது துணிச்சல்"
       ]
      },
      {
-      "title": "மனு அளிப்பு",
+      "title": "திருடப்பட்டவை",
       "lines": [
-       "அச்சமடைந்த மக்கள் கூட்டை அகற்றக் கோரி மனு",
-       "புகழூர் தீயணைப்பு நிலையத்தில் மனு அளிக்கப்பட்டது",
-       "இதன் அடிப்படையில் வீரர்கள் சம்பவ இடத்திற்குச் சென்றனர்"
+       "<b>4.5 பவுன்</b> தங்க நகை திருடப் பட்டது",
+       "<b>ரூ.1.30 லட்சம்</b> ரொக்கப் பணம் திருட்டு",
+       "பூட்டை உடைத்து நபர் திருடிச் சென்றார்"
       ]
      },
      {
-      "title": "அகற்றம்",
+      "title": "குண்டர் சட்டம்",
       "lines": [
-       "பாதுகாப்பு உபகரணங்களுடன் வீரர்கள் பணியாற்றினர்",
-       "கதண்டுகள் மீது தண்ணீர் பீய்ச்சி அடித்தனர்",
-       "கூடு முழுமையாக அகற்றப்பட்டது"
+       "சிவகாங்கையைச் சேர்ந்த <b>24 வயது</b> வாலிபர் கைது",
+       "எஸ்.பி. <b>ரகுபதி</b> பரிந்துரையின் பேரில் நடவடிக்கை",
+       "கலெக்டர் <b>பிரசன்னா ராமசாமி</b> உத்தரவு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "புஞ்சை தோட்டக்குறிச்சியில் மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றப்பட்டது. புஞ்சை தோட்டக்குறிச்சி டவுன் பஞ்சாயத்துக்குட்பட்ட மேல் ஒரத்தை பகுதியில் தோப்பில் உள்ள தென்னை மரத்தில் ஆயிரக்கணக்கான விஷ கதண்டுகள் கூடு கட்டியிருந்தன. அவ்வழியாகச் செல்லும் பொதுமக்களைக் கொட்டி அச்சுறுத்தி வந்தன. இதனால் அச்சமடைந்த அப்பகுதி மக்கள், கதண்டு கூட்டை அகற்றித் தருமாறு புகழூர் தீயணைப்பு நிலையத்தில் மனு அளித்தனர். இதன் அடிப்படையில், புகழூர் தீயணைப்பு நிலைய அலுவலர் (பொறுப்பு) ராதாகிருஷ்ணன் தலைமையிலான வீரர்கள் சம்பவ இடத்திற்குச் சென்றனர். பாதுகாப்பு உபகரணங்களுடன் சென்ற வீரர்கள், தென்னை மரத்தில் கூடு கட்டியிருந்த விஷ கதண்டுகள் மீது தண்ணீரைப் பீய்ச்சி அடித்து, அவற்றை முழுமையாக அகற்றினர். இதனால் அப்பகுதி மக்கள் நிம்மதி அடைந்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐝 புஞ்சை தோட்டக்குறிச்சியில் மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்\n\n📰 முழு விவரம்:\nபுஞ்சை தோட்டக்குறிச்சி டவுன் பஞ்சாயத்துக்குட்பட்ட மேல் ஒரத்தை பகுதியில், தோப்பில் உள்ள தென்னை மரத்தில் ஆயிரக்கணக்கான விஷ கதண்டுகள் கூடு கட்டியிருந்தன. அவ்வழியாகச் செல்லும் பொதுமக்களைக் கொட்டி அச்சுறுத்தி வந்தன.\nஇதனால் அச்சமடைந்த மக்கள், கூட்டை அகற்றித் தருமாறு புகழூர் தீயணைப்பு நிலையத்தில் மனு அளித்தனர்.\nமனுவின் அடிப்படையில், புகழூர் தீயணைப்பு நிலைய அலுவலர் (பொறுப்பு) ராதாகிருஷ்ணன் தலைமையிலான வீரர்கள் சம்பவ இடத்திற்குச் சென்றனர்.\nபாதுகாப்பு உபகரணங்களுடன் கதண்டுகள் மீது தண்ணீரைப் பீய்ச்சி அடித்து, கூட்டை முழுமையாக அகற்றினர். இதனால் அப்பகுதி மக்கள் நிம்மதி அடைந்தனர்.\n📍 இடம்: மேல் ஒரத்தை, புஞ்சை தோட்டக்குறிச்சி டவுன் பஞ்சாயத்து\n\nWasp nest removed Punjai Thottakurichi | Karur news\n📍 புஞ்சை தோட்டக்குறிச்சி, கரூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "Firefighters in protective gear and helmets stand at the base of a tall coconut tree in an orchard at Mel Oratthai, Punjai Thottakurichi on the outskirts of Karur city, while one firefighter aims a water jet from a fire tender hose up at a large dark wasp nest hanging among the fronds near the top of the trunk. The scene is a village orchard with other coconut palms, banana plants and a dirt path, with a red Tamil Nadu fire service vehicle parked nearby on the earth track. Several residents stand at a safe distance from behind, one holding a cloth to shield their face, and a few two-wheelers are parked along the edge of the orchard. It is daylight with a clear sky and bright sun, and the water spray glistens in the air. Shot at eye level from about 15 metres away with a 35 mm lens, wide enough to show the tree, the nest, the firefighters and the orchard setting. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a large, dense, papery wasp nest clinging to the trunk and crown of a coconut palm in Karur district, Tamil Nadu, with hundreds of agitated wasps crawling over its grey-brown surface. A stream of water from a firefighter's hose strikes the nest, sending droplets scattering and some wasps falling away. Only the gloved hand and sleeve of a firefighter in protective gear are visible at the bottom edge of the frame, with no faces shown. Dried coconut fronds, rough palm bark and green leaves fill the background of a village orchard in daylight. Shot at a slight low angle with a 50 mm lens, shallow depth of field to isolate the nest and the water jet. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-the-hive-that-threatened-the-people/4374854",
-   "published": "2026-11-13T06:46:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "கரூர் அருகே வீட்டின் பூட்டை உடைத்து நகை, பணம் திருடிய வாலிபர் குண்டர் சட்டத்தில் கைது செய்யப்பட்டார். கரூர் மாவட்டம் ஆண்டாங்கோவில் மேற்கு ஆத்தூர் புதூர் பகுதியைச் சேர்ந்த 36 வயது நபர், கடந்த அக்டோபர் 2ம் தேதி வீட்டை பூட்டிவிட்டு மனைவியுடன் மருத்துவமனைக்குச் சென்றார். அந்த நேரத்தில் வீட்டின் பூட்டை உடைத்து உள்ளே புகுந்த நபர், 4.5 பவுன் தங்க நகை மற்றும் ரூ.1.30 லட்சம் பணத்தை திருடிச் சென்றார். இது குறித்து கரூர் டவுன் காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது. விசாரணையில், சிவகங்கை மாவட்டம் கிழவாணியங்குடியைச் சேர்ந்த 24 வயது வாலிபர் இந்த திருட்டில் ஈடுபட்டது தெரியவந்தது. இதையடுத்து அந்த வாலிபரை கரூர் டவுன் போலீசார் கைது செய்து திருச்சி மத்திய சிறையில் அடைத்தனர். தொடர்ந்து, அவரை குண்டர் சட்டத்தின் கீழ் கைது செய்ய மாவட்ட காவல் கண்காணிப்பாளர் ரகுபதி பரிந்துரை செய்தார். இந்த பரிந்துரையை ஏற்று மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி உத்தரவு பிறப்பித்தார். இதன்படி திருச்சி மத்திய சிறையில் உள்ள அந்த வாலிபரிடம் குண்டர் சட்டத்தில் கைது செய்யப்பட்டதற்கான உத்தரவு நகலை கரூர் டவுன் போலீசார் வழங்கினர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கரூரில் வீட்டின் பூட்டை உடைத்து நகை, பணம் திருடிய வாலிபர் மீது குண்டர் சட்டம் பாய்ந்தது\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் ஆண்டாங்கோவில் மேற்கு ஆத்தூர் புதூர் பகுதியைச் சேர்ந்த 36 வயது நபர், கடந்த அக்டோபர் 2ம் தேதி வீட்டை பூட்டிவிட்டு மனைவியுடன் மருத்துவமனை சென்றிருந்தார். அப்போது வீட்டின் பூட்டை உடைத்து 4.5 பவுன் தங்க நகை மற்றும் ரூ.1.30 லட்சம் பணத்தை மர்ம நபர் திருடிச் சென்றார்.\n\nஇது குறித்த புகாரின்பேரில், சிவகங்கை மாவட்டம் கிழவாணியங்குடியைச் சேர்ந்த 24 வயது வாலிபரை கரூர் டவுன் போலீசார் கைது செய்து திருச்சி மத்திய சிறையில் அடைத்தனர். இந்நிலையில், எஸ்.பி. ரகுபதி கொடுத்த பரிந்துரையின்படி, மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி அந்த வாலிபரை குண்டர் சட்டத்தின் கீழ் கைது செய்ய உத்தரவிட்டார். இதற்கான நகலை திருச்சி மத்திய சிறையில் போலீசார் வழங்கினர்.\n\n📍 இடம்: ஆண்டாங்கோவில் மேற்கு, கரூர்\n🗓️ நாள்: அக்டோபர் 2 (சம்பவ நாள்)\n👮 நடவடிக்கை: குண்டர் சட்டத்தின் கீழ் கைது (திருச்சி மத்திய சிறை)\n\nபாதுகாப்பு விழிப்புணர்விற்காக இச்செய்தியை Share செய்யுங்கள்.\n\nKarur burglary case Goondas Act arrest Trichy jail | Karur news\n📍 Andankovil West, Karur | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Andankovil #Crime #கரூர்",
+   "prompts": "A Tamil Nadu police officer in khaki stands outside a residential house in Andankovil West, Karur, reviewing a document that marks the detention of a suspect under the Goondas Act. The narrow village-style street has single-storey concrete houses with tiled and sloped roofs, a few two-wheelers parked by the walls, and a low compound gate. Two men in shirts and veshti stand nearby, seen from behind and at a distance, watching quietly. The house door is shut with a visibly broken, hanging lock on the wooden frame, suggesting a recent break-in. It is bright daylight with a clear sky and soft shadows on the road. Shot at eye level on a 35 mm lens, wide enough to show the street, the house and the officer together, slightly high angle to include the rooftops. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a broken iron padlock and damaged door hasp on the wooden front door of a small house in Karur, with the metal bolt pulled out of the frame and splintered wood around it. On a plain wooden table beside the door, a small pile of gold jewellery in a plastic tray sits next to a neat stack of rupee cash bundles, with a folded paper file beside them. A Tamil Nadu police khaki sleeve and boot are just visible at the edge of the frame, out of focus. The light is natural daylight from the side, warm and clear. Shot at close range on a 35 mm lens with shallow depth of field, focus on the broken lock and the jewellery, camera at table height. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/teenager-thief-of-jewellery-and-money-under-goondas-act-arrested/4375808",
+   "published": "2026-11-14T07:06:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794615284/karur360/bgitmu386y0vldkcxigt.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794615287/karur360/dunigmeweq1x1towmstb.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630614/karur360/oblngscpz3ozo2byalga.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630622/karur360/gfprdb2noptoifxtns43.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் அருகே பைக் மோதி மூதாட்டி பலி: காரில் சென்ற 3 பேர் காயம்",
+   "english_headline": "Woman, 63, killed after bike hits her near Karur; three in car injured",
+   "category": "Roads & Transport",
+   "location": "Semmadai area, Karur-Salem national highway, Karur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "செம்மடை, கரூர்",
+    "hl1": "கரூர் அருகே பைக் மோதி மூதாட்டி பலி",
+    "hl2": "காரில் சென்ற 3 பேர் காயம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கரூர் - சேலம் தேசிய நெடுஞ்சாலை, செம்மடை பகுதியில் விபத்து",
+       "நடந்து சென்ற மூதாட்டி ராமாயி, <b>63</b>, பைக் மோதியதில்",
+       "தலையில் அடிபட்டு உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "யார் ஓட்டினார்?",
+      "lines": [
+       "தான்தோன்றிமலையைச் சேர்ந்த தினேஷ்குமார், <b>24</b>, பைக்கை ஓட்டினார்",
+       "நடந்து சென்ற மூதாட்டி மீது பைக் மோதியது"
+      ]
+     },
+     {
+      "title": "காரில் காயம்",
+      "lines": [
+       "பைக்கின் பின்னால் சென்ற மாருதி ஸ்விப்ட் கார் திடீரென",
+       "காரில் பயணித்த <b>3</b> பேருக்கு காயம்",
+       "சுந்தரமூர்த்தி, <b>67</b>; ஷாலினி, <b>10</b>; ரோகித், <b>1</b>"
+      ]
+     },
+     {
+      "title": "விசாரணை",
+      "lines": [
+       "கார் ஓட்டுநர் விஜயகுமார், பைக் மீது மோதாமல் இருக்க",
+       "வாங்கல் போலீசார் விசாரணை நடத்தி வருகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே பைக் மோதியதில் மூதாட்டி ஒருவர் உயிரிழந்தார். கரூர் மாவட்டம், புதுப்பாளையம் பகுதியைச் சேர்ந்த ராமாயி (63 வயது), நடந்து சென்று கொண்டிருந்தார். கடந்த 11ஆம் தேதி கரூர் - சேலம் தேசிய நெடுஞ்சாலை, செம்மடை பகுதியில் இந்தச் சம்பவம் நடந்தது. தான்தோன்றிமலையைச் சேர்ந்த தினேஷ்குமார் (24 வயது), ஓட்டிச் சென்ற பைக், ராமாயி மீது மோதியது. தலையில் அடிபட்டு ராமாயி உயிரிழந்தார். இதற்கிடையே, பைக்குக்குப் பின்னால் சென்ற மாருதி ஸ்விப்ட் கார் ஓட்டுநர் விஜயகுமார், பைக் மீது மோதாமல் இருக்க திடீரெனப் பிரேக் போட்டார். இதனால் காரில் பயணித்த மூவருக்குக் காயம் ஏற்பட்டது. கரூர் ஆத்தூரைச் சேர்ந்த சுந்தரமூர்த்தி, 67; ஷாலினி, 10; ரோகித், 1; ஆகியோருக்குக் காயம். வாங்கல் போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 கரூர் அருகே பைக் மோதி 63 வயது மூதாட்டி பலி, காரில் சென்ற 3 பேர் காயம்\n\n📰 முழு விவரம்:\nகரூர் - சேலம் தேசிய நெடுஞ்சாலை, செம்மடை பகுதியில் நடந்து சென்ற புதுப்பாளையத்தைச் சேர்ந்த ராமாயி (63 வயது), மீது தான்தோன்றிமலையைச் சேர்ந்த தினேஷ்குமார் (24 வயது), ஓட்டிச் சென்ற பைக் மோதியது. தலையில் அடிபட்டு ராமாயி உயிரிழந்தார்.\nஇதற்கிடையே, பைக்குக்குப் பின்னால் சென்ற மாருதி ஸ்விப்ட் கார் ஓட்டுநர் விஜயகுமார், பைக் மீது மோதாமல் இருக்க திடீரெனப் பிரேக் போட்டார். இதனால் காரில் பயணித்த ஆத்தூரைச் சேர்ந்த சுந்தரமூர்த்தி, 67; ஷாலினி, 10; ரோகித், 1; ஆகிய மூவருக்கும் காயம் ஏற்பட்டது.\n👮 நடவடிக்கை: வாங்கல் போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\nKarur bike accident woman killed, three injured in car | Karur news\n📍 செம்மடை, கரூர் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #சாலை_விபத்து #கரூர்",
+   "prompts": "A Maruti Swift car stands skidded to a halt on the Karur-Salem national highway at Semmadai, its front braked hard just behind a two-wheeler lying on its side on the tarmac, while a small crowd of onlookers and Tamil Nadu police in khaki stand at a distance near the roadside. The place is a wide four-lane national highway on the outskirts of Karur city, with a concrete median divider, a few roadside shops with shuttered fronts, and a row of trees and electric poles beside it. Two onlookers in shirts and trousers and a woman in a cotton saree stand on the footpath, seen from behind and far away; a policeman in khaki points towards the road. The scene shows a bike and a Maruti Swift car as the main vehicles, with a few lorries and two-wheelers passing in the distance. It is broad daylight with clear sky and flat sunlight. Camera at eye level, 35 mm, wide enough to show the highway, the stopped car, the bike and the crowd. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the rear of a Maruti Swift car parked at an angle on the national highway shoulder, its brake lights visible and a dented bumper, with a small patch of skid marks dark on the asphalt in front of it. Behind it, a two-wheeler lies on the road edge with its handlebar bent, and a faded walking-path white line runs along the shoulder. Near the kerb, a single pair of worn chappals lies on the road, marking where the elderly pedestrian had been walking, while a policeman in khaki stands far back by a roadside barrier. The place is the Karur-Salem national highway near Semmadai, with the road surface grey, a concrete drain along the shoulder and electric poles beside it. The light is bright daytime sun with a clear sky. Camera slightly high, 35 mm, focusing on the car, bike and footwear on the asphalt with the highway receding behind them. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/motorcyclist-killed-3-injured-as-car-rams-into-truck/4375797",
+   "published": "2026-11-14T07:00:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('கரூர் மாவட்டம், புதுப்பாளையம் பகுதியை சேர்ந்தவர் ராமாயி, 63;')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630630/karur360/ngaamxm7hhluukrgioue.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794630638/karur360/ajlugt6js8ffhzk3htd8.jpg"
    ]
   }
  ]
