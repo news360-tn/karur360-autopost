@@ -1,2 +1,3 @@
-10:36:44 skipped: could not open=2
-10:36:44 no new power-cut notice
+11:02:29 Dinamalar list failed: HTTPSConnectionPool(host='www.dinamalar.com', port=443): Read timed out. (read timeout=40)
+11:03:16 skipped: could not open=2
+11:03:16 no new power-cut notice
