@@ -1,70 +1,16 @@
-13:52:18 round 2026-11-15_13: news published 15 Nov 09:58 -> 15 Nov 13:52 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-13:52:18 insights 2026-11-15T13:52+05:30 (39 reels): topic weights {'temple': 0.86, 'accident': 0.1, 'education': -0.37, 'poultry_agri': -0.24, 'politics': 0.1, 'civic': -0.5, 'crime': 1.5}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது']
-13:53:11 44 links on the two papers' Karur pages
-13:53:40 skipped: not Karur district=12, published before this window=8, already posted=5, same event already posted=4
-13:53:40 list: 0 new + 12 earlier news not posted yet
-13:53:40    1. [பொது] தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு (தினமலர்) (earlier)
-13:53:40    2. [ரயில்] வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும் ரயில்வே  (தினமலர்) (earlier)
-13:53:40    3. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்) (earlier)
-13:53:40    4. [பொது] புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம் (தினமலர்) (earlier)
-13:53:40    5. [விலை] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார் (தினமலர்) (earlier)
-13:53:40    6. [பொது] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு (தினமலர்) (earlier)
-13:53:40    7. [பொது] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறுத்தல் (தினமலர்) (earlier)
-13:53:40    8. [பொது] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி (தினமலர்) (earlier)
-13:53:40    9. [பொது] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி (தினமலர்) (earlier)
-13:53:40   10. [பொது] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு விறு (தினமலர்) (earlier)
-13:53:40   11. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்) (earlier)
-13:53:40   12. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்) (earlier)
-13:53:40 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_13
-13:53:41    not picked automatically (ceremony / shopping feature - only when the owner ticks it): போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல்
-13:53:41 round 2026-11-15_13 (at least 3, up to 3 more of well-watched topics): 11 news to choose from (0 from earlier rounds), ranked by this page's insights
-13:53:41   PICK   1.   8.5 [other +0.00 pattern] தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-13:53:41   PICK   2.   7.5 [other +0.00 pattern] வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும
-13:53:41   PICK   3.   6.5 [other +0.00 pattern] புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்
-13:53:41          4.   5.5 [other +0.00 pattern] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
-13:53:41          5.   5.5 [other +0.00 pattern] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறு
-13:53:41          6.   5.4 [poultry_agri -0.30 pattern] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
-13:53:41          7.   4.9 [sports_culture -0.20 pattern] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
-13:53:41          8.   4.5 [other +0.00 pattern] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி
-13:53:41          9.   3.5 [other +0.00 pattern] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு 
-13:53:41         10.   2.5 [other +0.00 pattern] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-13:53:41         11.   2.5 [other +0.00 pattern] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்
-13:53:41 decided: automatic: top 3 of 11 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-expect-wires-to-be-fixed-at-low-levels/4376665 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/railway-bridge-waiting-for-years-without-staircase-at-venkamedu/4376659 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/grievance-camp-on-behalf-of-taluk-supply-at-pugazhur/4376666
-13:56:14 3 listed news now in the Sheet
-13:56:23 instagram duplicate check karur: 44 recent posts read
-13:56:23 verify 2026-11-15_13: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-13:56:23    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-13:56:23    NOT POSTED C63c4a64: queued RN-45 (Queued) - வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும
-13:56:23    NOT POSTED Ce30b8c9: queued RN-46 (Queued) - புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்
-14:01:32 instagram duplicate check karur: 44 recent posts read
-14:01:32 verify 2026-11-15_13: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:01:32    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:01:32    NOT POSTED C63c4a64: queued RN-45 (Queued) - வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும
-14:01:32    NOT POSTED Ce30b8c9: queued RN-46 (Queued) - புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்
-14:06:39 instagram duplicate check karur: 45 recent posts read
-14:06:39 verify 2026-11-15_13: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:06:39    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:06:39    NOT POSTED Ce30b8c9: queued RN-46 (Queued) - புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்
-14:11:47 instagram duplicate check karur: 45 recent posts read
-14:11:47 verify 2026-11-15_13: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:11:47    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:11:47    NOT POSTED Ce30b8c9: queued RN-46 (Queued) - புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்
-14:16:54 instagram duplicate check karur: 45 recent posts read
-14:16:54 verify 2026-11-15_13: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:16:54    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:16:54    NOT POSTED Ce30b8c9: queued RN-46 (Queued) - புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்
-14:22:02 instagram duplicate check karur: 46 recent posts read
-14:22:02 verify 2026-11-15_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:22:02    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:27:09 instagram duplicate check karur: 46 recent posts read
-14:27:09 verify 2026-11-15_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:27:09    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:32:16 instagram duplicate check karur: 46 recent posts read
-14:32:16 verify 2026-11-15_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:32:16    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:37:23 instagram duplicate check karur: 46 recent posts read
-14:37:23 verify 2026-11-15_13: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-14:37:23    NOT POSTED C2c3e3ca: queued RN-47 (Queued) - தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-14:42:28 verify 2026-11-15_13: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+17:32:24 round 2026-11-15_17: news published 15 Nov 13:52 -> 15 Nov 17:32 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+17:32:24 insights 2026-11-15T17:32+05:30 (42 reels): topic weights {'temple': 1.42, 'accident': 0.14, 'education': -0.1, 'poultry_agri': -0.06, 'politics': 0.35, 'civic': -0.5, 'crime': 1.5}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது']
+17:33:58 64 links on the two papers' Karur pages
+17:34:59 skipped: not Karur district=31, already posted=8, published before this window=8, same event already posted=4, no title=1
+17:35:00 list: 0 new + 9 earlier news not posted yet
+17:35:00    1. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்) (earlier)
+17:35:00    2. [விலை] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார் (தினமலர்) (earlier)
+17:35:00    3. [பொது] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு (தினமலர்) (earlier)
+17:35:00    4. [பொது] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறுத்தல் (தினமலர்) (earlier)
+17:35:00    5. [பொது] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி (தினமலர்) (earlier)
+17:35:00    6. [பொது] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி (தினமலர்) (earlier)
+17:35:00    7. [பொது] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு விறு (தினமலர்) (earlier)
+17:35:00    8. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்) (earlier)
+17:35:00    9. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்) (earlier)
+17:35:00 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-15_17

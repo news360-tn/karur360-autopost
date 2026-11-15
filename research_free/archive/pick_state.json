@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-15T13:52:18.265405+05:30",
+ "last_end": "2026-11-15T17:32:24.105940+05:30",
  "pool": {
   "Cf13382e": {
    "id": "Cf13382e",
@@ -15,34 +15,6 @@
    "picked_at": "2026-11-15T10:00:12.595815+05:30",
    "refused": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
   },
-  "C2c3e3ca": {
-   "id": "C2c3e3ca",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-expect-wires-to-be-fixed-at-low-levels/4376665",
-   "title": "தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு",
-   "summary": "கரூர்:கரூரில் மின் கம்பங்களில் உள்ள ஒயர்கள், தாழ்வான நிலையில் உள்ளது. எனவே, விபத்து ஏற்படும் முன், ஒயர்களை சரி செய்ய வேண்டும். கரூர் பசுபதிபுரம் பகுதியில் வர்த்தக நிறுவனங்கள், திருமண மண்டபம், கோவில் மற்றும் வீடுகள் அத...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:57:00+05:30",
-   "category": "பொது",
-   "score": 9.0,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T13:53:41.863122+05:30",
-   "posted": true
-  },
-  "C63c4a64": {
-   "id": "C63c4a64",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/railway-bridge-waiting-for-years-without-staircase-at-venkamedu/4376659",
-   "title": "வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும் ரயில்வே பாலம்",
-   "summary": "கரூர்:கரூர் அருகே, வெங்கமேட்டில் கட்டப்பட்டுள்ள ரயில்வே மேம்பாலத்தின் கீழே, படிக்கட்டுகள் கட்ட வேண்டும் என, பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:52:00+05:30",
-   "category": "ரயில்",
-   "score": 8.0,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T13:53:41.863126+05:30",
-   "posted": true
-  },
   "Cda18b9e": {
    "id": "Cda18b9e",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/competitive-exam-books-can-be-purchased-at-karur-library-officer/4376671",
@@ -54,20 +26,6 @@
    "score": 7.68,
    "power_cut": false,
    "listed_at": "2026-11-15T09:58:14.890671+05:30"
-  },
-  "Ce30b8c9": {
-   "id": "Ce30b8c9",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/grievance-camp-on-behalf-of-taluk-supply-at-pugazhur/4376666",
-   "title": "புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்",
-   "summary": "கரூர்:புகழூர் தாலுகா அலுவலகத்தில், வட்ட வழங்கல் துறை சார்பில், பொதுமக்கள் குறைதீர் முகாம் நடந்தது. அதில், புகழூர் தாலுகாவுக்குட்பட்ட, 27 வருவாய் கிராமங்களை சேர்ந்த, குடும்ப அட்டைதாரர்கள் புதிய குடும்ப அட்டை கோருதல், ப...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:57:00+05:30",
-   "category": "பொது",
-   "score": 7.0,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T13:53:41.863129+05:30",
-   "posted": true
   },
   "C2c68072": {
    "id": "C2c68072",
@@ -735,6 +693,27 @@
     "C63c4a64",
     "Ce30b8c9"
    ]
+  },
+  "2026-11-15_17": {
+   "window": [
+    "2026-11-15T13:52:18.265405+05:30",
+    "2026-11-15T17:32:24.105940+05:30"
+   ],
+   "ids": [
+    "Cda18b9e",
+    "C2c68072",
+    "C67565d5",
+    "C872b336",
+    "C7699eaf",
+    "C3a73d22",
+    "C036661c",
+    "Cf2edb7c",
+    "Cfc1f4e2"
+   ],
+   "sent": false,
+   "deadline": "2026-11-15T18:32:24.105940+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
