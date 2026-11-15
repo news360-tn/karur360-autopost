@@ -1,119 +1,110 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 47 recent posts read from the page",
+  "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/book-fair-inaugurated-at-district-central-library/4376656",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/call-for-more-buses-on-collectorate-grievance-redressal-day/4376661",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-gets-cheaper-as-festive-season-ends/4376664",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurai-birthday-bicycle-race/4376662",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/drivers-suffer-due-to-incandescent-lights-on-high-level-bridge/4376663",
-  "candidate filter: collected=5",
-  "to write: 5 Karur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "real photo from the source (Dinamalar) for 'Streetlights not working on elevated bri'",
-  "auto images: 1 of 1 stories ({})",
-  "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/father-son-killed-as-truck-rams-into-truck/4377013",
+  "manual link added: https://pukaarpetti.dailythanthi.com/sewage/news-68606",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68612",
+  "manual link added: https://pukaarpetti.dailythanthi.com/garbage/news-68609",
+  "candidate filter: collected=4",
+  "to write: 4 Karur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Karur; time left 79 min",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/news-68609",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-686",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/sewage/news-68606",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/father-son-ki",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Karur district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "NOT filed (N) கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி: not Karur district news (the story's first lines name another place and no Karur place)",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 75 min",
+  "filed: 3 Karur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (34s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.5-flash (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.5-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok gemini/gemini-3-flash-preview (8s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (19s)",
+  "ok gemini/gemini-3-flash-preview (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "ok gemini/gemini-3.5-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok gemini/gemini-3-flash-preview (7s)",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -122,309 +113,177 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூர் அருகே உயர்மட்ட பாலத்தில் விளக்குகள் எரியவில்லை",
-   "english_headline": "Streetlights not working on elevated bridge near Karur",
-   "category": "Roads & Transport",
-   "location": "Vengkallapatti, Karur district",
+   "tamil_headline": "ஆண்டாங்கோவில் கிழக்கில் சாலையோரம் தேங்கிக் கிடக்கும் குப்பைகள்: வாகன ஓட்டிகள் அவதி",
+   "english_headline": "Uncleared roadside garbage in Andankovil East causes hardship to commuters and pedestrians",
+   "category": "Civic Issues",
+   "location": "Andankovil East Panchayat, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை பாதுகாப்பு",
-    "loc": "வெங்ககல்பட்டி, கரூர்",
-    "hl1": "வெங்ககல்பட்டி பாலத்தில் விளக்கு இல்லை",
-    "hl2": "ஓட்டுனர்கள் பெரும் அவதி",
+    "cat": "சுகாதாரம்",
+    "loc": "ஆண்டாங்கோவில், கரூர்",
+    "hl1": "ஆண்டாங்கோவிலில் குப்பை தொல்லை",
+    "hl2": "சாலையோரம் தேங்கும் கழிவுகள்",
     "slides": [
      {
-      "title": "சம்பவ இடம்",
+      "title": "எங்குப் பிரச்சனை?",
       "lines": [
-       "கரூர் - திண்டுக்கல் பழைய சாலை",
-       "வெங்ககல்பட்டி உயர்மட்ட பாலம்",
-       "திருச்சி தேசிய நெடுஞ்சாலைக்கு குறுக்கே"
+       "கரூர் ஆண்டாங்கோவில் கிழக்கு ஊராட்சி",
+       "ஓட்டப்பிள்ளையார் கோவில் சாலையோரம்",
+       "<b>பல மாதங்களாக</b> குப்பைகள் தேக்கம்"
       ]
      },
      {
-      "title": "சிக்கல் விவரம்",
+      "title": "என்ன பாதிப்பு?",
       "lines": [
-       "2020-ல் அமைக்கப்பட்ட விளக்குகள்",
-       "பெரும்பாலான விளக்குகள் எரியவில்லை",
-       "இரவில் வாகன ஓட்டிகள் அவதி"
+       "காற்றில் குப்பைகள் பறந்து விழுகின்றன",
+       "நடந்து செல்வோர் கடும் அவதி",
+       "இருசக்கர வாகன ஓட்டிகள் பாதிப்பு"
       ]
      },
      {
-      "title": "பயன்பாட்டாளர்கள்",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "வெள்ளியணை உள்ளிட்ட 50 கிராம மக்கள்",
-       "வேலை, பள்ளி, கல்லூரிக்கு பயன்பாடு",
-       "விளக்குகளை எரிய வைக்க வேண்டும்"
+       "தேங்கியுள்ள குப்பைகளை அகற்ற வேண்டும்",
+       "முறையாக தூய்மைப் பணி செய்ய வேண்டும்",
+       "அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வெங்ககல்பட்டி உயர்மட்ட பாலத்தில் விளக்குகள் எரியவில்லை. கரூர் அருகே உள்ள இந்த பாலத்தில் சிக்கல் ஏற்பட்டுள்ளது. கரூர் - திண்டுக்கல் பழைய சாலையில் இந்த பாலம் அமைந்துள்ளது. திருச்சி தேசிய நெடுஞ்சாலைக்கு குறுக்கே இது கட்டப்பட்டுள்ளது. சில ஆண்டுகளுக்கு முன்பு மக்கள் பயன்பாட்டுக்கு விடப்பட்டது. வெள்ளியணை, குஜிலியம்பாறை, பாளையம், திண்டுக்கல் பகுதிகளுக்கு வாகனங்கள் செல்கின்றன. 50க்கும் மேற்பட்ட கிராம மக்கள் இதை பயன்படுத்துகின்றனர். வேலைக்கு, பள்ளிக்கு, கல்லூரிக்கு செல்ல இது அவசியம். 2020-ல் அ தி மு க ஆட்சியின் போது விளக்குகள் அமைக்கப்பட்டன. சர்வீஸ் சாலை இருபுறமும், நடுப்பகுதியிலும் விளக்குகள் உள்ளன. தற்போது பெரும்பாலான விளக்குகள் எரிவது இல்லை. இதனால் வாகன ஓட்டிகள் பெரும் அவதிப்படுகின்றனர். விளக்குகளை எரிய வைக்க நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚗 வெங்ககல்பட்டி உயர்மட்ட பாலத்தில் விளக்குகள் எரியவில்லை - ஓட்டுனர்கள் அவதி\n\n📰 முழு விவரம்:\nகரூர் அருகே வெங்ககல்பட்டி உயர்மட்ட பாலத்தில் விளக்குகள் சரிவர எரியாமல் உள்ளது. கரூர் - திண்டுக்கல் பழைய சாலையில், திருச்சி தேசிய நெடுஞ்சாலைக்கு குறுக்கே இந்த பாலம் அமைந்துள்ளது. சில ஆண்டுகளுக்கு முன்பு பொது மக்கள் பயன்பாட்டுக்கு விடப்பட்டது. வெள்ளியணை, குஜிலியம்பாறை, பாளையம், திண்டுக்கல் பகுதிகளுக்கு பஸ், லாரி, கார் போன்ற வாகனங்கள் செல்கின்றன. 50க்கும் மேற்பட்ட கிராம மக்கள் வேலை, பள்ளி, கல்லூரிக்கு செல்ல இதை பயன்படுத்துகின்றனர். 2020-ல் அ.தி.மு.க. ஆட்சியின் போது சர்வீஸ் சாலை இருபுறமும், நடுப்பகுதியிலும் உயர்மட்ட மின் கம்பத்தில் விளக்குகள் அமைக்கப்பட்டன. தற்போது பெரும்பாலான விளக்குகள் எரிவது இல்லை. இதனால் வாகன ஓட்டிகள் பெரும் அவதிப்படுகின்றனர். விளக்குகளை எரிய வைக்க நடவடிக்கை எடுக்க வேண்டும்.\n\n📍 இடம்: வெங்ககல்பட்டி உயர்மட்ட பாலம், கரூர்\nℹ️ மக்கள் கவனத்திற்கு: விளக்குகளை எரிய வைக்க நடவடிக்கை எடுக்க வேண்டும்\n\nVengkallapatti elevated bridge lights not working | Karur news\n📍 Vengkallapatti, Karur | 15 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Vengkallapatti #KarurNews #கரூர்",
-   "prompts": "Along the service road of an elevated flyover at Vengkallapatti near Karur, a line of tall electric poles stands along the approach, most of their lamp heads dark and unlit. Below and beside the raised concrete bridge, the old Karur-Dindigul road carries a bus, a lorry and a car in the same direction, their headlights the only light on the stretch. The bridge deck rises over the National Highway, with a few two-wheelers riding slowly along the service lane. Two or three motorists are seen from behind, helmeted, steering carefully in the dim light. The scene is at night with a faint dusk-blue sky, the cluster of unlit poles making the road look poorly lit. Shot at eye level, 35 mm, wide enough to show the bridge, the poles and the vehicles together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close view of a tall electric pole on the service road of the Vengkallapatti flyover, its lamp head dark and unlit while the pole's lower section is lit only by the glow of a passing vehicle's headlights. Behind it, the concrete pillar of the elevated bridge rises into the night, and a small patch of the service road surface is visible with a two-wheeler's tail light receding. The pole's wiring and metal fixtures are clearly visible, emphasising the lights that are not working. No people are in the frame, or only a faint silhouette of a rider far off. Night, dim sodium-free darkness with only passing headlight glow. Shot at eye level, 35 mm, with a shallow depth of field to isolate the unlit pole. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/drivers-suffer-due-to-incandescent-lights-on-high-level-bridge/4376663",
-   "published": "2026-11-15T06:55:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 4 attempt(s), 0 validator problem(s)",
+   "reel_script": "கரூர் மாவட்டம் ஆண்டாங்கோவில் கிழக்கு ஊராட்சியில் குப்பைகள் அகற்றப்படாததால் பொதுமக்கள் கடும் அவதியடைந்து வருகின்றனர். இங்குள்ள ஓட்டப்பிள்ளையார் கோவில் சாலையோரம் பல மாதங்களாகக் குப்பைகள் அகற்றப்படாமல் தேங்கிக் கிடக்கின்றன. இந்நிலையில், காற்றில் இந்தக் குப்பைகள் பறந்து அவ்வழியாகச் செல்வோர் மீது விழுவதால், நடந்து செல்வோர் மற்றும் இருசக்கர வாகன ஓட்டிகள் சாலையில் செல்ல முடியாமல் கடும் சிரமத்திற்கு உள்ளாகி வருகின்றனர். இதனால், சாலையோரம் தேங்கியுள்ள குப்பைகளை உடனடியாக அகற்ற வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும், தொடர்ந்து முறையாக தூய்மைப் பணிகளை மேற்கொள்ளச் சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்றும் வலியுறுத்தியுள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚮 ஆண்டாங்கோவிலில் சாலையோரம் தேங்கிக் கிடக்கும் குப்பைகள்: வாகன ஓட்டிகள் கடும் அவதி\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், ஆண்டாங்கோவில் கிழக்கு ஊராட்சி, ஓட்டப்பிள்ளையார் கோவில் சாலையோரம் பல மாதங்களாகக் குப்பைகள் அகற்றப்படாமல் தேங்கிக் கிடக்கின்றன. காற்றில் குப்பைகள் பறந்து அவ்வழியாக நடந்து செல்வோர் மற்றும் இருசக்கர வாகன ஓட்டிகள் மீது விழுவதால் அவர்கள் கடும் அவதியடைந்து வருகின்றனர். எனவே, சாலையோரம் தேங்கியுள்ள குப்பைகளை அகற்றி, தொடர்ந்து முறையாக தூய்மைப் பணிகளை மேற்கொள்ளச் சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: ஓட்டப்பிள்ளையார் கோவில் சாலை, ஆண்டாங்கோவில் கிழக்கு ஊராட்சி, கரூர் மாவட்டம்\n⚠️ பிரச்சினை: பல மாதங்களாக அகற்றப்படாத குப்பைகள், காற்றில் பறந்து பொதுமக்கள் மீது விழும் அவலம்\n📢 கோரிக்கை: குப்பைகளை அகற்றி தொடர்ந்து முறையாக தூய்மைப் பணி மேற்கொள்ள வேண்டும்\n\nசம்பந்தப்பட்ட அதிகாரிகளின் கவனத்திற்குச் செல்ல Share செய்யுங்கள்.\n\nUncleared roadside garbage issue in Andankovil East | Karur news\n📍 Andankovil East, Karur | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Andankovil #KarurNews #கரூர்",
+   "prompts": "A large, sprawling heap of uncleared garbage sits on the dusty shoulder of Ottapillayar Kovil Road in Andankovil East Panchayat, Karur. The waste consists of discarded plastic bags, food wrappers, and household refuse that has accumulated over several months. In the background, two-wheeler riders on motorcycles and scooters navigate the paved road, keeping their distance from the debris. A few pedestrians wearing shirts and veshtis are seen from behind, walking on the opposite side of the road to avoid the blowing trash. The setting is a typical rural-urban fringe road with dry vegetation and utility poles. The time is midday with bright sunlight, and a light breeze is visible as it shifts some of the lighter plastic waste onto the asphalt. The camera is at eye level, using a 35mm lens to capture the scale of the roadside neglect. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed close-up shot focuses on the dense pile of garbage overflowing from the earthen shoulder onto the edge of the tarred road in Andankovil East. The heap is a mix of colorful plastic waste, discarded packaging, and organic matter, showing signs of long-term accumulation. The texture of the black asphalt road contrasts sharply with the messy, multi-colored debris. In the blurred background, the wheels of a passing two-wheeler are visible, indicating the proximity of the waste to active traffic. The scene is illuminated by harsh daylight, highlighting the neglected state of the panchayat's sanitation. The camera is positioned at a low angle, emphasizing the height and volume of the trash pile, making it the central focus of the frame without showing any recognizable faces or text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/garbage/news-68609",
+   "published": "2026-11-15T20:36:47+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash + proofread gemini/gemini-3.5-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744414/karur360/okjo33i8w06h87zsge1d.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744414/karur360/lyll5wue43tbmrlogbas.jpg"
-   ],
-   "real_photo": "Dinamalar"
-  },
-  {
-   "tamil_headline": "கரூரில் அண்ணாதுரை பிறந்த நாளையொட்டி சைக்கிள் போட்டி: 135 மாணவ, மாணவியர் பங்கேற்பு",
-   "english_headline": "Cycle race held at Karur district government sports ground on Anna's birthday with 135 students participating",
-   "category": "Education",
-   "location": "Karur district government sports ground, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சைக்கிள் போட்டி",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் அண்ணாதுரை பிறந்த நாள் சைக்கிள்",
-    "hl2": "87 மாணவர், 48 மாணவியர்",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் போட்டி நடந்தது",
-       "தமிழக முன்னாள் முதல்வர் அண்ணாதுரை பிறந்த நாளையொட்டி"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்றனர்?",
-      "lines": [
-       "<b>87</b> மாணவர், <b>48</b> மாணவியர் பங்கேற்றனர்",
-       "13 வயதுக்குட்பட்ட மாணவ, மாணவியர் பிரிவு உண்டு",
-       "15, 17 வயதுக்குட்பட்ட மாணவர் பிரிவுகளும் நடந்தன"
-      ]
-     },
-     {
-      "title": "யார் தொடங்கினார்?",
-      "lines": [
-       "கிருஷ்ணராயபுரம் த.வெ.க. எம்.எல்.ஏ. சத்யா போட்டியைத் தொடங்கி",
-       "கரூர் ஆர்.டி.ஓ. கார்த்திகேயன் உள்பட பலர் பங்கேற்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் அண்ணாதுரை பிறந்த நாளையொட்டி நடந்த சைக்கிள் போட்டியில் 135 மாணவ, மாணவியர் பங்கேற்றனர். கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் இந்தப் போட்டி நடைபெற்றது. தமிழக முன்னாள் முதல்வர் அண்ணாதுரை பிறந்த நாளையொட்டி இந்தப் போட்டி நடத்தப்பட்டது. 13 வயதுக்குட்பட்ட மாணவ, மாணவியருக்கும், 15 மற்றும் 17 வயதுக்குட்பட்ட மாணவர்களுக்கும் என மூன்று பிரிவுகளில் சைக்கிள் போட்டி நடத்தப்பட்டது. போட்டியில் 87 மாணவரும், 48 மாணவியரும் பங்கேற்றனர். கிருஷ்ணராயபுரம் த வெ க சட்டமன்ற உறுப்பினர் சத்யா போட்டிகளைத் தொடங்கி வைத்தார். நிகழ்ச்சியில் கரூர் வருவாய் கோட்டாட்சியர் கார்த்திகேயன், விளையாட்டு மேம்பாடு ஆணைய மண்டல முதுநிலை மேலாளர் செந்தில், மாவட்ட விளையாட்டு அலுவலர் டேவிட் டேனியல், தாசில்தார் பிரகாஷ் உள்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚴 கரூரில் அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி: 135 மாணவ, மாணவியர் பங்கேற்பு\n\n📰 முழு விவரம்:\nதமிழக முன்னாள் முதல்வர் அண்ணாதுரை பிறந்த நாளையொட்டி, கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் சைக்கிள் போட்டி நடைபெற்றது. 13 வயதுக்குட்பட்ட மாணவ, மாணவியர், 15 மற்றும் 17 வயதுக்குட்பட்ட மாணவர்கள் என மூன்று பிரிவுகளில் போட்டி நடத்தப்பட்டது. 87 மாணவர், 48 மாணவியர் பங்கேற்றனர். கிருஷ்ணராயபுரம் த.வெ.க. எம்.எல்.ஏ. சத்யா போட்டிகளைத் தொடங்கி வைத்தார். கரூர் ஆர்.டி.ஓ. கார்த்திகேயன், விளையாட்டு மேம்பாடு ஆணைய மண்டல முதுநிலை மேலாளர் செந்தில், மாவட்ட விளையாட்டு அலுவலர் டேவிட் டேனியல், தாசில்தார் பிரகாஷ் உள்பட பலர் பங்கேற்றனர்.\n\n📍 இடம்: கரூர் மாவட்ட அரசு விளையாட்டு மைதானம்\n🗓️ நாள்: நவம்பர் 15, 2026\n\nKarur cycle race Anna birthday 135 students | Karur news\n📍 கரூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A line of school students on bicycles, dressed in Tamil Nadu school uniform, lean forward at the start line of a cycle race on the Karur district government sports ground, as a race official stands ready to flag them off. The place is an open government sports ground in Karur city, with a wide red-brown running track, a green grass field inside it, and a low boundary wall with a few trees behind. About 135 students in three age groups are gathered, boys in white shirts and dark shorts or trousers, and girls in school uniform, all seen from behind or from a distance. Several officials in shirts and trousers, and women officials in cotton sarees, stand together at the side of the track near a small banner-less table. The bicycles are ordinary school-style cycles lined up across the track, and white chalk start lines mark the ground. Bright daylight, clear sky. Shot at eye level, 35 mm, wide enough to show the full track and the crowd of cyclists. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of bicycle front wheels and handlebars lined up at the start line on the red track of the Karur district government sports ground, with white chalk lines painted across the ground. Behind the bicycles, a few students' bare or sneaker-clad feet rest on the pedals, and a race official's trousered legs stand at the edge of the frame. The track surface shows fine red-brown soil and dust, with a patch of green grass at the edge. Bright daylight casts short shadows of the bicycles on the ground. The focus is sharp on the wheels and chalk line, with the background softly blurred, shot at ground level, 35 mm, to show the cycle race about to begin. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurai-birthday-bicycle-race/4376662",
-   "published": "2026-11-15T06:55:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 135",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744432/karur360/v6u6cbxqni9txh6boddf.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744435/karur360/sth2wdqxx4umvdviyfej.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794758790/karur360/y2wjwr8fv7n1rnuzw1se.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794758793/karur360/wctupyzqdygawvg90wae.jpg"
    ]
   },
   {
-   "tamil_headline": "பண்டிகை முடிந்ததால் வாழைத்தார் விலை சரிவு: பூவன் ₹800-லிருந்து ₹400-ஆக குறைந்தது",
-   "english_headline": "Banana bunch prices in Karur district fall after festival season; Poovan drops from ₹800 to ₹400 as demand dips",
-   "category": "Business & Prices",
-   "location": "Kulithalai, Thogaimalai, Kadavur, Velayuthampalayam, Lalapettai, Vangal, Nerur, Manavasi - Karur district",
+   "tamil_headline": "தோரணக்கல்பட்டி நேரு நகரில் 1 மாதமாக தேங்கும் கழிவுநீர்: பொதுமக்கள் அவதி",
+   "english_headline": "Stagnant sewage for a month at Thoranakkalpatti Nehru Nagar apartment complex causes distress to residents",
+   "category": "Civic Issues",
+   "location": "Thoranakkalpatti Nehru Nagar, Karur district",
    "importance": "Medium",
-   "scope": "",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வாழை விலை",
-    "loc": "கரூர் மாவட்டம்",
-    "hl1": "வாழைத்தார் விலை குறைந்தது",
-    "hl2": "பூவன் ₹800 → ₹400",
+    "cat": "கழிவுநீர் பிரச்னை",
+    "loc": "தோரணக்கல்பட்டி, கரூர்",
+    "hl1": "தோரணக்கல்பட்டியில் கழிவுநீர் தேக்கம்",
+    "hl2": "1 மாதமாக பொதுமக்கள் அவதி",
     "slides": [
      {
-      "title": "விலை ஏன்",
+      "title": "என்ன பிரச்னை?",
       "lines": [
-       "ஆயுத பூஜை, தீபாவளி பண்டிகை சீசன் முடிந்தது",
-       "வடகிழக்கு பருவமழையால் வாழைப்பழத்தை மக்கள் தவிர்த்தனர்",
-       "இதனால் வாழைத்தாருக்கான தேவை குறைந்தது"
+       "தோரணக்கல்பட்டி நேரு நகர் அடுக்குமாடி குடியிருப்பு",
+       "கழிவறைக் கழிவுநீர் வெளியேற வழியில்லை",
+       "கடந்த <b>1 மாதமாக</b> கழிவுநீர் தேங்கி நிற்கிறது"
       ]
      },
      {
-      "title": "எவ்வளவு குறைந்தது?",
+      "title": "மக்கள் அவதி",
       "lines": [
-       "பூவன் வாழைத்தார்: ₹800 வரை விலைபோனது, நேற்று ₹400",
-       "ரஸ்தாளி, கற்பூரவள்ளி, மொந்தன் வாழைத்தார்களுக்கு ₹100 முதல்"
+       "அப்பகுதியில் துர்நாற்றம் வீசுகிறது",
+       "குடியிருப்புவாசிகள் பெரும் சிரமத்திற்கு ஆளாகியுள்ளனர்",
+       "கழிவுநீர் அகற்றும் பணி பாதியில் நிறுத்தம்"
       ]
      },
      {
-      "title": "மீண்டும் உயருமா?",
+      "title": "மக்களின் கோரிக்கை",
       "lines": [
-       "நவம்பர் 17 முதல் ஐயப்ப பக்தர்கள் விரதம் தொடங்குவர்",
-       "வாழைப்பழத் தேவை அதிகரித்து விலை உயர வாய்ப்பு",
-       "கார்த்திகை தீபத்திருவிழாவும் விரைவில் கொண்டாடப்படும்"
+       "வேறு பணியாளர்களை நியமிக்க வேண்டும்",
+       "தேங்கியுள்ள கழிவுநீரை உடனே அகற்ற நடவடிக்கை தேவை",
+       "அதிகாரிகள் தலையிட பொதுமக்கள் வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் மாவட்டத்தில் வாழைத்தார் விலை திடீரென குறைந்துள்ளது. பூவன் வாழைத்தார் ஆயுத பூஜையின்போது 800 ரூபாய் வரை விலைபோனது. நேற்று அது 400 ரூபாயாக குறைந்தது. ரஸ்தாளி, கற்பூர வள்ளி, மொந்தன் வாழைத்தார்களுக்கும் 100 முதல் 150 ரூபாய் வரை விலை குறைந்தது. ஆயுத பூஜை, விஜயதசமி, தீபாவளி, திருமண சீசன் முடிந்ததால் தேவை குறைந்தது. வடகிழக்கு பருவமழையால் பொதுமக்கள் வாழைப்பழத்தை தவிர்த்ததும் காரணம். குளித்தலை, தோகைமலை, கடவூர், வேலாயுதம்பாளையம், லாலாப்பேட்டை, வாங்கல், நெரூர், மணவாசி உள்ளிட்ட பகுதிகளில் ஆயிரக்கணக்கான ஏக்கரில் வாழை பயிரிடப்பட்டுள்ளது. நவம்பர் 17ஆம் தேதி கார்த்திகை மாதம் தொடங்குவதால் ஐயப்ப பக்தர்கள் விரதத்தைத் தொடங்குவர். அப்போது வாழைப்பழத் தேவை அதிகரித்து விலை மீண்டும் உயர வாய்ப்புள்ளதாக வியாபாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🍌 கரூர் மாவட்டத்தில் வாழைத்தார் விலை குறைந்தது: பூவன் ₹800 → ₹400\n\n📰 முழு விவரம்:\nதீபாவளி உள்ளிட்ட பண்டிகை சீசன் முடிந்ததால் கரூர் மாவட்டத்தில் வாழைத்தார்களின் விலை திடீரென குறைந்துள்ளது.\nஆயுத பூஜையின்போது ₹800 வரை விலைபோன பூவன் வாழைத்தார், நேற்று ₹400 ஆக குறைந்தது.\nரஸ்தாளி, கற்பூரவள்ளி, மொந்தன் வாழைத்தார்களுக்கும் சராசரியாக ₹100 முதல் ₹150 வரை விலை குறைந்துள்ளது.\nவடகிழக்கு பருவமழையால் வாழைப்பழத்தை உணவாகப் பயன்படுத்துவதை பொதுமக்கள் தவிர்த்ததே தேவை குறைய காரணம்.\nகுளித்தலை, தோகைமலை, கடவூர், வேலாயுதம்பாளையம், லாலாப்பேட்டை, வாங்கல், நெரூர், மணவாசி உள்ளிட்ட பகுதிகளில் ஆயிரக்கணக்கான ஏக்கரில் வாழை பயிரிடப்பட்டுள்ளது.\nநவம்பர் 17 முதல் கார்த்திகை மாதம் தொடங்குவதால் ஐயப்ப பக்தர்கள் விரதம் தொடங்குவர்; அப்போது வாழைப்பழத் தேவை அதிகரித்து விலை மீண்டும் உயர வாய்ப்புள்ளதாக வாழைத்தார் வியாபாரிகள் தெரிவித்தனர்.\n\nBanana prices fall in Karur after festival season | Karur news\n📍 கரூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A banana trader in a plain shirt and veshti inspects heavy green Poovan banana bunches stacked on the floor of an open wholesale yard in a rural market at Kulithalai in Karur district, Tamil Nadu. Behind him, several more bunches of Ratsali and Karpooravalli bananas are piled in rows on tarpaulin and sacks, with a few farmers and workers in shirts and lungis standing a short distance away, seen from behind. Tall coconut palms and a strip of banana fields show at the edge of the yard. It is bright daylight with a soft overcast monsoon sky and damp ground from recent rain. The camera sits at eye level, about 35 mm, wide enough to show the yard, the stacked bunches and the surrounding fields, with the mood of a quiet market day with falling demand. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of several heavy green Poovan banana bunches (vaazhai thaar) resting on a wooden cart and gunny sacks in a Karur district wholesale market, with a few loose ripe-yellow bananas and a heap of green leaves scattered beside them. A worker's bare feet and the edge of a damp concrete floor are visible at the frame's bottom. Behind the bunches, out of focus, lorries are parked with empty tarpaulin covers, hinting at dispatch to other states. Soft daylight from an overcast monsoon sky, slightly moist, low-contrast tones. Shot at a low-to-eye level with a 35 mm lens, shallow depth of field, focusing on the bunches and their texture. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-gets-cheaper-as-festive-season-ends/4376664",
-   "published": "2026-11-15T06:56:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "தோரணக்கல்பட்டி நேரு நகரில் 1 மாதமாக கழிவுநீர் தேங்கி பொதுமக்கள் அவதிப்படுகின்றனர். கரூர் மாவட்டம் தோரணக்கல்பட்டி நேரு நகரில் உள்ள அடுக்குமாடி குடியிருப்பில் கழிவறைக் கழிவுநீர் வெளியேற வழியின்றி தேங்கியுள்ளது. கடந்த 1 மாதமாக கழிவுநீர் வெளியேறாமல் தேங்கி நிற்பதால் அப்பகுதியில் கடும் துர்நாற்றம் வீசுகிறது. இதனால் அங்குள்ள குடியிருப்புவாசிகள் பெரும் சிரமத்திற்கு ஆளாகியுள்ளனர். கழிவுநீரை அகற்றும் பணி ஏற்கனவே தொடங்கப்பட்டு பாதியில் நிறுத்தப்பட்டுள்ளது. இதனால் வேறு பணியாளர்களை நியமித்து தேங்கியுள்ள கழிவுநீரை அகற்ற வேண்டும் என வலியுறுத்தப்பட்டுள்ளது. சம்பந்தப்பட்ட அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "😷 தோரணக்கல்பட்டி நேரு நகரில் 1 மாதமாக கழிவுநீர் தேக்கம் - பொதுமக்கள் அவதி\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் தோரணக்கல்பட்டி நேரு நகரில் உள்ள அடுக்குமாடி குடியிருப்பில் கழிவறைக் கழிவுநீர் வெளியேற வழியின்றி 1 மாதமாக தேங்கி நிற்கிறது. இதனால் அப்பகுதியில் கடும் துர்நாற்றம் வீசுவதுடன், குடியிருப்புவாசிகள் பெரும் சிரமத்திற்கு ஆளாகியுள்ளனர். மேலும் கழிவுநீரை அகற்றும் பணி பாதியில் நிறுத்தப்பட்டுள்ளது. எனவே வேறு பணியாளர்களை நியமித்து தேங்கியுள்ள கழிவுநீரை அகற்ற சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: தோரணக்கல்பட்டி நேரு நகர், கரூர் மாவட்டம்\n⚠️ பிரச்னை: 1 மாதமாக அடுக்குமாடி குடியிருப்பில் தேங்கும் கழிவுநீர்\n🙋‍♂️ கோரிக்கை: பாதியில் நின்ற கழிவுநீர் அகற்றும் பணியை வேறு ஆட்களை வைத்து தொடர வேண்டும்\n\nஉள்ளூர் மக்கள் நலன் கருதி Share செய்யுங்கள்.\n\nThoranakkalpatti Nehru Nagar stagnant sewage issue Karur | Karur news\n📍 தோரணக்கல்பட்டி நேரு நகர், கரூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Thoranakkalpatti #KarurNews #கரூர்",
+   "prompts": "Dark stagnant sewage water pools around the base of a multi-storey apartment complex in Thoranakkalpatti Nehru Nagar. Residents, including men in shirts and veshtis and women in sarees, are seen from behind standing on the dry edges of the walkway, looking at the blockage. The apartment building has weathered concrete walls typical of Karur residential areas. Large patches of murky, dark green water cover the ground between the blocks. Daylight with clear skies. Eye-level 35mm wide shot capturing the extent of the flooding around the residential structure. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of the thick, dark stagnant sewage water overflowing from a concrete drainage outlet at the Thoranakkalpatti Nehru Nagar apartment complex. The water is murky and has settled into a deep, foul-looking pool on the paved ground. The base of the apartment wall is stained from the month-long stagnation. No people are in the frame, focusing entirely on the civic issue of the blocked drain and the resulting pool of waste. Daylight, bright light highlighting the texture of the stagnant liquid. Slightly high-angle shot. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/sewage/news-68606",
+   "published": "2026-11-15T20:34:39+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744450/karur360/oaxogqbnvskn2rnuon8p.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744453/karur360/kqi7fnoivtkgb5lzpfan.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794758804/karur360/x8sfendoqs29d06ltuw5.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794758807/karur360/saxyhcgbdk8piyhmeznb.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூர் கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறுத்தல்",
-   "english_headline": "Public demand more buses to Karur Collectorate on Monday grievance day",
+   "tamil_headline": "திருமாநிலையூரில் பயன்பாட்டுக்கு வராத போக்குவரத்து சிக்னல்: வாகன ஓட்டிகள் அவதி",
+   "english_headline": "Non-functional traffic signal in Thirumanilaiyur causes traffic congestion; motorists demand action",
    "category": "Roads & Transport",
-   "location": "Karur Collectorate, Velliyanai road, Karur district",
+   "location": "Thirumanilaiyur, Karur district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பஸ் வசதி",
-    "loc": "கரூர் கலெக்டர் அலுவலகம்",
-    "hl1": "கரூர் கலெக்டர் அலுவலகம்: கூடுதல் பஸ்கள்",
-    "hl2": "திங்கள் குறைதீர் முகாம் நாள்",
-    "slides": [
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "திங்கள்தோறும் குறைதீர் முகாம் நாளில் கூடுதல் பஸ்கள் வேண்டும்",
-       "கலெக்டர் அலுவலகத்துக்குச் செல்ல பொதுமக்கள் எதிர்பார்ப்பு",
-       "கரூர் பழைய பஸ் ஸ்டாண்டிலிருந்து குறைவான பஸ்களே இயக்கம்"
-      ]
-     },
-     {
-      "title": "பயண சிரமம்",
-      "lines": [
-       "அரவக்குறிச்சி, க.பரமத்தி பகுதி மக்கள் பல பஸ்கள்",
-       "மாயனூர், லாலாப்பேட்டை, குளித்தலை மக்கள் சுங்ககேட்டில்",
-       "போதிய பஸ் வசதி இல்லாமல் மக்கள் தவிக்கின்றனர்"
-      ]
-     },
-     {
-      "title": "அதிகாரிகள்",
-      "lines": [
-       "கூடுதல் பஸ்கள் இயக்க மாவட்ட நிர்வாகம் நடவடிக்கை எடுக்க",
-       "போக்குவரத்துத் துறை அதிகாரிகளும் நடவடிக்கை எடுக்க வேண்டும்",
-       "திங்கள்கிழமை குறைதீர் நாளில் பஸ் வசதி அவசியம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் கலெக்டர் அலுவலகத்துக்கு கூடுதல் பஸ்கள் இயக்க வேண்டும் என பொதுமக்கள் எதிர்பார்க்கின்றனர். கலெக்டர் அலுவலகத்தில் வாரந்தோறும் திங்கள்கிழமை மக்கள் குறைதீர் முகாம் நடக்கிறது. இந்த முகாமில் பங்கேற்க அரவக்குறிச்சி, க.பரமத்தி, சின்னதாராபுரம், தென்னிலை, வேலாயுதம்பாளையம், வாங்கல் பகுதி மக்கள் பஸ்கள் மூலம் கரூர் டவுன் பஸ் ஸ்டாண்டுக்குச் செல்கின்றனர். அங்கிருந்து வெள்ளியணை, பாளையம், திண்டுக்கல் செல்லும் வேறு பஸ்களில் மாறி கலெக்டர் அலுவலகத்துக்குச் செல்ல வேண்டியுள்ளது. மாயனூர், லாலாப்பேட்டை, குளித்தலை பகுதி மக்கள் சுங்ககேட்டில் இறங்கி வேறு பஸ்களில் கலெக்டர் அலுவலகம் செல்ல வேண்டியுள்ளது. கரூர் பழைய பஸ் ஸ்டாண்டிலிருந்து கலெக்டர் அலுவலகம் வழியாக வெள்ளியணை, பாளையம், திண்டுக்கல் செல்லும் பஸ்கள் குறைவாகவே இயக்கப்படுகின்றன. இதனால் திங்கள்கிழமைகளில் கலெக்டர் அலுவலகத்திலிருந்து பழைய பஸ் ஸ்டாண்டுக்குச் செல்ல மக்கள் போதிய பஸ் வசதி இல்லாமல் தவிக்கின்றனர். எனவே, கூடுதல் பஸ்கள் இயக்க மாவட்ட நிர்வாகமும் போக்குவரத்துத் துறை அதிகாரிகளும் நடவடிக்கை எடுக்க வேண்டியது அவசியம். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 கரூர் கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் வேண்டும் என கோரிக்கை\n\n📰 முழு விவரம்:\nகரூர் கலெக்டர் அலுவலகத்தில் வாரந்தோறும் திங்கள்கிழமை மக்கள் குறைதீர் முகாம் நடக்கிறது. இந்த நாளில் கூடுதல் பஸ்கள் இயக்க வேண்டும் என பொதுமக்கள் எதிர்பார்க்கின்றனர்.\nஅரவக்குறிச்சி, க.பரமத்தி, சின்னதாராபுரம், தென்னிலை, வேலாயுதம்பாளையம், வாங்கல் பகுதி மக்கள் கரூர் டவுன் பஸ் ஸ்டாண்டுக்குச் சென்று, அங்கிருந்து வேறு பஸ்களில் கலெக்டர் அலுவலகம் செல்ல வேண்டியுள்ளது.\nமாயனூர், லாலாப்பேட்டை, குளித்தலை பகுதி மக்கள் சுங்ககேட்டில் இறங்கி, வேறு பஸ்களில் கலெக்டர் அலுவலகம் செல்ல வேண்டியுள்ளது.\nகரூர் பழைய பஸ் ஸ்டாண்டிலிருந்து கலெக்டர் அலுவலகம் வழியாக வெள்ளியணை, பாளையம், திண்டுக்கல் செல்லும் பஸ்கள் குறைவாகவே இயக்கப்படுகின்றன. இதனால் திங்கள்கிழமைகளில் மக்கள் போதிய பஸ் வசதி இல்லாமல் தவிக்கின்றனர்.\nகூடுதல் பஸ்கள் இயக்க மாவட்ட நிர்வாகமும் போக்குவரத்துத் துறை அதிகாரிகளும் நடவடிக்கை எடுக்க வேண்டும்.\n\nKarur Collectorate Monday buses demand | Karur news\n📍 கரூர் கலெக்டர் அலுவலகம், வெள்ளியணை சாலை, கரூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A crowd of ordinary people, many carrying files and cloth bags, waits at a bus stop outside the Karur district Collectorate on Velliyanai road on a Monday morning, as a town bus pulls in and a few passengers try to board. The setting is a government office campus in Karur city, with a tall administrative building with a flat roof, a row of parked two-wheelers and an autorickshaw at the kerb, and a Tamil Nadu road lined with trees. Men in shirts and veshti, women in cotton sarees and salwar, and an elderly man leaning on a walking stick stand in a queue at the bus shelter, seen from behind and at a distance, with their faces turned away. A TNSTC town bus with its doors open is stopped at the road edge, and passengers hold petition files to their chests. It is bright daylight with clear sky and soft sun. Camera at eye level, 35 mm, wide enough to show the government building, the road and the waiting crowd. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close detail of a crowded bus stop shelter at the Karur Collectorate on a Monday grievance day, with a cluster of people's feet, cloth bags and rolled petition files resting on the concrete platform while a town bus's front wheel and step are visible at the edge of the frame. Behind them, a plain grey government office wall with a shaded verandah and a few parked two-wheelers stand in soft focus. The people shown are only from the knees down, wearing sandals, chappals and trousers, with one woman's saree border visible. Items on the bench include a folded umbrella, a cloth bag and a stack of paper files tied with string. Daylight, bright and even, with light shadows under the shelter roof. Camera at low eye level, 35 mm, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/call-for-more-buses-on-collectorate-grievance-redressal-day/4376661",
-   "published": "2026-11-15T06:54:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744459/karur360/xd8yinbw4bmznyoskzgc.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744478/karur360/i5x3dbvgwia858i2io0d.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு",
-   "english_headline": "Book exhibition opened at Karur district central library during 59th National Library Week",
-   "category": "Education",
-   "location": "Karur district central library, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "புத்தக கண்காட்சி",
-    "loc": "கரூர் மாவட்ட மைய நூலகம்",
-    "hl1": "கரூர் நூலகத்தில் புத்தக கண்காட்சி",
-    "hl2": "59வது தேசிய நூலக வார விழா",
+    "cat": "போக்குவரத்து",
+    "loc": "திருமாநிலையூர், கரூர்",
+    "hl1": "திருமாநிலையூரில் சிக்னல் அவதி",
+    "hl2": "பயன்பாட்டுக்கு வராத சிக்னல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கரூர் மாவட்ட மைய நூலகத்தில் <b>புத்தக கண்காட்சி</b> தொடக்க விழா",
-       "59வது தேசிய நூலக வார விழாவையொட்டி நடந்தது",
-       "மாவட்ட பொது நூலகத்துறை ஏற்பாடு"
+       "திருமாநிலையூர் பகுதியில் <b>போக்குவரத்து சிக்னல்</b> அமைக்கப்பட்டது",
+       "ஆனால் இதுவரை பயன்பாட்டுக்கு வரவில்லை",
+       "வாகன ஓட்டிகள் கடும் அவதி"
       ]
      },
      {
-      "title": "யார் திறந்தனர்?",
+      "title": "பாதிப்புகள்",
       "lines": [
-       "வாசகர் வட்டத் தலைவர் சங்கர் கண்காட்சியைத் திறந்து வைத்தார்",
-       "தனியார் பள்ளி மாணவ, மாணவியர் கண்காட்சியைப் பார்வையிட்டனர்",
-       "நிகழ்ச்சியில் பலர் பங்கேற்றனர்"
+       "சிக்னல் இயங்காததால் <b>போக்குவரத்து நெரிசல்</b> ஏற்படுகிறது",
+       "வாகன ஓட்டிகள் செல்வதில் சிரமம்",
+       "அப்பகுதியில் வாகனங்கள் நெரிசலில் சிக்கித் தவிக்கின்றன"
       ]
      },
      {
-      "title": "யார் பங்கேற்றனர்?",
+      "title": "கோரிக்கை",
       "lines": [
-       "மாவட்ட நூலக அலுவலர் சிவக்குமார்",
-       "வருமான வரித்துறை ஆய்வாளர் கார்த்திக்",
-       "மாவட்ட மைய முதல்நிலை நூலகர் அபிராமசுந்தரி, நூலகர் சுகன்யா"
+       "சிக்னலை விரைந்து பயன்பாட்டுக்குக் கொண்டுவர வேண்டும்",
+       "சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்கக் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறக்கப்பட்டது. 59வது தேசிய நூலக வார விழாவையொட்டி இந்த தொடக்க விழா நடந்தது. கரூர் மாவட்ட பொது நூலகத்துறை சார்பில் இந்த நிகழ்ச்சி ஏற்பாடு செய்யப்பட்டது. வாசகர் வட்டத் தலைவர் சங்கர் கண்காட்சியைத் திறந்து வைத்தார். அதன் பின்னர் தனியார் பள்ளி மாணவ, மாணவியர் கண்காட்சியைப் பார்வையிட்டனர். மாவட்ட நூலக அலுவலர் சிவக்குமார், வருமான வரித்துறை ஆய்வாளர் கார்த்திக் ஆகியோர் நிகழ்ச்சியில் பங்கேற்றனர். மேலும் மாவட்ட மைய முதல்நிலை நூலகர் அபிராமசுந்தரி, நூலகர் சுகன்யா உள்ளிட்ட பலரும் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📚 கரூர் மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட மைய நூலகத்தில் 59வது தேசிய நூலக வார விழாவையொட்டி புத்தக கண்காட்சி தொடக்க விழா நடைபெற்றது. மாவட்ட பொது நூலகத்துறை சார்பில் இந்த நிகழ்ச்சி நடத்தப்பட்டது.\nவாசகர் வட்டத் தலைவர் சங்கர் கண்காட்சியைத் திறந்து வைத்தார். பின்னர் தனியார் பள்ளி மாணவ, மாணவியர் கண்காட்சியைப் பார்வையிட்டனர்.\nமாவட்ட நூலக அலுவலர் சிவக்குமார், வருமான வரித்துறை ஆய்வாளர் கார்த்திக், மாவட்ட மைய முதல்நிலை நூலகர் அபிராமசுந்தரி, நூலகர் சுகன்யா உள்ளிட்ட பலர் பங்கேற்றனர்.\n\nKarur district central library book exhibition opened | Karur news\n📍 கரூர் மாவட்ட மைய நூலகம், கரூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of private school students in uniform browse books on wooden display tables inside the Karur district central library, while officials stand near the inaugural table during the book exhibition opening. The hall is a public library reading room in Karur town, with tall wooden bookshelves lined with books, rows of reading tables and ceiling fans overhead. Students in white shirts and navy or blue skirts and trousers stand in small groups, some leafing through books, seen from behind and at a distance. Officials in shirts and sarees stand near a decorated inaugural table where the reading circle president has just cut the ribbon to open the exhibition. Daylight enters through tall windows mixed with warm indoor lights. Shot at eye level on a 35 mm lens, wide enough to show the full hall, bookshelves and the exhibition tables. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of neatly arranged books on a wooden display table at the book exhibition inside the Karur district central library, with a few open books showing blank pages and their covers facing the camera. Tall wooden bookshelves filled with books stand in the background, slightly out of focus. A hand of a student in a school uniform sleeve rests lightly on the edge of the table, seen from behind. Warm indoor light falls softly across the books and the table surface, with daylight from a nearby window. Shot at a slightly high angle on a 35 mm lens to highlight the stacked books and the exhibition display. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/book-fair-inaugurated-at-district-central-library/4376656",
-   "published": "2026-11-15T06:50:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 3 line 2 is cut off mid-phrase (' ஆய்வாளர் கார்த்திக்') - write a complete short phrase; known issue card_cut_mid_phrase: card cut off mid-phrase ('துறை ஆய்வாளர் கார்த்திக்') - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "திருமாநிலையூர் பகுதியில் அமைக்கப்பட்டுள்ள போக்குவரத்து சிக்னல் பயன்பாட்டுக்கு வராததால் வாகன ஓட்டிகள் அவதிப்படுகின்றனர். கரூர் மாவட்டம் திருமாநிலையூர் பகுதியில் வாகன ஓட்டிகளின் வசதிக்காகப் புதிய போக்குவரத்து சிக்னல் அமைக்கப்பட்டது. ஆனால் இந்த சிக்னல் இதுவரை பயன்பாட்டுக்குக் கொண்டுவரப்படவில்லை. இதனால் அந்தப் பகுதியில் அடிக்கடி போக்குவரத்து நெரிசல் ஏற்படுகிறது. சிக்னல் இயங்காததால் வாகனங்கள் செல்வதில் சிரமம் ஏற்பட்டு வாகன ஓட்டிகள் கடும் அவதிக்கு உள்ளாகின்றனர். போக்குவரத்து நெரிசலைக் குறைக்கவே இந்தச் சிக்னல் அமைக்கப்பட்டது. ஆனால் அது செயல்படாததால் அமைக்கப்பட்ட நோக்கம் நிறைவேறாமல் உள்ளது. எனவே சம்பந்தப்பட்ட அதிகாரிகள் இந்தச் சிக்னலை விரைந்து பயன்பாட்டுக்குக் கொண்டுவர வேண்டும். இது குறித்து உரிய நடவடிக்கை எடுக்க வேண்டும் என்று கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚦 திருமாநிலையூரில் பயன்பாட்டுக்கு வராத போக்குவரத்து சிக்னல்: வாகன ஓட்டிகள் அவதி\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் திருமாநிலையூர் பகுதியில் வாகன ஓட்டிகளின் வசதிக்காகப் போக்குவரத்து சிக்னல் அமைக்கப்பட்டுள்ளது. ஆனால் இந்தச் சிக்னல் இதுவரை பயன்பாட்டுக்குக் கொண்டுவரப்படவில்லை. இதனால் அப்பகுதியில் போக்குவரத்து நெரிசல் ஏற்பட்டு வாகன ஓட்டிகள் அவதிப்பட்டு வருகின்றனர். சிக்னலை விரைந்து பயன்பாட்டுக்குக் கொண்டுவர அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது.\n\n📍 இடம்: திருமாநிலையூர், கரூர்\n👮 நடவடிக்கை: சிக்னலை இயக்கக் கோரிக்கை\nℹ️ மக்கள் கவனத்திற்கு: இப்பகுதியில் செல்லும்போது போக்குவரத்து நெரிசலில் கவனமாக இருக்கவும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nThirumanilaiyur traffic signal not working | Karur news\n📍 Thirumanilaiyur, Karur | 15 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Thirumanilaiyur #போக்குவரத்து #KarurNews",
+   "prompts": "A disorganized cluster of two-wheelers and yellow autorickshaws are caught in a traffic jam at the Thirumanilaiyur junction in Karur. The motorists, seen from behind in shirts and trousers, are navigating around each other without guidance at the busy intersection. In the center of the frame, a tall black traffic signal post stands prominently, but its three circular lamps are completely dark and non-functional. The road is paved but crowded, with the typical low-rise commercial buildings and small shops of Karur lining the background. The scene is captured in bright daylight under a clear sky. The camera is at eye level, using a 35mm lens to provide a wide view of the intersection, highlighting the chaos caused by the lack of working signals and the volume of vehicles. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the non-functional traffic signal head at the Thirumanilaiyur intersection in Karur. The three glass lenses for red, yellow, and green are dark and unlit, indicating they are not in operation despite being installed. In the blurred background, the silhouettes of several two-wheelers and a white car are visible, illustrating the ongoing traffic flow that lacks regulation. The grey metal pole of the signal stands against a bright, clear daytime sky. The camera angle is slightly low, looking up at the signal housing to emphasize its presence and its failure to function. This detail shot clearly identifies the specific infrastructure issue mentioned in the news, with the busy, dusty road of Karur visible in the lower portion of the frame. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68612",
+   "published": "2026-11-15T20:37:38+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744484/karur360/cb5g7gejkkj5cect0tgc.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794744488/karur360/tiyhz34oejnju7hzfhhh.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794758854/karur360/lu8ktvo5lrqtgtkag9o1.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794758857/karur360/m6jr5qpibpyghmj56g0p.jpg"
    ]
   }
  ]
