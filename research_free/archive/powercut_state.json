@@ -803,6 +803,12 @@
    "power_cut": false,
    "why": "not this district",
    "title": "திருநெல்வேலி, தென்காசி: நவம்பர் 17 அன்று மின்தடை! உங்கள் பகுதி பாதிக்கப்படுமா?"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/virudhunagar-collectorate-power-outage-minister-event-je-suspended/articleshow/135856525.cms#district-section": {
+   "at": "2026-11-15T19:07:23.942636+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "விருதுநகர் ஆட்சியர் அலுவலகத்தில் அமைச்சர் பங்கேற்ற நிகழ்வின்போது திடீர் மின்தடை: மின்வாரிய இளநிலை பொறியாளர் (JE) அதிரடி சஸ்பெண்ட்!"
   }
  },
  "done": {
@@ -822,10 +828,6 @@
   }
  },
  "refused": {
-  "Ce80df05": {
-   "why": "not filed: duplicate after write",
-   "at": "2026-11-13T18:58:02.944641+05:30"
-  },
   "C20cfed4": {
    "why": "not filed: duplicate after write",
    "at": "2026-11-13T22:07:08.591015+05:30"
