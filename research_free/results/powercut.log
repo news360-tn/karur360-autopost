@@ -1,24 +1,2 @@
-10:38:47 from_google 'கரூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:39:31 from_google 'கரூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:40:11 from_google 'நாளைய மின்தடை கரூர்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:40:51 from_google 'நாளைய மின்தடை கரூர்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:41:28 from_google 'குளித்தலை மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:42:13 from_google 'குளித்தலை மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:42:57 from_google 'அரவக்குறிச்சி மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:43:36 from_google 'அரவக்குறிச்சி மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:44:15 from_google 'கிருஷ்ணராயபுரம் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:45:00 from_google 'கிருஷ்ணராயபுரம் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:45:43 from_google 'புகழூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:46:26 from_google 'புகழூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:47:11 from_google 'கடவூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:47:53 from_google 'கடவூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:48:33 from_google 'கரூர் மின் நிறுத்தம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:49:16 from_google 'கரூர் மின் நிறுத்தம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:49:54 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:50:35 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:51:16 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:52:00 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:52:44 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:53:27 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-10:53:27 skipped: could not open=1
-10:53:27 no new power-cut notice
+11:07:31 skipped: could not open=1
+11:07:31 no new power-cut notice
