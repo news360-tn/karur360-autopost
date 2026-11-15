@@ -809,6 +809,30 @@
    "power_cut": false,
    "why": "not this district",
    "title": "விருதுநகர் ஆட்சியர் அலுவலகத்தில் அமைச்சர் பங்கேற்ற நிகழ்வின்போது திடீர் மின்தடை: மின்வாரிய இளநிலை பொறியாளர் (JE) அதிரடி சஸ்பெண்ட்!"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/today-s-power-outage-16th/4377034": {
+   "at": "2026-11-16T00:53:33.521043+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளைய மின்தடை (16ம் தேதி)"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-news/power-outage-sought-at-minister-jagadishwaris-event-officer-suspended/4377056": {
+   "at": "2026-11-16T00:53:33.521043+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "அமைச்சர் ஜெகதீஸ்வரி நிகழ்ச்சியில் வேண்டும் என்றே மின்தடை; அதிகாரி சஸ்பெண்ட்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-kallakurichi/tomorrow-resistor-17112026/4376940": {
+   "at": "2026-11-16T00:53:33.521043+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் மின்தடை 17.11.2026"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-dindigul/negligence-in-removing-plants-and-flags-from-power-lines-frequent-power-outages-in-hill-villages-including-kodaikanal/4375441": {
+   "at": "2026-11-16T00:53:33.521043+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "மின்கம்பங்களில் படரும் செடி, கொடிகள் அகற்றத்தில் அலட்சியம்: கொடைக்கானல் உட்பட மலை கிராமங்களில் அடிக்கடி மின்தடை"
   }
  },
  "done": {
@@ -828,10 +852,6 @@
   }
  },
  "refused": {
-  "C20cfed4": {
-   "why": "not filed: duplicate after write",
-   "at": "2026-11-13T22:07:08.591015+05:30"
-  },
   "Ca1934c8": {
    "why": "not filed: duplicate after write",
    "at": "2026-11-14T11:03:16.635752+05:30"
@@ -839,6 +859,10 @@
   "Cf13382e": {
    "why": "not filed: not Karur district news (the story's first lines name another place and no Karur place)",
    "at": "2026-11-15T11:07:31.963789+05:30"
+  },
+  "C99f5e72": {
+   "why": "not filed: not Karur district news (the story's first lines name another place and no Karur place)",
+   "at": "2026-11-16T00:54:40.761340+05:30"
   }
  }
 }
