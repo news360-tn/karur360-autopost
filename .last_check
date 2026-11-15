@@ -1,11 +1,17 @@
-01:58:43 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
-01:58:46 SKIP RN-28 held: fact-check problems - numbers not found in the article: 77962, 83097
+05:38:53 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
+05:38:55 SKIP RN-28 held: fact-check problems - numbers not found in the article: 77962, 83097
 ::warning title=Held from posting RN-28::held: fact-check problems - numbers not found in the article: 77962, 83097
-01:58:46 SKIP RN-34 held: fact-check problems - fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, th
+05:38:56 SKIP RN-34 held: fact-check problems - fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, th
 ::warning title=Held from posting RN-34::held: fact-check problems - fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, th
-01:58:50 story catch-up karur: quota 30/50, 36 recent posts, 9 live stories, owner ids ['17841444626877594', '29966472656372622']
-01:58:50 3 stories in the queue, ready to post: 0
-01:58:50   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-01:58:50    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 29.7 ready= False set_started= True
-01:58:50    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 8.4 ready= False set_started= True
-01:58:50    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 4.4 ready= False set_started= True
+05:38:57 story catch-up karur: quota 25/50, 36 recent posts, 7 live stories, owner ids ['17841444626877594', '29966472656372622']
+05:38:57 5 stories in the queue, ready to post: 2
+05:38:57   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+05:38:57    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 33.3 ready= False set_started= True
+05:38:57    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 12.1 ready= False set_started= True
+05:38:57    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 8.1 ready= False set_started= True
+05:38:57    RN-37 review= 'Auto' images= 195 spec= 727 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
+05:38:57    RN-38 review= 'Auto' images= 195 spec= 687 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
+05:38:59 publishing quota karur: 25/50
+05:39:00 instagram duplicate check karur: 36 recent posts read
+05:39:00    RN-37 waits for the 12-minute gap after the last post on ['karur']
+05:39:00 prebuilding ahead of the set start: ['RN-37']
