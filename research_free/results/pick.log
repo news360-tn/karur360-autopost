@@ -1,68 +1,24 @@
-05:36:09 round 2026-11-15_05: news published 15 Nov 01:29 -> 15 Nov 05:36 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-05:36:09 insights 2026-11-15T05:36+05:30 (33 reels): topic weights {'temple': 1.5, 'accident': 0.9, 'education': -0.22, 'poultry_agri': -0.5, 'politics': -0.5, 'civic': -0.5}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
-05:36:23 34 links on the two papers' Karur pages
-05:36:59 skipped: already posted=14, published before this window=8, same event already posted=3, not Karur district=3
-05:36:59 list: 0 new + 4 earlier news not posted yet
-05:36:59    1. [பொது] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம் (தினமலர்) (earlier)
-05:36:59    2. [பொது] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி (தினமலர்) (earlier)
-05:36:59    3. [பொது] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி (தினமலர்) (earlier)
-05:36:59    4. [பொது] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், நவ. 14 (தினமலர்) (earlier)
-05:36:59 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_05
-05:37:01 round 2026-11-15_05 (at least 5, up to 3 more of well-watched topics): 4 news to choose from (0 from earlier rounds), ranked by this page's insights
-05:37:01   PICK   1.   0.5 [other +0.00 pattern] கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-05:37:01   PICK   2.   0.5 [other +0.00 pattern] புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-05:37:01   PICK   3.   0.5 [other +0.00 pattern] பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி
-05:37:01   PICK   4.  -0.4 [poultry_agri -0.30 pattern] நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-05:37:01 decided: automatic: top 5 of 4 by insights -> 4 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/utsav-procession-on-the-fourth-day-of-kanda-shashthi/4375807 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/statistical-subordinate-officer-working-with-demand-card/4375809 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/public-suffers-as-toilet-inoperable-condition/4375810 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/call-to-farmers-to-insure-paddy-crop-karur-nov-14/4375811
-05:39:33 4 listed news now in the Sheet
-05:39:41 instagram duplicate check karur: 36 recent posts read
-05:39:41 verify 2026-11-15_05: 0 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:39:41    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-05:39:41    NOT POSTED C553753c: queued RN-37 (Queued) - நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-05:39:41    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-05:39:41    NOT POSTED Cab5bc62: queued RN-38 (Queued) - பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி
-05:44:49 instagram duplicate check karur: 37 recent posts read
-05:44:49 verify 2026-11-15_05: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:44:49    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-05:44:49    NOT POSTED C553753c: queued RN-37 (Queued) - நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-05:44:49    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-05:49:56 instagram duplicate check karur: 37 recent posts read
-05:49:56 verify 2026-11-15_05: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:49:56    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-05:49:56    NOT POSTED C553753c: queued RN-37 (Queued) - நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-05:49:56    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-05:55:03 instagram duplicate check karur: 37 recent posts read
-05:55:03 verify 2026-11-15_05: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:55:03    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-05:55:03    NOT POSTED C553753c: queued RN-37 (Queued) - நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-05:55:03    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-06:00:09 instagram duplicate check karur: 37 recent posts read
-06:00:09 verify 2026-11-15_05: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:00:09    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-06:00:09    NOT POSTED C553753c: queued RN-37 (Queued) - நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-06:00:09    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-06:05:16 instagram duplicate check karur: 37 recent posts read
-06:05:16 verify 2026-11-15_05: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:05:16    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-06:05:16    NOT POSTED C553753c: queued RN-37 (Queued) - நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
-06:05:16    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-06:10:23 instagram duplicate check karur: 38 recent posts read
-06:10:23 verify 2026-11-15_05: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:10:23    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-06:10:23    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-06:15:30 instagram duplicate check karur: 38 recent posts read
-06:15:30 verify 2026-11-15_05: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:15:30    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-06:15:30    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-06:20:38 instagram duplicate check karur: 38 recent posts read
-06:20:38 verify 2026-11-15_05: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:20:38    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-06:20:38    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-06:25:45 instagram duplicate check karur: 38 recent posts read
-06:25:45 verify 2026-11-15_05: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:25:45    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
-06:25:45    NOT POSTED C7ac17a6: queued RN-40 (Queued) - கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
-06:30:50 verify 2026-11-15_05: 3 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:30:50    SKIPPED Ca03fd80: skipped RN-39: held: location is only the district - the town from the article is missing - புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
+09:58:14 round 2026-11-15_09: news published 15 Nov 05:36 -> 15 Nov 09:58 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+09:58:14 insights 2026-11-15T09:58+05:30 (36 reels): topic weights {'temple': 1.03, 'accident': 0.71, 'education': -0.32, 'poultry_agri': -0.19, 'politics': -0.01, 'civic': -0.5}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
+09:59:28 41 links on the two papers' Karur pages
+10:00:10 skipped: published before this window=8, already posted=5, not Karur district=5, same event already posted=4, no title=1
+10:00:10 list: 17 new + 0 earlier news not posted yet
+10:00:10    1. [குற்றம்] கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது (தினமலர்)
+10:00:10    2. [குற்றம்] கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது (தினமலர்)
+10:00:10    3. [குற்றம்] காவிரியாற்று பகுதியில் மணல் திருட்டை தடுக்க எஸ்.பி., ஆய்வு (தினமலர்)
+10:00:10    4. [விபத்து] கார் மோதி முதியவர் உயிரிழப்பு (தினமலர்)
+10:00:10    5. [குற்றம்] கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற கணவர்! கரூர (ஒன்இந்தியா)
+10:00:10    6. [பொது] தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு (தினமலர்)
+10:00:10    7. [ரயில்] வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும் ரயில்வே  (தினமலர்)
+10:00:10    8. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்)
+10:00:10    9. [பொது] புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம் (தினமலர்)
+10:00:10   10. [விலை] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார் (தினமலர்)
+10:00:10   11. [பொது] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு (தினமலர்)
+10:00:10   12. [பொது] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறுத்தல் (தினமலர்)
+10:00:10   13. [பொது] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி (தினமலர்)
+10:00:10   14. [பொது] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி (தினமலர்)
+10:00:10   15. [பொது] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு விறு (தினமலர்)
+10:00:10   16. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்)
+10:00:10   17. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்)
+10:00:10 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-15_09
