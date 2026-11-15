@@ -1,62 +1,6 @@
 {
- "last_end": "2026-11-15T09:58:14.890671+05:30",
+ "last_end": "2026-11-15T13:52:18.265405+05:30",
  "pool": {
-  "C0b6e701": {
-   "id": "C0b6e701",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/labourer-robbed-of-money-at-knife-point-arrested/4376657",
-   "title": "கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது",
-   "summary": "குளித்தலை,:குளித்தலை அடுத்த, நச்சலுார் வி.ஆர்.ஓ., காலனியை சேர்ந்தவர் ஹரிதாசன், 32, எலக்ட்ரீஷியன். இவர் நேற்று முன்தினம் இரவு, 8:00 மணியளவில் தனக்கு சொந்தமான பைக்கில், பெருகமணிக்கு சென்று விட்டு, நங்கவரம் வாரிக்கரை பேர...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:50:00+05:30",
-   "category": "குற்றம்",
-   "score": 12.2,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T10:00:12.595808+05:30",
-   "posted": true
-  },
-  "C35a3d67": {
-   "id": "C35a3d67",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/kidnapped-688-kg-gutkha-seized-four-arrested/4376670",
-   "title": "கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது",
-   "summary": "குளித்தலை:தோகைமலையில், போலீசார் நடத்திய வாகன சோதனையில், குட்கா பொருட்கள் கடத்தியதாக, நான்கு பேரை போலீசார் கைது செய்தனர். தோகைமலை போலீசார் நேற்று முன்தினம் அதிகாலை, 2:00 மணியளவில் திருச்சி நெடுஞ்சாலை அழகனாம்பட்டி பிரிவ...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:59:00+05:30",
-   "category": "குற்றம்",
-   "score": 12.2,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T10:00:12.595811+05:30",
-   "posted": true
-  },
-  "C5aa3387": {
-   "id": "C5aa3387",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-study-to-prevent-sand-theft-in-the-cauvery-basin/4376672",
-   "title": "காவிரியாற்று பகுதியில் மணல் திருட்டை தடுக்க எஸ்.பி., ஆய்வு",
-   "summary": "கரூர்:வேலாயுதம்பாளையம் அருகே, காவிரியாற்று பகுதியில் மணல் திருட்டை தடுக்கும் வகையில், எஸ்.பி., ரகுபதி ஆய்வு செய்தார். கரூர் மாவட்டம், வேலாயுதம்பாளையம் அருகே தோட்டக்குறிச்சி காவிரியாற்று பகுதியில், இரவு நேரத்தில் லாரிக...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T07:01:00+05:30",
-   "category": "குற்றம்",
-   "score": 11.2,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T10:00:12.595812+05:30",
-   "posted": true
-  },
-  "Ce6a4cd7": {
-   "id": "Ce6a4cd7",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/elderly-man-dies-after-being-hit-by-car/4376667",
-   "title": "கார் மோதி முதியவர் உயிரிழப்பு",
-   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சியில், அடையாளம் தெரியாத கார் மோதி முதியவர் உயிரிழந்தார். அரவக்குறிச்சி ஜீவா நகர் 2வது தெருவை சேர்ந்தவர் ராமசாமி, 87.",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:58:00+05:30",
-   "category": "விபத்து",
-   "score": 10.71,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T10:00:12.595814+05:30",
-   "posted": true
-  },
   "Cf13382e": {
    "id": "Cf13382e",
    "url": "https://tamil.oneindia.com/news/karur/karur-man-attacks-his-wife-with-iron-rod-to-death-845439.html",
@@ -749,6 +693,30 @@
    "refused": {
     "Cf13382e": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
    }
+  },
+  "2026-11-15_13": {
+   "window": [
+    "2026-11-15T09:58:14.890671+05:30",
+    "2026-11-15T13:52:18.265405+05:30"
+   ],
+   "ids": [
+    "C2c3e3ca",
+    "C63c4a64",
+    "Cda18b9e",
+    "Ce30b8c9",
+    "C2c68072",
+    "C67565d5",
+    "C872b336",
+    "C7699eaf",
+    "C3a73d22",
+    "C036661c",
+    "Cf2edb7c",
+    "Cfc1f4e2"
+   ],
+   "sent": false,
+   "deadline": "2026-11-15T14:52:18.265405+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}

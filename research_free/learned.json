@@ -1,43 +1,44 @@
 {
- "updated": "2026-11-15T09:58+05:30",
- "posts_measured": 36,
+ "updated": "2026-11-15T13:52+05:30",
+ "posts_measured": 39,
  "topic_weight": {
-  "temple": 1.03,
-  "accident": 0.71,
-  "education": -0.32,
-  "poultry_agri": -0.19,
-  "politics": -0.01,
-  "civic": -0.5
+  "temple": 0.86,
+  "accident": 0.1,
+  "education": -0.37,
+  "poultry_agri": -0.24,
+  "politics": 0.1,
+  "civic": -0.5,
+  "crime": 1.5
  },
  "topic_n": {
   "temple": 4,
-  "accident": 5,
+  "accident": 6,
   "education": 3,
   "jobs": 2,
   "power_cut": 1,
   "poultry_agri": 4,
   "politics": 4,
   "civic": 5,
-  "crime": 2,
+  "crime": 4,
   "weather": 1
  },
  "best_hours_ist": [
   14,
+  1,
   11,
-  0,
-  1
+  0
  ],
  "top_openings": [
+  "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
+  "🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது",
   "💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு",
-  "🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்",
-  "🛕 குளித்தலை அருகே அம்மன் கோவில் பீடம் சேதம்: போலீசார் வழக்குப் பதிவு",
-  "🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது"
+  "🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்"
  ],
- "avg_watch_s": 6.6,
+ "avg_watch_s": 6.7,
  "best_topics": [
+  "crime",
   "temple",
-  "accident",
-  "politics"
+  "accident"
  ],
  "weak_topics": [
   "civic",

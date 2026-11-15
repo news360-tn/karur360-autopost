@@ -1,99 +1,19 @@
-09:58:14 round 2026-11-15_09: news published 15 Nov 05:36 -> 15 Nov 09:58 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-09:58:14 insights 2026-11-15T09:58+05:30 (36 reels): topic weights {'temple': 1.03, 'accident': 0.71, 'education': -0.32, 'poultry_agri': -0.19, 'politics': -0.01, 'civic': -0.5}; best openings ['💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
-09:59:28 41 links on the two papers' Karur pages
-10:00:10 skipped: published before this window=8, already posted=5, not Karur district=5, same event already posted=4, no title=1
-10:00:10 list: 17 new + 0 earlier news not posted yet
-10:00:10    1. [குற்றம்] கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது (தினமலர்)
-10:00:10    2. [குற்றம்] கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது (தினமலர்)
-10:00:10    3. [குற்றம்] காவிரியாற்று பகுதியில் மணல் திருட்டை தடுக்க எஸ்.பி., ஆய்வு (தினமலர்)
-10:00:10    4. [விபத்து] கார் மோதி முதியவர் உயிரிழப்பு (தினமலர்)
-10:00:10    5. [குற்றம்] கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற கணவர்! கரூர (ஒன்இந்தியா)
-10:00:10    6. [பொது] தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு (தினமலர்)
-10:00:10    7. [ரயில்] வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும் ரயில்வே  (தினமலர்)
-10:00:10    8. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்)
-10:00:10    9. [பொது] புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம் (தினமலர்)
-10:00:10   10. [விலை] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார் (தினமலர்)
-10:00:10   11. [பொது] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு (தினமலர்)
-10:00:10   12. [பொது] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறுத்தல் (தினமலர்)
-10:00:10   13. [பொது] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி (தினமலர்)
-10:00:10   14. [பொது] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி (தினமலர்)
-10:00:10   15. [பொது] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு விறு (தினமலர்)
-10:00:10   16. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்)
-10:00:10   17. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்)
-10:00:10 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_09
-10:00:12    not picked automatically (ceremony / shopping feature - only when the owner ticks it): போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல்
-10:00:12 round 2026-11-15_09 (at least 5, up to 3 more of well-watched topics): 16 news to choose from (0 from earlier rounds), ranked by this page's insights
-10:00:12   PICK   1.  14.3 [crime +0.70 pattern] கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது
-10:00:12   PICK   2.  14.3 [crime +0.70 pattern] கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:00:12   PICK   3.  13.3 [crime +0.70 pattern] காவிரியாற்று பகுதியில் மணல் திருட்டை தடுக்க எஸ்.பி., ஆய்வு
-10:00:12   PICK   4.  12.8 [accident +0.71 page] கார் மோதி முதியவர் உயிரிழப்பு
-10:00:12   PICK   5.  10.0 [other +0.00 pattern] கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:00:12          6.   9.0 [other +0.00 pattern] தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு
-10:00:12          7.   8.0 [other +0.00 pattern] வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும
-10:00:12          8.   7.0 [other +0.00 pattern] புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம்
-10:00:12          9.   6.0 [other +0.00 pattern] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
-10:00:12         10.   6.0 [other +0.00 pattern] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறு
-10:00:12         11.   5.9 [poultry_agri -0.30 pattern] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
-10:00:12         12.   5.4 [sports_culture -0.20 pattern] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
-10:00:12         13.   5.0 [other +0.00 pattern] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி
-10:00:12         14.   4.0 [other +0.00 pattern] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு 
-10:00:12         15.   3.0 [other +0.00 pattern] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-10:00:12         16.   3.0 [other +0.00 pattern] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்
-10:00:12 decided: automatic: top 5 of 16 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/labourer-robbed-of-money-at-knife-point-arrested/4376657 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/kidnapped-688-kg-gutkha-seized-four-arrested/4376670 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-study-to-prevent-sand-theft-in-the-cauvery-basin/4376672 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/elderly-man-dies-after-being-hit-by-car/4376667 https://tamil.oneindia.com/news/karur/karur-man-attacks-his-wife-with-iron-rod-to-death-845439.html
-10:04:04 1 picked news refused by the writer - not offered again
-10:04:04 4 listed news now in the Sheet
-10:04:12 instagram duplicate check karur: 40 recent posts read
-10:04:14 verify 2026-11-15_09: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:04:14    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:04:14    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:04:14    NOT POSTED C0b6e701: queued RN-44 (Queued) - கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது
-10:04:14    NOT POSTED C5aa3387: queued RN-41 (Queued) - காவிரியாற்று பகுதியில் மணல் திருட்டை தடுக்க எஸ்.பி., ஆய்வு
-10:04:14    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:09:21 instagram duplicate check karur: 41 recent posts read
-10:09:22 verify 2026-11-15_09: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:09:22    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:09:22    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:09:22    NOT POSTED C0b6e701: queued RN-44 (Queued) - கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது
-10:09:22    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:14:29 instagram duplicate check karur: 41 recent posts read
-10:14:31 verify 2026-11-15_09: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:14:31    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:14:31    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:14:31    NOT POSTED C0b6e701: queued RN-44 (Queued) - கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது
-10:14:31    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:19:37 instagram duplicate check karur: 41 recent posts read
-10:19:39 verify 2026-11-15_09: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:19:39    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:19:39    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:19:39    NOT POSTED C0b6e701: queued RN-44 (Queued) - கத்தியை காட்டி பணம் பறித்த தொழிலாளி கைது
-10:19:39    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:24:47 instagram duplicate check karur: 42 recent posts read
-10:24:47 verify 2026-11-15_09: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:24:47    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:24:47    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:24:47    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:29:56 instagram duplicate check karur: 43 recent posts read
-10:29:56 verify 2026-11-15_09: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:29:56    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:29:56    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:29:56    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:35:04 instagram duplicate check karur: 43 recent posts read
-10:35:04 verify 2026-11-15_09: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:35:04    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:35:04    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:35:04    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:40:14 instagram duplicate check karur: 43 recent posts read
-10:40:14 verify 2026-11-15_09: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:40:14    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:40:14    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:40:14    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:45:22 instagram duplicate check karur: 43 recent posts read
-10:45:22 verify 2026-11-15_09: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:45:22    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:45:22    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
-10:45:22    NOT POSTED Ce6a4cd7: queued RN-42 (Queued) - கார் மோதி முதியவர் உயிரிழப்பு
-10:50:28 verify 2026-11-15_09: 3 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:50:28    SKIPPED C35a3d67: skipped RN-43: held: fact-check problems - numbers not found in the article: 364800, 50 - கடத்தி வரப்பட்ட 688 கிலோ குட்கா பறிமுதல்: நால்வர் கைது
-10:50:28    SKIPPED Cf13382e: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற க
+13:52:18 round 2026-11-15_13: news published 15 Nov 09:58 -> 15 Nov 13:52 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+13:52:18 insights 2026-11-15T13:52+05:30 (39 reels): topic weights {'temple': 0.86, 'accident': 0.1, 'education': -0.37, 'poultry_agri': -0.24, 'politics': 0.1, 'civic': -0.5, 'crime': 1.5}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது']
+13:53:11 44 links on the two papers' Karur pages
+13:53:40 skipped: not Karur district=12, published before this window=8, already posted=5, same event already posted=4
+13:53:40 list: 0 new + 12 earlier news not posted yet
+13:53:40    1. [பொது] தாழ்வான நிலையில் ஒயர்கள் சரி செய்ய மக்கள் எதிர்பார்ப்பு (தினமலர்) (earlier)
+13:53:40    2. [ரயில்] வெங்கமேட்டில் படிக்கட்டு இல்லாமல் பல ஆண்டுகளாக காத்திருக்கும் ரயில்வே  (தினமலர்) (earlier)
+13:53:40    3. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்) (earlier)
+13:53:40    4. [பொது] புகழூரில் வட்ட வழங்கல் சார்பில் குறைதீர் முகாம் (தினமலர்) (earlier)
+13:53:40    5. [விலை] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார் (தினமலர்) (earlier)
+13:53:40    6. [பொது] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு (தினமலர்) (earlier)
+13:53:40    7. [பொது] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறுத்தல் (தினமலர்) (earlier)
+13:53:40    8. [பொது] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி (தினமலர்) (earlier)
+13:53:40    9. [பொது] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி (தினமலர்) (earlier)
+13:53:40   10. [பொது] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு விறு (தினமலர்) (earlier)
+13:53:40   11. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்) (earlier)
+13:53:40   12. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்) (earlier)
+13:53:40 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-15_13
