@@ -14,3 +14,84 @@
 17:35:00    9. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்) (earlier)
 17:35:00 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-15_17
+17:35:01    not picked automatically (ceremony / shopping feature - only when the owner ticks it): போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல்
+17:35:01 round 2026-11-15_17 (at least 5, up to 3 more of well-watched topics): 8 news to choose from (0 from earlier rounds), ranked by this page's insights
+17:35:01   PICK   1.   5.0 [other +0.00 pattern] மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+17:35:01   PICK   2.   5.0 [other +0.00 pattern] கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறு
+17:35:01   PICK   3.   4.9 [poultry_agri -0.30 pattern] பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+17:35:01   PICK   4.   4.4 [sports_culture -0.20 pattern] அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+17:35:01   PICK   5.   4.0 [other +0.00 pattern] உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி
+17:35:01          6.   3.0 [other +0.00 pattern] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு 
+17:35:01          7.   2.0 [other +0.00 pattern] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
+17:35:01          8.   2.0 [other +0.00 pattern] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்
+17:35:01 decided: automatic: top 5 of 8 by insights -> 5 news to write and post
+PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/book-fair-inaugurated-at-district-central-library/4376656 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/call-for-more-buses-on-collectorate-grievance-redressal-day/4376661 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-gets-cheaper-as-festive-season-ends/4376664 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurai-birthday-bicycle-race/4376662 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/drivers-suffer-due-to-incandescent-lights-on-high-level-bridge/4376663
+17:38:14 5 listed news now in the Sheet
+17:38:22 instagram duplicate check karur: 47 recent posts read
+17:38:24 verify 2026-11-15_17: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+17:38:24    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+17:38:24    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+17:38:24    NOT POSTED C3a73d22: queued RN-48 (Queued) - உயர்மட்ட பாலத்தில் எரியாத விளக்குகளால் ஓட்டுனர்கள் அவதி
+17:38:24    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+17:38:24    NOT POSTED C872b336: queued RN-51 (Queued) - கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறு
+17:43:31 instagram duplicate check karur: 48 recent posts read
+17:43:33 verify 2026-11-15_17: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+17:43:33    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+17:43:33    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+17:43:33    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+17:43:33    NOT POSTED C872b336: queued RN-51 (Queued) - கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறு
+17:48:40 instagram duplicate check karur: 48 recent posts read
+17:48:42 verify 2026-11-15_17: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+17:48:42    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+17:48:42    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+17:48:42    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+17:48:42    NOT POSTED C872b336: queued RN-51 (Queued) - கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறு
+17:53:48 instagram duplicate check karur: 48 recent posts read
+17:53:50 verify 2026-11-15_17: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+17:53:50    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+17:53:50    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+17:53:50    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+17:53:50    NOT POSTED C872b336: queued RN-51 (Queued) - கலெக்டர் அலுவலக குறைதீர் நாளில் கூடுதல் பஸ்கள் இயக்க வலியுறு
+17:58:57 instagram duplicate check karur: 49 recent posts read
+17:58:58 verify 2026-11-15_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+17:58:58    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+17:58:58    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+17:58:58    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:04:05 instagram duplicate check karur: 49 recent posts read
+18:04:07 verify 2026-11-15_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:04:07    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:04:07    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+18:04:07    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:09:14 instagram duplicate check karur: 49 recent posts read
+18:09:16 verify 2026-11-15_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:09:16    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:09:16    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+18:09:16    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:14:22 instagram duplicate check karur: 49 recent posts read
+18:14:24 verify 2026-11-15_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:14:24    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:14:24    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+18:14:24    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:19:31 instagram duplicate check karur: 49 recent posts read
+18:19:33 verify 2026-11-15_17: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:19:33    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:19:33    NOT POSTED C2c68072: queued RN-50 (Queued) - பண்டிகை சீசன் முடிந்ததால் விலை குறைந்த வாழைத்தார்
+18:19:33    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:24:39 instagram duplicate check karur: 50 recent posts read
+18:24:40 verify 2026-11-15_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:24:40    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:24:40    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:29:47 instagram duplicate check karur: 50 recent posts read
+18:29:48 verify 2026-11-15_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:29:48    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:29:48    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:34:56 instagram duplicate check karur: 50 recent posts read
+18:34:57 verify 2026-11-15_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:34:57    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:34:57    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:40:04 instagram duplicate check karur: 50 recent posts read
+18:40:06 verify 2026-11-15_17: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:40:06    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
+18:40:06    NOT POSTED C67565d5: queued RN-52 (Queued) - மாவட்ட மைய நூலகத்தில் புத்தக கண்காட்சி திறப்பு
+18:45:13 verify 2026-11-15_17: 4 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:45:13    SKIPPED C7699eaf: skipped RN-49: held: fact-check problems - numbers not found in the article: 135 - அண்ணாதுரை பிறந்த நாள் சைக்கிள் போட்டி
