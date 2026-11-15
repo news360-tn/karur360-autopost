@@ -1,78 +1,12 @@
-21:31:36 round 2026-11-15_21: news published 15 Nov 17:32 -> 15 Nov 21:31 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-21:31:36 insights 2026-11-15T21:31+05:30 (46 reels): topic weights {'temple': 1.49, 'accident': 0.11, 'education': -0.09, 'poultry_agri': 0.04, 'politics': 0.39, 'civic': -0.31, 'crime': 1.5}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🚔 குளித்தலை அருகே பணம் வைத்து சூதாடிய 5 பேர் கைது']
-21:33:40 76 links on the two papers' Karur pages
-21:35:03 skipped: not Karur district=38, already posted=11, published before this window=8, same event already posted=4, only a headline=1, editorial / opinion, not news=1
-21:35:03 list: 5 new + 4 earlier news not posted yet
-21:35:03    1. [விபத்து] கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி (தினமலர்)
-21:35:03    2. [பொது] கழிவுநீர் தேக்கத்தால் பொதுமக்கள் அவதி (தினத்தந்தி)
-21:35:03    3. [பொது] தேங்கிக் கிடக்கும் குப்பைகள் (தினத்தந்தி)
-21:35:03    4. [பொது] பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல் (தினத்தந்தி)
-21:35:03    5. [பொது] ‘தினத்தந்தி’ புகார் பெட்டிக்கு நன்றி (தினத்தந்தி)
-21:35:03    6. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்) (earlier)
-21:35:03    7. [பொது] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு விறு (தினமலர்) (earlier)
-21:35:03    8. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்) (earlier)
-21:35:03    9. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்) (earlier)
-21:35:03 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_21
-21:35:05    not picked automatically (ceremony / shopping feature - only when the owner ticks it): போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல்
-21:35:05 round 2026-11-15_21 (at least 4, up to 3 more of well-watched topics): 8 news to choose from (0 from earlier rounds), ranked by this page's insights
-21:35:05   PICK   1.  10.4 [accident +0.11 page] கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-21:35:05   PICK   2.   9.0 [other +0.00 pattern] கழிவுநீர் தேக்கத்தால் பொதுமக்கள் அவதி
-21:35:05   PICK   3.   8.0 [other +0.00 pattern] பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-21:35:05   PICK   4.   7.8 [civic -0.31 page] தேங்கிக் கிடக்கும் குப்பைகள்
-21:35:05          5.   5.0 [other +0.00 pattern] ‘தினத்தந்தி’ புகார் பெட்டிக்கு நன்றி
-21:35:05          6.   2.5 [other +0.00 pattern] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு 
-21:35:05          7.   1.5 [other +0.00 pattern] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-21:35:05          8.   1.5 [other +0.00 pattern] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்
-21:35:05 decided: automatic: top 4 of 8 by insights -> 4 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-news/father-son-killed-as-truck-rams-into-truck/4377013 https://pukaarpetti.dailythanthi.com/sewage/news-68606 https://pukaarpetti.dailythanthi.com/transportation/news-68612 https://pukaarpetti.dailythanthi.com/garbage/news-68609
-21:39:15 1 picked news refused by the writer - not offered again
-21:39:15 3 listed news now in the Sheet
-21:39:24 instagram duplicate check karur: 50 recent posts read
-21:39:24 verify 2026-11-15_21: 0 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-21:39:24    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-21:39:24    NOT POSTED C0b4fbc7: queued RN-54 (Queued) - கழிவுநீர் தேக்கத்தால் பொதுமக்கள் அவதி
-21:39:24    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-21:39:24    NOT POSTED Cb7f0e1a: queued RN-53 (Queued) - தேங்கிக் கிடக்கும் குப்பைகள்
-21:44:31 instagram duplicate check karur: 50 recent posts read
-21:44:31 verify 2026-11-15_21: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-21:44:31    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-21:44:31    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-21:44:31    NOT POSTED Cb7f0e1a: queued RN-53 (Queued) - தேங்கிக் கிடக்கும் குப்பைகள்
-21:49:38 instagram duplicate check karur: 50 recent posts read
-21:49:39 verify 2026-11-15_21: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-21:49:39    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-21:49:39    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-21:49:39    NOT POSTED Cb7f0e1a: queued RN-53 (Queued) - தேங்கிக் கிடக்கும் குப்பைகள்
-21:54:47 instagram duplicate check karur: 50 recent posts read
-21:54:47 verify 2026-11-15_21: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-21:54:47    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-21:54:47    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-21:54:47    NOT POSTED Cb7f0e1a: queued RN-53 (Queued) - தேங்கிக் கிடக்கும் குப்பைகள்
-21:59:55 instagram duplicate check karur: 50 recent posts read
-21:59:55 verify 2026-11-15_21: 1 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-21:59:55    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-21:59:55    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-21:59:55    NOT POSTED Cb7f0e1a: queued RN-53 (Queued) - தேங்கிக் கிடக்கும் குப்பைகள்
-22:05:02 instagram duplicate check karur: 50 recent posts read
-22:05:02 verify 2026-11-15_21: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:05:02    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-22:05:02    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-22:10:09 instagram duplicate check karur: 50 recent posts read
-22:10:09 verify 2026-11-15_21: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:10:09    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-22:10:09    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-22:15:18 instagram duplicate check karur: 50 recent posts read
-22:15:18 verify 2026-11-15_21: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:15:18    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-22:15:18    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-22:20:28 instagram duplicate check karur: 50 recent posts read
-22:20:28 verify 2026-11-15_21: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:20:28    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-22:20:28    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-22:25:35 instagram duplicate check karur: 50 recent posts read
-22:25:35 verify 2026-11-15_21: 2 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:25:35    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
-22:25:35    NOT POSTED C33baa63: queued RN-55 (Queued) - பயன்பாட்டில் இல்லாத போக்குவரத்து சிக்னல்
-22:30:47 verify 2026-11-15_21: 3 of 4 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:30:47    SKIPPED C99f5e72: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி
+04:57:13 round 2026-11-16_04: news published 15 Nov 21:31 -> 16 Nov 04:57 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+04:57:13 insights 2026-11-16T04:57+05:30 (49 reels): topic weights {'temple': 1.41, 'accident': 0.05, 'education': -0.13, 'poultry_agri': -0.05, 'politics': 0.38, 'civic': -0.38, 'crime': 1.5}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
+04:59:14 75 links on the two papers' Karur pages
+05:00:47 skipped: not Karur district=43, already posted=15, published before this window=8, same event already posted=4, could not open (404 Client Error: Not Found for url: https://pukaa)=1
+05:00:47 list: 0 new + 5 earlier news not posted yet
+05:00:47    1. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்) (earlier)
+05:00:47    2. [பொது] ‘தினத்தந்தி’ புகார் பெட்டிக்கு நன்றி (தினத்தந்தி) (earlier)
+05:00:47    3. [பொது] கார்த்திகை மாதம் தொடங்கும் நிலையில் துளசி மாலை விற்பனை விறு விறு (தினமலர்) (earlier)
+05:00:47    4. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்) (earlier)
+05:00:47    5. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்) (earlier)
+05:00:47 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-16_04
