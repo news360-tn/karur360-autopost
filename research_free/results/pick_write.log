@@ -1,197 +1,235 @@
-writing [N]: உணவுப் பொருள்கள் பாதிக்காத வகையில் சேமிப்பு கிடங்கை பாதுகாப்
+writing [N]: நெல் பயிருக்கு காப்பீடு செய்ய விவசாயிகளுக்கு அழைப்பு கரூர், 
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+writing [N]: பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: புள்ளி இயல் சார்நிலை அலுவலர் கோரிக்கை அட்டையுடன் பணி
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-writing [N]: ரேஷன் அரிசி மோசம் அமைச்சரிடம் புகார்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (14s)
-attempt 1 gemini/gemini-3.6-flash: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1280 (char 1279)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3-flash-preview (9s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  caption needs 5 hashtags (Instagram max), has 6
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('இந்த கிடங்கின் மூலம் கரூா் மாவட்டத்தில் உள்ள பல்வேறு நியாயவி')
+ok gemini/gemini-3-flash-preview (10s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (11s)
-attempt 2 gemini/gemini-3-flash-preview: 10 problems
-  stray Tamil sign 'ா' after 'ூ' in «கரூா் ம»
-  stray Tamil sign '்' after 'ா' in «கரூா் மா»
-  stray Tamil sign '்' after 'ா' in «மைச்சா் பி»
-  stray Tamil sign 'ா' after 'ூ' in «ல் கரூா் ம»
-  stray Tamil sign '்' after 'ா' in «் கரூா் மா»
-  stray Tamil sign 'ா' after 'ூ' in «்:
-கரூா் ம»
-  stray Tamil sign '்' after 'ா' in «:
-கரூா் மா»
-  stray Tamil sign '்' after 'ா' in «மைச்சா் பி»
-  stray Tamil sign 'ா' after 'ூ' in «ம் கரூா் ம»
-  stray Tamil sign '்' after 'ா' in «் கரூா் மா»
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.6-flash (24s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok groq/openai/gpt-oss-120b (6s)
-factcheck by groq/openai/gpt-oss-120b: 2 problems
-  Headline has an incorrect/duplicated suffix in 'நுகர்பொருள் வாணிபக் கழகக்' (should be 'நுகர்பொருள் வாணிபக் கழக')
-  Reel script mentions 'இரண்டுபூதிப்பட்டியில்' which is not in the article (correct term is 'இரும்பூதிப்பட்டி')
-attempt 2 gemini/gemini-3.6-flash: 2 problems
-  fact-check: Headline has an incorrect/duplicated suffix in 'நுகர்பொருள் வாணிபக் கழகக்' (should be 'நுகர்பொருள் வாணிபக் கழக')
-  fact-check: Reel script mentions 'இரண்டுபூதிப்பட்டியில்' which is not in the article (correct term is 'இரும்பூதிப்பட்டி')
+ok gemini/gemini-3.6-flash (13s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (14s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok gemini/gemini-3-flash-preview (10s)
-attempt 3 gemini/gemini-3-flash-preview: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('இந்த கிடங்கின் மூலம் கரூா் மாவட்டத்தில் உள்ள பல்வேறு நியாயவி')
+ok groq/openai/gpt-oss-120b (5s)
+factcheck by groq/openai/gpt-oss-120b: 3 problems
+  Uses incorrect authority name “புலியூர் பேரூராட்சி நிர்வாகம்” instead of the “புலியூர் டவுன் பஞ்சாயத்து நிர்வாகம்” mentioned in the article
+  Claims that the disabled‑toilet is also damaged (“மாற்றுத்திறனாளிகளுக்கான கழிப்பிடமும் பாழடைந்துள்ளது”), which is not stated in the article
+  Slide text uses vague phrase “முட்புதர்கள் மண்டி கிடக்கின்றன”, which is unclear/grammatically odd in Tamil
+attempt 1 gemini/gemini-3-flash-preview: 3 problems
+  fact-check: Uses incorrect authority name “புலியூர் பேரூராட்சி நிர்வாகம்” instead of the “புலியூர் டவுன் பஞ்சாயத்து நிர்வாகம்” mentioned in the article
+  fact-check: Claims that the disabled‑toilet is also damaged (“மாற்றுத்திறனாளிகளுக்கான கழிப்பிடமும் பாழடைந்துள்ளது”), which is not stated in the article
+  fact-check: Slide text uses vague phrase “முட்புதர்கள் மண்டி கிடக்கின்றன”, which is unclear/grammatically odd in Tamil
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (5s)
+factcheck by groq/openai/gpt-oss-120b: 4 problems
+  Invented term “கவனஈர்ப்பு போராட்டம்” appears in reel_script, slides and caption but is not in the article
+  Caption includes a specific date “13 நவம்பர் 2026” which is not mentioned in the article
+  Slide 2 line mentions “தமிழகம் முழுவதும் கவனஈர்ப்பு போராட்டம் நடத்த முடிவு”, an invented detail not in the article
+  Headline uses “புள்ளியியல் துறை அலுவலர்கள்” instead of the article’s “புள்ளி இயல் சார்நிலை அலுவலர்”, a role mismatch
+attempt 1 gemini/gemini-3.6-flash: 4 problems
+  fact-check: Invented term “கவனஈர்ப்பு போராட்டம்” appears in reel_script, slides and caption but is not in the article
+  fact-check: Caption includes a specific date “13 நவம்பர் 2026” which is not mentioned in the article
+  fact-check: Slide 2 line mentions “தமிழகம் முழுவதும் கவனஈர்ப்பு போராட்டம் நடத்த முடிவு”, an invented detail not in the article
+  fact-check: Headline uses “புள்ளியியல் துறை அலுவலர்கள்” instead of the article’s “புள்ளி இயல் சார்நிலை அலுவலர்”, a role mismatch
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (5s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/openai/gpt-oss-120b (6s)
-factcheck by groq/openai/gpt-oss-120b: 3 problems
-  Draft incorrectly says “இரும்பூதிப்பட்டியில் உள்ள குளித்தலை”, implying Kulithalai is in Irumbuthippatti, which the article does not state; the article says the TNCPB office located at Irumbuthippatti inspected Kulithalai warehouses
-  Headline and several lines use singular “புழு” while the article mentions plural “புழுக்கள்”, a factual mismatch
-  Slide line “அருகில் உள்ள குடியிருப்புக்கு படையெடுக்கின்றன” is grammatically incorrect in Tamil
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: Draft incorrectly says “இரும்பூதிப்பட்டியில் உள்ள குளித்தலை”, implying Kulithalai is in Irumbuthippatti, which the article does not state; the article says the TNCPB office located at Irumbuthippatti inspected Kulithalai warehouses
-  fact-check: Headline and several lines use singular “புழு” while the article mentions plural “புழுக்கள்”, a factual mismatch
-  fact-check: Slide line “அருகில் உள்ள குடியிருப்புக்கு படையெடுக்கின்றன” is grammatically incorrect in Tamil
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-free fact-check unavailable, using Claude: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for mo
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script and caption say the godown was built under the 'Tamil Nadu Chief Minister's food security scheme' (தமிழக முதலவரின் உணவு பாதுகாப்பு திட்டம்); the article only says the Chief Minister takes various measures through the department, with no named scheme.
-  The reel_script says the Minister 'opened' (திறந்து வைத்தார்) the godown; the article says he started it by lighting a kuthuvilakku (குத்துவிளக்கேற்றி தொடங்கி வைத்து), which the draft only mentions in the caption, not the reel. (Minor)
-  The reel_script's 'Ration shop' phrasing about the godown being 'for use' (பயன்படும்) and the 'Tamil Nadu Warehousing' missing: the reel omits the key fact that the godown was built at a cost to serve Karur district ration shops with rice, sugar, dal and oil in a timely manner, which is included, so no issue there; however the reel's mention that 'food will be stored and distributed' is accurate.
-  The caption says the Minister 'asked' (கேட்டுக்கொண்டார்) for protective measures; the article says he said the godown must be maintained clean and hygienic and that protective measures should be taken. The caption's paraphrase is loose but acceptable.
-attempt 4 groq/qwen/qwen3.8-27b: 4 problems
-  fact-check: The reel_script and caption say the godown was built under the 'Tamil Nadu Chief Minister's food security scheme' (தமிழக முதலவரின் உணவு பாதுகாப்பு திட்டம்); the article only says the Chief Minister takes various measures through the department, with no named scheme.
-  fact-check: The reel_script says the Minister 'opened' (திறந்து வைத்தார்) the godown; the article says he started it by lighting a kuthuvilakku (குத்துவிளக்கேற்றி தொடங்கி வைத்து), which the draft only mentions in the caption, not the reel. (Minor)
-  fact-check: The reel_script's 'Ration shop' phrasing about the godown being 'for use' (பயன்படும்) and the 'Tamil Nadu Warehousing' missing: the reel omits the key fact that the godown was built at a cost to serve Karur district ration shops with rice, sugar, dal and oil in a timely manner, which is included, so no issue there; however the reel's mention that 'food will be stored and distributed' is accurate.
-  fact-check: The caption says the Minister 'asked' (கேட்டுக்கொண்டார்) for protective measures; the article says he said the godown must be maintained clean and hygienic and that protective measures should be taken. The caption's paraphrase is loose but acceptable.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 2 problems
-  reel_script claims 'அரசு தெரிவித்துள்ளது' (Government informed) regarding the timely supply of goods, but the article attributes this assurance to the Minister's speech, not a general government statement.
-  reel_script omits the names of the Joint Registrar of Cooperative Societies (A. Abrami) and the Zonal Manager of TN Consumer Goods Trading Corporation (Yasoda) who participated in the event, although they are listed in the article and the draft's own caption.
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: reel_script claims 'அரசு தெரிவித்துள்ளது' (Government informed) regarding the timely supply of goods, but the article attributes this assurance to the Minister's speech, not a general government statement.
-  fact-check: reel_script omits the names of the Joint Registrar of Cooperative Societies (A. Abrami) and the Zonal Manager of TN Consumer Goods Trading Corporation (Yasoda) who participated in the event, although they are listed in the article and the draft's own caption.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 0 problems
-claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (3s)
+attempt 2 groq/qwen/qwen3.8-27b: 2 problems
+  reel_script has 59 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script must tell how the story ENDED, as the article's last lines say ('பயனற்ற நிலையில் கழிப்பிடம் பொதுமக்கள் கடும் அவதி') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  slide 3 must have 2-3 lines
 ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('இந்த கிடங்கின் மூலம் கரூா் மாவட்டத்தில் உள்ள பல்வேறு நியாயவி')
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'கரூர் வட்டாரம்', e.g. 'கரூர் வட்டாரம்: ...' or 'கரூர் வட்டாரம்-இல் ...' - viewers share news of their own area
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1265. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The article states the 589.50 rupee premium per acre is for 'மரவள்ளி கிழங்கு' (tapioca), which is odd for a paddy insurance notice; the reel_script and slides present it as the paddy insurance fee per acre without noting this, altering the stated fact.
+  The reel_script and slides say the fee is 'ஏக்கருக்கு 589 ரூபாய் 50 பைசா' / 'ரூ.589.50' as the paddy insurance fee, while the article ties this figure specifically to tapioca; the caption does note the tapioca reference, but the reel and slides do not, creating an inconsistency between draft components.
+  The slides_spec hl2 headline 'ஏக்கருக்கு ரூ.589.50 கட்டணம்' states the paddy fee without the qualification that the article gives for this amount.
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The article states the 589.50 rupee premium per acre is for 'மரவள்ளி கிழங்கு' (tapioca), which is odd for a paddy insurance notice; the reel_script and slides present it as the paddy insurance fee per acre without noting this, altering the stated fact.
+  fact-check: The reel_script and slides say the fee is 'ஏக்கருக்கு 589 ரூபாய் 50 பைசா' / 'ரூ.589.50' as the paddy insurance fee, while the article ties this figure specifically to tapioca; the caption does note the tapioca reference, but the reel and slides do not, creating an inconsistency between draft components.
+  fact-check: The slides_spec hl2 headline 'ஏக்கருக்கு ரூ.589.50 கட்டணம்' states the paddy fee without the qualification that the article gives for this amount.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-ok anthropic/claude-haiku-5-5
-ok groq/qwen/qwen3.8-27b (4s)
+proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+ok anthropic/claude-haiku-5-5
+real photo: no picture on the source page -> AI pictures
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The draft's headline and reel script say the rice was 'ration rice' (ரேஷன் அரிசி) and the caption says the Kulithalai/Karur details under that label, but the article only describes stock in the Tamil Nadu Civil Supplies Corporation warehouse (நுகர்பொருள் வாணிப கழகம்), not ration rice distributed to the public; this is an unsupported characterization.
-  The reel script says the warehouse was inaugurated by the minister and that people complained 'to him' at the opening, but the article says the minister 'opened' the new warehouse and people complained to him there, so this is accurate; however the reel script states the complaint is the people's and that they are 'suffering greatly' (பெரும் அவதி), which matches the article.
-  The reel script says the minister 'ordered' the station in-charge 'to be condemned' (கண்டிக்கப்பட்டார்), which matches; but the reel script and caption omit the fact that the minister questioned the official asking whether he would eat such rice, which is an important point of the article (the minister's direct remark) and is missing from the reel script.
-  The reel script and caption say the minister gave the order to 'move old stock to the new building' and 'take measures to prevent worms', which matches the article, but the caption attributes the Kulithalai warehouse inspection to 'Kulithalai, Krishnarayapuram taluk warehouses' correctly; no mismatch, so no issue here.
-proofread rejected (4 problems)
-  fact-check: The draft's headline and reel script say the rice was 'ration rice' (ரேஷன் அரிசி) and the caption says the Kulithalai/Karur details under that label, but the article only describes stock in the Tamil Nadu Civil Supplies Corporation warehouse (நுகர்பொருள் வாணிப கழகம்), not ration rice distributed to the public; this is an unsupported characterization.
-  fact-check: The reel script says the warehouse was inaugurated by the minister and that people complained 'to him' at the opening, but the article says the minister 'opened' the new warehouse and people complained to him there, so this is accurate; however the reel script states the complaint is the people's and that they are 'suffering greatly' (பெரும் அவதி), which matches the article.
-  fact-check: The reel script says the minister 'ordered' the station in-charge 'to be condemned' (கண்டிக்கப்பட்டார்), which matches; but the reel script and caption omit the fact that the minister questioned the official asking whether he would eat such rice, which is an important point of the article (the minister's direct remark) and is missing from the reel script.
-  fact-check: The reel script and caption say the minister gave the order to 'move old stock to the new building' and 'take measures to prevent worms', which matches the article, but the caption attributes the Kulithalai warehouse inspection to 'Kulithalai, Krishnarayapuram taluk warehouses' correctly; no mismatch, so no issue here.
+  The slide line 'பல லட்ச ரூபாய் செலவில் கட்டப்பட்டது' and 'மாற்றுத்திறனாளிகளுக்கான கழிப்பிடமும் உள்ளது' are placed under the heading 'என்ன கோரிக்கை?' (what is the demand?), mixing unrelated background facts into the demand section; the demand is only the cleanup request.
+  The reel_script says the public demands the cleanup ('பொதுமக்கள் வலியுறுத்துகின்றனர்'), but the article only states that the Puliyur town panchayat administration should take action; the attribution to the public is an invented detail.
+  The slide line 'கழிப்பிடத்துக்குள் நுழைய முடியவில்லை' is a sentence with slightly unclear meaning given the article's wording, which says the toilet cannot be entered because of the thorny bushes; the cause is not connected in the same line.
+  The slide 'என்ன நடந்தது?' line 'கரூர் அருகே புலியூரில் பொது கழிப்பிடம் சேதம்' is an ungrammatical, incomplete sentence with no clear verb, so its meaning is unclear.
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The slide line 'பல லட்ச ரூபாய் செலவில் கட்டப்பட்டது' and 'மாற்றுத்திறனாளிகளுக்கான கழிப்பிடமும் உள்ளது' are placed under the heading 'என்ன கோரிக்கை?' (what is the demand?), mixing unrelated background facts into the demand section; the demand is only the cleanup request.
+  fact-check: The reel_script says the public demands the cleanup ('பொதுமக்கள் வலியுறுத்துகின்றனர்'), but the article only states that the Puliyur town panchayat administration should take action; the attribution to the public is an invented detail.
+  fact-check: The slide line 'கழிப்பிடத்துக்குள் நுழைய முடியவில்லை' is a sentence with slightly unclear meaning given the article's wording, which says the toilet cannot be entered because of the thorny bushes; the cause is not connected in the same line.
+  fact-check: The slide 'என்ன நடந்தது?' line 'கரூர் அருகே புலியூரில் பொது கழிப்பிடம் சேதம்' is an ungrammatical, incomplete sentence with no clear verb, so its meaning is unclear.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'New 1,000-tonne civil supplies warehouse'
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-0135","first":"RN-35"}
-posting job started at once
-real photo: vision check resting (free quota busy)
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script and slides say the protest was 'a part of' the statewide action, which matches the article, but the reel_script omits the main fact that the staff worked while wearing demand badges (கோரிக்கை அட்டை) as the means of protest; it only mentions wearing badges in passing.
+  Slide 1 line 'கரூரில் புள்ளி இயல் சார்நிலை அலுவலர்கள் <b>கோரிக்கை' is a broken, ungrammatical sentence with an unclosed tag and no clear meaning.
+  Slide 2 title 'முக்கிய' is an incomplete heading with no clear meaning.
+  Slide 3 line 'இவை அரசு கவனத்திற்கு வைக்கப்பட்டுள்ளன' (these have been placed before the government's attention) is an invented detail not stated in the article.
+  The reel_script says 'ஊழியர்கள் பணி செய்தனர்' and the caption says staff 'பணி செய்தனர்' while the article says they were 'பணியில் ஈடுபட்டிருந்தனர்' with badges; the caption also omits that the demands were 'வலியுறுத்தப்பட்டன' only in the slide, which is a minor inconsistency rather than an error.
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script and slides say the protest was 'a part of' the statewide action, which matches the article, but the reel_script omits the main fact that the staff worked while wearing demand badges (கோரிக்கை அட்டை) as the means of protest; it only mentions wearing badges in passing.
+  fact-check: Slide 1 line 'கரூரில் புள்ளி இயல் சார்நிலை அலுவலர்கள் <b>கோரிக்கை' is a broken, ungrammatical sentence with an unclosed tag and no clear meaning.
+  fact-check: Slide 2 title 'முக்கிய' is an incomplete heading with no clear meaning.
+  fact-check: Slide 3 line 'இவை அரசு கவனத்திற்கு வைக்கப்பட்டுள்ளன' (these have been placed before the government's attention) is an invented detail not stated in the article.
+  fact-check: The reel_script says 'ஊழியர்கள் பணி செய்தனர்' and the caption says staff 'பணி செய்தனர்' while the article says they were 'பணியில் ஈடுபட்டிருந்தனர்' with badges; the caption also omits that the demands were 'வலியுறுத்தப்பட்டன' only in the slide, which is a minor inconsistency rather than an error.
+image match: False The image is an AI-generated generic conceptual illustration with pseudo-text ('INITICE COP Insurance') and does not dep
+ok anthropic/claude-haiku-5-5
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Worms and beetles found in ration rice a'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-0136","first":"RN-36"}
-earlier stories still waiting for images: []
-instagram check: 34 recent posts read from the page
-pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-news/ration-rice-scam-complaint-to-minister/4376410
-manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/14/it-is-essential-to-secure-the-storage-warehouse-in-a-way-that-ensures-food-items-remain-unaffected
-candidate filter: collected=2
-to write: 2 Karur district candidates (max 2 stories)
-round: top 2 of 2 candidates
-candidates waiting: 2 Karur; time left 79 min
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/ration-rice-s
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  replacement character (broken text)
+images made: 2 for 'Karur block farmers invited to insure pa'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-0538","first":"RN-37"}
+ok anthropic/claude-haiku-5-5
 posting job started at once
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min
-filed: 2 Karur district stories (target 2), reels only
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+writing [N]: கந்த சஷ்டி நான்காம் நாள் விழாவில் உற்சவர் ஊர்வலம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+image match: True The photo shows a resident carrying a bucket toward an open ground, which aligns with the news story about being forced 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 56 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Damaged public toilet in Puliyur overgro'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-0538","first":"RN-38"}
+real photo: vision check resting (free quota busy)
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 56 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Karur statistics sub-ordinate officers w'
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 52 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-0539","first":"RN-39"}
+ok anthropic/claude-haiku-5-5
+real photo: vision check resting (free quota busy)
+image match: False The image is an AI-generated illustration depicting a generic temple procession, not an actual photo of the Karur Kalyan
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Karur Kalyana Pasupatheeswarar temple ho'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261115-0539","first":"RN-40"}
+earlier stories still waiting for images: []
+instagram check: 36 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/utsav-procession-on-the-fourth-day-of-kanda-shashthi/4375807
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/statistical-subordinate-officer-working-with-demand-card/4375809
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/public-suffers-as-toilet-inoperable-condition/4375810
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/call-to-farmers-to-insure-paddy-crop-karur-nov-14/4375811
+candidate filter: collected=4
+to write: 4 Karur district candidates (max 4 stories)
+round: top 4 of 4 candidates
+candidates waiting: 4 Karur; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+posting job started at once
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min
+filed: 4 Karur district stories (target 4), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":2,"updated":0} 
-stories: 2
+All News sheet: {"ok":true,"added":4,"updated":0} 
+stories: 4
