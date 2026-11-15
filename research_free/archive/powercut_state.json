@@ -822,10 +822,6 @@
   }
  },
  "refused": {
-  "C09f4596": {
-   "why": "not filed: stale: says 'today' but was published 12 Nov",
-   "at": "2026-11-13T16:58:59.770594+05:30"
-  },
   "Ce80df05": {
    "why": "not filed: duplicate after write",
    "at": "2026-11-13T18:58:02.944641+05:30"
