@@ -12,7 +12,8 @@
    "score": 2.0,
    "power_cut": false,
    "listed_at": "2026-11-16T16:15:30.861212+05:30",
-   "picked_at": "2026-11-16T22:44:40.395147+05:30"
+   "picked_at": "2026-11-16T22:44:40.395147+05:30",
+   "posted": true
   },
   "C87bc278": {
    "id": "C87bc278",
@@ -25,7 +26,8 @@
    "score": 3.69,
    "power_cut": false,
    "listed_at": "2026-11-16T22:42:36.938102+05:30",
-   "picked_at": "2026-11-16T22:44:40.395143+05:30"
+   "picked_at": "2026-11-16T22:44:40.395143+05:30",
+   "refused": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
   },
   "Cdec302d": {
    "id": "Cdec302d",
@@ -38,7 +40,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-16T22:42:36.938102+05:30",
-   "picked_at": "2026-11-16T22:44:40.395146+05:30"
+   "picked_at": "2026-11-16T22:44:40.395146+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -748,7 +751,10 @@
     "C120b0a2",
     "C87bc278",
     "Cdec302d"
-   ]
+   ],
+   "refused": {
+    "C87bc278": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
+   }
   }
  },
  "retry": {
