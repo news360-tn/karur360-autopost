@@ -37,7 +37,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30"
+   "listed_at": "2026-11-15T09:58:14.890671+05:30",
+   "picked_at": "2026-11-16T05:48:50.143864+05:30"
   },
   "Cfc1f4e2": {
    "id": "Cfc1f4e2",
@@ -49,7 +50,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30"
+   "listed_at": "2026-11-15T09:58:14.890671+05:30",
+   "picked_at": "2026-11-16T05:48:50.143866+05:30"
   },
   "C99f5e72": {
    "id": "C99f5e72",
@@ -750,8 +752,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-16T06:48:00.881596+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 2 by insights",
+    "ids": [
+     "Cf2edb7c",
+     "Cfc1f4e2"
+    ],
+    "at": "2026-11-16T05:48:50.143854+05:30"
+   },
+   "written": [
+    "Cf2edb7c",
+    "Cfc1f4e2"
+   ]
   }
  },
  "retry": {
