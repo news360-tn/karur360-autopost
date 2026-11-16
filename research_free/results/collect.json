@@ -3,19 +3,18 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://pukaarpetti.dailythanthi.com/road/news-68608",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/thulasi-evening-sale-begins-in-the-month-of-karthigai/4376673",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-worship-on-the-occasion-of-sashti-at-karuppathur-murugan-temple/4376660",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-collector-meets-industries-minister/4376668",
   "candidate filter: collected=2",
   "to write: 2 Karur district candidates (max 2 stories)",
   "round: top 2 of 2 candidates",
   "candidates waiting: 2 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/road/news-68608",
-  "real photo from the source (Dinamalar) for 'Tulsi garland and Sabarimala puja items '",
-  "auto images: 1 of 1 stories ({})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
   "filed: 2 Karur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
@@ -25,166 +24,157 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (24s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (6s)",
+  "ok gemini/gemini-3.6-flash (25s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (43s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூரில் கார்த்திகை மாதத்தை முன்னிட்டு துளசி மாலை விற்பனை விறுவிறுப்பு",
-   "english_headline": "Tulsi garland and Sabarimala puja items sales pick up in Karur ahead of Karthigai month",
-   "category": "Business & Prices",
-   "location": "Jawahar Bazaar, Karur city, Karur district",
+   "tamil_headline": "கிருஷ்ணராயபுரம், கருப்பத்தூரில் கந்த சஷ்டி சிறப்பு வழிபாடு: மயில் வாகனத்தில் சுவாமி திருவீதி உலா",
+   "english_headline": "Kanda Sashti special worship in Krishnarayapuram and Karuppathur; peacock vehicle procession held",
+   "category": "Temples & Events",
+   "location": "Karuppathur and Krishnarayapuram, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விற்பனை",
-    "loc": "ஜவஹர் பஜார், கரூர்",
-    "hl1": "கரூரில் துளசி மாலை விற்பனை விறுவிறுப்பு",
-    "hl2": "மாலைகள் ₹80 முதல் ₹500 வரை",
+    "cat": "கோவில் விழா",
+    "loc": "கருப்பத்தூர், கிருஷ்ணராயபுரம்",
+    "hl1": "கருப்பத்தூரில் கந்த சஷ்டி சிறப்பு உலா",
+    "hl2": "மயில் வாகனத்தில் சுவாமி உலா",
     "slides": [
      {
-      "title": "கார்த்திகை விரதம்",
+      "title": "பாலதண்டாயுதபாணி",
       "lines": [
-       "வரும் <b>17ஆம் தேதி</b> கார்த்திகை மாதம் தொடங்குகிறது",
-       "சபரிமலை மண்டல பூஜைக்காக நடை திறக்கப்பட்டுள்ளது",
-       "பக்தர்கள் <b>48 நாட்கள்</b> விரதம் இருந்து மாலை அணிவர்"
+       "கிருஷ்ணராயபுரம் முருகன் கோவிலில் <b>கந்த சஷ்டி</b> வழிபாடு",
+       "5ஆம் நாள் விழாவில் காவிரி நீரால் சிறப்பு அபிஷேகம்",
+       "சுற்றுவட்டார பக்தர்கள் திரளாகப் பங்கேற்பு"
       ]
      },
      {
-      "title": "எங்கு விற்பனை?",
+      "title": "கருப்பத்தூர் சிவன்",
       "lines": [
-       "கரூர் ஜவஹர் பஜார் பகுதி",
-       "பசுபதீஸ்வரர் கோவில் வளாகக் கடைகள்",
-       "நேற்று மாலை மற்றும் பூஜை பொருட்கள் விற்பனை தீவிரம்"
+       "சிம்மபுரீஸ்வரர் கோவில் முருகனுக்குச் சிறப்பு அபிஷேகம்",
+       "காலை <b>9 மணி</b>க்கு உற்சவருக்கு அபிஷேகம் நடந்தது",
+       "மாலை <b>மயில் வாகனத்தில்</b> திருவீதி உலா"
       ]
      },
      {
-      "title": "விலை விவரம்",
+      "title": "பிரசாத விநியோகம்",
       "lines": [
-       "துளசி, ருத்ராட்ச, ஸ்படிக மாலைகள் <b>ரூ.80 - ரூ.500</b>",
-       "கருப்பு, காவி, பச்சை வேட்டிகள் <b>ரூ.300</b>",
-       "பக்தர்கள் ஆர்வத்துடன் வாங்கிச் செல்கின்றனர்"
+       "லாலாப்பேட்டை, கருப்பத்தூர் மக்கள் பங்கேற்பு",
+       "பக்தர்களுக்கு <b>அன்னதானம்</b> வழங்கப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் கார்த்திகை மாதத்தை முன்னிட்டு துளசி மாலை விற்பனை விறுவிறுப்பாக நடைபெற்று வருகிறது. வரும் 17ஆம் தேதி கார்த்திகை மாதம் தொடங்க உள்ளது. கேரளா மாநிலம் சபரிமலையில் மகர விளக்கு மற்றும் மண்டல பூஜைக்காக நடை திறக்கப்பட்டுள்ளது. இதை முன்னிட்டு 48 நாட்கள் விரதம் இருந்து சபரிமலைக்கு செல்லும் பக்தர்கள் மாலை அணிவது வழக்கம். இதனால் கரூர் ஜவஹர் பஜார் மற்றும் பசுபதீஸ்வரர் கோவில் வளாகக் கடைகளில் நேற்றைய தினம் பூஜை பொருட்கள் விற்பனை தீவிரமாக நடந்தது. இதில் துளசி மாலை, ருத்ராட்ச மாலை மற்றும் ஸ்படிக மாலை ஆகியவை விற்பனை செய்யப்பட்டன. மாலை வகைகள் ரூ.80 முதல் ரூ.500 வரை விற்றன. மேலும் கருப்பு, காவி மற்றும் பச்சை நிற வேட்டிகள் ரூ.300-க்கு விற்பனையாகின. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛍️ கரூரில் கார்த்திகை மாதத்தை முன்னிட்டு துளசி மாலை விற்பனை விறுவிறுப்பு\n\n📰 முழு விவரம்:\nவரும் 17ஆம் தேதி கார்த்திகை மாதம் தொடங்க உள்ள நிலையில், கேரளா சபரிமலையில் மகர விளக்கு மற்றும் மண்டல பூஜைக்காக நடை திறக்கப்பட்டுள்ளது. 48 நாட்கள் விரதம் இருந்து சபரிமலை செல்லும் பக்தர்கள் மாலை அணிவதற்காக கரூர் ஜவஹர் பஜார் மற்றும் பசுபதீஸ்வரர் கோவில் வளாகக் கடைகளில் மாலைகள் மற்றும் பூஜை பொருட்கள் விற்பனை விறுவிறுப்பாக நடைபெற்று வருகிறது.\n\n📍 இடம்: ஜவஹர் பஜார், கரூர்\n🗓️ நாள்: 17 நவம்பர் முதல் கார்த்திகை மாதம் துவக்கம்\n💰 விலை: துளசி, ருத்ராட்ச, ஸ்படிக மாலைகள் ரூ.80 முதல் ரூ.500 வரை; வேட்டிகள் ரூ.300\n\nசபரிமலை செல்லும் பக்தர்களுக்கு Share செய்யுங்கள் 👍\n\nSabarimala season garland sales start in Karur Jawahar Bazaar | Karur news\n📍 Jawahar Bazaar, Karur | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #JawaharBazaar",
-   "prompts": "A shopkeeper in a cotton shirt displays a variety of religious garlands to male customers in Jawahar Bazaar, Karur. The scene is set in a narrow, busy commercial street lined with small shops typical of the city look. Dozens of Tulsi and Rudraksha garlands hang from the shop's ceiling and wooden rafters, creating a dense curtain of brown and green beads. Several men in shirts and trousers are seen from behind, browsing the items. Stacks of folded veshtis in distinct black, saffron, and green colors are piled neatly on the wooden shop counters. The bright daylight of a clear morning illuminates the vibrant colors of the fabrics and the textures of the wooden beads. The camera is at eye level, using a 35mm lens to capture the bustling retail activity and the specific religious merchandise. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on a display table at a shop near the Pasupatheeswarar Temple gopuram in Karur, showcasing Sabarimala pilgrimage essentials. The frame is filled with the intricate textures of Rudraksha beads, green Tulsi garlands, and clear Spatika crystal malas laid out on a clean surface. Next to the garlands, several neatly folded cotton veshtis in deep black, bright saffron, and forest green are stacked, representing the traditional colors worn by devotees. In the background, the blurred figures of customers seen from behind walk past the shop. The natural daylight highlights the natural variations in the beads and the crisp folds of the new cloth. The camera is positioned at a slightly high angle, providing a detailed view of the seized goods-like arrangement of the items, emphasizing the variety and volume of the seasonal stock. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/thulasi-evening-sale-begins-in-the-month-of-karthigai/4376673",
-   "published": "2026-11-15T07:03:00+05:30",
+   "reel_script": "கிருஷ்ணராயபுரம் அருகே கருப்பத்தூரில் கந்த சஷ்டியை முன்னிட்டு சுவாமி வீதி உலா நடைபெற்றது. கிருஷ்ணராயபுரம் பாலதண்டாயுதபாணி முருகன் கோவிலில் கந்த சஷ்டி சிறப்பு வழிபாடு நடைபெற்று வருகிறது. 5ஆம் நாள் விழாவில் முருகனுக்கு பால், தயிர், இளநீர், மஞ்சள், சந்தனம், பன்னீர் மற்றும் காவிரி புனிதநீரால் அபிஷேகம் செய்யப்பட்டது. தொடர்ந்து மலர் மாலைகள் அணிவிக்கப்பட்டு தீபாராதனை நடைபெற்றது. இதில் கிருஷ்ணராயபுரம் சுற்றுவட்டார மக்கள் கலந்துகொண்டனர். பக்தர்கள் அனைவருக்கும் பிரசாதம் வழங்கப்பட்டது. அதேபோல கருப்பத்தூர் சிம்மபுரீஸ்வரர் சிவன் கோவிலில் உள்ள முருகனுக்குச் சிறப்பு வழிபாடு நடைபெற்றது. காலை 9 மணிக்கு உற்சவர் முருகனுக்குச் சிறப்பு அபிஷேகம் செய்யப்பட்டது. மாலையில் சிறப்பு அலங்காரத்துடன் மயில் வாகனத்தில் திருவீதி உலா நடைபெற்றது. இந்த விழாவில் லாலாப்பேட்டை, கருப்பத்தூர் பகுதிகளைச் சேர்ந்த பக்தர்கள் திரளாகக் கலந்துகொண்டனர். கலந்துகொண்ட பக்தர்கள் அனைவருக்கும் அன்னதானம் வழங்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 கிருஷ்ணராயபுரம், கருப்பத்தூரில் கந்த சஷ்டி சிறப்பு வழிபாடு: மயில் வாகனத்தில் சுவாமி வீதி உலா\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் பாலதண்டாயுதபாணி முருகன் கோவிலில் கந்த சஷ்டி திருவிழாவை முன்னிட்டு சிறப்பு வழிபாடு நடைபெற்று வருகிறது. 5ஆம் நாள் விழாவை முன்னிட்டு முருகனுக்கு பால், தயிர், இளநீர், மஞ்சள், சந்தனம், பன்னீர் மற்றும் காவிரி புனிதநீரால் சிறப்பு அபிஷேகம் செய்யப்பட்டு தீபாராதனை காட்டப்பட்டது. பக்தர்கள் அனைவருக்கும் பிரசாதம் வழங்கப்பட்டது.\nஅதேபோல கருப்பத்தூர் சிம்மபுரீஸ்வரர் சிவன் கோவிலில் உள்ள முருகனுக்கு கந்த சஷ்டி சிறப்பு வழிபாடு நடந்தது. காலை 9 மணிக்கு உற்சவர் முருகனுக்குச் சிறப்பு அபிஷேகம் செய்யப்பட்டது. மாலையில் சிறப்பு அலங்காரத்தில் மயில் வாகனத்தில் சுவாமி திருவீதி உலா நடைபெற்றது. லாலாப்பேட்டை, கருப்பத்தூர் சுற்றுவட்டாரப் பகுதியைச் சேர்ந்த பொதுமக்கள் திரளாகக் கலந்துகொண்டனர்.\n\n📍 இடம்: பாலதண்டாயுதபாணி கோவில் (கிருஷ்ணராயபுரம்), சிம்மபுரீஸ்வரர் கோவில் (கருப்பத்தூர்)\n🗓️ நாள்: 14 நவம்பர் 2026 (கந்த சஷ்டி 5ஆம் நாள்)\n🕘 நேரம்: காலை 9 மணி அபிஷேகம், மாலையில் வீதி உலா\n🍲 சிறப்பு: பக்தர்களுக்கு அன்னதானம் மற்றும் பிரசாதம் வழங்கப்பட்டது\n\nபக்தி அன்பர்களுக்கு இந்தச் செய்தியை Share செய்யுங்கள்.\n\nKaruppathur Krishnarayapuram Murugan Temple Kanda Sashti festival | Karur news\n📍 கருப்பத்தூர், கிருஷ்ணராயபுரம், கரூர் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Krishnarayapuram #Karur #KarurNews #கரூர்",
+   "prompts": "A peacock‑shaped vehicle adorned with bright flower garlands and oil lamps leads a festive procession along the temple courtyard, its vivid colours drawing the eye as devotees line the sides. The scene is set in the open courtyard of Simmapureeswarar Shiva temple in Karuppathur, a typical South Indian temple with stone walls, a towering gopuram in the background and a tiled floor. From behind, groups of devotees in white sarees and veshti walk in orderly rows, some holding water pots, while priests in dhoti stand near the vehicle, their heads bowed in reverence. The peacock vehicle itself dominates the frame, its sculpted peacock body painted in blue‑green, topped with a small Murugan idol, surrounded by flower strings and flickering lamps. The event occurs in the afternoon under bright daylight, weather not mentioned. Shot at eye level with a 35 mm lens, the composition is wide enough to capture the temple courtyard, the procession and the crowd together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view captures the decorative details of the peacock‑shaped vehicle used in the Karuppathur procession. The focus is on the vehicle’s front, where a golden peacock figure with outstretched feathers is embellished with fresh marigold garlands and small oil lamps that cast a warm glow. A miniature Murugan idol sits atop the peacock’s head, surrounded by a halo of sandalwood paste and turmeric powder. The background shows the tiled courtyard of Simmapureeswarar Shiva temple, with the stone wall and a hint of the temple’s gopuram blurred out. The scene is set in the same afternoon, under clear daylight, with no visible faces. Captured from a slightly elevated angle using a 35 mm lens, the frame is tight enough to highlight the vehicle’s ornaments while still indicating the temple setting. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-worship-on-the-occasion-of-sashti-at-karuppathur-murugan-temple/4376660",
+   "published": "2026-11-15T06:53:00+05:30",
    "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
    "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794785527/karur360/mf5wijbozvnmwidjrjrg.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794785528/karur360/bvnosgd2hu4v65pzwu99.jpg"
-   ],
-   "real_photo": "Dinamalar"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794788483/karur360/cepv0aclmjsqmbecqcnb.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794788496/karur360/oozeoplda2xthdn9lqlv.jpg"
+   ]
   },
   {
-   "tamil_headline": "கரூர் தோரணக்கல்பட்டியில் கிடப்பில் கிடந்த தார் சாலைப் பணி புகார் பெட்டிச் செய்திக்குப் பின் விரைந்து முடிப்பு",
-   "english_headline": "Torankalpatti road work, stalled, finished quickly after Dinathanthi complaint box report; villagers thank officials",
-   "category": "Roads & Transport",
-   "location": "Muthukaundanpudur, Torankalpatti, Karur district",
+   "tamil_headline": "கரூர் கலெக்டர் தொழில் அமைச்சரை சந்தித்தார்",
+   "english_headline": "Karur Collector meets Industries Minister",
+   "category": "Government & Services",
+   "location": "Pugalur, Karur district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை பணி",
-    "loc": "தோரணக்கல்பட்டி, கரூர்",
-    "hl1": "தோரணக்கல்பட்டியில் சாலை பணி விரைவு",
-    "hl2": "புகார்",
+    "cat": "அரசு அறிவிப்பு",
+    "loc": "புகழூர், கரூர்",
+    "hl1": "கரூர் கலெக்டர் அமைச்சரை சந்தித்தார்",
+    "hl2": "புகழூர் காகித ஆலை",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "சந்திப்பு விவரம்",
       "lines": [
-       "தோரணக்கல்பட்டி முத்துகவுண்டன்புதூரில் சேதமடைந்த தார் சாலை",
-       "பொதுமக்கள் புதுப்பிக்கக் கோரிக்கை விடுத்தனர்",
-       "சாலை பணி தொடங்கி கிடப்பில் போடப்பட்டது"
+       "கரூர் கலெக்டர் <b>பிரசன்னா ராமசாமி</b> சந்தித்தார்",
+       "தமிழக தொழில் துறை அமைச்சர் <b>கீர்த்தனா</b>",
+       "புகழூர் காகித ஆலை விருந்தினர் மாளிகையில்"
       ]
      },
      {
-      "title": "அதிகாரிகள்",
+      "title": "நேரம் மற்றும் இடம்",
       "lines": [
-       "தினத்தந்தி புகார் பெட்டியில் செய்தி வெளியானது",
-       "சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுத்தனர்",
-       "சாலைப் பணிகள் விரைந்து முடிக்கப்பட்டன"
+       "நேற்று முன்தினம் இரவு அமைச்சர் வந்தார்",
+       "நேற்று காலை கலெக்டர் சந்தித்தார்",
+       "பூங்கொத்து வழங்கி மரியாதை செலுத்தினார்"
       ]
      },
      {
-      "title": "மக்கள் நன்றி",
+      "title": "மற்றவர்கள்",
       "lines": [
-       "நடவடிக்கை எடுத்த அதிகாரிகளுக்கு நன்றி",
-       "செய்தி வெளியிட்ட புகார் பெட்டிக்கும் நன்றி",
-       "அப்பகுதி மக்கள் நன்றி தெரிவித்தனர்"
+       "மாவட்ட அரசு துறை அதிகாரிகள் உடனிருந்தனர்",
+       "கரூர் மாவட்டம் முக்கிய சந்திப்பு",
+       "தொழில் வளர்ச்சி தொடர்பான பேச்சு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் மாவட்டம் தோரணக்கல்பட்டி முத்துகவுண்டன்புதூரில் கிடப்பில் கிடந்த தார் சாலைப் பணி விரைந்து முடிக்கப்பட்டுள்ளது. சேதமடைந்த தார் சாலையைப் புதுப்பிக்க வேண்டும் என்று பொதுமக்கள் கோரிக்கை விடுத்திருந்தனர். சாலை அமைக்கும் பணி தொடங்கப்பட்டு, பின்னர் கிடப்பில் போடப்பட்டது. இது குறித்து தினத்தந்தி புகார் பெட்டியில் செய்தி வெளியானதைத் தொடர்ந்து, சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுத்தனர். சாலைப் பணிகள் விரைந்து முடிக்கப்பட்டன. நடவடிக்கை எடுத்த அதிகாரிகளுக்கும், செய்தி வெளியிட்ட புகார் பெட்டிக்கும் அப்பகுதி மக்கள் நன்றி தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛣️ தோரணக்கல்பட்டியில் கிடப்பில் கிடந்த தார் சாலைப் பணி விரைந்து முடிப்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், தோரணக்கல்பட்டி முத்துகவுண்டன்புதூர் பகுதியில் சேதமடைந்த தார் சாலையைப் புதுப்பிக்க வேண்டும் என்று பொதுமக்கள் கோரிக்கை விடுத்திருந்தனர். இதையடுத்து சாலை அமைக்கும் பணி தொடங்கப்பட்டு, பின்னர் கிடப்பில் போடப்பட்டது. இது குறித்து தினத்தந்தி புகார் பெட்டியில் செய்தி வெளியானதைத் தொடர்ந்து, சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுத்து சாலைப் பணிகளை விரைந்து முடித்தனர். இதற்கு நடவடிக்கை எடுத்த அதிகாரிகளுக்கும், செய்தி வெளியிட்ட புகார் பெட்டிக்கும் அப்பகுதி மக்கள் நன்றி தெரிவித்தனர்.\n📍 இடம்: முத்துகவுண்டன்புதூர், தோரணக்கல்பட்டி, கரூர் மாவட்டம்\n\nTorankalpatti road work finished after complaint | Karur news\n📍 தோரணக்கல்பட்டி, கரூர் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A road roller smooths fresh black tar on a village road in Muthukaundanpudur, Torankalpatti, Karur district, as road workers in shirts and lungis spread the new surface and a few villagers stand at the roadside watching from a distance. The road is a narrow rural tar road running between green paddy fields and scattered village houses with tiled and concrete roofs, with a few banana plants visible at the edges. Villagers, mostly men in shirts and veshti and women in cotton sarees, stand at the roadside, seen from behind or far away, some with hands folded in appreciation. A cracked and worn stretch of old road is visible just behind the new section. It is bright daylight, the tar surface shines with wet heat, and the sky is clear. Camera at eye level, 35 mm, wide enough to show the whole road, the rollers, the workers and the fields. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/road/news-68608",
-   "published": "2026-11-15T20:35:42+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: தினத்தந்தி, dinathanthi",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூர் கலெக்டர் தொழில் அமைச்சரை சந்தித்தார். தமிழக தொழில் துறை அமைச்சர் கீர்த்தனா நேற்று முன்தினம் இரவு வந்தார். கரூர் அருகே உள்ள புகழூர் காகித ஆலை விருந்தினர் மாளிகையில் தங்கினார். நேற்று கரூர் மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி அவரை சந்தித்தார். கலெக்டர் பூங்கொத்தை வழங்கி மரியாதை செலுத்தினார். இருவரும் மரியாதை நிமித்தமாக பேசினர். அப்போது கரூர் மாவட்ட அரசு துறை அதிகாரிகள் உடனிருந்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ கரூர் கலெக்டர் பிரசன்னா ராமசாமி தொழில் அமைச்சர் கீர்த்தனாவை சந்தித்தார்\n\n📰 முழு விவரம்:\nதமிழக தொழில் துறை அமைச்சர் கீர்த்தனா நேற்று முன்தினம் இரவு கரூர் அருகே உள்ள புகழூர் காகித ஆலை (டி.என்.பி.எல்.) விருந்தினர் மாளிகைக்கு வந்து தங்கினார். நேற்று கரூர் மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி அவரை பூங்கொத்து வழங்கி மரியாதை நிமித்தமாக சந்தித்து பேசினார். அப்போது கரூர் மாவட்ட அரசு துறை அதிகாரிகள் உடனிருந்தனர்.\n\n📍 இடம்: புகழூர் காகித ஆலை, கரூர்\n🗓️ நாள்: நேற்று\n👮 நடவடிக்கை: கலெக்டர் பூங்கொத்து வழங்கி மரியாதை செலுத்தினார்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nKarur Collector meets Industries Minister | Karur news\n📍 Pugalur, Karur | 15 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Karur360 #Karur #Pugalur #KarurNews #கரூர்",
+   "prompts": "A district Collector in a formal saree or shirt hands a large bouquet of flowers to a visiting state minister at the entrance of a government guest house in Pugalur, Karur district, Tamil Nadu. Behind them, a few government department officials in formal shirts and trousers stand in a neat line near the doorway. The setting is the reception porch of a guest house inside a paper mill campus, with green lawns, tall trees and a low brick compound wall visible in the background. The meeting happens in daylight, with soft natural light falling across the scene. Two people are seen from behind or in profile, their faces turned away or softly blurred, and no text or signboards are visible. Camera: eye level, 35 mm, wide enough to show the guest house entrance and the group, slightly high angle. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a fresh bouquet of flowers, mainly red and white blooms wrapped in cellophane with a green ribbon, held in two hands in the foreground at a formal reception table inside a government guest house in Pugalur, Karur district. Blurred in the background are officials in formal shirts and sarees seated or standing around a polished wooden table, with a potted plant and a plain white wall behind. Daylight comes through a window, giving a soft, warm tone. No faces are shown clearly, no text or logos are visible. Camera: close-up at a shallow depth of field, 50 mm, focused on the flowers and hands. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-collector-meets-industries-minister/4376668",
+   "published": "2026-11-15T06:58:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794785652/karur360/vzafaplvuqmkpafwe71x.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794788504/karur360/je0nkv8pcfhxtyx4kceh.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794788508/karur360/pzaka0nst0wbhmmjsjvs.jpg"
    ]
   }
  ]
