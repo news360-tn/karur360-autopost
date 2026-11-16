@@ -1,90 +1,6 @@
 {
- "last_end": "2026-11-16T18:31:20.842928+05:30",
+ "last_end": "2026-11-16T22:42:36.938102+05:30",
  "pool": {
-  "C99f5e72": {
-   "id": "C99f5e72",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-news/father-son-killed-as-truck-rams-into-truck/4377013",
-   "title": "கன்டெய்னர் லாரி மோதி தந்தை, மகன் பரிதாப பலி",
-   "summary": "திருச்சி: சமயபுரம் அருகே, பைக் மீது கன்டெய்னர் லாரி மோதிய விபத்தில், ராஜலிங்கம், 50, அவரது மகன் மகேந்திரன், 30, இருவரும் பலியாகினர். கரூர் மாவட்டம், நச்சலுாரைச் சேர்ந்தவர் விவசாயி ராஜலிங்கம்.",
-   "source": "தினமலர்",
-   "published": "2026-11-15T18:48:02+05:30",
-   "category": "விபத்து",
-   "score": 10.11,
-   "power_cut": false,
-   "listed_at": "2026-11-15T21:31:36.572319+05:30",
-   "picked_at": "2026-11-15T21:35:05.224106+05:30",
-   "refused": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
-  },
-  "C9448eb5": {
-   "id": "C9448eb5",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurais-birthday-celebration-marathon-competition/4377469",
-   "title": "அண்ணாதுரை பிறந்த நாள் விழா: மாரத்தான் போட்டி",
-   "summary": "கரூர்:முன்னாள் முதல்வர் அண்ணாதுரை பிறந்த நாளையொட்டி, நேற்று மாரத்தான் போட்டி நடந்தது. கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் இருந்து தொடங்கிய, மாரத்தான் போட்டியை, கலெக்டர் பிரசன்னா ராமசாமி தொடங்கி வைத்தார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-16T07:12:00+05:30",
-   "category": "பொது",
-   "score": 5.0,
-   "power_cut": false,
-   "listed_at": "2026-11-16T16:15:30.861212+05:30",
-   "picked_at": "2026-11-16T18:32:10.764249+05:30",
-   "posted": true
-  },
-  "Cebafcf8": {
-   "id": "Cebafcf8",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-auction-in-lalapet/4377472",
-   "title": "லாலாப்பேட்டையில் வாழைத்தார் ஏலம்",
-   "summary": "கிருஷ்ணராயபுரம்:கிருஷ்ணராயபுரம், கருப்பத்துார், கள்ளப்பள்ளி, வீரவள்ளி, நந்தன்கோட்டை, வீரகுமாரன்பட்டி, மகாதானபுரம், பொய்கைப்புத்துார் ஆகிய பகுதிகளில், வாழை சாகுபடி அதிகளவில் நடக்கிறது.",
-   "source": "தினமலர்",
-   "published": "2026-11-16T07:13:00+05:30",
-   "category": "பொது",
-   "score": 5.0,
-   "power_cut": false,
-   "listed_at": "2026-11-16T16:15:30.861212+05:30",
-   "picked_at": "2026-11-16T18:32:10.764230+05:30",
-   "posted": true
-  },
-  "C3d590bd": {
-   "id": "C3d590bd",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fish-sale-on-the-rise-in-mayanur/4377471",
-   "title": "மாயனூர் கதவணையில் மீன் விற்பனை ஜோர்",
-   "summary": "கிருஷ்ணராயபுரம்:கிருஷ்ணராயபுரம் அடுத்த மாயனுார் காவிரி ஆற்றின் குறுக்கே கதவணை கட்டப்பட்டுள்ளது. இந்த கதவணையில் சேமிக்கப்படும் நீரில், மீன்கள் வளர்க்கப்படுகின்றன.",
-   "source": "தினமலர்",
-   "published": "2026-11-16T07:13:00+05:30",
-   "category": "பொது",
-   "score": 5.0,
-   "power_cut": false,
-   "listed_at": "2026-11-16T16:15:30.861212+05:30",
-   "picked_at": "2026-11-16T18:32:10.764243+05:30",
-   "posted": true
-  },
-  "C6fbb4a2": {
-   "id": "C6fbb4a2",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/serious-health-hazards-caused-by-poultry/4377477",
-   "title": "கோழிக்கழிவுகளால் கடும் சுகாதார சீர்கேடு",
-   "summary": "அரவக்குறிச்சி:கரூர் மாவட்டம், தென்னிலை தென்பாகம், செஞ்சேரிவலசு காலனி பகுதியில், கடந்த சில மாதங்களாக சட்டவிரோதமாக கோழிக்கழிவுகள் சாலை ஓரங்களிலும், பொது இடங்களிலும் கொட்டப்படுவதாக பொதுமக்கள் குற்றம் சாட்டியுள்ளனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-16T07:16:00+05:30",
-   "category": "பொது",
-   "score": 3.97,
-   "power_cut": false,
-   "listed_at": "2026-11-16T16:15:30.861212+05:30",
-   "picked_at": "2026-11-16T18:32:10.764253+05:30",
-   "posted": true
-  },
-  "C498bee7": {
-   "id": "C498bee7",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/illegal-activities-on-the-rise-in-unmaintained-damaged-park/4377468",
-   "title": "பராமரிப்பின்றி சேதமடைந்த பூங்கா சட்டவிரோத செயல்கள் அதிகரிப்பு",
-   "summary": "கரூர்:கரூர் அருகே, புதிதாக திறக்கப்பட்ட பூங்கா பராமரிப்பு இல்லாமல் உள்ளதால், பூங்காவில் இரவு நேரத்தில் சட்ட விரோத செயல்கள் நடக்கின்றன. கரூர் மாவட்டம், ஆண்டாங்கோவில் கிழக்கு பஞ்., பெரிய ஆண்டாங்கோவிலில், கடந்த, அ.தி.மு....",
-   "source": "தினமலர்",
-   "published": "2026-11-16T07:11:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-16T16:15:30.861212+05:30",
-   "picked_at": "2026-11-16T18:32:10.764256+05:30",
-   "posted": true
-  },
   "C120b0a2": {
    "id": "C120b0a2",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4377475",
@@ -96,57 +12,33 @@
    "score": 2.0,
    "power_cut": false,
    "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C87bc278": {
+   "id": "C87bc278",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-news/avian-influenza-in-17-poultry-farms-minister-kamali/4378133",
+   "title": "17 கோழிப்பண்ணையில் பறவைக்காய்ச்சல்: அமைச்சர் கமலி தகவல்",
+   "summary": "-–நமது நிருபர்–: ‘‘கடலுார் மாவட்டத்தில், 17 கோழிப்பண்ணைகளில் பறவைக்காய்ச்சல் கண்டறியப்பட்டு, அங்கிருந்த கோழிகள் அனைத்தும் பாதுகாப்பாக அழிக்கப்பட்டுவிட்டன,’’ என, கால்நடைத்துறை அமைச்சர் கமலி தெரிவித்தார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T21:08:02+05:30",
+   "category": "பொது",
+   "score": 3.69,
+   "power_cut": false,
+   "listed_at": "2026-11-16T22:42:36.938102+05:30"
+  },
+  "Cdec302d": {
+   "id": "Cdec302d",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-news/district-secretaries-are-not-the-seat-of-the-officers/4378134",
+   "title": "மா.செ.,க்கு இருக்கை: அதிகாரிகளுக்கு இல்லை",
+   "summary": "கரூர் கொளந்தாகவுண்டனுாரில் உள்ள கால்நடை மண்டல இணை இயக்குனர் அலுவலக வளாகத்தில், கால்நடை மருத்துவமனையை, அமைச்சர் கமலி ஆய்வு செய்து, நிருபர்களுக்கு பேட்டியளித்தார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T21:41:02+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T22:42:36.938102+05:30"
   }
  },
  "rounds": {
-  "2026-11-13_10": {
-   "window": [
-    "2026-11-13T07:06:18.945206+05:30",
-    "2026-11-13T10:59:15.715071+05:30"
-   ],
-   "ids": [
-    "C9383a66",
-    "C6b3b045",
-    "C548f10a",
-    "C578afc6",
-    "C8be88ca",
-    "Ce80df05",
-    "C1f54667",
-    "C84c04f7",
-    "Cc38adf9",
-    "C104550f",
-    "Ccf0c8cf",
-    "Ccd3585f",
-    "C20cfed4",
-    "Ccaf22b4",
-    "Cc4525e0",
-    "C12d84c5",
-    "Cd5bb6b8",
-    "C5d09495",
-    "Ce55e5a2"
-   ],
-   "sent": false,
-   "deadline": "2026-11-13T11:59:15.715071+05:30",
-   "decided": {
-    "how": "no submit by 11:59 AM - automatic top 4",
-    "ids": [
-     "C9383a66",
-     "C6b3b045",
-     "C548f10a",
-     "C578afc6"
-    ],
-    "at": "2026-11-13T10:59:55.523753+05:30"
-   },
-   "written": [
-    "C548f10a",
-    "C578afc6",
-    "C6b3b045",
-    "C9383a66"
-   ],
-   "refused": {
-    "C9383a66": "not filed: duplicate after write"
-   }
-  },
   "2026-11-13_17": {
    "window": [
     "2026-11-13T10:59:15.715071+05:30",
@@ -827,6 +719,21 @@
     "C9448eb5",
     "Cebafcf8"
    ]
+  },
+  "2026-11-16_22": {
+   "window": [
+    "2026-11-16T18:31:20.842928+05:30",
+    "2026-11-16T22:42:36.938102+05:30"
+   ],
+   "ids": [
+    "C87bc278",
+    "Cdec302d",
+    "C120b0a2"
+   ],
+   "sent": false,
+   "deadline": "2026-11-16T23:42:36.938102+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
