@@ -1,38 +1,33 @@
-05:48:00 round 2026-11-16_05: news published 16 Nov 04:57 -> 16 Nov 05:48 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-05:48:00 insights 2026-11-16T05:48+05:30 (49 reels): topic weights {'temple': 1.41, 'accident': 0.05, 'education': -0.13, 'poultry_agri': -0.05, 'politics': 0.38, 'civic': -0.38, 'crime': 1.5}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
-05:48:11 34 links on the two papers' Karur pages
-05:48:48 skipped: already posted=15, published before this window=8, same event already posted=4, not Karur district=2, could not open (404 Client Error: Not Found for url: https://pukaa)=1
-05:48:48 list: 0 new + 3 earlier news not posted yet
-05:48:48    1. [பொது] போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல் (தினமலர்) (earlier)
-05:48:48    2. [பொது] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு (தினமலர்) (earlier)
-05:48:48    3. [பொது] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர் (தினமலர்) (earlier)
-05:48:48 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-16_05
-05:48:50    not picked automatically (ceremony / shopping feature - only when the owner ticks it): போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல்
-05:48:50 round 2026-11-16_05 (at least 5, up to 3 more of well-watched topics): 2 news to choose from (0 from earlier rounds), ranked by this page's insights
-05:48:50   PICK   1.   0.5 [other +0.00 pattern] கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-05:48:50   PICK   2.   0.5 [other +0.00 pattern] தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்
-05:48:50 decided: automatic: top 5 of 2 by insights -> 2 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-worship-on-the-occasion-of-sashti-at-karuppathur-murugan-temple/4376660 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-collector-meets-industries-minister/4376668
-05:51:54 2 listed news now in the Sheet
-05:52:04 instagram duplicate check karur: 50 recent posts read
-05:52:04 verify 2026-11-16_05: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-05:52:04    NOT POSTED Cf2edb7c: queued RN-58 (Queued) - கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-05:52:04    NOT POSTED Cfc1f4e2: queued RN-59 (Queued) - தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்
-05:57:12 instagram duplicate check karur: 50 recent posts read
-05:57:12 verify 2026-11-16_05: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-05:57:12    NOT POSTED Cf2edb7c: queued RN-58 (Queued) - கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-05:57:12    NOT POSTED Cfc1f4e2: queued RN-59 (Queued) - தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்
-06:02:18 instagram duplicate check karur: 50 recent posts read
-06:02:18 verify 2026-11-16_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:02:18    NOT POSTED Cf2edb7c: queued RN-58 (Queued) - கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-06:07:25 instagram duplicate check karur: 50 recent posts read
-06:07:25 verify 2026-11-16_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:07:25    NOT POSTED Cf2edb7c: queued RN-58 (Queued) - கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-06:12:32 instagram duplicate check karur: 50 recent posts read
-06:12:32 verify 2026-11-16_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:12:32    NOT POSTED Cf2edb7c: queued RN-58 (Queued) - கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-06:17:38 instagram duplicate check karur: 50 recent posts read
-06:17:38 verify 2026-11-16_05: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:17:38    NOT POSTED Cf2edb7c: queued RN-58 (Queued) - கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழி
-06:22:44 verify 2026-11-16_05: 2 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+16:15:30 round 2026-11-16_16: news published 16 Nov 05:48 -> 16 Nov 16:15 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+16:15:30 insights 2026-11-16T16:15+05:30 (53 reels): topic weights {'temple': 0.54, 'accident': 0.1, 'education': -0.1, 'poultry_agri': -0.03, 'politics': 0.4, 'civic': -0.36, 'crime': 1.5}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🐓 குளித்தலை அருகே சேவல் சண்டை: 4 பேர் மீது வழக்கு, 9 பைக் பறிமுதல்']
+16:23:35 from_google dinamalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google dinamani.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google dinamalar.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google dinamani.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google dinamalar.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google dinamani.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google tamil.oneindia.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google dinakaran.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google dailythanthi.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google maalaimalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google hindutamil.in 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 from_google polimernews.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:35 34 links on the two papers' Karur pages
+16:24:10 skipped: published before this window=8, same event already posted=5, already posted=4, not Karur district=2, could not open (404 Client Error: Not Found for url: https://pukaa)=1
+16:24:10 list: 14 new + 0 earlier news not posted yet
+16:24:10    1. [குற்றம்] அமராவதி ஆற்றில் மீண்டும் மணல் திருட்டு (தினமலர்)
+16:24:10    2. [பொது] வெவ்வேறு இடங்களில் 4 பேர் மாயம் (தினமலர்)
+16:24:10    3. [பொது] கொசு தொல்லை: பொதுமக்கள் பீதி (தினமலர்)
+16:24:10    4. [சாலை] நெடுஞ்சாலையில் அரளி செடிகள்: சீரமைக்க வாகன ஓட்டிகள் கோரிக்கை (தினமலர்)
+16:24:10    5. [சாலை] மகளிர் பள்ளி சாலையில் லாரிகள் வேன்கள் நிறுத்தம்: மக்கள் அவதி (தினமலர்)
+16:24:10    6. [பொது] தொழில்நுட்ப தேர்வு கலெக்டர் ஆய்வு (தினமலர்)
+16:24:10    7. [பொது] குமாரமங்கலம் ரங்கநாதர் பெருமாள் கோவிலில் மகா கும்பாபிஷேக விழா (தினமலர்)
+16:24:10    8. [பொது] மன்மாரி பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கப்படுமா (தினமலர்)
+16:24:10    9. [பொது] அண்ணாதுரை பிறந்த நாள் விழா: மாரத்தான் போட்டி (தினமலர்)
+16:24:10   10. [பொது] லாலாப்பேட்டையில் வாழைத்தார் ஏலம் (தினமலர்)
+16:24:10   11. [பொது] மாயனூர் கதவணையில் மீன் விற்பனை ஜோர் (தினமலர்)
+16:24:10   12. [பொது] கோழிக்கழிவுகளால் கடும் சுகாதார சீர்கேடு (தினமலர்)
+16:24:10   13. [பொது] பராமரிப்பின்றி சேதமடைந்த பூங்கா சட்டவிரோத செயல்கள் அதிகரிப்பு (தினமலர்)
+16:24:10   14. [பொது] இ.ஓ.,க்கள் பொறுப்பேற்பு (தினமலர்)
+16:24:10 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-16_16

@@ -1,60 +1,6 @@
 {
- "last_end": "2026-11-16T05:48:00.881596+05:30",
+ "last_end": "2026-11-16T16:15:30.861212+05:30",
  "pool": {
-  "Cf13382e": {
-   "id": "Cf13382e",
-   "url": "https://tamil.oneindia.com/news/karur/karur-man-attacks-his-wife-with-iron-rod-to-death-845439.html",
-   "title": "கஞ்சா, மது போதையில் மனைவியை இரும்பு ராடால் அடித்துக் கொன்ற கணவர்! கரூரில் பரபரப்பு!",
-   "summary": "கரூர்: கரூர் மாவட்டத்தில் குடும்பத் தகராறில் மனைவியை இரும்புக் கம்பியால் அடித்துக் கொலை செய்த கணவனை போலீஸார் தேடி வருகிறார்கள். கஞ்சா மற்றும் மது போதைக்கு அடிமையானதால் தம்பதிக்குள் அடிக்கடி குடும்பத் தகராறு ஏற்பட்டு வ...",
-   "source": "ஒன்இந்தியா",
-   "published": "2026-11-15T07:21:46+05:30",
-   "category": "குற்றம்",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-15T10:00:12.595815+05:30",
-   "refused": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
-  },
-  "Cda18b9e": {
-   "id": "Cda18b9e",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/competitive-exam-books-can-be-purchased-at-karur-library-officer/4376671",
-   "title": "போட்டி தேர்வு புத்தகங்களை கரூரிலேயே வாங்கலாம்: நூலக அலுவலர் தகவல்",
-   "summary": "கரூர்'' போட்டி தேர்வுக்கான புத்தகங்களை, கரூர் மாவட்ட மைய நுாலகத்தில் வாங்கலாம்,'' என, கரூர் மாவட்ட நுாலக அலுவலர் சிவக்குமார் தெரிவித்தார். இதுகுறித்து, அவர் மேலும் கூறியதாவது: கரூர் மாவட்ட மைய நுாலகத்தில், தமிழ்நாடு ப...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T07:00:00+05:30",
-   "category": "பொது",
-   "score": 7.68,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30"
-  },
-  "Cf2edb7c": {
-   "id": "Cf2edb7c",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-worship-on-the-occasion-of-sashti-at-karuppathur-murugan-temple/4376660",
-   "title": "கருப்பத்தூர் முருகன் கோவிலில் சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு",
-   "summary": "கிருஷ்ணராயபுரம்:கிருஷ்ணராயபுரம், பாலதண்டாயுதபாணி முருகன் கோவிலில், கந்த சஷ்டியை முன்னிட்டு சிறப்பு வழிபாடு பூஜை நடந்து வருகிறது. நேற்று ஜந்தாம் நாள் விழாவை முன்னிட்டு முருகனுக்கு பால், தயிர், இளநீர், மஞ்சள், சந்தனம், ...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:53:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-16T05:48:50.143864+05:30",
-   "posted": true
-  },
-  "Cfc1f4e2": {
-   "id": "Cfc1f4e2",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-collector-meets-industries-minister/4376668",
-   "title": "தொழில் துறை அமைச்சரை சந்தித்த கரூர் கலெக்டர்",
-   "summary": "கரூர்:புகழூர் காகித ஆலை விருந்தினர் மாளிகையில் தங்கியிருந்த, தொழில் துறை அமைச்சரை, கலெக்டர் சந்தித்தார். தமிழக தொழில் துறை அமைச்சர் கீர்த்தனா, நேற்று முன்தினம் இரவு, கரூர் அருகே உள்ள புகழூர் காகித ஆலை (டி.என்.பி.எல்.,...",
-   "source": "தினமலர்",
-   "published": "2026-11-15T06:58:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-15T09:58:14.890671+05:30",
-   "picked_at": "2026-11-16T05:48:50.143866+05:30",
-   "posted": true
-  },
   "C99f5e72": {
    "id": "C99f5e72",
    "url": "https://www.dinamalar.com/news/tamil-nadu-news/father-son-killed-as-truck-rams-into-truck/4377013",
@@ -68,6 +14,174 @@
    "listed_at": "2026-11-15T21:31:36.572319+05:30",
    "picked_at": "2026-11-15T21:35:05.224106+05:30",
    "refused": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
+  },
+  "C5be8903": {
+   "id": "C5be8903",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/another-sand-theft-in-amravati-river/4377479",
+   "title": "அமராவதி ஆற்றில் மீண்டும் மணல் திருட்டு",
+   "summary": "கரூர்:அமராவதி அணையில் இருந்து, ஆற்றில் திறந்து விடப்பட்ட தண்ணீர் நிறுத்தப்பட்டுள்ளது. இதனால், ஆற்றின் மையப்பகுதியில் மணல் திருட்டு கன ஜோராக நடக்கிறது.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:16:00+05:30",
+   "category": "குற்றம்",
+   "score": 11.5,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "Ceea3c4d": {
+   "id": "Ceea3c4d",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/4-arrested-at-different-places/4377464",
+   "title": "வெவ்வேறு இடங்களில் 4 பேர் மாயம்",
+   "summary": "குளித்தலை:குளித்தலை அடுத்த புத்துார் கிராமத்தை சேர்ந்தவர் முருகேசன், 25; பேக்கரி தொழிலாளி. இவரது மனைவி சுந்தரவல்லி, 23, ஒன்றரை மகன் புகழ்வேலன்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:09:00+05:30",
+   "category": "பொது",
+   "score": 9.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C85043a4": {
+   "id": "C85043a4",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mosquito-menace-public-panic/4377474",
+   "title": "கொசு தொல்லை: பொதுமக்கள் பீதி",
+   "summary": "கரூர்:வடகிழக்கு பருவமழை துவங்கிய நிலையில், கரூர் மாநகராட்சி பகுதிகளில் தற்போது கொசுக்கள் இனப்பெருக்கம் அதிகரித்து வருகிறது. இதனால், பொது மக்கள் துாங்க முடியாமல் அவதிப்பட்டு வருகின்றனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:14:00+05:30",
+   "category": "பொது",
+   "score": 9.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C61adc51": {
+   "id": "C61adc51",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/arali-plants-on-highway-motorists-demand-repair/4377467",
+   "title": "நெடுஞ்சாலையில் அரளி செடிகள்: சீரமைக்க வாகன ஓட்டிகள் கோரிக்கை",
+   "summary": "கரூ:கரூர் -- -சேலம் மற்றும் மதுரை தேசிய நெடுஞ்சாலையில் நடுப்பகுதியில் வளர்ந்துள்ள அரளி பூ உள்ளிட்ட செடிகளால், அடிக்கடி விபத்து ஏற்படுவதால், எதிரே வரும் வாகனங்கள் தெரியும் வகையில் செடிகளை சீரமைக்க வேண்டும் என, வாகன ஓட்...",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:10:00+05:30",
+   "category": "சாலை",
+   "score": 7.64,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "Ced04818": {
+   "id": "Ced04818",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/trucks-vans-stop-on-womens-school-road-people-suffer/4377465",
+   "title": "மகளிர் பள்ளி சாலையில் லாரிகள் வேன்கள் நிறுத்தம்: மக்கள் அவதி",
+   "summary": "கரூர்:கரூர் மாநகராட்சி பசுபதீஸ்வரா பெண்கள் மேல்நிலைப்பள்ளி சாலையில், பகல், இரவு நேரத்தில் வேன், லாரிகளை நிறுத்தி வைப்பதால், பொதுமக்கள், பள்ளி மாணவியர் கடும் அவதிக்குள்ளாகின்றனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:09:00+05:30",
+   "category": "சாலை",
+   "score": 6.97,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C57b0855": {
+   "id": "C57b0855",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/technical-examination-collector-review/4377466",
+   "title": "தொழில்நுட்ப தேர்வு கலெக்டர் ஆய்வு",
+   "summary": "கரூர்:கரூர் அரசு கலைக்கல்லுாரியில் நடந்த ஒருங்கிணைந்த தொழில்நுட்ப தேர்வை, கலெக்டர் பிரசன்னா ராமசாமி ஆய்வு செய்தார். தமிழ்நாடு அரசு பணியாளர் தேர்வாணையம் மூலம் நேற்று, மாநிலம் முழுவதும் ஒருங்கிணைந்த தொழில்நுட்ப பணிக்களு...",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:10:00+05:30",
+   "category": "பொது",
+   "score": 5.9,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C5d1c084": {
+   "id": "C5d1c084",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/maha-kumbhabhisheka-ceremony-at-kumaramangalam-ranganatha-perumal-temple/4377463",
+   "title": "குமாரமங்கலம் ரங்கநாதர் பெருமாள் கோவிலில் மகா கும்பாபிஷேக விழா",
+   "summary": "குளித்தலை:குளித்தலை அடுத்த குமாரமங்கலம், தேவேந்திரகுல தெருவில் ரங்கநாதர் பெருமாள் கோவில் அமைந்துள்ளது. இக்கோவிலை புனரமைத்து கும்பாபிஷேகம் நடத்த, குடிப்பாட்டுக்காரர்கள் முடிவு செய்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:08:00+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "Cd40736f": {
+   "id": "Cd40736f",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/will-there-be-a-shadows-set-up-at-the-bus-stop-in-manmari/4377470",
+   "title": "மன்மாரி பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கப்படுமா",
+   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சியை அடுத்த பள்ளப்பட்டி அருகே, திண்டுக்கல் செல்லும் சாலையில் அமைந்துள்ள மண்மாரி பகுதியில், 300-க்கும் மேற்பட்ட குடும்பத்தினர் வசித்து வருகின்றனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:12:00+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C9448eb5": {
+   "id": "C9448eb5",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurais-birthday-celebration-marathon-competition/4377469",
+   "title": "அண்ணாதுரை பிறந்த நாள் விழா: மாரத்தான் போட்டி",
+   "summary": "கரூர்:முன்னாள் முதல்வர் அண்ணாதுரை பிறந்த நாளையொட்டி, நேற்று மாரத்தான் போட்டி நடந்தது. கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் இருந்து தொடங்கிய, மாரத்தான் போட்டியை, கலெக்டர் பிரசன்னா ராமசாமி தொடங்கி வைத்தார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:12:00+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "Cebafcf8": {
+   "id": "Cebafcf8",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-auction-in-lalapet/4377472",
+   "title": "லாலாப்பேட்டையில் வாழைத்தார் ஏலம்",
+   "summary": "கிருஷ்ணராயபுரம்:கிருஷ்ணராயபுரம், கருப்பத்துார், கள்ளப்பள்ளி, வீரவள்ளி, நந்தன்கோட்டை, வீரகுமாரன்பட்டி, மகாதானபுரம், பொய்கைப்புத்துார் ஆகிய பகுதிகளில், வாழை சாகுபடி அதிகளவில் நடக்கிறது.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:13:00+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C3d590bd": {
+   "id": "C3d590bd",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fish-sale-on-the-rise-in-mayanur/4377471",
+   "title": "மாயனூர் கதவணையில் மீன் விற்பனை ஜோர்",
+   "summary": "கிருஷ்ணராயபுரம்:கிருஷ்ணராயபுரம் அடுத்த மாயனுார் காவிரி ஆற்றின் குறுக்கே கதவணை கட்டப்பட்டுள்ளது. இந்த கதவணையில் சேமிக்கப்படும் நீரில், மீன்கள் வளர்க்கப்படுகின்றன.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:13:00+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C6fbb4a2": {
+   "id": "C6fbb4a2",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/serious-health-hazards-caused-by-poultry/4377477",
+   "title": "கோழிக்கழிவுகளால் கடும் சுகாதார சீர்கேடு",
+   "summary": "அரவக்குறிச்சி:கரூர் மாவட்டம், தென்னிலை தென்பாகம், செஞ்சேரிவலசு காலனி பகுதியில், கடந்த சில மாதங்களாக சட்டவிரோதமாக கோழிக்கழிவுகள் சாலை ஓரங்களிலும், பொது இடங்களிலும் கொட்டப்படுவதாக பொதுமக்கள் குற்றம் சாட்டியுள்ளனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:16:00+05:30",
+   "category": "பொது",
+   "score": 3.97,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C498bee7": {
+   "id": "C498bee7",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/illegal-activities-on-the-rise-in-unmaintained-damaged-park/4377468",
+   "title": "பராமரிப்பின்றி சேதமடைந்த பூங்கா சட்டவிரோத செயல்கள் அதிகரிப்பு",
+   "summary": "கரூர்:கரூர் அருகே, புதிதாக திறக்கப்பட்ட பூங்கா பராமரிப்பு இல்லாமல் உள்ளதால், பூங்காவில் இரவு நேரத்தில் சட்ட விரோத செயல்கள் நடக்கின்றன. கரூர் மாவட்டம், ஆண்டாங்கோவில் கிழக்கு பஞ்., பெரிய ஆண்டாங்கோவிலில், கடந்த, அ.தி.மு....",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:11:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
+  },
+  "C120b0a2": {
+   "id": "C120b0a2",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4377475",
+   "title": "இ.ஓ.,க்கள் பொறுப்பேற்பு",
+   "summary": "குளித்தலை::திண்டுக்கல் மாவட்டம், வேடச்சந்துார் டவுன் பஞ்.,ல், இளநிலை உதவியாளராக பணி புரிந்து வந்தவர் அல்லிமுத்து; இவர்,பதவி உயர்வு பெற்று, குளித்தலை அடுத்த மருதுார் டவுன் பஞ்., செயல் அலுவலராகபொறுப்பேற்றுக்கொண்டார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-16T07:15:00+05:30",
+   "category": "பொது",
+   "score": 2.0,
+   "power_cut": false,
+   "listed_at": "2026-11-16T16:15:30.861212+05:30"
   }
  },
  "rounds": {
@@ -766,6 +880,32 @@
     "Cf2edb7c",
     "Cfc1f4e2"
    ]
+  },
+  "2026-11-16_16": {
+   "window": [
+    "2026-11-16T05:48:00.881596+05:30",
+    "2026-11-16T16:15:30.861212+05:30"
+   ],
+   "ids": [
+    "C5be8903",
+    "Ceea3c4d",
+    "C85043a4",
+    "C61adc51",
+    "Ced04818",
+    "C57b0855",
+    "C5d1c084",
+    "Cd40736f",
+    "C9448eb5",
+    "Cebafcf8",
+    "C3d590bd",
+    "C6fbb4a2",
+    "C498bee7",
+    "C120b0a2"
+   ],
+   "sent": false,
+   "deadline": "2026-11-16T17:15:30.861212+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
