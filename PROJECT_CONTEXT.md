@@ -81,6 +81,20 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-16 | `ed84fb8` | post: while news is still waiting, a live posting run starts the next one (GitHub skipped most 5-minute runs on 16 Nov) |
+| 2026-11-16 | `711595a` | pick: written and posted |
+| 2026-11-16 | `9d5ec5b` | pick: picked news saved |
+| 2026-11-16 | `cb03ca3` | pick: picked news saved |
+| 2026-11-16 | `2ebd137` | pick: list sent |
+| 2026-11-16 | `c781c3f` | pick: written and posted |
+| 2026-11-16 | `633cd7f` | pick: picked news saved |
+| 2026-11-16 | `d53bdea` | pick: picked news saved |
+| 2026-11-16 | `daf0dfa` | pick: list sent |
+| 2026-11-16 | `9c78294` | stories shared |
+| 2026-11-16 | `c92cfba` | powercut: notices written |
+| 2026-11-16 | `fed443b` | powercut: notices written |
+| 2026-11-16 | `8cfd0d0` | goldrate posted |
+| 2026-11-16 | `be6a107` | stories shared |
 | 2026-11-16 | `2241add` | pick: a round GitHub skipped adds its count to the next round; lifestyle columns not written automatically; leftover count in the round log |
 | 2026-11-16 | `a214cde` | rasipalan posted |
 | 2026-11-16 | `41ce4ec` | pick: written and posted |
@@ -97,18 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-15 | `0e4f78b` | stories shared |
 | 2026-11-15 | `45c7c95` | pick: written and posted |
 | 2026-11-15 | `57b21ae` | pick: picked news saved |
-| 2026-11-15 | `1a4d6cd` | stories shared |
-| 2026-11-15 | `2083160` | pick: picked news saved |
-| 2026-11-15 | `e4fa0bc` | pick: list sent |
-| 2026-11-15 | `22bc0c1` | powercut: notices written |
-| 2026-11-15 | `e1ec9b2` | pick: written and posted |
-| 2026-11-15 | `9f40c38` | powercut: notices written |
-| 2026-11-15 | `cebbac1` | powercut: notices written |
-| 2026-11-15 | `55a0a7c` | pick: picked news saved |
-| 2026-11-15 | `991b8b5` | pick: picked news saved |
-| 2026-11-15 | `5631514` | pick: list sent |
-| 2026-11-15 | `ff3c9ee` | powercut: notices written |
-| 2026-11-15 | `9c0ecea` | powercut: notices written |
-| 2026-11-15 | `847a1a8` | powercut: notices written |
-| 2026-11-15 | `9e86d9b` | powercut: notices written |
 <!-- recent-changes:end -->
