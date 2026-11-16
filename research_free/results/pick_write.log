@@ -1,124 +1,74 @@
-writing [N]: அண்ணாதுரை பிறந்த நாள் விழா: மாரத்தான் போட்டி
-writing [N]: கோழிக்கழிவுகளால் கடும் சுகாதார சீர்கேடு
-writing [N]: பராமரிப்பின்றி சேதமடைந்த பூங்கா சட்டவிரோத செயல்கள் அதிகரிப்ப
+writing [N]: 17 கோழிப்பண்ணையில் பறவைக்காய்ச்சல்: அமைச்சர் கமலி தகவல்
+writing [N]: மா.செ.,க்கு இருக்கை: அதிகாரிகளுக்கு இல்லை
+writing [N]: இ.ஓ.,க்கள் பொறுப்பேற்பு
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.6-flash (18s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.6-flash (22s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (25s)
-attempt 1 gemini/gemini-3.6-flash: 2 problems
-  not grounded: location 'நகரம்' is not in the article
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('வெற்றி பெற்றவர்களின் வங்கி கணக்குக்கு, பரிசு தொகை வரவு வைக்க')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (14s)
-factcheck by gemini/gemini-3.6-flash: 1 problems
-  Slide 2 title 'யாருக்குப்' is incomplete and ungrammatical in Tamil
-attempt 1 gemini/gemini-3.6-flash: 1 problems
-  fact-check: Slide 2 title 'யாருக்குப்' is incomplete and ungrammatical in Tamil
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-ok gemini/gemini-3.6-flash (21s)
+ok gemini/gemini-3.6-flash (56s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (25s)
-factcheck by gemini/gemini-3.6-flash: 0 problems
-attempt 1 gemini/gemini-3.6-flash: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-switching away from gemini/gemini-3.5-flash for 10 min
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-ok gemini/gemini-3.5-flash (5s)
-factcheck by gemini/gemini-3.5-flash: 1 problems
-  slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
-attempt 2 gemini/gemini-3.6-flash: 1 problems
-  fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (9s)
-attempt 2 gemini/gemini-3-flash-preview: 1 problems
-  caption needs 5 hashtags (Instagram max), has 6
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/openai/gpt-oss-120b (5s)
-proofread rejected (3 problems)
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
+ok gemini/gemini-3-flash-preview (11s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கொளந்தாகவுண்டனூர்' and the news itself, e.g. 'கொளந்தாகவுண்டனூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
 ok groq/qwen/qwen3.8-27b (5s)
+attempt 1 groq/qwen/qwen3.8-27b: 1 problems
+  hl1 (the first headline on screen) must name the place 'மருதூர்', e.g. 'மருதூர்: ...' or 'மருதூர்-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/openai/gpt-oss-120b (6s)
+factcheck by groq/openai/gpt-oss-120b: 3 problems
+  Reel script incorrectly calls Prasanna Ramachami a "மாவட்ட ஆட்சியர்" instead of the "கலெக்டர்" mentioned in the article
+  Slides spec and caption also misidentify Prasanna Ramachami as "ஆட்சியர்" rather than "கலெக்டர்"
+  Reel script, slides spec and caption incorrectly label Karthikeyan as "வருவாய் கோட்டாட்சியர்" instead of the "ஆர்.டி.ஓ." (Revenue Divisional Officer) stated in the article
+attempt 1 gemini/gemini-3.6-flash: 3 problems
+  fact-check: Reel script incorrectly calls Prasanna Ramachami a "மாவட்ட ஆட்சியர்" instead of the "கலெக்டர்" mentioned in the article
+  fact-check: Slides spec and caption also misidentify Prasanna Ramachami as "ஆட்சியர்" rather than "கலெக்டர்"
+  fact-check: Reel script, slides spec and caption incorrectly label Karthikeyan as "வருவாய் கோட்டாட்சியர்" instead of the "ஆர்.டி.ஓ." (Revenue Divisional Officer) stated in the article
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/openai/gpt-oss-120b (2s)
-ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 1 problems
-  Slide 1, Line 3 contains a grammatical error: 'கொட்டப்படுகிறது' should be 'கொட்டப்படுகின்றன' to agree with the plural subject 'கழிவுகள்'.
-attempt 3 groq/qwen/qwen3.8-27b: 1 problems
-  fact-check: Slide 1, Line 3 contains a grammatical error: 'கொட்டப்படுகிறது' should be 'கொட்டப்படுகின்றன' to agree with the plural subject 'கழிவுகள்'.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
-image match: False The image is a generic AI-generated illustration of people on a bench in a park at night, not an authentic photo represe
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Unmaintained public park in Periya Andan'
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-1834","first":"RN-68"}
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-posting job started at once
-writing [N]: மாயனூர் கதவணையில் மீன் விற்பனை ஜோர்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-1
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
 free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
@@ -127,68 +77,58 @@ gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemin
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The caption's English hashtag/footer line 'Tennilai chicken waste dumping stench | Karur news' is outside the excluded footer format, but it is an English line not in the article; this is a stylistic extra rather than a factual claim, so it is noted only as a minor issue.
-  The reel_script states the complaints were about 'சட்டவிரோதமாக' dumping and the article says the complainants want arrests, which the draft renders as a demand to arrest, consistent with the article; however the draft's headline 'உடனடி நடவடிக்கைக்கு கோரிக்கை' is a reasonable summary, so no factual error is found in the headline.
-  The reel_script's opening sentence 'கோழிக்கழிவுகள் கடும் துர்நாற்றத்தை ஏற்படுத்துகின்றன' is a paraphrase of the article's stench claim and is consistent with it.
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The caption's English hashtag/footer line 'Tennilai chicken waste dumping stench | Karur news' is outside the excluded footer format, but it is an English line not in the article; this is a stylistic extra rather than a factual claim, so it is noted only as a minor issue.
-  fact-check: The reel_script states the complaints were about 'சட்டவிரோதமாக' dumping and the article says the complainants want arrests, which the draft renders as a demand to arrest, consistent with the article; however the draft's headline 'உடனடி நடவடிக்கைக்கு கோரிக்கை' is a reasonable summary, so no factual error is found in the headline.
-  fact-check: The reel_script's opening sentence 'கோழிக்கழிவுகள் கடும் துர்நாற்றத்தை ஏற்படுத்துகின்றன' is a paraphrase of the article's stench claim and is consistent with it.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The caption states a specific date '(நவம்பர் 15)' for 'நேற்று' (yesterday), which is not in the article; the article only says 'நேற்று'.
-  The caption says 'நேற்று கரூரில் மாரத்தான் போட்டி நடைபெற்றது' and the slides say 'போட்டி நேற்று நடந்தது' — consistent with the article, no issue here; however the caption's phrase 'விழாவில் ... பங்கேற்றனர்' attributes the MLA and RDO as present, which matches the article, so no problem there.
-  The reel_script and slides describe Karur RDO Karthikeyan as 'கரூர் வருவாய் கோட்டாட்சியர்' (RDO), a role translation not stated in the article's wording 'கரூர் ஆர்.டி.ஓ.' — acceptable expansion, not a factual error.
-  The caption labels the Krishnarayapuram MLA's role with 'எம்.எல்.ஏ.' and the caption's '👮' emoji implies police involvement, which is not in the article.
-  The caption's 📍/date footer is excluded, but the caption's reference to the event as '(நவம்பர் 15)' is an invented date detail beyond the article.
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The caption states a specific date '(நவம்பர் 15)' for 'நேற்று' (yesterday), which is not in the article; the article only says 'நேற்று'.
-  fact-check: The caption says 'நேற்று கரூரில் மாரத்தான் போட்டி நடைபெற்றது' and the slides say 'போட்டி நேற்று நடந்தது' — consistent with the article, no issue here; however the caption's phrase 'விழாவில் ... பங்கேற்றனர்' attributes the MLA and RDO as present, which matches the article, so no problem there.
-  fact-check: The reel_script and slides describe Karur RDO Karthikeyan as 'கரூர் வருவாய் கோட்டாட்சியர்' (RDO), a role translation not stated in the article's wording 'கரூர் ஆர்.டி.ஓ.' — acceptable expansion, not a factual error.
-  fact-check: The caption labels the Krishnarayapuram MLA's role with 'எம்.எல்.ஏ.' and the caption's '👮' emoji implies police involvement, which is not in the article.
-  fact-check: The caption's 📍/date footer is excluded, but the caption's reference to the event as '(நவம்பர் 15)' is an invented date detail beyond the article.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script and caption say the pollution is 'in Tennilai' and the headline names Tennilai, which the article supports, but the slides_spec location 'தென்னிலை, அரவக்குறிச்சி' is acceptable; however the caption says 'அரவக்குறிச்சி அருகே' (near Aravakurichi) while the article gives Aravakurichi as the dateline, so this is a minor wording difference rather than an error.
-  The reel_script states 'கோழிக்கழிவுகளைக் கொட்டுவோர் மீது கடும் நடவடிக்கை எடுத்து கைது செய்ய வேண்டும்' – the article says residents demanded strict action and arrest, which matches, but the slide 'மக்கள் கோரிக்கை' line 'கழிவுகளைக் கொட்டுவோர் மீது கைது நடவடிக்கை வேண்டும்' is consistent; no invented facts found there.
-  The caption header line '🐔 தென்னிலையில் கோழிக்கழிவுகளால் கடும் துர்நாற்றம், உடனடி நடவடிக்கைக்கு கோரிக்கை' merges the stench fact and the demand, which is acceptable as a summary.
-  The reel_script says 'சில மாதங்களுக்கு முன்பே சம்பந்தப்பட்ட துறை அதிகாரிகளிடம் புகார் அளிக்கப்பட்டதாக' — the article says complaints were made to the concerned department officials a few months earlier, which matches.
-claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The reel_script and caption say the pollution is 'in Tennilai' and the headline names Tennilai, which the article supports, but the slides_spec location 'தென்னிலை, அரவக்குறிச்சி' is acceptable; however the caption says 'அரவக்குறிச்சி அருகே' (near Aravakurichi) while the article gives Aravakurichi as the dateline, so this is a minor wording difference rather than an error.
-  fact-check: The reel_script states 'கோழிக்கழிவுகளைக் கொட்டுவோர் மீது கடும் நடவடிக்கை எடுத்து கைது செய்ய வேண்டும்' – the article says residents demanded strict action and arrest, which matches, but the slide 'மக்கள் கோரிக்கை' line 'கழிவுகளைக் கொட்டுவோர் மீது கைது நடவடிக்கை வேண்டும்' is consistent; no invented facts found there.
-  fact-check: The caption header line '🐔 தென்னிலையில் கோழிக்கழிவுகளால் கடும் துர்நாற்றம், உடனடி நடவடிக்கைக்கு கோரிக்கை' merges the stench fact and the demand, which is acceptable as a summary.
-  fact-check: The reel_script says 'சில மாதங்களுக்கு முன்பே சம்பந்தப்பட்ட துறை அதிகாரிகளிடம் புகார் அளிக்கப்பட்டதாக' — the article says complaints were made to the concerned department officials a few months earlier, which matches.
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your p
+  The reel_script says Allimuthu transferred from Vedachandur town panchayat 'to Maruthur' and also says he took charge of Maruthur, which is consistent; however the reel_script and slides say Allimuthu's earlier post was in Vedachandur, which matches the article — no issue there.
+  The draft's tamil_headline says 'இரண்டு டவுன் பஞ்சாயத்துக்களில் புதிய செயல் அலுவலர்கள் பொறுப்பேற்பு' which matches the article, but the slides_spec 'loc' field and hl1 headline focus only on Maruthur, which is a framing choice rather than a factual error.
+  The caption and reel_script describe Allimuthu as having 'பதவி உயர்வு பெற்று' (promotion) — this is in the article, so no issue.
+  The reel_script states 'இதற்கு முன் திண்டுக்கல் மாவட்டம் வேடச்சந்தூர் டவுன்' and the slide line 'இதற்கு முன் ... வேடச்சந்தூர் டவுன்' is truncated mid-phrase, leaving the sentence ungrammatical/without clear meaning (missing 'பஞ்சாயத்தில் இளநிலை உதவியாளராக').
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The reel_script says Allimuthu transferred from Vedachandur town panchayat 'to Maruthur' and also says he took charge of Maruthur, which is consistent; however the reel_script and slides say Allimuthu's earlier post was in Vedachandur, which matches the article — no issue there.
+  fact-check: The draft's tamil_headline says 'இரண்டு டவுன் பஞ்சாயத்துக்களில் புதிய செயல் அலுவலர்கள் பொறுப்பேற்பு' which matches the article, but the slides_spec 'loc' field and hl1 headline focus only on Maruthur, which is a framing choice rather than a factual error.
+  fact-check: The caption and reel_script describe Allimuthu as having 'பதவி உயர்வு பெற்று' (promotion) — this is in the article, so no issue.
+  fact-check: The reel_script states 'இதற்கு முன் திண்டுக்கல் மாவட்டம் வேடச்சந்தூர் டவுன்' and the slide line 'இதற்கு முன் ... வேடச்சந்தூர் டவுன்' is truncated mid-phrase, leaving the sentence ungrammatical/without clear meaning (missing 'பஞ்சாயத்தில் இளநிலை உதவியாளராக').
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'கொளந்தாகவுண்டனூர்', e.g. 'கொளந்தாகவுண்டனூர்: ...' or 'கொளந்தாகவுண்டனூர்-இல் ...' - viewers share news of their own area
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The article says Karur district Collector Prasanna Ramasamy started the marathon, but the draft says 'கரூர் கலெக்டர்' in the reel_script — this is consistent; however the slides_spec 'பரிசு விவரம்' slide mixes two unrelated facts (prize money to bank accounts and the Collector flagging off the race) into one slide, which is a combination of different facts in one slide.
-  The slides_spec 'பரிசு விவரம்' slide line 'கிருஷ்ணராயபுரம் எம்.எல்.ஏ. சத்யா, கரூர் வருவாய்' is truncated and incomplete, so it has no clear meaning in Tamil; the article names the RDO as Karthikeyan and this line does not name him.
-  The reel_script calls the participants a 'மாணவ, மாணவியர் ஒரு பிரிவு' / 'பொதுமக்கள் மற்றொரு பிரிவு' split under 'யார் பங்கேற்றனர்?' in slides, but the reel_script omits the important fact that the winners' prize money will be credited to bank accounts only in the slides, while the reel_script states it without noting it is 'to be' credited — the reel_script says 'வரவு வைக்கப்பட உள்ளது', which is consistent, so this is not a problem; instead, the reel_script omits the RDO's name Karthikeyan's correct role (article: கரூர் ஆர்.டி.ஓ., draft: வருவாய் கோட்டாட்சியர), which is an accurate translation and not a problem.
+  Reel_script and slides say 'இளநிலை' (junior assistant) for Allimuthu's and Murugesan's previous posts; the article says 'இளநிலை உதவியாளர', so the title word 'இளநிலை' is truncated/incomplete in slides_spec (line 'திண்டுக்கல் வேடச்சந்தூர் டவுன் பஞ்சாயத்தில் இளநிலை' and 'திண்டுக்கல் வத்தலக்குண்டு டவுன் பஞ்சாயத்தில் இளநிலை' are cut off and do not form a clear meaning)
+  The caption and reel_script say the Maruthur and Nangavaram panchayats are 'town panchayats' with presidents named Sakunthala and Rajeshwari; the article names them only as 'தலைவர்கள்' of town panchayats, so this is consistent, but the slides_spec 'மருதூர் தலைவர் சகுந்தலா, நங்கவரம் தலைவர் ராஜேஸ்வரி' is acceptable; no further issue there.
+  The reel_script and caption state the new officers were welcomed by 'இரு' presidents, deputies, councillors and officials, which is consistent with the article; however the caption's headline line introduces the place as 'குளித்தலை அருகே' while the article's dateline is Kulithalai, which is acceptable.
 claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The article says Karur district Collector Prasanna Ramasamy started the marathon, but the draft says 'கரூர் கலெக்டர்' in the reel_script — this is consistent; however the slides_spec 'பரிசு விவரம்' slide mixes two unrelated facts (prize money to bank accounts and the Collector flagging off the race) into one slide, which is a combination of different facts in one slide.
-  fact-check: The slides_spec 'பரிசு விவரம்' slide line 'கிருஷ்ணராயபுரம் எம்.எல்.ஏ. சத்யா, கரூர் வருவாய்' is truncated and incomplete, so it has no clear meaning in Tamil; the article names the RDO as Karthikeyan and this line does not name him.
-  fact-check: The reel_script calls the participants a 'மாணவ, மாணவியர் ஒரு பிரிவு' / 'பொதுமக்கள் மற்றொரு பிரிவு' split under 'யார் பங்கேற்றனர்?' in slides, but the reel_script omits the important fact that the winners' prize money will be credited to bank accounts only in the slides, while the reel_script states it without noting it is 'to be' credited — the reel_script says 'வரவு வைக்கப்பட உள்ளது', which is consistent, so this is not a problem; instead, the reel_script omits the RDO's name Karthikeyan's correct role (article: கரூர் ஆர்.டி.ஓ., draft: வருவாய் கோட்டாட்சியர), which is an accurate translation and not a problem.
+  fact-check: Reel_script and slides say 'இளநிலை' (junior assistant) for Allimuthu's and Murugesan's previous posts; the article says 'இளநிலை உதவியாளர', so the title word 'இளநிலை' is truncated/incomplete in slides_spec (line 'திண்டுக்கல் வேடச்சந்தூர் டவுன் பஞ்சாயத்தில் இளநிலை' and 'திண்டுக்கல் வத்தலக்குண்டு டவுன் பஞ்சாயத்தில் இளநிலை' are cut off and do not form a clear meaning)
+  fact-check: The caption and reel_script say the Maruthur and Nangavaram panchayats are 'town panchayats' with presidents named Sakunthala and Rajeshwari; the article names them only as 'தலைவர்கள்' of town panchayats, so this is consistent, but the slides_spec 'மருதூர் தலைவர் சகுந்தலா, நங்கவரம் தலைவர் ராஜேஸ்வரி' is acceptable; no further issue there.
+  fact-check: The reel_script and caption state the new officers were welcomed by 'இரு' presidents, deputies, councillors and officials, which is consistent with the article; however the caption's headline line introduces the place as 'குளித்தலை அருகே' while the article's dateline is Kulithalai, which is acceptable.
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'கொளந்தாகவுண்டனூர்', e.g. 'கொளந்தாகவுண்டனூர்: ...' or 'கொளந்தாகவுண்டனூர்-இல் ...' - viewers share news of their own area
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The draft says 'கரூர் வருவாய் கோட்டாட்சியர்' (revenue divisional officer) for 'கரூர் ஆர்.டி.ஓ.' — the article says RDO, which is a mistranslation of the title; RDO is the Revenue Divisional Officer, so this is arguably consistent, but the reel_script and caption label the RDO as a 'வருவாய் கோட்டாட்சியர்' while the slides_spec says 'ஆர்.டி.ஓ.' — minor inconsistency noted
+  The reel_script says the ministers' seating was 'கட்சி நிர்வாகிக்கு இருக்கை வழங்கப்பட்டு, அதிகாரிகள் பின்புறம் நின்றது' as the headline cause, which is an interpretive framing not stated in the article, and the article does not describe the party official as having been given a seat because of their position; the article only reports the seating arrangement and that it is controversial
+  The reel_script and caption identify Mathiyazhagan as 'மேற்கு மாவட்ட செயலர்' of த.வெ.க. without the article stating he is the district secretary's office holder beyond 'கரூர் த.வெ.க., மேற்கு மாவட்ட செயலர்' — this is consistent with the article
+  The reel_script omits the detail that the seating controversy concerns the arrangement near the minister, and the article notes the arrangement, but it lists 'எம்.எல்.ஏ.' rather than the name Sathya in the slides; the reel_script names Sathya, so no issue there
+  The draft's caption describes the fact that the seating was 'அமைச்சர் ஆய்வில்' controversial, and the headline frames it as 'சர்ச்சை' which matches the article
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The draft says 'கரூர் வருவாய் கோட்டாட்சியர்' (revenue divisional officer) for 'கரூர் ஆர்.டி.ஓ.' — the article says RDO, which is a mistranslation of the title; RDO is the Revenue Divisional Officer, so this is arguably consistent, but the reel_script and caption label the RDO as a 'வருவாய் கோட்டாட்சியர்' while the slides_spec says 'ஆர்.டி.ஓ.' — minor inconsistency noted
+  fact-check: The reel_script says the ministers' seating was 'கட்சி நிர்வாகிக்கு இருக்கை வழங்கப்பட்டு, அதிகாரிகள் பின்புறம் நின்றது' as the headline cause, which is an interpretive framing not stated in the article, and the article does not describe the party official as having been given a seat because of their position; the article only reports the seating arrangement and that it is controversial
+  fact-check: The reel_script and caption identify Mathiyazhagan as 'மேற்கு மாவட்ட செயலர்' of த.வெ.க. without the article stating he is the district secretary's office holder beyond 'கரூர் த.வெ.க., மேற்கு மாவட்ட செயலர்' — this is consistent with the article
+  fact-check: The reel_script omits the detail that the seating controversy concerns the arrangement near the minister, and the article notes the arrangement, but it lists 'எம்.எல்.ஏ.' rather than the name Sathya in the slides; the reel_script names Sathya, so no issue there
+  fact-check: The draft's caption describes the fact that the seating was 'அமைச்சர் ஆய்வில்' controversial, and the headline frames it as 'சர்ச்சை' which matches the article
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 0 problems
@@ -197,138 +137,65 @@ gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemin
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The caption states the date as 'நேற்று (நவ. 15)', adding a specific date (15 November) that does not appear in the article, which only says 'நேற்று' (yesterday).
-  The reel_script says 'மீன் விற்பனை சூடுபிடித்தது' (fish sales heated up), which is an embellishment not stated in the article; the article only says 'மீன் விற்பனை ஜோர்' with no such description, though this is a stylistic wording choice.
-  The slides_spec 'யார் வாங்கினர்?' slide says 'திருக்காம்புலியூர், மகாதானபுரம் பகுதி மக்களும் வாங்கினர்' and the 'எங்கே?' slide says 'கதவணையில் தேங்கும் நீரில்' (stored water), which is a minor paraphrase, and the caption's Mayanur 'விரால்' price is correct; however the 'எங்கே?' line 'கிருஷ்ணராயபுரம் அருகே மாயனூர் கதவணை' is consistent with the article.
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The caption states the date as 'நேற்று (நவ. 15)', adding a specific date (15 November) that does not appear in the article, which only says 'நேற்று' (yesterday).
-  fact-check: The reel_script says 'மீன் விற்பனை சூடுபிடித்தது' (fish sales heated up), which is an embellishment not stated in the article; the article only says 'மீன் விற்பனை ஜோர்' with no such description, though this is a stylistic wording choice.
-  fact-check: The slides_spec 'யார் வாங்கினர்?' slide says 'திருக்காம்புலியூர், மகாதானபுரம் பகுதி மக்களும் வாங்கினர்' and the 'எங்கே?' slide says 'கதவணையில் தேங்கும் நீரில்' (stored water), which is a minor paraphrase, and the caption's Mayanur 'விரால்' price is correct; however the 'எங்கே?' line 'கிருஷ்ணராயபுரம் அருகே மாயனூர் கதவணை' is consistent with the article.
-ok anthropic/claude-haiku-5-5
-real photo: no picture on the source page -> AI pictures
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The caption states the event was held 'நேற்று (நவம்பர் 15)' — the specific date November 15 does not appear in the article.
-  The reel_script and slides say the event started at the sports ground and ran to the collector's office; the article says the marathon started from the government sports ground and covered that route, which matches, but the article does not state the arrangement of the two participant groups as a race format; no clear issue there.
-  The reel_script calls Karur RDO Karthikeyan 'கரூர் வருவாய் கோட்டாட்சியர்' and the slides call him 'கரூர் ஆர்.டி.ஓ.' — consistent with the article's RDO, so not a problem.
-  The reel_script's last sentence about following the page is fixed closing text and is excluded.
-claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The caption states the event was held 'நேற்று (நவம்பர் 15)' — the specific date November 15 does not appear in the article.
-  fact-check: The reel_script and slides say the event started at the sports ground and ran to the collector's office; the article says the marathon started from the government sports ground and covered that route, which matches, but the article does not state the arrangement of the two participant groups as a race format; no clear issue there.
-  fact-check: The reel_script calls Karur RDO Karthikeyan 'கரூர் வருவாய் கோட்டாட்சியர்' and the slides call him 'கரூர் ஆர்.டி.ஓ.' — consistent with the article's RDO, so not a problem.
-  fact-check: The reel_script's last sentence about following the page is fixed closing text and is excluded.
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கொளந்தாகவுண்டனூர்' and the news itself, e.g. 'கொளந்தாகவுண்டனூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'கொளந்தாகவுண்டனூர்', e.g. 'கொளந்தாகவுண்டனூர்: ...' or 'கொளந்தாகவுண்டனூர்-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+real photo: no picture on the source page -> AI pictures
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'கொளந்தாகவுண்டனூர்', e.g. 'கொளந்தாகவுண்டனூர்: ...' or 'கொளந்தாகவுண்டனூர்-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  reel_script says the Mayanur barrage is 'சூடுபிடித்துள்ளது' (heating up), while the article says 'ஜோர்' (brisk/lively); a wording shift, but the article does not describe it as heated up.
-  reel_script says fish are farmed in the water stored at the barrage, which is supported, but the reel_script also states the water 'சேமிக்கப்படும் நீரில்' twice, creating a redundant sentence that repeats the same fact.
-  slides_spec 'யார் வாங்கினர்?' slide adds that people from those areas bought fish, which is in the article, but the slide title-line 'மக்கள் வந்து வாங்கிச் சென்றனர்' is fine; no unsupported facts found there.
-  caption states the sale was on 'நவம்பர் 16 வெளியீடு' as the date of the news item, which is a date claim not present in the article (the article only says 'நேற்று').
-claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: reel_script says the Mayanur barrage is 'சூடுபிடித்துள்ளது' (heating up), while the article says 'ஜோர்' (brisk/lively); a wording shift, but the article does not describe it as heated up.
-  fact-check: reel_script says fish are farmed in the water stored at the barrage, which is supported, but the reel_script also states the water 'சேமிக்கப்படும் நீரில்' twice, creating a redundant sentence that repeats the same fact.
-  fact-check: slides_spec 'யார் வாங்கினர்?' slide adds that people from those areas bought fish, which is in the article, but the slide title-line 'மக்கள் வந்து வாங்கிச் சென்றனர்' is fine; no unsupported facts found there.
-  fact-check: caption states the sale was on 'நவம்பர் 16 வெளியீடு' as the date of the news item, which is a date claim not present in the article (the article only says 'நேற்று').
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-image match: False The photo depicts a small pile of dark seeds or insect remains on the ground with a person walking in the background, ra
 ok anthropic/claude-haiku-5-5
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-image match: False The photo shows a pile of insects and dark pellets on a roadside, not chicken waste or slaughterhouse offal.
-images made: 2 for 'Illegal chicken waste dumping causes sev'
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்), so the tamil_headline's ₹140 lower bound is wrong, and the caption/hl2 are inconsistent with it.
-  The reel_script says the fish are sold 'நேற்று' (yesterday) only implicitly; however the caption and reel say 'சுறுசுறுப்பாக/சுறுசுறுப்பு' (brisk), which is an invented characterization not stated in the article.
-  The reel_script and caption describe the barrage as 'சேமிக்கப்படும் நீரில்' only in the caption; the reel_script omits that the buyers came specifically to buy, which is fine, but the slide 'எங்கே?' line says fish are caught in the barrage water, which matches the article.
-claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்), so the tamil_headline's ₹140 lower bound is wrong, and the caption/hl2 are inconsistent with it.
-  fact-check: The reel_script says the fish are sold 'நேற்று' (yesterday) only implicitly; however the caption and reel say 'சுறுசுறுப்பாக/சுறுசுறுப்பு' (brisk), which is an invented characterization not stated in the article.
-  fact-check: The reel_script and caption describe the barrage as 'சேமிக்கப்படும் நீரில்' only in the caption; the reel_script omits that the buyers came specifically to buy, which is fine, but the slide 'எங்கே?' line says fish are caught in the barrage water, which matches the article.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-1835","first":"RN-69"}
-real photo: vision check resting (free quota busy)
-writing [N]: லாலாப்பேட்டையில் வாழைத்தார் ஏலம்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
+images made: 2 for 'New executive officers take charge at Ma'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-2247","first":"RN-74"}
+posting job started at once
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Marathon held in Karur for Annadurai bir'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-1835","first":"RN-70"}
-real photo: no picture on the source page -> AI pictures
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-image match: True The photo shows people purchasing fresh fish near a barrage structure in the background, matching the news report about 
-ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Brisk fish sales at Mayanur barrage yest'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-1835","first":"RN-71"}
-real photo: no picture on the source page -> AI pictures
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Lalapettai banana bunch auction: Rasthal'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-1835","first":"RN-72"}
+images made: 2 for 'Party secretary seated beside minister a'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261116-2248","first":"RN-75"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-auction-in-lalapet/4377472
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fish-sale-on-the-rise-in-mayanur/4377471
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurais-birthday-celebration-marathon-competition/4377469
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/serious-health-hazards-caused-by-poultry/4377477
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/illegal-activities-on-the-rise-in-unmaintained-damaged-park/4377468
-candidate filter: collected=5
-to write: 5 Karur district candidates (max 5 stories)
-round: top 5 of 5 candidates
-candidates waiting: 5 Karur; time left 79 min
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/avian-influenza-in-17-poultry-farms-minister-kamali/4378133
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/district-secretaries-are-not-the-seat-of-the-officers/4378134
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4377475
+candidate filter: collected=3
+to write: 3 Karur district candidates (max 3 stories)
+round: top 3 of 3 candidates
+candidates waiting: 3 Karur; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/district-secr
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/avian-influen
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})
-candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min
-filed: 5 Karur district stories (target 5), reels only
+NOT filed (N) 17 கோழிப்பண்ணையில் பறவைக்காய்ச்சல்: அமைச்சர் கமலி : not Karur district news (the story's first lines name another place and no Karur place)
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 76 min
+filed: 2 Karur district stories (target 3), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":5,"updated":0} 
-stories: 5
+All News sheet: {"ok":true,"added":3,"updated":0} 
+stories: 2

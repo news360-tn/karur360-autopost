@@ -3,451 +3,223 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-auction-in-lalapet/4377472",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fish-sale-on-the-rise-in-mayanur/4377471",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurais-birthday-celebration-marathon-competition/4377469",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/serious-health-hazards-caused-by-poultry/4377477",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/illegal-activities-on-the-rise-in-unmaintained-damaged-park/4377468",
-  "candidate filter: collected=5",
-  "to write: 5 Karur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Karur; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/avian-influenza-in-17-poultry-farms-minister-kamali/4378133",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/district-secretaries-are-not-the-seat-of-the-officers/4378134",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4377475",
+  "candidate filter: collected=3",
+  "to write: 3 Karur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/district-secr",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/avian-influen",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Karur district stories (target 5), reels only",
+  "NOT filed (N) 17 கோழிப்பண்ணையில் பறவைக்காய்ச்சல்: அமைச்சர் கமலி : not Karur district news (the story's first lines name another place and no Karur place)",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 76 min",
+  "filed: 2 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (22s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (25s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.6-flash (21s)",
+  "ok gemini/gemini-3.6-flash (56s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (25s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/openai/gpt-oss-120b (5s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (2s)",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பெரிய ஆண்டாங்கோவிலில் பராமரிப்பின்றி பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் நடப்பதாகப் புகார்",
-   "english_headline": "Unmaintained public park in Periya Andankovil near Karur turns into hub for illegal activities at night",
-   "category": "Civic Issues",
-   "location": "Periya Andankovil, Andankovil East Panchayat, Karur district",
-   "importance": "Medium",
+   "tamil_headline": "குளித்தலை அருகே மருதூர், நங்கவரம் டவுன் பஞ்சாயத்துகளுக்குப் புதிய செயல் அலுவலர்கள் பொறுப்பேற்பு",
+   "english_headline": "New executive officers take charge at Maruthur and Nangavaram town panchayats near Kulithalai, Karur district",
+   "category": "Government & Services",
+   "location": "Maruthur town panchayat and Nangavaram town panchayat, Kulithalai taluk, Karur district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பூங்கா சீரமைப்பு",
-    "loc": "பெரிய ஆண்டாங்கோவில்",
-    "hl1": "பெரிய ஆண்டாங்கோவில் பூங்கா பாழானது",
-    "hl2": "இரவில் சட்டவிரோத செயல்கள்",
+    "cat": "அரசு அலுவலர்கள்",
+    "loc": "குளித்தலை",
+    "hl1": "குளித்தலை அருகே 2 டவுன்",
+    "hl2": "மருதூர், நங்கவரம்",
     "slides": [
      {
-      "title": "ஆண்டாங்கோவில்",
+      "title": "மருதூர் பஞ்சாயத்து",
       "lines": [
-       "ஆண்டாங்கோவில் கிழக்கு பஞ்சாயத்து",
-       "பல லட்சம் மதிப்பில் அமைக்கப்பட்ட பூங்கா",
-       "தற்போது பராமரிப்பின்றி முட்புதர் மண்டியது"
+       "அல்லிமுத்து மருதூர் டவுன் பஞ்சாயத்து செயல்",
+       "திண்டுக்கல் வேடச்சந்தூர் டவுன் பஞ்சாயத்தில் இளநிலை",
+       "பதவி உயர்வு பெற்று இங்கு பணியேற்றார்"
       ]
      },
      {
-      "title": "உபகரணங்கள் சேதம்",
+      "title": "நங்கவரம்",
       "lines": [
-       "அம்மா உடற்பயிற்சி கூடம் பாழானது",
-       "விளையாட்டு உபகரணங்கள், கழிப்பிடம் சேதம்",
-       "மக்கள், குழந்தைகள் செல்ல அச்சம்"
+       "முருகேசன் நங்கவரம் டவுன் பஞ்சாயத்து செயல்",
+       "திண்டுக்கல் வத்தலக்குண்டு டவுன் பஞ்சாயத்தில் இளநிலை",
+       "பதவி உயர்வுடன் இங்கு பொறுப்பேற்றார்"
       ]
      },
      {
-      "title": "சீரமைக்க கோரிக்கை",
+      "title": "வாழ்த்து",
       "lines": [
-       "இரவு நேரத்தில் சமூக விரோத செயல்கள்",
-       "பயத்தில் பூங்காவுக்கு செல்லாத பொதுமக்கள்",
-       "சீரமைக்க மாவட்ட நிர்வாகத்துக்கு கோரிக்கை"
+       "மருதூர் தலைவர் சகுந்தலா, நங்கவரம் தலைவர் ராஜேஸ்வரி வாழ்த்து",
+       "துணைத் தலைவர்கள், கவுன்சிலர்கள், அலுவலர்களும் வாழ்த்தினர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பெரிய ஆண்டாங்கோவிலில் பராமரிப்பின்றி பாழடைந்த பூங்காவில் இரவு நேரத்தில் சமூக விரோத செயல்கள் அதிகரித்துள்ளன. கரூர் மாவட்டம் ஆண்டாங்கோவில் கிழக்கு பஞ்சாயத்து பெரிய ஆண்டாங்கோவிலில் பல லட்சம் ரூபாய் மதிப்பில் பூங்கா அமைக்கப்பட்டது. இதில் அம்மா உடற்பயிற்சி கூடம், எட்டு வடிவ நடைபயிற்சி தளம், கழிப்பிடம் மற்றும் சிறுவர் விளையாட்டு உபகரணங்கள் அமைக்கப்பட்டன. கடந்த சில மாதங்களாகப் பராமரிப்பு இல்லாததால் பூங்காவில் முட்புதர்கள் அதிகளவில் முளைத்துள்ளன. மேலும் உடற்பயிற்சி உபகரணங்கள் மற்றும் கழிப்பிடங்களும் சேதமடைந்துள்ளன. இதனால் பொதுமக்கள் மற்றும் சிறுவர்கள் பூங்காவுக்குச் செல்லத் தயங்குகின்றனர். இரவு நேரத்தில் பூங்காவிற்குள் சமூக விரோத செயல்களும் நடைபெற்று வருகின்றன. சேதமடைந்துள்ள பூங்காவை உடனடியாகச் சீரமைக்க கரூர் மாவட்ட நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் புகார்!\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் ஆண்டாங்கோவில் கிழக்கு பஞ்சாயத்து பெரிய ஆண்டாங்கோவிலில் பல லட்சம் ரூபாய் மதிப்பில் பூங்கா அமைக்கப்பட்டது. இதில் அம்மா உடற்பயிற்சி கூடம், நடைபயிற்சி தளம், கழிப்பிடம் மற்றும் சிறுவர் விளையாட்டு உபகரணங்கள் அமைக்கப்பட்டன.\n\nகடந்த சில மாதங்களாக பூங்கா பராமரிப்பு இல்லாமல் முட்புதர்கள் மண்டிக் கிடக்கின்றன. உடற்பயிற்சி மற்றும் விளையாட்டு உபகரணங்கள், கழிப்பிடம் சேதமடைந்துள்ளதால் மக்கள் செல்லத் தயங்குகின்றனர். மேலும் இரவு நேரத்தில் சமூக விரோத செயல்களும் நடக்கின்றன.\n\n📍 இடம்: பெரிய ஆண்டாங்கோவில், கரூர் மாவட்டம்\nℹ️ மக்கள் கோரிக்கை: பூங்காவைச் சீரமைத்து உபகரணங்களை மாற்றித் தர கரூர் மாவட்ட நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nPeriya Andankovil park maintenance issue | Karur news\n📍 பெரிய ஆண்டாங்கோவில், கரூர் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #PeriyaAndankovil #KarurNews #கரூர்",
-   "prompts": "A small group of silhouetted figures loiter near the centre of a dimly lit public park, engaging in illicit activities. The setting is the newly opened public park at Periya Andankovil, an open grassy area surrounded by a low fence, with patches of overgrown weeds and rusted playground structures visible. From behind, three to five casually dressed youths sit on a broken bench, heads bowed, while another leans against a dented exercise pole; no vehicles are present. It is night, the sky is dark and only a faint, flickering park lamp provides weak amber light, casting long shadows over the weeds. The shot is taken at eye level, slightly elevated, with a 35 mm lens, framing a wide view that captures the park’s neglect and the covert gathering. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view highlights a rusted swing set in the same Periya Andankovil park, its metal chain snapped and seat torn, surrounded by thick, green weeds that have overtaken the play area. The background shows the outline of a dilapidated toilet cubicle and a broken exercise bar, indicating broader decay. No people are in frame, emphasizing the abandoned equipment. The scene is captured in bright daylight, clear sky, allowing the details of corrosion and weed growth to stand out. The camera is positioned at eye level, close to the swing, using a 35 mm lens to fill the frame with the damaged equipment and overgrown vegetation. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/illegal-activities-on-the-rise-in-unmaintained-damaged-park/4377468",
-   "published": "2026-11-16T07:11:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834236/karur360/fqcdohfcw6l4kmfyv77f.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834239/karur360/ve2upresjq21p0dxs1a9.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தென்னிலையில் சட்டவிரோதமாக கொட்டப்படும் கோழிக்கழிவுகளால் கடும் துர்நாற்றம்",
-   "english_headline": "Illegal chicken waste dumping causes severe stench and health hazard in Thennilai, Karur district",
-   "category": "Civic Issues",
-   "location": "Thennilai Thenpagam, Senjeri Valasu Colony, Aravakurichi taluk, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சுகாதார சீர்கேடு",
-    "loc": "தென்னிலை, அரவக்குறிச்சி",
-    "hl1": "தென்னிலையில் கோழிக்கழிவுகளால் கடும்",
-    "hl2": "உடனடி நடவடிக்கைக்கு கோரிக்கை",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சனை?",
-      "lines": [
-       "சில மாதங்களாக சாலை ஓரங்களிலும் பொது இடங்களிலும்",
-       "அதிகளவில் கொட்டப்பட்ட கழிவுகளால் கடும் துர்நாற்றம்",
-       "இருசக்கர வாகனங்களில் செல்வோர், நடந்து செல்வோர் அவதி"
-      ]
-     },
-     {
-      "title": "புகார் நிலை",
-      "lines": [
-       "சில மாதங்களுக்கு முன்பே சம்பந்தப்பட்ட துறை அதிகாரிகளிடம்",
-       "இதுவரை உரிய நடவடிக்கை எடுக்கப்படவில்லை என மக்கள் வேதனை"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "கழிவுகளைக் கொட்டுவோர் மீது கடும் நடவடிக்கை, கைது வேண்டும்",
-       "கொட்டப்பட்ட கழிவுகளை உடனடியாக அகற்ற வேண்டும்",
-       "கிருமிநாசினி தெளித்து முழுமையாக சுத்திகரிக்க வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தென்னிலை தென்பாகம் செஞ்சேரிவலசு காலனி பகுதியில் கோழிக்கழிவுகளால் கடும் துர்நாற்றம் வீசுகிறது. கடந்த சில மாதங்களாக சட்டவிரோதமாக கோழிக்கழிவுகள் சாலை ஓரங்களிலும் பொது இடங்களிலும் கொட்டப்படுவதாக பொதுமக்கள் குற்றம் சாட்டியுள்ளனர். அதிகளவில் கொட்டப்பட்டுள்ள கழிவுகளால் இருசக்கர வாகனங்களில் செல்வோர், நடந்து செல்வோர் மற்றும் அப்பகுதியில் குடியிருப்போர் கடும் அவதிக்கு உள்ளாகி வருகின்றனர். இதுகுறித்து சில மாதங்களுக்கு முன்பே சம்பந்தப்பட்ட துறை அதிகாரிகளிடம் புகார் அளிக்கப்பட்டது. ஆனால் இதுவரை உரிய நடவடிக்கை எடுக்கப்படவில்லை என அப்பகுதி மக்கள் வேதனை தெரிவித்துள்ளனர். கோழிக்கழிவுகளைக் கொட்டுவோர் மீது கடும் நடவடிக்கை எடுத்து கைது செய்ய வேண்டும் என மக்கள் வலியுறுத்தியுள்ளனர். தற்போது கொட்டப்பட்டுள்ள கோழிக்கழிவுகளை உடனடியாக அகற்றி, கிருமிநாசினி தெளித்து முழுமையான சுத்திகரிப்பு பணிகளை மேற்கொள்ள வேண்டும் என்றும் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐔 தென்னிலையில் கோழிக்கழிவுகளால் கடும் துர்நாற்றம், உடனடி நடவடிக்கைக்கு கோரிக்கை\n\n📰 முழு விவரம்:\nதென்னிலை தென்பாகம், செஞ்சேரிவலசு காலனி பகுதியில் சட்டவிரோதமாக கோழிக்கழிவுகள் சாலை ஓரங்களிலும் பொது இடங்களிலும் கொட்டப்படுவதாக பொதுமக்கள் குற்றம் சாட்டியுள்ளனர். அதிகளவில் கொட்டப்பட்ட கழிவுகளால் கடும் துர்நாற்றம் வீசுவதாகவும், இருசக்கர வாகனங்களில் செல்வோர், நடந்து செல்வோர் மற்றும் அங்கு குடியிருப்போர் அவதிப்படுவதாகவும் தெரிவித்துள்ளனர். சில மாதங்களுக்கு முன்பே சம்பந்தப்பட்ட துறை அதிகாரிகளிடம் புகார் அளிக்கப்பட்டதாகவும், இதுவரை உரிய நடவடிக்கை எடுக்கப்படவில்லை என்றும் மக்கள் வேதனை தெரிவித்துள்ளனர்.\n📍 இடம்: தென்னிலை தென்பாகம், செஞ்சேரிவலசு காலனி, அரவக்குறிச்சி, கரூர் மாவட்டம்\n👮 கோரிக்கை: கழிவுகளைக் கொட்டுவோர் மீது கடும் நடவடிக்கை எடுத்து கைது செய்ய வேண்டும்\n🧹 கொட்டப்பட்டுள்ள கோழிக்கழிவுகளை உடனடியாக அகற்றி, கிருமிநாசினி தெளித்து முழுமையாக சுத்திகரிக்க வேண்டும் என கோரிக்கை.\n\nChicken waste dumping stench Thennilai Karur | Karur news\n📍 தென்னிலை, அரவக்குறிச்சி, கரூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
-   "prompts": "A heap of dumped chicken waste lies on the side of a narrow village road in Senjeri Valasu Colony, Thennilai, while a two-wheeler rider passes by holding a cloth over the nose against the stench. The road edge is lined with low brick-and-tile houses and bare earth patches, with a few plastic sacks and scattered feathers around the pile. A couple of local residents stand at a distance near a doorway, one covering the face with a towel, others from behind in shirts and veshti or sarees and salwar. Daylight, slightly overcast sky, dusty road surface after recent dumping. Camera at eye level, 35 mm, wide enough to show the road, the heap and the houses along the lane. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a fresh pile of chicken waste dumped on bare ground beside a roadside drain in a village colony, with flies hovering over the dark, damp heap and loose feathers scattered on the mud. A worn plastic sack and a few dry twigs lie next to it, and the edge of a concrete drain and a cracked tar patch frame the scene. In the soft background a resident in a faded shirt stands far off, seen from behind, pinching a cloth to the nose. Daylight, midday, no direct sun on the pile. Camera slightly high, 35 mm, focused on the heap with the road and houses blurred behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/serious-health-hazards-caused-by-poultry/4377477",
-   "published": "2026-11-16T07:16:00+05:30",
+   "reel_script": "குளித்தலை அருகே இரண்டு டவுன் பஞ்சாயத்துகளுக்குப் புதிய செயல் அலுவலர்கள் பொறுப்பேற்றுள்ளனர். திண்டுக்கல் மாவட்டம் வேடச்சந்தூர் டவுன் பஞ்சாயத்தில் இளநிலை உதவியாளராகப் பணியாற்றிய அல்லிமுத்து, பதவி உயர்வு பெற்று மருதூர் டவுன் பஞ்சாயத்தின் செயல் அலுவலராகப் பொறுப்பேற்றார். திண்டுக்கல் மாவட்டம் வத்தலக்குண்டு டவுன் பஞ்சாயத்தில் இளநிலை உதவியாளராகப் பணியாற்றிய முருகேசன், பதவி உயர்வுடன் நங்கவரம் டவுன் பஞ்சாயத்தின் செயல் அலுவலராகப் பொறுப்பேற்றார். இருவருக்கும் டவுன் பஞ்சாயத்துத் தலைவர்கள், துணைத் தலைவர்கள், கவுன்சிலர்கள் மற்றும் அலுவலர்கள் வாழ்த்து தெரிவித்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ குளித்தலை அருகே மருதூர், நங்கவரம் டவுன் பஞ்சாயத்துகளுக்குப் புதிய செயல் அலுவலர்கள்\n\n📰 முழு விவரம்:\nதிண்டுக்கல் மாவட்டம் வேடச்சந்தூர் டவுன் பஞ்சாயத்தில் இளநிலை உதவியாளராகப் பணியாற்றிய அல்லிமுத்து, பதவி உயர்வு பெற்று குளித்தலை அருகே மருதூர் டவுன் பஞ்சாயத்தின் செயல் அலுவலராகப் பொறுப்பேற்றுக்கொண்டார்.\nதிண்டுக்கல் மாவட்டம் வத்தலக்குண்டு டவுன் பஞ்சாயத்தில் இளநிலை உதவியாளராகப் பணியாற்றிய முருகேசன், பதவி உயர்வுடன் நங்கவரம் டவுன் பஞ்சாயத்தின் செயல் அலுவலராகப் பொறுப்பேற்றுக்கொண்டார்.\nமருதூர் டவுன் பஞ்சாயத்துத் தலைவர் சகுந்தலா, நங்கவரம் டவுன் பஞ்சாயத்துத் தலைவர் ராஜேஸ்வரி, துணைத் தலைவர்கள், கவுன்சிலர்கள், அலுவலர்கள், செயல் அலுவலர்கள் ஆகியோர் இருவருக்கும் வாழ்த்து தெரிவித்தனர்.\n\nKulithalai Maruthur Nangavaram town panchayat new executive officers | Karur news\n📍 மருதூர், நங்கவரம், குளித்தலை, கரூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "A newly promoted executive officer in a plain shirt and trousers stands at the front of a government office room in the town panchayat office at Maruthur, Kulithalai taluk, Karur district, receiving congratulations as town panchayat councillors and office staff gather around him. Seen from behind and slightly to the side, a group of councillors and office staff, women in cotton sarees and men in shirts with veshti, stands near a wooden desk piled with official files and registers. The room has plain walls, ceiling fans, and a row of wooden chairs. Daylight comes through the windows, suggesting a midday office setting. Camera at eye level, 35 mm, wide enough to show the room and the group of officials. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden office desk in a town panchayat office in Karur district, with a stack of official files and a bound register open on top, a steel pen stand and a small garland of flowers placed beside a brass lamp. Behind the desk, slightly out of focus, a government officer in a shirt stands with councillors in sarees and shirts. Plain whitewashed wall and a wooden almirah in the background. Daylight from a window falls across the papers. Camera slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4377475",
+   "published": "2026-11-16T07:15:00+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834302/karur360/fhaurldzxc1oammnrflo.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834315/karur360/cb88tkvnmbaz26spaxmh.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794849448/karur360/jumzvotrkt9zgp1pckqr.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794849450/karur360/dn854kaoku9ulqdjjmsj.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூரில் பேரறிஞர் அண்ணா பிறந்தநாள் மாரத்தான் போட்டி: வெற்றியாளர்களின் வங்கி கணக்கில் பரிசுத் தொகை வரவு",
-   "english_headline": "Marathon held in Karur for Annadurai birth anniversary; prize money to be credited directly to winners' bank accounts",
+   "tamil_headline": "அமைச்சர் அருகே கட்சி நிர்வாகிக்கு இருக்கை; அதிகாரிகள் பின்புறம் நின்றனர், சர்ச்சை",
+   "english_headline": "Party secretary seated beside minister at Karur animal hospital inspection; RDO and joint director stood behind, controversy erupts",
    "category": "Government & Services",
-   "location": "Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மாரத்தான் போட்டி",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் அண்ணா பிறந்தநாள் மாரத்தான்",
-    "hl2": "வங்கிக் கணக்கில்",
-    "slides": [
-     {
-      "title": "மாரத்தான் போட்டி",
-      "lines": [
-       "பேரறிஞர் அண்ணா பிறந்தநாளை முன்னிட்டு <b>மாரத்தான் போட்டி</b>",
-       "கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் தொடக்கம்",
-       "ஆட்சியர் பிரசன்னா ராமசாமி தொடங்கி வைத்தார்"
-      ]
-     },
-     {
-      "title": "எங்கு வரை?",
-      "lines": [
-       "விளையாட்டு மைதானம் முதல் <b>கலெக்டர் அலுவலகம்</b> வரை",
-       "மாணவ, மாணவியர் மற்றும் பொதுமக்கள் என <b>2 பிரிவுகள்</b>",
-       "திரளானோர் பங்கேற்று ஓடினர்"
-      ]
-     },
-     {
-      "title": "பரிசு விவரம்",
-      "lines": [
-       "வெற்றி பெற்றவர்களின் <b>வங்கி கணக்கில்</b> பரிசு வரவு",
-       "கிருஷ்ணராயபுரம் எம்.எல்.ஏ. சத்யா பங்கேற்பு",
-       "ஆர்.டி.ஓ. கார்த்திகேயன், விளையாட்டு அலுவலர் டேவிட் பங்கேற்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் பேரறிஞர் அண்ணா பிறந்தநாளை முன்னிட்டு நேற்று மாரத்தான் போட்டி நடைபெற்றது. கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் தொடங்கிய இந்தப் போட்டி கலெக்டர் அலுவலகம் வரை நடத்தப்பட்டது. இந்த மாரத்தான் போட்டியை கரூர் மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி தொடங்கி வைத்தார். இந்தப் போட்டி மாணவ, மாணவியர் மற்றும் பொதுமக்கள் என 2 பிரிவுகளாக நடத்தப்பட்டது. போட்டியில் வெற்றி பெற்றவர்களின் வங்கி கணக்கிற்கு பரிசுத் தொகை நேரடியாக வரவு வைக்கப்பட உள்ளது. இந்த தொடக்க விழாவில் கிருஷ்ணராயபுரம் சட்டமன்ற உறுப்பினர் சத்யா கலந்துகொண்டார். மேலும் கரூர் வருவாய் கோட்டாட்சியர் கார்த்திகேயன் மற்றும் மாவட்ட விளையாட்டு அலுவலர் டேவிட் டேனியல் உள்ளிட்ட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏃 கரூரில் பேரறிஞர் அண்ணா பிறந்தநாள் மாரத்தான் போட்டி: வெற்றியாளர்கள் வங்கி கணக்கில் பரிசுத் தொகை வரவு\n\n📰 முழு விவரம்:\nமுன்னாள் முதல்வர் அண்ணாதுரை பிறந்தநாளை முன்னிட்டு கரூரில் நேற்று மாரத்தான் போட்டி நடைபெற்றது. கரூர் மாவட்ட அரசு விளையாட்டு மைதானத்தில் இருந்து தொடங்கிய இந்த ஓட்டப்பந்தயம், கலெக்டர் அலுவலகம் வரை நடத்தப்பட்டது. இப்போட்டியை கரூர் மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி கொடியசைத்து தொடங்கி வைத்தார். மாணவ, மாணவியர் மற்றும் பொதுமக்கள் என 2 பிரிவுகளாக போட்டிகள் நடத்தப்பட்டன. இதில் வெற்றி பெற்றவர்களின் வங்கி கணக்கிற்கு நேரடியாக பரிசுத் தொகை வரவு வைக்கப்பட உள்ளது. இந்நிகழ்ச்சியில் கிருஷ்ணராயபுரம் சட்டமன்ற உறுப்பினர் சத்யா, கரூர் வருவாய் கோட்டாட்சியர் கார்த்திகேயன், மாவட்ட விளையாட்டு அலுவலர் டேவிட் டேனியல் உள்ளிட்ட பலர் கலந்துகொண்டனர்.\n\n📍 இடம்: கரூர் மாவட்ட அரசு விளையாட்டு மைதானம் முதல் கலெக்டர் அலுவலகம் வரை\n🗓️ நாள்: 15 நவம்பர் 2026 (நேற்று)\n🏆 பிரிவுகள்: மாணவ, மாணவியர் மற்றும் பொதுமக்கள் (2 பிரிவுகள்)\n🎁 பரிசு: வெற்றியாளர்களின் வங்கி கணக்கில் நேரடியாக வரவு வைக்கப்படும்\n👤 பங்கேற்றோர்: ஆட்சியர் பிரசன்னா ராமசாமி, எம்.எல்.ஏ. சத்யா, RTO கார்த்திகேயன், விளையாட்டு அலுவலர் டேவிட் டேனியல்\n\nநண்பர்களுக்கும் விளையாட்டு வீரர்களுக்கும் Share செய்யுங்கள்!\n\nKarur marathon race Annadurai birth anniversary | Karur news\n📍 கரூர் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #Marathon",
-   "prompts": "A line of runners in sports vests and shorts starts a road race from the district government sports ground in Karur town, with officials and a flag-off stand at the start line. The runners, a mix of school students in Tamil Nadu school sports uniform and adult men and women from the public, are seen from behind as they begin running along a tree-lined road toward the Collector's office. A few officials in shirts and trousers stand at the side near a raised platform and a plain white start-line arch with no readable text. Behind them the sports ground's open field and a few parked two-wheelers and a town bus pass by under a bright daylight sky. The camera is at eye level, slightly high, using a 35 mm lens wide enough to show the starting ground, the runners, and the road ahead. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of race bibs pinned to the vests of runners lined up behind a starting tape stretched across the road, with a few hands holding a stopwatch and a whistle in the foreground. Blurred runners in white and coloured sports clothing stand shoulder to shoulder behind the tape, seen from behind, while a corporation road edge and a short concrete barrier run along the frame. In the background, a row of officials in shirts and trousers stand near the start point under daylight. Clean, sharp focus on the bibs and the tape, shallow depth of field, 35 mm, eye level, bright morning light. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/annadurais-birthday-celebration-marathon-competition/4377469",
-   "published": "2026-11-16T07:12:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article",
-   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834321/karur360/dimodwfxvlktqtrai4iv.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834324/karur360/uxaugzpxahnnc97c1trp.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மாயனூர் கதவணையில் மீன் விற்பனை சுறுசுறுப்பு: கிலோ ₹140 முதல் ₹650 வரை",
-   "english_headline": "Brisk fish sales at Mayanur barrage yesterday; prices from Rs 100 to Rs 650 per kg",
-   "category": "Business & Prices",
-   "location": "Mayanur barrage, Krishnarayapuram taluk, Karur district",
-   "importance": "Low",
+   "location": "Kolanthakavundanur, Karur district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மீன் விற்பனை",
-    "loc": "மாயனூர், கிருஷ்ணராயபுரம்",
-    "hl1": "மாயனூர் கதவணையில் மீன் விற்பனை",
-    "hl2": "கிலோ ₹100 முதல் ₹650 வரை",
+    "cat": "அரசு நிகழ்ச்சி",
+    "loc": "கொளந்தாகவுண்டனூர், கரூர்",
+    "hl1": "அமைச்சர் அருகே கட்சி நிர்வாகிக்கு",
+    "hl2": "அதிகாரிகள் பின்புறம்",
     "slides": [
      {
-      "title": "எங்கே?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "கிருஷ்ணராயபுரம் அடுத்த மாயனூர் கதவணையில் மீன் விற்பனை",
-       "காவிரி ஆற்றின் குறுக்கே கட்டப்பட்ட கதவணை நீரில் மீன்",
-       "உள்ளூர் மீனவர்கள் பரிசலில் சென்று மீன் பிடிக்கின்றனர்"
+       "கரூர் கொளந்தாகவுண்டனூரில் கால்நடை மருத்துவமனை ஆய்வு",
+       "அமைச்சர் கமலி ஆய்வு செய்து நிருபர்களிடம் பேட்டி அளித்தார்",
+       "இந்த விவகாரம் தற்போது சர்ச்சையாகி வருகிறது"
       ]
      },
      {
-      "title": "விலை நிலவரம்",
+      "title": "யார் எங்கே",
       "lines": [
-       "ஜிலேபி மீன் ஒரு கிலோ <b>₹140</b>",
-       "கெண்டை மீன் <b>₹100</b>, விரால் <b>₹650</b>",
-       "கொக்கு மீன் <b>₹230</b>, பாறை <b>₹200</b>"
+       "அமைச்சர் அருகில் கலெக்டர் பிரசன்னா ராமசாமி அமர்ந்தார்",
+       "கிருஷ்ணராயபுரம் எம்.எல்.ஏ. சத்யாவும் அமர்ந்தார்",
+       "எம்.எல்.ஏ.வுக்கு அருகில் மதியழகன் அமர வைக்கப்பட்டார்"
       ]
      },
      {
-      "title": "யார் வாங்கினர்?",
+      "title": "அதிகாரிகள் எங்கே?",
       "lines": [
-       "கரூர், புலியூர், சேங்கல், லாலாப்பேட்டை பகுதி மக்கள்",
-       "திருக்காம்புலியூர், மகாதானபுரம் பகுதி மக்கள்",
-       "அதிகாலை முதலே வந்து வாங்கிச் சென்றனர்"
+       "கரூர் ஆர்.டி.ஓ. கார்த்திகேயன் அமைச்சர் பின்புறம் நின்றார்",
+       "கால்நடை மண்டல இணை இயக்குனர் விஜயகுமார் பின்புறம் நின்றார்",
+       "இருக்கை ஏற்பாடு குறித்து விவாதம் எழுந்துள்ளது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "மாயனூர் கதவணையில் நேற்று மீன் விற்பனை சுறுசுறுப்பாக நடந்தது. ஜிலேபி மீன் ஒரு கிலோ 140 ரூபாய். கெண்டை மீன் 100 ரூபாய். விரால் 650 ரூபாய். கொக்கு மீன் 230 ரூபாய். பாறை 200 ரூபாய். கிருஷ்ணராயபுரம் அடுத்த மாயனூர் காவிரி ஆற்றின் குறுக்கே கட்டப்பட்ட கதவணையில் மீன்கள் வளர்க்கப்படுகின்றன. உள்ளூர் மீனவர்கள் பரிசலில் சென்று மீன்களைப் பிடித்து விற்பனை செய்கின்றனர். கரூர், புலியூர், சேங்கல், லாலாப்பேட்டை, திருக்காம்புலியூர், மகாதானபுரம் பகுதி மக்கள் அதிகாலை முதலே வந்து வாங்கிச் சென்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐟 மாயனூர் கதவணையில் நேற்று மீன் விற்பனை சுறுசுறுப்பு: கிலோ ₹100 முதல் ₹650 வரை\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த மாயனூர் காவிரி ஆற்றின் குறுக்கே கட்டப்பட்ட கதவணையில் சேமிக்கப்படும் நீரில் மீன்கள் வளர்க்கப்படுகின்றன. உள்ளூர் மீனவர்கள் பரிசலில் சென்று மீன்களைப் பிடித்து விற்பனை செய்கின்றனர்.\nநேற்று ஜிலேபி மீன் ஒரு கிலோ ₹140, கெண்டை மீன் ₹100, விரால் ₹650, கொக்கு மீன் ₹230, பாறை ₹200 என்ற விலையில் விற்பனை செய்யப்பட்டது.\nகரூர், புலியூர், சேங்கல், லாலாப்பேட்டை, திருக்காம்புலியூர், மகாதானபுரம் பகுதிகளைச் சேர்ந்த பொதுமக்கள் அதிகாலை முதலே வந்து மீன்களை வாங்கிச் சென்றனர்.\n\nMayanur barrage fish sale, prices Rs 100-650 per kg | Karur news\n📍 மாயனூர், கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
-   "prompts": "Local fishermen stand beside wooden coracles on the calm, wide Cauvery river at the Mayanur barrage in Krishnarayapuram taluk, Karur district, as early-morning buyers gather on the riverbank to purchase fresh fish. Fishermen in shirts and veshti lift and sort silvery fish from their baskets, and a few small boats called parisal are tied near the water's edge. Behind the calm water stretch the concrete gates of the barrage, with a line of paddy fields and palm trees on the far bank. Women in sarees and men in shirts crouch or stand in a loose group at the stall, seen from behind and far away. Early morning daylight, soft and misty over the river. Camera at eye level, 35 mm, wide enough to show the barrage, river and buyers together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of fresh fish spread on a plain cloth or metal tray at a riverside stall near the Mayanur barrage, Karur district, with several varieties visible: silvery jilebi fish, carp, a dark murrel and a few kokku fish. Hands of a fisherman in a checked shirt and a buyer's fingers pick through the catch, and a small weighing scale and a pile of coins sit at the edge of the frame. Damp sand, a plastic basket and a wet wooden coracle paddle are visible in the background. Early morning light, cool and soft, with river water droplets glistening on the fish. Camera slightly high, 35 mm macro-style detail shot with a shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fish-sale-on-the-rise-in-mayanur/4377471",
-   "published": "2026-11-16T07:13:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்), so the tamil_headline's ₹140 lower bound is wrong, and the caption/hl2 are inconsistent with it.; fact-check: The reel_script says the fish are sold 'நேற்று' (yesterday) only implicitly; however the caption and reel say 'சுறுசுறுப்பாக/சுறுசுறுப்பு' (brisk), which is an invented characterization not stated in the article.; fact-check: The reel_script and caption describe the barrage as 'சேமிக்கப்படும் நீரில்' only in the caption; the reel_script omits that the buyers came specifically to buy, which is fine, but the slide 'எங்கே?' line says fish are caught in the barrage water, which matches the article.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
+   "reel_script": "கரூர் கொளந்தாகவுண்டனூரில் அமைச்சருக்கு அருகில் கட்சி நிர்வாகிக்கு இருக்கை வழங்கப்பட்டதால் சர்ச்சை எழுந்துள்ளது. கால்நடை மண்டல இணை இயக்குனர் அலுவலக வளாகத்தில் உள்ள கால்நடை மருத்துவமனையை அமைச்சர் கமலி ஆய்வு செய்தார். ஆய்வுக்குப் பின் அவர் நிருபர்களிடம் பேட்டி அளித்தார். அப்போது அமைச்சர் கமலி அருகில் கலெக்டர் பிரசன்னா ராமசாமியும், கிருஷ்ணராயபுரம் சட்டமன்ற உறுப்பினர் சத்யாவும் அமர்ந்திருந்தனர். சட்டமன்ற உறுப்பினருக்கு அருகில் கரூர் த வெ க மேற்கு மாவட்ட செயலர் மதியழகன் அமர வைக்கப்பட்டிருந்தார். அதே நேரத்தில் கரூர் வருவாய் கோட்டாட்சியர் கார்த்திகேயனும், கால்நடை பராமரிப்புத்துறை மண்டல இணை இயக்குனர் விஜயகுமாரும் அமைச்சர் பின்புறம் நின்று கொண்டிருந்தனர். இந்த இருக்கை ஏற்பாடு தற்போது சர்ச்சையாகி வருகிறது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ அமைச்சர் அருகில் கட்சி நிர்வாகிக்கு இருக்கை; அதிகாரிகள் பின்புறம் நின்றனர், சர்ச்சை\n\n📰 முழு விவரம்:\nகரூர் கொளந்தாகவுண்டனூரில் உள்ள கால்நடை மண்டல இணை இயக்குனர் அலுவலக வளாகத்தில் உள்ள கால்நடை மருத்துவமனையை அமைச்சர் கமலி ஆய்வு செய்தார். பின்னர் நிருபர்களுக்குப் பேட்டியளித்தார்.\nஅமைச்சர் அருகில் கலெக்டர் பிரசன்னா ராமசாமி மற்றும் கிருஷ்ணராயபுரம் த.வெ.க. எம்.எல்.ஏ. சத்யா அமர்ந்திருந்தனர். எம்.எல்.ஏ.வுக்கு அருகில் கரூர் த.வெ.க. மேற்கு மாவட்ட செயலர் மதியழகன் அமர வைக்கப்பட்டிருந்தார்.\nஅதே சமயம் கரூர் ஆர்.டி.ஓ. கார்த்திகேயன் மற்றும் கால்நடை பராமரிப்புத்துறை மண்டல இணை இயக்குனர் விஜயகுமார் ஆகியோர் அமைச்சர் பின்புறம் நின்று கொண்டிருந்தனர்.\nஇந்த இருக்கை ஏற்பாடு தற்போது சர்ச்சையாகியுள்ளது.\n\nKarur minister seating row, party official beside minister | Karur news\n📍 கொளந்தாகவுண்டனூர், கரூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A minister sits at the centre of a dais in a government animal hospital compound in Kolanthakavundanur, Karur, giving an interview to a cluster of reporters holding microphones, while a few officials are seated beside her and two senior government officers in formal shirts and trousers stand behind her chair. The setting is a concrete veterinary hospital building with a plain front wall, a few government office rooms and a small green lawn at the edge of the compound, with a row of wooden chairs and a table covered with a cloth on a simple raised platform. Seated beside the minister are a woman collector in a cotton saree, an MLA in a shirt, and a middle-aged party district secretary in a white shirt and veshti, all seen from a distance and slightly from the back, with their faces turned away or blurred. Behind them stand the RDO and the regional joint director, both in formal shirts and trousers, seen from behind, with the reporters' microphones on stands in front of the table. The daylight is bright and clear, the camera sits at eye level about 35 mm wide, showing the whole dais, the reporters and the compound around the hospital building. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the press microphones clipped to a row of stands on a draped table at the government animal hospital in Kolanthakavundanur, with the cloth edge and a few plastic water bottles and paper files placed on the table. Beyond the table, at a little distance, the back of a standing officer in a pale shirt and dark trousers can be seen, slightly out of focus, with the veterinary hospital's plain concrete wall and a government office door in the background. Daylight falls evenly on the table, the mic stands and the wooden chairs, and the lawn edge is visible at the bottom of the frame. Shot at eye level with a shallow depth of field, the camera focuses on the microphones and the table to show the press-briefing setup of the official inspection. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/district-secretaries-are-not-the-seat-of-the-officers/4378134",
+   "published": "2026-11-16T21:41:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'கொளந்தாகவுண்டனூர்', e.g. 'கொளந்தாகவுண்டனூர்: ...' or 'கொளந்தாகவுண்டனூர்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834334/karur360/r5tzn1txmqmftuldbhux.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834337/karur360/i8drbjkpe3vjzhyfs9lk.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "லாலாப்பேட்டையில் வாழைத்தார் ஏலம்: ரஸ்தாளி ₹400, பூவன் ₹300, கற்பூரவள்ளி ₹200",
-   "english_headline": "Lalapettai banana bunch auction: Rasthali ₹400, Poovan ₹300, Karpuravalli ₹200 per bunch",
-   "category": "Weather & Agriculture",
-   "location": "Lalapettai, Krishnarayapuram taluk, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "லாலாப்பேட்டை, கிருஷ்ணராயபுரம்",
-    "hl1": "லாலாப்பேட்டையில் வாழைத்தார் ஏலம்",
-    "hl2": "ரஸ்தாளி ₹400 வரை விற்பனை",
-    "slides": [
-     {
-      "title": "எங்கே விற்பனை?",
-      "lines": [
-       "லாலாப்பேட்டை வாழைக்காய் ஏல கமிஷன் மண்டியில் விற்பனை",
-       "நேற்று நடந்த ஏலத்தில் வாழைத்தார்கள் விற்கப்பட்டன",
-       "உள்ளூர், வெளியூர் வியாபாரிகள் வாங்கிச் சென்றனர்"
-      ]
-     },
-     {
-      "title": "விலை நிலவரம்",
-      "lines": [
-       "ரஸ்தாளி வாழைத்தார் ஒன்று <b>₹400</b>",
-       "பூவன் வாழைத்தார் ஒன்று <b>₹300</b>",
-       "கற்பூரவள்ளி வாழைத்தார் ஒன்று <b>₹200</b>"
-      ]
-     },
-     {
-      "title": "வாழை சாகுபடி",
-      "lines": [
-       "கிருஷ்ணராயபுரம், கருப்பத்தூர், கள்ளப்பள்ளி பகுதிகளில் அதிக",
-       "வீரவள்ளி, நந்தன்கோட்டை, வீரகுமாரன்பட்டி பகுதிகளிலும் சாகுபடி",
-       "மகாதானபுரம், பொய்கைப்புத்தூரிலும் வாழை பயிரிடப்படுகிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "லாலாப்பேட்டையில் ரஸ்தாளி வாழைத்தார் ஒன்று ₹400 என்ற விலையில் விற்பனையானது. நேற்று லாலாப்பேட்டை வாழைக்காய் ஏல கமிஷன் மண்டியில் நடந்த விற்பனையில் இந்த விலை கிடைத்தது. பூவன் வாழைத்தார் ஒன்று ₹300க்கும், கற்பூரவள்ளி வாழைத்தார் ஒன்று ₹200க்கும் விற்பனை செய்யப்பட்டது. கிருஷ்ணராயபுரம், கருப்பத்தூர், கள்ளப்பள்ளி, வீரவள்ளி, நந்தன்கோட்டை, வீரகுமாரன்பட்டி, மகாதானபுரம், பொய்கைப்புத்தூர் ஆகிய பகுதிகளில் வாழை சாகுபடி அதிகளவில் நடைபெறுகிறது. இப்பகுதி விவசாயிகள் ரஸ்தாளி, கற்பூரவள்ளி, பூவன் ரக வாழைத்தார்களை அதிகம் பயிரிடுகின்றனர். விளைந்த வாழைத்தார்களை அறுவடை செய்து மண்டிக்கு கொண்டு வந்து விற்பனை செய்கின்றனர். உள்ளூர், வெளியூர் வியாபாரிகள் வாங்கிச் சென்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🍌 லாலாப்பேட்டையில் ரஸ்தாளி வாழைத்தார் ₹400 வரை விற்பனை\n\n📰 முழு விவரம்:\nலாலாப்பேட்டை வாழைக்காய் ஏல கமிஷன் மண்டியில் நேற்று நடந்த விற்பனையில் வாழைத்தார்கள் விற்கப்பட்டன. ரஸ்தாளி வாழைத்தார் ஒன்று ₹400, பூவன் வாழைத்தார் ஒன்று ₹300, கற்பூரவள்ளி வாழைத்தார் ஒன்று ₹200 என்ற விலையில் விற்பனை செய்யப்பட்டது. உள்ளூர், வெளியூர் வியாபாரிகள் வாங்கிச் சென்றனர்.\nகிருஷ்ணராயபுரம், கருப்பத்தூர், கள்ளப்பள்ளி, வீரவள்ளி, நந்தன்கோட்டை, வீரகுமாரன்பட்டி, மகாதானபுரம், பொய்கைப்புத்தூர் ஆகிய பகுதிகளில் வாழை சாகுபடி அதிகளவில் நடைபெறுகிறது. இங்குள்ள விவசாயிகள் ரஸ்தாளி, கற்பூரவள்ளி, பூவன் ரக வாழைத்தார்களை அதிக அளவில் பயிரிடுகின்றனர்.\n\n📍 இடம்: லாலாப்பேட்டை வாழைக்காய் ஏல கமிஷன் மண்டி, கிருஷ்ணராயபுரம் வட்டம்\n🗓️ நாள்: நேற்று (நவ. 15, 2026)\n\nBanana bunch auction Lalapettai Karur | Karur news\n📍 லாலாப்பேட்டை, கரூர் மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A banana auction is underway in the open mandi yard at Lalapettai, Krishnarayapuram taluk, Karur district, where local farmers and traders gather around heaps of freshly harvested banana bunches. Large green and yellow Rasthali, Poovan and Karpuravalli bunches are piled high on the concrete floor and tarpaulin sheets under a corrugated tin roof shed, with a few bunches hanging from a bamboo pole. Traders in shirts and veshti stand in a loose circle, some pointing and bargaining, while farmers in lungis and towels sit on their heels beside their produce, seen from behind and at a distance. Two tractor trolleys loaded with more bunches are parked at the edge of the yard, and a few cotton sacks lie open with banana leaves scattered on the ground. It is bright daylight with soft, warm sun filtering through the shed, and the air looks dusty and busy. Shot at eye level with a 35 mm lens, wide enough to show the whole mandi and the stacks of bunches. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of several freshly cut banana bunches lying on a bed of green banana leaves on the floor of the Lalapettai auction yard, showing the clearly different colours and ripeness of Rasthali bunches (golden yellow), Poovan bunches (green-yellow) and Karpuravalli bunches (smaller, greener fingers). Bare feet and the edge of a cotton veshti of a trader are visible at the frame's edge, with a wooden weighing scale or a bamboo pole lying nearby. Dappled daylight falls on the bunches from the shed roof, with a dusty concrete background. Shot from slightly above at about 45 degrees with a 35 mm lens, shallow depth of field keeping the bunches in sharp focus. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/banana-auction-in-lalapet/4377472",
-   "published": "2026-11-16T07:13:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834343/karur360/guha8is4ljnpfl57jb2v.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794834345/karur360/xotjiqqovw9wkhqcrcwd.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794849488/karur360/i7flpp5ekxnypor4bmxg.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794849494/karur360/sttzob8q65d7k4xjdzug.jpg"
    ]
   }
  ]
