@@ -32,3 +32,145 @@
 08:10:17   15. [பொது] தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் செ.கமலி (தினமணி)
 08:10:17 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-17_08
+08:10:18 a round time was skipped by GitHub since the last round - this round writes 7 (its own 5 + the skipped round's)
+08:10:18    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பின் அவசியம் குறித்து விழிப்புணர்வு பேரணி
+08:10:18 round 2026-11-17_08 (at least 7, up to 3 more of well-watched topics): 14 news to choose from (0 from earlier rounds), ranked by this page's insights
+08:10:18   PICK   1.  12.3 [crime +0.33 page] சேவல் சண்டை 5 பேர் கைது
+08:10:18   PICK   2.  10.0 [other +0.00 pattern] போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:10:18   PICK   3.   9.8 [jobs +0.60 pattern] வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:10:18   PICK   4.   8.0 [other +0.00 pattern] மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:10:18   PICK   5.   7.0 [other +0.00 pattern] இன்று கல்வி கடன் விழிப்புணர்வு முகாம்
+08:10:18   PICK   6.   6.0 [other +0.00 pattern] குறைதீர் கூட்டத்தில் மனு
+08:10:18   PICK   7.   6.0 [other +0.00 pattern] பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:10:18          8.   6.0 [other +0.00 pattern] ஜனநாயக வாலிபர் சங்கம் ஆர்ப்பாட்டம்
+08:10:18          9.   6.0 [other +0.00 pattern] கிருஷ்ணராயபுரத்தில் நாளை உங்களை தேடி உங்கள் ஊரில்
+08:10:18         10.   5.0 [other +0.00 pattern] பாலமுருகன் கோவிலில் திருக்கல்யாண வைபவம்
+08:10:18         11.   4.0 [politics +0.26 page] கால்நடை மருத்துவமனையில் அமைச்சர் கமலி ஆய்வு
+08:10:18         12.   4.0 [civic -0.50 page] க.பரமத்தியில் 40 ஆண்டாக சீரமைக்காத சாலையால் அவதி
+08:10:18         13.   3.0 [other +0.00 pattern] வீட்டுமனை பட்டா கேட்டு கடவூர் தாசில்தார் ஆபீஸ் முன் மக்கள் க
+08:10:18         14.   1.5 [other +0.00 pattern] தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் 
+08:10:18 decided: automatic: top 7 of 14 by insights -> 7 news to write and post
+PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cockfight-5-people-arrested/4378298 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/protest-against-police-action/4378312 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/private-job-camp-to-be-held-in-20th/4378303 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/library-week-celebration-at-district-central-library/4378300 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/education-loan-awareness-camp-today/4378304 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/petition-to-the-court-of-appeal/4378301 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/permanent-employment-application-for-persons-with-disabilities/4378305
+08:15:34 7 listed news now in the Sheet
+08:15:45 instagram duplicate check karur: 50 recent posts read
+08:15:47 verify 2026-11-17_08: 0 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:15:47    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:15:47    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:15:47    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:15:47    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:15:47    NOT POSTED C947405c: queued RN-76 (Queued) - குறைதீர் கூட்டத்தில் மனு
+08:15:47    NOT POSTED Ce2b98eb: queued RN-78 (Queued) - இன்று கல்வி கடன் விழிப்புணர்வு முகாம்
+08:15:47    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:20:55 instagram duplicate check karur: 50 recent posts read
+08:20:56 verify 2026-11-17_08: 1 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:20:56    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:20:56    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:20:56    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:20:56    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:20:56    NOT POSTED Ce2b98eb: queued RN-78 (Queued) - இன்று கல்வி கடன் விழிப்புணர்வு முகாம்
+08:20:56    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:26:04 instagram duplicate check karur: 50 recent posts read
+08:26:06 verify 2026-11-17_08: 1 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:26:06    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:26:06    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:26:06    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:26:06    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:26:06    NOT POSTED Ce2b98eb: queued RN-78 (Queued) - இன்று கல்வி கடன் விழிப்புணர்வு முகாம்
+08:26:06    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:31:13 instagram duplicate check karur: 50 recent posts read
+08:31:15 verify 2026-11-17_08: 1 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:31:15    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:31:15    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:31:15    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:31:15    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:31:15    NOT POSTED Ce2b98eb: queued RN-78 (Queued) - இன்று கல்வி கடன் விழிப்புணர்வு முகாம்
+08:31:15    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:36:22 instagram duplicate check karur: 50 recent posts read
+08:36:24 verify 2026-11-17_08: 1 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:36:24    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:36:24    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:36:24    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:36:24    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:36:24    NOT POSTED Ce2b98eb: queued RN-78 (Queued) - இன்று கல்வி கடன் விழிப்புணர்வு முகாம்
+08:36:24    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:41:32 instagram duplicate check karur: 50 recent posts read
+08:41:34 verify 2026-11-17_08: 2 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:41:34    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:41:34    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:41:34    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:41:34    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:41:34    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:46:41 instagram duplicate check karur: 50 recent posts read
+08:46:43 verify 2026-11-17_08: 2 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:46:43    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:46:43    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:46:43    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:46:43    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:46:43    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:52:35 instagram duplicate check karur: 50 recent posts read
+08:52:36 verify 2026-11-17_08: 2 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:52:36    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:52:36    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:52:36    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:52:36    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:52:36    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+08:57:44 instagram duplicate check karur: 50 recent posts read
+08:57:46 verify 2026-11-17_08: 2 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+08:57:46    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+08:57:46    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+08:57:46    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+08:57:46    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+08:57:46    NOT POSTED Ce537769: queued RN-79 (Queued) - மாவட்ட மைய நூலகத்தில் நூலக வார விழா
+09:02:54 instagram duplicate check karur: 50 recent posts read
+09:02:56 verify 2026-11-17_08: 3 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:02:56    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:02:56    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:02:56    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+09:02:56    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:08:03 instagram duplicate check karur: 50 recent posts read
+09:08:05 verify 2026-11-17_08: 3 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:08:05    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:08:05    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:08:05    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+09:08:05    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:13:12 instagram duplicate check karur: 50 recent posts read
+09:13:13 verify 2026-11-17_08: 3 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:13:13    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:13:13    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:13:13    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+09:13:13    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:18:21 instagram duplicate check karur: 50 recent posts read
+09:18:22 verify 2026-11-17_08: 3 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:18:22    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:18:22    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:18:22    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+09:18:22    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:23:30 instagram duplicate check karur: 50 recent posts read
+09:23:31 verify 2026-11-17_08: 3 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:23:31    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:23:31    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:23:31    NOT POSTED C1670d05: queued RN-77 (Queued) - பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு
+09:23:31    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:28:37 instagram duplicate check karur: 50 recent posts read
+09:28:39 verify 2026-11-17_08: 4 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:28:39    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:28:39    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:28:39    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:33:45 instagram duplicate check karur: 50 recent posts read
+09:33:46 verify 2026-11-17_08: 4 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:33:46    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:33:46    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:33:46    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:38:52 instagram duplicate check karur: 50 recent posts read
+09:38:54 verify 2026-11-17_08: 4 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:38:54    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:38:54    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:38:54    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:44:01 instagram duplicate check karur: 50 recent posts read
+09:44:02 verify 2026-11-17_08: 4 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:44:02    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:44:02    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
+09:44:02    NOT POSTED C257d18b: queued RN-82 (Queued) - சேவல் சண்டை 5 பேர் கைது
+09:49:08 verify 2026-11-17_08: 5 of 7 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+09:49:08    SKIPPED C6843f51: skipped RN-81: held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the arti - போலீசாரை கண்டித்து ஆர்ப்பாட்டம்
+09:49:08    SKIPPED C7dfa027: skipped RN-80: held: fact-check problems - numbers not found in the article: 04324, 223555 - வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்
