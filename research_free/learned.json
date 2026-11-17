@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-17T10:43+05:30",
- "posts_measured": 72,
+ "updated": "2026-11-17T18:29+05:30",
+ "posts_measured": 75,
  "topic_weight": {
   "temple": 1.5,
-  "accident": 0.01,
-  "education": -0.32,
-  "poultry_agri": -0.33,
-  "politics": 0.29,
-  "civic": -0.4,
-  "crime": 0.05,
-  "weather": 0.25
+  "accident": -0.08,
+  "education": -0.18,
+  "poultry_agri": 0.18,
+  "politics": -0.03,
+  "civic": -0.47,
+  "crime": 0.19,
+  "weather": 0.15
  },
  "topic_n": {
-  "temple": 9,
+  "temple": 10,
   "accident": 8,
-  "education": 11,
+  "education": 12,
   "jobs": 2,
   "power_cut": 2,
   "poultry_agri": 6,
-  "politics": 5,
+  "politics": 6,
   "civic": 9,
   "crime": 7,
   "weather": 3
@@ -26,23 +26,23 @@
  "best_hours_ist": [
   19,
   11,
-  0,
+  23,
   16
  ],
  "top_openings": [
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
+  "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப",
   "🍌 லாலாப்பேட்டையில் ரஸ்தாளி வாழைத்தார் ₹400 வரை விற்பனை",
-  "🚨 குளித்தலை அருகே 3 பேர் மாயம்: போலீசார் விசாரணை",
-  "💉 குளித்தலை அருகே தடுப்பூசி போட்ட 45 நாள் பெண் குழந்தை உயிரிழப்பு"
+  "🚨 குளித்தலை அருகே 3 பேர் மாயம்: போலீசார் விசாரணை"
  ],
- "avg_watch_s": 6.6,
+ "avg_watch_s": 6.8,
  "best_topics": [
   "temple",
-  "politics",
-  "weather"
+  "crime",
+  "poultry_agri"
  ],
  "weak_topics": [
   "civic",
-  "poultry_agri"
+  "education"
  ]
 }
