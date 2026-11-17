@@ -1,24 +1,37 @@
-08:13:14 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
-08:13:16 SKIP RN-28 held: fact-check problems - numbers not found in the article: 77962, 83097
-08:13:16 SKIP RN-34 held: fact-check problems - fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, th
-08:13:16 SKIP RN-39 held: location is only the district - the town from the article is missing
-08:13:18 SKIP RN-43 held: fact-check problems - numbers not found in the article: 364800, 50
-08:13:20 SKIP RN-49 held: fact-check problems - numbers not found in the article: 135
-08:13:20 SKIP RN-70 held: fact-check problems - fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
+08:29:36 SKIP RN-12 held: fact-check problems - fact-check: reel_script says the complaint 'ஏற்பட்டது' / 'எழுந்தது' (was raised) rather than the article's statement that the accused 'கொடுத்தாராம்' — a reported allegation presented as an established
+08:29:39 SKIP RN-28 held: fact-check problems - numbers not found in the article: 77962, 83097
+08:29:39 SKIP RN-34 held: fact-check problems - fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, th
+08:29:39 SKIP RN-39 held: location is only the district - the town from the article is missing
+08:29:41 SKIP RN-43 held: fact-check problems - numbers not found in the article: 364800, 50
+08:29:44 SKIP RN-49 held: fact-check problems - numbers not found in the article: 135
+08:29:44 SKIP RN-70 held: fact-check problems - fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
 ::warning title=Held from posting RN-70::held: fact-check problems - fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
-08:13:20 SKIP RN-71 held: fact-check problems - fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்),
+08:29:44 SKIP RN-71 held: fact-check problems - fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்),
 ::warning title=Held from posting RN-71::held: fact-check problems - fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்),
-08:13:22 story catch-up karur: quota 19/50, 40 recent posts, 4 live stories, owner ids ['17841444626877594', '29966472656372622']
-08:13:22 9 stories in the queue, ready to post: 1
-08:13:22   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-08:13:22    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 83.9 ready= False set_started= True
-08:13:22    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 62.7 ready= False set_started= True
-08:13:22    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 58.7 ready= False set_started= True
-08:13:22    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 50.6 ready= False set_started= True
-08:13:22    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 46.2 ready= False set_started= True
-08:13:22    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 38.6 ready= False set_started= True
-08:13:22    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 13.6 ready= False set_started= True
-08:13:22    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 13.6 ready= False set_started= True
-08:13:22    RN-76 review= 'Auto' images= 195 spec= 797 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
-08:13:23 publishing quota karur: 19/50
-08:13:25 instagram duplicate check karur: 50 recent posts read
+08:29:47 SKIP RN-80 held: fact-check problems - numbers not found in the article: 04324, 223555
+::warning title=Held from posting RN-80::held: fact-check problems - numbers not found in the article: 04324, 223555
+08:29:47 SKIP RN-81 held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is 
+::warning title=Held from posting RN-81::held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is 
+08:29:49 story catch-up karur: quota 20/50, 40 recent posts, 4 live stories, owner ids ['17841444626877594', '29966472656372622']
+08:29:49 14 stories in the queue, ready to post: 4
+08:29:49   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+08:29:49    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 84.2 ready= False set_started= True
+08:29:49    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 62.9 ready= False set_started= True
+08:29:49    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 58.9 ready= False set_started= True
+08:29:49    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 50.8 ready= False set_started= True
+08:29:49    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 46.4 ready= False set_started= True
+08:29:49    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 38.9 ready= False set_started= True
+08:29:49    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 13.9 ready= False set_started= True
+08:29:49    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 13.9 ready= False set_started= True
+08:29:49    RN-77 review= 'Auto' images= 195 spec= 636 pages= ['karur'] links= '' '' age_h= 0.3 ready= True set_started= True
+08:29:49    RN-78 review= 'Auto' images= 195 spec= 828 pages= ['karur'] links= '' '' age_h= 0.3 ready= True set_started= True
+08:29:49    RN-79 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 0.3 ready= True set_started= True
+08:29:49    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 0.3 ready= False set_started= True
+08:29:49    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 0.2 ready= False set_started= True
+08:29:49    RN-82 review= 'Auto' images= 195 spec= 878 pages= ['karur'] links= '' '' age_h= 0.2 ready= True set_started= True
+08:29:50 publishing quota karur: 20/50
+08:29:51 instagram duplicate check karur: 50 recent posts read
+08:29:51    RN-79 waits for the 12-minute gap after the last post on ['karur']
+08:29:51    RN-77 waits for the 12-minute gap after the last post on ['karur']
+08:29:51    RN-82 waits for the 12-minute gap after the last post on ['karur']
+08:29:51 prebuilding ahead of the set start: ['RN-77', 'RN-79', 'RN-82']
