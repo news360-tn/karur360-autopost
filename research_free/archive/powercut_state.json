@@ -1,137 +1,5 @@
 {
  "seen": {
-  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/road-widening-work-stalled-public-stages-a-road-blockade": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "கிடப்பில் சாலை விரிவாக்கப் பணி பொதுமக்கள் சாலை மறியல்"
-  },
-  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/போக்ஸோ-சட்டத்தில்-கைதானதொழிலாளிக்கு-5-ஆண்டுகள்-சிறை": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "போக்ஸோ சட்டத்தில் கைதான தொழிலாளிக்கு 5 ஆண்டுகள் சிறை"
-  },
-  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/organs-donated-by-a-person-declared-brain-dead-following-an-accident-body-cremated-with-state-honors": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "விபத்தில் மூளைச்சாவு அடைந்தவரின் உறுப்புகள் தானம்: அரசு மரியாதையுடன் உடல் தகனம்"
-  },
-  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/12/856-lakh-voters-in-karur-district": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "கரூா் மாவட்டத்தில் 8.56 லட்சம் வாக்காளா்கள்"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vaccination-female-infant-death/4374860": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "தடுப்பூசி: பெண் சிசு உயிரிழப்பு"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cattle-breeding-training-course-to-be-held-on-17th/4374859": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "வரும் 17ல் கறவை மாடு வளர்ப்பு பயிற்சி வகுப்பு"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/free-blood-test-camp-at-maravapalayam/4374858": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "மரவாபாளையத்தில் இலவச ரத்த பரிசோதனை முகாம்"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/collector-inspects-government-medical-college-hospital/4374857": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் கலெக்டர் ஆய்வு"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/temple-peeth-damage-case-filed-by-police/4374856": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "கோவில் பீடம் சேதம் போலீசார் வழக்கு"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/snake-rescued-from-judges-apartment/4374855": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "நீதிபதி குடியிருப்பில் சிக்கிய கொம்பேறி மூக்கன் பாம்பு மீட்பு"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-the-hive-that-threatened-the-people/4374854": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "மக்களை அச்சுறுத்திய கதண்டு கூடு அகற்றம்"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/naga-chaturthi-worship-at-pambalamman-temple/4374853": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "பாம்பாலம்மன் கோவிலில் நாக சதுர்த்தி வழிபாடு"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mentally-ill-married-woman-goes-missing/4374851": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "மனநலம் பாதிக்கப்பட்ட திருமணமான பெண் மாயம்"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/government-honours-karur-youth-for-donating-organs/4374850": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "உடல் உறுப்புகளை தானம் செய்த கரூர் இளைஞருக்கு அரசு மரியாதை"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-responsibility/4374849": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "டி.ஆர்.ஓ., பொறுப்பேற்பு"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-group-4-exam-online-training/4374848": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "டி.என்.பி.எஸ்.சி., குருப் 4 தேர்வு இணைய வழியில் பயிற்சி"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/108th-anniversary-of-union-bank-of-india/4374847": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "யூனியன் வங்கியின் 108-வது ஆண்டு விழா"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/nurses-stage-protest/4374845": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "கோரிக்கைகளை வலியுறுத்தி செவிலியர் ஆர்ப்பாட்டம்"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/road-blockade-demanding-basic-amenities/4374844": {
-   "at": "2026-11-13T06:55:08.402773+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "அடிப்படை வசதிகள் செய்து தரக்கோரி சாலை மறியல்"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/district-draft-electoral-roll-released-in-four-constituencies-8-56-lakh-electors/4374840": {
-   "at": "2026-11-13T07:21:55.345354+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "மாவட்ட வரைவு வாக்காளர் பட்டியல் வெளியீடு நான்கு தொகுதியில், 8.56 லட்சம் வாக்காளர்கள்"
-  },
-  "https://www.dinamalar.com/amp/news/puducherry/today-s-power-outage-puducherry/4374265": {
-   "at": "2026-11-13T11:12:11.551342+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "இன்றைய மின் தடை: புதுச்சேரி"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/today-s-power-outage-coimbatore/4358790": {
-   "at": "2026-11-13T13:28:19.581460+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "இன்றைய மின் தடை: கோயம்புத்தூர்"
-  },
   "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-12-11-2026-vellore-karur-kovai-power-cut-areas-affected-279432#district-section": {
    "at": "2026-11-13T16:47:07.247575+05:30",
    "power_cut": true,
@@ -755,6 +623,150 @@
    "power_cut": false,
    "why": "not this district",
    "title": "கலெக்டர் ஆபீசில் மின்தடை லிப்டில் சிக்கி 5 பேர் தவிப்பு"
+  },
+  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/16/தமிழகத்தில்-பறவைக்-காய்ச்சல்-இல்லை-கால்நடைத்-துறை-அமைச்சா்-செகமலி": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் செ.கமலி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/protest-against-police-action/4378312": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "போலீசாரை கண்டித்து ஆர்ப்பாட்டம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-suffered-from-a-road-that-had-not-been-repaired-for-40-years/4378313": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "க.பரமத்தியில் 40 ஆண்டாக சீரமைக்காத சாலையால் அவதி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-protest-in-front-of-tahsildars-office-in-kadavur-demanding-house-site-patta/4378308": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "வீட்டுமனை பட்டா கேட்டு கடவூர் தாசில்தார் ஆபீஸ் முன் மக்கள் காத்திருப்பு போராட்டம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/thirukalyana-ceremony-at-balamurugan-temple/4378306": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "பாலமுருகன் கோவிலில் திருக்கல்யாண வைபவம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/search-for-yourself-in-krishnarayapuram-tomorrow-in-your-city/4378310": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "கிருஷ்ணராயபுரத்தில் நாளை உங்களை தேடி உங்கள் ஊரில்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-are-suffering-without-even-a-shadow/4378309": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "நிழற்கூட வசதி இல்லாமல் மக்கள் அவதி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/democratic-youth-union-protest/4378307": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "ஜனநாயக வாலிபர் சங்கம் ஆர்ப்பாட்டம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/permanent-employment-application-for-persons-with-disabilities/4378305": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "பணி நிரந்தரம் ேகட்டு மாற்றுத்திறனாளிகள் மனு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/education-loan-awareness-camp-today/4378304": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "இன்று கல்வி கடன் விழிப்புணர்வு முகாம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/private-job-camp-to-be-held-in-20th/4378303": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "வரும் 20ல் தனியார் வேலைவாய்ப்பு முகாம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-rally-on-the-need-for-rainwater-harvesting/4378302": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "மழைநீர் சேகரிப்பின் அவசியம் குறித்து விழிப்புணர்வு பேரணி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/petition-to-the-court-of-appeal/4378301": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "குறைதீர் கூட்டத்தில் மனு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/library-week-celebration-at-district-central-library/4378300": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "மாவட்ட மைய நூலகத்தில் நூலக வார விழா"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/minister-kamali-inspects-veterinary-hospital/4378299": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "கால்நடை மருத்துவமனையில் அமைச்சர் கமலி ஆய்வு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cockfight-5-people-arrested/4378298": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "சேவல் சண்டை 5 பேர் கைது"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-ramanathapuram/power-outage-today-nov-17/4377860": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை (நவ.,17) மின்தடை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-cuddalore/tomorrows-power-outage-cuddalore/4378285": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளைய மின்தடை: கடலூர்"
+  },
+  "https://www.dinamalar.com/news/puducherry/today-s-power-outage-puducherry/4378124": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "நாளைய மின்தடை: புதுச்சேரி"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/today-s-power-outage/4377977": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை(நவ.17) மின் நிறுத்தம்"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-17-2026-due-to-maintenance-work/articleshow/135905977.cms#district-section": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "தமிழகத்தில் இன்று (17-11-2026) மின்தடை அறிவிப்பு! ஏரியாக்கள் லிஸ்ட் இதோ!"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-18-2026-due-to-maintenance-work/articleshow/135906868.cms#district-section": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "தமிழகத்தில் நாளை (18-11-2026) மின்தடை அறிவிப்பு! ஏரியாக்கள் லிஸ்ட் இதோ!"
+  },
+  "https://tamil.abplive.com/news/chennai/chennai-power-cut-17-11-2026-check-areas-power-shutdown-scheduled-on-november-17th-279861#district-section": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "Chennai Power Cut: அட கடவுளே... சென்னையில் நாளை (17.11.2026) ஒரே நேரத்தில் இவ்வளவு இடங்களில் மின்தடையா?"
+  },
+  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-18-11-2026-know-timings-areas-affected-by-power-shutdown-279918/amp#district-section": {
+   "at": "2026-11-17T13:28:53.606471+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "coimbatore power cut: கோவையில் நாளை (18-11-2026) எங்கெல்லாம் மின் தடை? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
   }
  },
  "done": {
@@ -782,10 +794,6 @@
   }
  },
  "refused": {
-  "Cf13382e": {
-   "why": "not filed: not Karur district news (the story's first lines name another place and no Karur place)",
-   "at": "2026-11-15T11:07:31.963789+05:30"
-  },
   "C99f5e72": {
    "why": "not filed: not Karur district news (the story's first lines name another place and no Karur place)",
    "at": "2026-11-16T00:54:40.761340+05:30"
