@@ -41,7 +41,8 @@
     "https://www.dinamalar.com/news/tamil-nadu-news/vijayalakshmi-minister-of-credit-for-college-students/4379044"
    ],
    "listed_at": "2026-11-17T22:28:47.133845+05:30",
-   "picked_at": "2026-11-17T22:30:21.570147+05:30"
+   "picked_at": "2026-11-17T22:30:21.570147+05:30",
+   "posted": true
   },
   "C03000fd": {
    "id": "C03000fd",
@@ -54,7 +55,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-17T22:28:47.133845+05:30",
-   "picked_at": "2026-11-17T22:30:21.570148+05:30"
+   "picked_at": "2026-11-17T22:30:21.570148+05:30",
+   "posted": true
   }
  },
  "rounds": {
