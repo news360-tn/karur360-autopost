@@ -3,128 +3,94 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cockfight-5-people-arrested/4378298",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/protest-against-police-action/4378312",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/private-job-camp-to-be-held-in-20th/4378303",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/library-week-celebration-at-district-central-library/4378300",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/education-loan-awareness-camp-today/4378304",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/petition-to-the-court-of-appeal/4378301",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/permanent-employment-application-for-persons-with-disabilities/4378305",
-  "candidate filter: collected=7",
-  "to write: 7 Karur district candidates (max 7 stories)",
-  "round: top 7 of 7 candidates",
-  "candidates waiting: 7 Karur; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/democratic-youth-union-protest/4378307",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/search-for-yourself-in-krishnarayapuram-tomorrow-in-your-city/4378310",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/thirukalyana-ceremony-at-balamurugan-temple/4378306",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-suffered-from-a-road-that-had-not-been-repaired-for-40-years/4378313",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/minister-kamali-inspects-veterinary-hospital/4378299",
+  "candidate filter: collected=5",
+  "to write: 5 Karur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 17})",
-  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 74 min",
-  "filed: 7 Karur district stories (target 7), reels only",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
+  "filed: 5 Karur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (22s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (33s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
@@ -135,459 +101,346 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "வேடிச்சிபாளையம் கிராம மக்களுக்கு வேலை வழங்கக் கோரி கலெக்டரிடம் மனு",
-   "english_headline": "Vedichipalayam villagers petition Karur collector seeking daily work under the rural employment scheme",
-   "category": "Government & Services",
-   "location": "Vedichipalayam village, Nerur South panchayat, Karur district",
+   "tamil_headline": "குளித்தலை அருகே சத்தியமங்கலம் பாலமுருகன் கோவிலில் திருக்கல்யாண வைபவம்: திரளான பக்தர்கள் தரிசனம்",
+   "english_headline": "Thirukalyanam ceremony held at Balamurugan Temple in Sathyamangalam near Kulithalai",
+   "category": "Temples & Events",
+   "location": "Sathyamangalam near Kulithalai, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வேலை வாய்ப்பு",
-    "loc": "வேடிச்சிபாளையம், நெரூர்",
-    "hl1": "வேடிச்சிபாளையத்துக்கும் வேலை வேண்டும்",
-    "hl2": "கலெக்டரிடம் மனு",
+    "cat": "கோவில் விழா",
+    "loc": "சத்தியமங்கலம், குளித்தலை",
+    "hl1": "சத்தியமங்கலத்தில் பாலமுருகன் கோவில்",
+    "hl2": "திரளான பக்தர்கள் தரிசனம்",
     "slides": [
      {
-      "title": "என்ன கோரிக்கை?",
+      "title": "விழா தொடக்கம்",
       "lines": [
-       "வேடிச்சிபாளையம் கிராம மக்கள் கலெக்டரிடம் மனு அளித்தனர்",
-       "'வி.பி., ஜி ராம் ஜி' திட்டத்தில் வேலை வழங்கக் கோரிக்கை",
-       "குறைதீர் கூட்டத்தில் மனு கொடுக்கப்பட்டது"
+       "குளித்தலை அருகே சத்தியமங்கலம் பாலமுருகன் கோவில்",
+       "<b>14ம் ஆண்டு</b> கந்தசஷ்டி சூரசம்ஹார விழா",
+       "கடந்த <b>5ம் தேதி</b> முகூர்த்தக்காலுடன் தொடங்கியது"
       ]
      },
      {
-      "title": "ஏன் பாதிப்பு?",
+      "title": "சக்திவேல்",
       "lines": [
-       "நெரூர் தெற்கு ஊராட்சியில் பலர் இத்திட்டத்தில் பதிவு",
-       "அதே ஊராட்சியின் மற்றொரு கிராமத்துக்கு தினசரி வேலை",
-       "வேடிச்சிபாளையத்துக்கு தொடர்ந்து வேலை கிடைக்கவில்லை"
+       "ஆறாம் நாள் மாலை <b>3 மணிக்கு</b> யாகசாலை பூஜை",
+       "மூலவர், உற்சவருக்கு சிறப்பு அபிஷேகம்",
+       "முருகப்பெருமான் சக்திவேல் வாங்கும் நிகழ்வு"
       ]
      },
      {
-      "title": "வாழ்வாதாரம்",
+      "title": "திருக்கல்யாணம்",
       "lines": [
-       "இதனால் கிராம மக்களின் வாழ்வாதாரம் பாதிப்பு",
-       "தினசரி வேலை கிடைக்காமல் சிரமம்"
+       "ஏழாம் நாள் காலை <b>8 மணிக்கு</b> மகா அபிஷேகம்",
+       "மதியம் <b>12 முதல் 1 மணிக்குள்</b> திருக்கல்யாணம்",
+       "வள்ளி, தெய்வானை சமேத சுப்பிரமணிய சுவாமி வைபவம்"
       ]
      },
      {
-      "title": "மாவட்ட நிர்வாகம்",
+      "title": "நிறைவு நிகழ்வு",
       "lines": [
-       "மாவட்ட நிர்வாகம் உடனடியாக தலையிட வேண்டும்",
-       "இப்பகுதி மக்களுக்கும் தினசரி வேலை கிடைக்க நடவடிக்கை"
+       "இரவு <b>7 மணிக்கு</b> பள்ளியறை பூஜை நடைபெற்றது",
+       "சுற்றுவட்டாரத்தில் இருந்து திரளான பக்தர்கள் பங்கேற்பு",
+       "பழநி பாதயாத்திரை குழு, பொதுமக்கள் ஏற்பாடு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வேடிச்சிபாளையம் கிராம மக்களுக்கு தினசரி வேலை வழங்கக் கோரி கலெக்டரிடம் மனு அளிக்கப்பட்டுள்ளது. நெரூர் தெற்கு ஊராட்சிக்குட்பட்ட வேடிச்சிபாளையம் கிராமத்தில் ஏராளமானோர் வி.பி., ஜி ராம் ஜி என்ற தேசிய ஊரக வேலை உறுதி திட்டத்தின் கீழ் பதிவு செய்துள்ளனர். ஆனால் அதே ஊராட்சியின் மற்றொரு கிராமத்துக்கு மட்டும் இத்திட்டத்தில் தினசரி வேலை வழங்கப்பட்டு வருகிறது. வேடிச்சிபாளையம் கிராம மக்களுக்கு தொடர்ந்து வேலை வாய்ப்பு வழங்கப்படாமல் புறக்கணிக்கப்படுவதாக மக்கள் கூறியுள்ளனர். இதனால் அவர்களின் வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளது. கரூர் கலெக்டர் அலுவலக குறைதீர் கூட்டத்தில் இதுதொடர்பாக மனு அளிக்கப்பட்டது. மாவட்ட நிர்வாகம் உடனடியாக தலையிட்டு, இப்பகுதி மக்களுக்கும் தினசரி வேலை கிடைக்க உரிய நடவடிக்கை எடுக்க வேண்டும் என்று மக்கள் கோரியுள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "👷 வேடிச்சிபாளையம் கிராமத்துக்கும் தினசரி வேலை வேண்டும் – கலெக்டரிடம் மனு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், நெரூர் தெற்கு ஊராட்சிக்குட்பட்ட வேடிச்சிபாளையம் கிராம மக்கள், 'வி.பி., ஜி ராம் ஜி' திட்டத்தில் வேலை வழங்கக் கோரி கரூர் கலெக்டர் அலுவலக குறைதீர் கூட்டத்தில் மனு அளித்தனர்.\nஅந்தப் பகுதியில் ஏராளமானோர் தேசிய ஊரக வேலை உறுதித் திட்டத்தில் பதிவு செய்து பணிபுரிகின்றனர். ஆனால் அதே ஊராட்சியின் மற்றொரு கிராமத்துக்கு மட்டுமே தினசரி வேலை வழங்கப்படுவதாகவும், வேடிச்சிபாளையத்துக்கு தொடர்ந்து வேலை கிடைக்கவில்லை என்றும் மக்கள் கூறியுள்ளனர். இதனால் தங்கள் வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளதாக அவர்கள் தெரிவித்துள்ளனர்.\nமாவட்ட நிர்வாகம் உடனடியாக தலையிட்டு, இப்பகுதி மக்களுக்கும் தினசரி வேலை கிடைக்க உரிய நடவடிக்கை எடுக்க வேண்டும் என்று அவர்கள் கோரியுள்ளனர்.\n\nKarur villagers seek daily rural job work at collectorate grievance meeting | Karur news\n📍 வேடிச்சிபாளையம், நெரூர் தெற்கு, கரூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Nerur #KarurNews #கரூர்",
-   "prompts": "Inside a government hall in Karur town, a group of rural villagers - men in shirts and veshti, women in cotton sarees - stand in a queue at a grievance meeting desk, several holding petition papers in their hands. Seen from behind and at a distance, they face an official seated at a long table covered with files and documents, under ceiling fans and tube lights. The hall has plain whitewashed walls and wooden benches, with daylight coming in through tall windows. Some villagers sit on benches waiting their turn, others hold their petitions up towards the table. Shot at eye level, 35 mm lens, wide enough to show the whole hall and the crowd, with the official's table in the foreground-middle. Mid-morning daylight, calm but determined mood. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a stack of petition papers and a handwritten application lying on a government office table, with a few worn hands of villagers resting on the edge of the desk and a ballpoint pen beside the documents. Behind the papers, slightly out of focus, a file cabinet and blurred figures of officials and villagers in the hall. The scene shows the written demand for daily work, with no readable text in frame. Shot at slightly high angle, 35 mm, shallow depth of field, soft daylight from a window on the left. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/petition-to-the-court-of-appeal/4378301",
-   "published": "2026-11-17T04:14:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "குளித்தலை அருகே சத்தியமங்கலத்தில் பாலமுருகன் கோவில் திருக்கல்யாண வைபவம் விமரிசையாக நடைபெற்றது. இங்கு 14ம் ஆண்டு கந்தசஷ்டி சூரசம்ஹார விழா கடந்த 5ம் தேதி முகூர்த்தக்கால் நடும் நிகழ்ச்சியுடன் தொடங்கியது. ஆறாம் நாள் மாலை 3 மணிக்கு யாகசாலை பூஜையும், மூலவர் மற்றும் உற்சவருக்கு சிறப்பு அபிஷேகமும் நடைபெற்றது. அன்று மாலை முருகப்பெருமான் சக்திவேல் வாங்கும் நிகழ்ச்சி நடைபெற்றது. ஏழாம் நாளான நேற்று காலை 8 மணிக்கு மகா அபிஷேகம் செய்யப்பட்டது. தொடர்ந்து மதியம் 12 மணி முதல் 1 மணிக்குள் வள்ளி, தெய்வானை சமேத சுப்பிரமணிய சுவாமி திருக்கல்யாண வைபவம் நடைபெற்றது. இதில் சுற்றுவட்டாரப் பகுதிகளில் இருந்து ஏராளமான பக்தர்கள் கலந்துகொண்டு தரிசனம் செய்தனர். நேற்று இரவு 7 மணிக்கு பள்ளியறை பூஜை நடைபெற்றது. இந்த விழா ஏற்பாடுகளை பழநி பாதயாத்திரை குழுவினர் மற்றும் சத்தியமங்கலம் ஊர் பொதுமக்கள் இணைந்து செய்திருந்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 குளித்தலை அருகே சத்தியமங்கலத்தில் பாலமுருகன் கோவில் திருக்கல்யாண வைபவம்\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த சத்தியமங்கலம் பாலமுருகன் கோவிலில் 14ம் ஆண்டு கந்தசஷ்டி சூரசம்ஹார விழா கடந்த 5ம் தேதி முகூர்த்தக்கால் நடும் நிகழ்ச்சியுடன் தொடங்கியது. ஆறாம் நாள் மாலை 3 மணிக்கு யாகசாலை பூஜை, மூலவர் மற்றும் உற்சவருக்கு சிறப்பு அபிஷேகம் மற்றும் முருகப்பெருமான் சக்திவேல் வாங்கும் நிகழ்வு நடைபெற்றது. ஏழாம் நாளான நேற்று காலை 8 மணிக்கு மகா அபிஷேகம் நடந்தது. மதியம் 12 மணி முதல் 1 மணிக்குள் வள்ளி, தெய்வானை சமேத சுப்பிரமணிய சுவாமி திருக்கல்யாண வைபவம் நடைபெற்றது. இதில் ஏராளமான பக்தர்கள் கலந்து கொண்டனர். இரவு 7 மணிக்கு பள்ளியறை பூஜை நடைபெற்றது. விழா ஏற்பாடுகளை பழநி பாதயாத்திரை குழுவினர் மற்றும் சத்தியமங்கலம் ஊர் பொதுமக்கள் செய்திருந்தனர்.\n\n📍 இடம்: சத்தியமங்கலம் பாலமுருகன் கோவில், குளித்தலை\n🗓️ நாள்: 5 நவம்பர் முதல் கந்தசஷ்டி விழா\n🙌 பங்கேற்பு: சுற்றுவட்டார திரளான பக்தர்கள்\n\nஆன்மீக அன்பர்களுக்கு Share செய்யுங்கள்\n\nSathyamangalam Balamurugan Temple Thirukalyanam festival | Karur news\n📍 சத்தியமங்கலம், கரூர் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #கோவில்விழா #கரூர்",
+   "prompts": "A priest in traditional dhoti and white shirt conducts the Thirukalyanam ceremony, joining the idols of Subramani Swami and Valli on a decorated mandapam while devotees watch from the temple courtyard. PLACE: Balamurugan Temple in Sathyamangalam near Kulithalai, a classic South Indian temple with a towering gopuram, stone walls and a spacious inner courtyard. PEOPLE: priests at the front, seen from behind, performing rituals; rows of devotees in sarees and veshti stand behind them, heads bowed, while members of the Palani Pathayathri group and local villagers stand to the side, holding trays of flowers. VEHICLES/OBJECTS: the wedding mandapam draped in white cloth, floral garlands, oil lamps flickering, and a golden kalash atop the altar; the two deity idols placed on either side. TIME+LIGHT+WEATHER: bright afternoon light around 1 pm, clear daylight casting soft shadows. CAMERA: eye‑level, 35 mm lens, wide enough to capture the mandapam, gopuram and the line of devotees. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of the wedding mandapam shows the two deity idols of Subramani Swami and Valli facing each other, each adorned with fresh flower garlands and a jeweled crown, with a shining kalash positioned between them. PLACE: the inner sanctum area of Balamurugan Temple, the stone platform surrounded by carved pillars and a backdrop of the temple’s inner walls. PEOPLE: only the backs of a few priests are visible as they adjust the garlands, their hands blurred, while a few devotees stand just out of focus. OBJECTS: the mandapam’s white canopy, vibrant marigold garlands, lit oil lamps, and the central kalash filled with water and mango leaves, all clearly indicating a sacred wedding ritual. TIME+LIGHT+WEATHER: mid‑afternoon daylight, warm tones highlighting the gold of the kalash and the colors of the flowers. CAMERA: slightly high angle, 35 mm lens, tight framing to capture the idols and ceremonial objects in detail. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/thirukalyana-ceremony-at-balamurugan-temple/4378306",
+   "published": "2026-11-17T04:17:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883330/karur360/meorgwuqzochbwnhiwve.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883358/karur360/btytsy5aykvfcqyuku4b.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892548/karur360/rokxro2ct8rt7fpnsqwp.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892559/karur360/zejcssskp1rtrvrgfruk.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூரில் மாற்றுத்திறனாளிகள் பணி நிரந்தரம், உதவித்தொகை உயர்வு கோரி மனு",
-   "english_headline": "Karur differently-abled persons petition collector seeking permanent jobs and higher monthly aid",
-   "category": "Government & Services",
-   "location": "Karur town, Karur district",
+   "tamil_headline": "க.பரமத்தியில் 40 ஆண்டாக சீரமைக்கப்படாத 3 கிராமச் சாலைகள்: பொதுமக்கள் கடும் அவதி",
+   "english_headline": "Three rural roads in K.Paramathi union unrepaired for 40 years, causing severe hardship to residents",
+   "category": "Civic Issues",
+   "location": "K.Paramathi, Aravakurichi taluk, Karur district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு சேவை",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் மாற்றுத்திறனாளிகள் மனு",
-    "hl2": "பணி நிரந்தரம், உதவித்தொகை",
+    "cat": "சாலை பிரச்சனை",
+    "loc": "க.பரமத்தி, அரவக்குறிச்சி",
+    "hl1": "க.பரமத்தியில் 40 ஆண்டாக பாழடைந்த சாலை",
+    "hl2": "மக்கள் கடும் அவதி",
     "slides": [
      {
-      "title": "யார் மனு?",
+      "title": "எந்தப் பகுதிகள்?",
       "lines": [
-       "தேசிய பார்வையற்றோர் இணையம், கரூர் மாவட்ட கிளை நிர்வாகிகள்",
-       "கரூர் கலெக்டர் அலுவலக குறைதீர் கூட்டத்தில் மனு அளித்தனர்",
-       "தற்காலிகப் பணியில் உள்ள மாற்றுத்திறனாளிகளுக்காக"
+       "க.பரமத்தி ஊராட்சி ஒன்றியப் பகுதிகள்",
+       "கருடையம்பாளையம் - அனப்பாளையம் சாலை",
+       "கிளுவம்பாளையம் - மலச்சிபுதூர் சாலை"
       ]
      },
      {
-      "title": "கோரிக்கைகள்",
+      "title": "40 ஆண்டு பிரச்சனை",
       "lines": [
-       "தற்காலிகப் பணியில் உள்ளவர்களை நிரந்தரம் செய்ய வேண்டும்",
-       "மாதாந்திர உதவித்தொகை <b>1,500</b> ரூபாயிலிருந்து"
+       "தொட்டிவாடி - காரப்பள்ளி சாலையும் சேதம்",
+       "<b>40 ஆண்டுகளாக</b> சீரமைக்கப்படவில்லை",
+       "குண்டும் குழியுமாக மாறிய சாலைகள்"
       ]
      },
      {
-      "title": "புதிய பணி வாய்ப்பு",
+      "title": "மக்கள் அவதி",
       "lines": [
-       "அரசுத் துறைகளில் காலிப் பணியிடங்களை கண்டறிய வேண்டும்",
-       "சிறப்புத் தேர்வு நடத்தி தகுதியுள்ளவர்களுக்கு பணி வழங்க"
+       "மழைக்காலத்தில் இருசக்கர வாகன விபத்துகள்",
+       "விவசாயிகள் விளைபொருட்களை அனுப்ப சிரமம்",
+       "மாணவர்கள், ஆம்புலன்ஸ் செல்ல கடும் அவதி"
+      ]
+     },
+     {
+      "title": "பொதுமக்கள்",
+      "lines": [
+       "ஊராட்சி, மாவட்ட நிர்வாகத்திடம் மனுக்கள்",
+       "இதுவரை எந்த நடவடிக்கையும் இல்லை",
+       "உடனடி சீரமைப்புப் பணி தேவை என கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் மாற்றுத்திறனாளிகள் பணி நிரந்தரம் கேட்டு மனு அளித்துள்ளனர். தேசிய பார்வையற்றோர் இணையம், கரூர் மாவட்ட கிளை நிர்வாகிகள் இந்த மனுவை கலெக்டர் அலுவலக குறைதீர் கூட்டத்தில் வழங்கினர். தற்காலிகமாகப் பணிபுரிந்து வரும் மாற்றுத்திறனாளிகளைப் பணி நிரந்தரம் செய்ய வேண்டும் என்று கோரப்பட்டுள்ளது. தற்போதைய விலைவாசி உயர்வைக் கருத்தில் கொண்டு, மாதாந்திர உதவித்தொகையை உயர்த்தி வழங்க வேண்டும் என்றும் மனுவில் கூறப்பட்டுள்ளது. தற்போதைய மாதாந்திர உதவித்தொகை 1,500 ரூபாயிலிருந்து 5,000 ரூபாயாக உயர்த்த வேண்டும் என்று மனுவில் கேட்கப்பட்டுள்ளது. பார்வையற்ற மற்றும் அனைத்து வகை மாற்றுத்திறனாளிகளுக்கும் இந்த உதவித்தொகை உயர்வு பொருந்த வேண்டும் என்று கோரப்பட்டுள்ளது. அரசுத் துறைகளில் உள்ள காலிப் பணியிடங்களைக் கண்டறிந்து, சிறப்புத் தேர்வு நடத்தி தகுதியுள்ள மாற்றுத்திறனாளிகளுக்குப் பணி வாய்ப்பு வழங்க வேண்டும் என்றும் மனுவில் குறிப்பிடப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "♿ கரூரில் மாற்றுத்திறனாளிகள் பணி நிரந்தரம், உதவித்தொகை உயர்வு கோரி மனு\n\n📰 முழு விவரம்:\nதேசிய பார்வையற்றோர் இணையம், கரூர் மாவட்ட கிளை நிர்வாகிகள் கரூர் கலெக்டர் அலுவலக குறைதீர் கூட்டத்தில் மனு அளித்தனர். தற்காலிகமாகப் பணிபுரிந்து வரும் மாற்றுத்திறனாளிகளைப் பணி நிரந்தரம் செய்ய வேண்டும் என்று மனுவில் கோரப்பட்டுள்ளது. தற்போதைய விலைவாசி உயர்வைக் கருத்தில் கொண்டு, பார்வையற்ற மற்றும் அனைத்து வகை மாற்றுத்திறனாளிகளுக்கான மாதாந்திர உதவித்தொகையை உயர்த்த வேண்டும் என்றும் கோரப்பட்டுள்ளது. மாதாந்திர உதவித்தொகை 1,500 ரூபாயிலிருந்து 5,000 ரூபாயாக உயர்த்தப்பட வேண்டும் என்று மனுவில் கேட்கப்பட்டுள்ளது. அரசுத் துறைகளில் உள்ள காலிப் பணியிடங்களைக் கண்டறிந்து, சிறப்புத் தேர்வு நடத்தி தகுதியுள்ள மாற்றுத்திறனாளிகளுக்குப் பணி வாய்ப்பு வழங்க வேண்டும் என்றும் அதில் கூறப்பட்டுள்ளது.\n\nKarur differently abled petition permanent jobs | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of differently-abled persons, some carrying white canes and one seated in a wheelchair, submits a petition to officials at the grievance meeting hall of the Karur district collectorate in Karur town. The hall is a government office interior with rows of plastic chairs, a long wooden table covered with files and papers, and a tall window letting in daylight. Office-bearers of the National Federation of the Blind, Karur district unit, in shirts and sarees, stand near the table holding stacks of petition sheets while a few officials in government clothes sit behind the desk. Other petitioners wait in a queue seen from behind, some with walking sticks and white canes. The scene is midday under soft fluorescent ceiling lights and natural window light, with a neutral, orderly government atmosphere. Camera at eye level, 35 mm lens, wide enough to show the full hall, table and queue. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of petition papers in Tamil script lying on a government office table, with a white cane leaning against the edge of the desk and a few files beside it. The papers are the central object, with the blurred figures of officials seated behind the table and disabled petitioners standing in the background. Soft daylight from a window falls across the paper and wooden desk surface, showing the neat government office setting of the Karur collectorate grievance meeting. Camera slightly high, 35 mm, shallow depth of field so the paper stack is sharp and the people are softly out of focus. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/permanent-employment-application-for-persons-with-disabilities/4378305",
-   "published": "2026-11-17T04:16:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 1500",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "க.பரமத்தி ஊராட்சி ஒன்றியத்தில் 40 ஆண்டுகளாக சீரமைக்கப்படாத 3 முக்கிய சாலைகளால் பொதுமக்கள் கடுமையான அவதிக்குள்ளாகி வருகின்றனர். அரவக்குறிச்சி அருகே க.பரமத்தி ஒன்றியத்தில் கருடையம்பாளையம் முதல் அனப்பாளையம் செல்லும் சாலை மிகவும் மோசமான நிலையில் உள்ளது. மேலும் கிளுவம்பாளையம் - மலச்சிபுதூர் சாலை மற்றும் தொட்டிவாடி - காரப்பள்ளி சாலையும் குண்டும் குழியுமாக மாறியுள்ளன. கடந்த 40 ஆண்டுகளாக இந்த சாலைகள் முறையாக சீரமைக்கப்படவில்லை என கிராம மக்கள் தெரிவிக்கின்றனர். மழைக்காலங்களில் சாலையில் நீர் தேங்குவதால் இருசக்கர வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்குகின்றனர். இதனால் விவசாயிகள் தங்கள் விளைபொருட்களை சந்தைக்குக் கொண்டுசெல்ல முடியாமல் தவிக்கின்றனர். பள்ளி, கல்லூரி மாணவர்களும், அவசர கால ஆம்புலன்ஸ் வாகனங்களும் செல்ல முடியாமல் அவதியுறுகின்றனர். இதுகுறித்து ஊராட்சி மற்றும் மாவட்ட நிர்வாகத்திடம் பலமுறை மனு அளித்தும் நடவடிக்கை எடுக்கப்படவில்லை. அதிகாரிகள் உடனடியாக இந்த சாலைகளைச் சீரமைக்க பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 க.பரமத்தியில் 40 ஆண்டாக சீரமைக்காத 3 கிராமச் சாலைகள்: மக்கள் கடும் அவதி\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் அரவக்குறிச்சி அருகே க.பரமத்தி ஊராட்சி ஒன்றிய எல்லைக்குட்பட்ட 3 முக்கிய கிராமச் சாலைகள் மிகவும் சேதமடைந்து குண்டும் குழியுமாக மாறியுள்ளன. கருடையம்பாளையம் - அனப்பாளையம் சாலை, கிளுவம்பாளையம் - மலச்சிபுதூர் சாலை மற்றும் தொட்டிவாடி - காரப்பள்ளி ஆகிய சாலைகள் கடந்த 40 ஆண்டுகளாக சீரமைக்கப்படவில்லை என பொதுமக்கள் தெரிவிக்கின்றனர்.\nமழைக்காலங்களில் நீர் தேங்கி இருசக்கர வாகனங்கள் விபத்தில் சிக்குகின்றன. விவசாயிகள் விளைபொருட்களை சந்தைக்கு கொண்டு செல்ல முடியாமலும், மாணவர்கள் மற்றும் ஆம்புலன்ஸ் வாகனங்கள் செல்ல முடியாமலும் தவிக்கின்றனர். பலமுறை அதிகாரிகளிடம் மனுக்கள் அளித்தும் நடவடிக்கை இல்லாததால் பொதுமக்கள் வேதனை அடைந்துள்ளனர்.\n\n📍 இடம்: க.பரமத்தி, அரவக்குறிச்சி வட்டம், கரூர் மாவட்டம்\n🗓️ நிலை: 40 ஆண்டுகளாக சீரமைக்கப்படாத 3 சாலைகள்\n⚠️ பாதிப்பு: வாகன விபத்துகள், விளைபொருட்கள் கொண்டுசெல்வதில் சிரமம், ஆம்புலன்ஸ் செல்ல தடங்கல்\n📢 கோரிக்கை: மாவட்ட நிர்வாகம் உடனடியாக சீரமைக்க வேண்டும்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nK Paramathi Aravakurichi damaged road condition 40 years | Karur news\n📍 க.பரமத்தி, கரூர் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
+   "prompts": "A cracked rural road riddled with deep potholes and water‑filled depressions blocks traffic in K.Paramathi union. The scene is set on the Karudaiyampalaiyam‑Anappalaiyam village road, a narrow earthen stretch flanked by low mango trees, paddy fields and a distant water tower typical of Karur’s countryside. A handful of local residents – men in shirts with veshti and women in sarees – stand at the roadside, viewed from behind, watching the damage while holding farming tools. A small two‑wheeler is perched at the edge of a large pothole, its wheels suspended above water that has collected in the hole. The sky is overcast with monsoon clouds, daylight diffused, and the ground is wet. Shot at eye level with a 35 mm lens, the frame is wide enough to capture the road, the surrounding fields and the stranded vehicle. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a single pothole on the same village road shows a deep, jagged cavity filled with stagnant rainwater. The edges of the hole are crumbling, exposing the underlying soil and bits of broken stone. Around the rim, dried mud and small grass shoots hint at long‑term neglect. The water reflects the grey monsoon sky, emphasizing the depth of the depression. No people or vehicles are in the frame, focusing entirely on the damaged surface that makes the road impassable. The photograph is taken from a slightly elevated angle, 35 mm focal length, to highlight texture while keeping the surrounding road surface in view. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-suffered-from-a-road-that-had-not-been-repaired-for-40-years/4378313",
+   "published": "2026-11-17T04:21:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883364/karur360/lsidm9rdwkhhoqszt5sa.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883397/karur360/oskkrju1orbnccctiaud.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892567/karur360/qjtgsybaoflszomivfdq.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892576/karur360/rjue6csxbpgpcchecudw.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூரில் இன்று கல்விக்கடன் விழிப்புணர்வு மற்றும் கடன் வழங்கும் முகாம்",
-   "english_headline": "Education loan awareness and loan distribution camp at NSN Engineering College, Thalappatti near Karur today",
-   "category": "Education",
-   "location": "Thalappatti, near Karur, Karur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்விக் கடன்",
-    "loc": "தாளப்பட்டி, கரூர்",
-    "hl1": "கரூர் அருகே இன்று கல்விக்கடன் முகாம்",
-    "hl2": "தகுதியான மாணவர்களுக்கு கடன்",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "இன்று <b>17 நவம்பர்</b> நடக்கிறது",
-       "தாளப்பட்டி என்.எஸ்.என். பொறியியல் கல்லூரி",
-       "கரூர் அருகே நடைபெறும் விழா"
-      ]
-     },
-     {
-      "title": "யார் ஏற்பாடு?",
-      "lines": [
-       "மாவட்ட நிர்வாகமும் முன்னோடி வங்கியும் இணைந்து நடத்துகின்றன",
-       "கல்விக்கடன் விழிப்புணர்வு வழங்கப்படும்",
-       "தகுதியான மாணவர்களுக்கு கல்விக்கடன் வழங்கப்படும்"
-      ]
-     },
-     {
-      "title": "எப்படி",
-      "lines": [
-       "pmvidyalaxmi.co.in இணையதளத்தில் பதிவு செய்யுங்கள்",
-       "விவரங்களை நிரப்பி ஆவணங்களை பதிவேற்றுங்கள்",
-       "வங்கி, வங்கி கிளையை விருப்பப்படி தேர்வு செய்யலாம்"
-      ]
-     },
-     {
-      "title": "தொடர்புக்கு",
-      "lines": [
-       "தேவையான ஆவணங்களை எடுத்து வாருங்கள்",
-       "விண்ணப்ப நிலையை இணையதளத்தில் பார்க்கலாம்",
-       "94426-13165, 04324-234817 அழைக்கலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் அருகே தாளப்பட்டியில் இன்று கல்விக்கடன் முகாம் நடைபெறுகிறது. இன்று நவம்பர் 17ஆம் தேதி, தாளப்பட்டி என் எஸ் என் பொறியியல் கல்லூரியில் இந்த விழா நடைபெறுகிறது. மாவட்ட நிர்வாகமும் முன்னோடி வங்கியும் இணைந்து இந்த விழாவை நடத்துகின்றன. உயர் கல்வி பயில விரும்பும் மாணவர்களுக்கு வங்கியில் எளிதாகக் கல்விக்கடன் பெறும் வழிமுறைகள் விளக்கப்படும். தகுதியான மாணவர்களுக்கு இந்த நிகழ்ச்சியில் கல்விக்கடன்கள் வழங்கப்படும். மாணவர்கள் பிஎம் வித்யாலட்சுமி இணையதளத்தில் பதிவு செய்து விவரங்களை நிரப்பி ஆவணங்களைப் பதிவேற்றி விண்ணப்பிக்கலாம். விண்ணப்பிக்கும்போது விருப்பமான வங்கி மற்றும் வங்கிக் கிளையைத் தேர்வு செய்யலாம். தேவையான ஆவணங்களை எடுத்து வர வேண்டும். விண்ணப்ப நிலையை மாணவர்களும் பெற்றோரும் இணையதளத்தில் கண்காணிக்கலாம். விவரங்களுக்கு 94426 13165, 04324 234817 என்ற எண்களில் தொடர்பு கொள்ளலாம். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 கரூர் அருகே இன்று கல்விக்கடன் முகாம்: தகுதியான மாணவர்களுக்கு கடன் வழங்கப்படும்\n\n📰 முழு விவரம்:\nகரூர் அருகே தாளப்பட்டி என்.எஸ்.என். பொறியியல் கல்லூரியில் இன்று (நவ. 17) கல்விக்கடன் விழிப்புணர்வு மற்றும் கல்விக்கடன் வழங்கும் விழா நடைபெறுகிறது.\nமாவட்ட நிர்வாகமும் முன்னோடி வங்கியும் இணைந்து இதை நடத்துகின்றன.\nஉயர் கல்வி பயில விரும்பும் மாணவர்களுக்கு வங்கி மூலம் கல்விக்கடன் பெறுவது குறித்து விழிப்புணர்வு வழங்கப்படும். தகுதியான மாணவர்களுக்கு கல்விக்கடன்களும் வழங்கப்படும்.\n📍 இடம்: தாளப்பட்டி என்.எஸ்.என். பொறியியல் கல்லூரி, கரூர் அருகே\n🗓️ நாள்: இன்று, 17 நவம்பர் 2026\n📝 விண்ணப்பம்: https://pmvidyalaxmi.co.in/ இணையதளத்தில் பதிவு செய்து, விவரங்களை நிரப்பி, ஆவணங்களைப் பதிவேற்றலாம். விருப்பமான வங்கி, வங்கிக் கிளையைத் தேர்வு செய்யலாம்.\nℹ️ மக்கள் கவனத்திற்கு: தேவையான ஆவணங்களை எடுத்து வர வேண்டும். விண்ணப்ப நிலையை மாணவர்களும் பெற்றோரும் இணையதளத்தில் கண்காணிக்கலாம்.\n📞 தொடர்புக்கு: 94426 13165, 04324 234817\n\nEducation loan awareness camp in Karur today | Karur news\n📍 தாளப்பட்டி, கரூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கல்விக்கடன் #கரூர்",
-   "prompts": "A group of college students and parents sit in rows under a shamiana in the courtyard of an engineering college campus in Thalappatti near Karur, listening as bank officials and district administration officers sit on a raised stage to distribute education loan sanction papers. Seen from behind at a slight distance, the students wear shirts, trousers, churidars and sarees, many carrying bags and file folders of documents. The setting is a Tamil Nadu engineering college with plain brick and concrete campus buildings, neat rows of plastic chairs on the grass and a simple decorated stage with a small table in front. The bank staff in formal shirts stand near a long table stacked with application files and stacks of documents. It is bright daylight with a clear sky and soft shade from the tent. Camera at eye level, 35 mm, wide enough to show the whole hall and stage without any readable text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of education loan application forms and printed documents laid on a table, with a pen resting on top, beside a student's neatly folded file of certificates. In the background, slightly blurred, a bank official's hand and a row of student shoes are visible under a white shamiana in the Thalappatti college campus. The paper is plain with no readable letters, no logos or signboards. Daylight comes through the tent fabric, giving a warm and even light. Camera slightly high, 50 mm, shallow depth of field to isolate the documents. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/education-loan-awareness-camp-today/4378304",
-   "published": "2026-11-17T04:16:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: http",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883402/karur360/uc3gwotiwedhz8inxwkl.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883406/karur360/ywux817enn5dhaijrk2o.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் நூலக வார விழா: மாணவர்களுக்கு நூலக அடையாள அட்டை வழங்கல்",
-   "english_headline": "Karur library week event: library ID cards given to school students at the district central library",
-   "category": "Education",
-   "location": "District central library, Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்வி",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் நூலக வார விழா",
-    "hl2": "மாணவர்களுக்கு அடையாள அட்டை",
-    "slides": [
-     {
-      "title": "என்ன நிகழ்ச்சி?",
-      "lines": [
-       "59வது தேசிய நூலக வார விழா விழிப்புணர்வு நிகழ்ச்சி",
-       "கரூர் மாவட்ட மைய நூலகத்தில் நடைபெற்றது",
-       "மாவட்ட பொது நூலகத்துறை சார்பில் நடத்தப்பட்டது"
-      ]
-     },
-     {
-      "title": "அட்டைகள் வழங்கல்",
-      "lines": [
-       "பள்ளி மாணவ, மாணவியருக்கு நூலக அடையாள அட்டை வழங்கப்பட்டது",
-       "மாவட்ட முதன்மைக்கல்வி அலுவலர் ராஜூ வழங்கினார்",
-       "கரூர் ரவுண்ட் டேபிள் சார்பில் 150 மாணவியருக்கு உறுப்பினர்"
-      ]
-     },
-     {
-      "title": "பங்கேற்றவர்கள்",
-      "lines": [
-       "மாவட்ட நூலக அலுவலர் சிவக்குமார் பங்கேற்றார்",
-       "முதல்நிலை நூலகர், வாசகர் வட்ட தலைவர் பங்கேற்றனர்",
-       "ரவுண்ட் டேபிள் நிர்வாகிகள், ஆசிரியர் முரளி உள்பட பலர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் 59ஆவது தேசிய நூலக வார விழா நடைபெற்றது. கரூர் மாவட்ட பொது நூலகத்துறை சார்பில் கரூர் மாவட்ட மைய நூலகத்தில் விழிப்புணர்வு நிகழ்ச்சி நடந்தது. இதில் பள்ளி மாணவ, மாணவியருக்கு நூலக அடையாள அட்டைகள் வழங்கப்பட்டன. மாவட்ட முதன்மைக்கல்வி அலுவலர் ராஜூ அட்டைகளை வழங்கினார். கரூர் ரவுண்ட் டேபிள் சார்பில் மாநகராட்சி பசு பதீஸ்வரா பெண்கள் மேல்நிலைப்பள்ளி மாணவியர் 150 பேருக்கு நூலக உறுப்பினர் அட்டைகள் வழங்கப்பட்டன. மாவட்ட நூலக அலுவலர் சிவக்குமார், நூல் இருப்பு சரிபார்ப்பு அலுவலர் சதீஷ்குமார், முதல்நிலை நூலகர் அபிராமி சுந்தரி, வாசகர் வட்ட தலைவர் சங்கர் ஆகியோர் பங்கேற்றனர். கரூர் ரவுண்ட் டேபிள் செயலாளர் சபரி கிரிஷ், நிர்வாகிகள் கார்த்திக், தீபக், பட்டதாரி ஆசிரியர் முரளி உள்ளிட்ட பலரும் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📚 கரூரில் நூலக வார விழா: மாணவர்களுக்கு நூலக அடையாள அட்டை வழங்கல்\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட பொது நூலகத்துறை சார்பில், 59ஆவது தேசிய நூலக வார விழாவையொட்டி, கரூர் மாவட்ட மைய நூலகத்தில் விழிப்புணர்வு நிகழ்ச்சி நடைபெற்றது.\nஇதில் பள்ளி மாணவ, மாணவியருக்கு நூலக அடையாள அட்டைகளை மாவட்ட முதன்மைக்கல்வி அலுவலர் ராஜூ வழங்கினார்.\nகரூர் ரவுண்ட் டேபிள் சார்பில், மாநகராட்சி பசு பதீஸ்வரா பெண்கள் மேல்நிலைப்பள்ளி மாணவியர் 150 பேருக்கு நூலக உறுப்பினர் அட்டைகள் வழங்கப்பட்டன.\nமாவட்ட நூலக அலுவலர் சிவக்குமார், நூல் இருப்பு சரிபார்ப்பு அலுவலர் சதீஷ்குமார், முதல்நிலை நூலகர் அபிராமி சுந்தரி, வாசகர் வட்ட தலைவர் சங்கர், கரூர் ரவுண்ட் டேபிள் செயலாளர் சபரி கிரிஷ், நிர்வாகிகள் கார்த்திக், தீபக், பட்டதாரி ஆசிரியர் முரளி உள்ளிட்ட பலர் பங்கேற்றனர்.\n\nKarur library week event, student library ID cards | Karur news\n📍 கரூர் மாவட்ட மைய நூலகம், கரூர் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "Rows of school students in Tamil Nadu school uniform sit on chairs in the reading hall of the district central library in Karur city, while a senior education officer in formal shirt and trousers stands at a small table and hands over library ID cards to a girl in uniform. Behind them, tall wooden bookshelves are filled with books, and library staff and teachers in shirts and sarees stand near the front of the hall. The hall is bright under ceiling tube lights and daylight from tall windows, with a few reading tables visible. Students and officials are seen from behind or from a distance, slightly blurred, and no faces are clearly shown. The camera is at eye level, 35 mm lens, wide enough to show the full hall, the bookshelves and the ceremony table. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of blank library membership ID cards and a pen laid on a wooden reading table inside the district central library in Karur city, with a few open and closed books beside them. In the soft background, a group of school students in Tamil Nadu school uniform and a library official in shirt and trousers stand near a bookshelf, seen from behind and out of focus. Warm indoor light from ceiling lamps and daylight through a window falls on the table, and the books have plain covers with no readable text. The camera is at slightly high eye level with a 50 mm lens, focusing on the cards and books, with the students softly blurred behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/library-week-celebration-at-district-central-library/4378300",
-   "published": "2026-11-17T04:13:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: slides_spec slide 2 line 'கரூர் ரவுண்ட் டேபிள் சார்பில் 150 மாணவியருக்கு உறுப்பினர்' is incomplete/ungrammatical: 'உறுப்பினர்' lacks its noun (should be உறுப்பினர் அட்டை)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883411/karur360/ayvukaosw3tmmcaabilh.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883415/karur360/tmpy7l3ut34qg1erh92y.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் நவம்பர் 20ஆம் தேதி தனியார் வேலைவாய்ப்பு முகாம்",
-   "english_headline": "Private job camp in Karur on 20 November at district employment office, Venaimalai",
-   "category": "Government & Services",
-   "location": "Venaimalai, Karur town, Karur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேலைவாய்ப்பு",
-    "loc": "கரூர், வெண்ணைமலை",
-    "hl1": "கரூரில் வரும் 20ல் தனியார் வேலை முகாம்",
-    "hl2": "200க்கும் மேற்பட்ட",
-    "slides": [
-     {
-      "title": "எப்போது, எங்கே?",
-      "lines": [
-       "வரும் <b>20 நவம்பர்</b> காலை <b>10 மணி</b> முதல் மதியம் <b>2 மணி</b> வரை",
-       "கரூர், வெண்ணைமலை மாவட்ட வேலைவாய்ப்பு அலுவலகம்"
-      ]
-     },
-     {
-      "title": "எத்தனை வேலை?",
-      "lines": [
-       "25க்கும் மேற்பட்ட தனியார் நிறுவனங்கள் பங்கேற்கின்றன",
-       "<b>200க்கும் மேற்பட்ட</b> பணியிடங்கள் நிரப்பப்படும்"
-      ]
-     },
-     {
-      "title": "யார்",
-      "lines": [
-       "8ஆம் வகுப்பு முதல் பட்டப்படிப்பு வரை அனைவரும்",
-       "டிப்ளமோ, ஐ.டி.ஐ., பொறியியல் பட்டதாரிகளும் வரலாம்"
-      ]
-     },
-     {
-      "title": "என்ன கொண்டு வர",
-      "lines": [
-       "சுயவிபரக் குறிப்பு, கல்விச் சான்று, ஆதார் அட்டை",
-       "இணையதளத்தில் முன்பதிவு செய்யலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் வரும் 20ஆம் தேதி தனியார் வேலைவாய்ப்பு முகாம் நடைபெறுகிறது. கரூர், வெண்ணைமலையில் உள்ள மாவட்ட வேலைவாய்ப்பு அலுவலகத்தில் காலை 10 மணி முதல் மதியம் 2 மணி வரை முகாம் நடக்கிறது. 25க்கும் மேற்பட்ட தனியார் வேலையளிக்கும் நிறுவனங்கள் பங்கேற்கின்றன. 200க்கும் மேற்பட்ட பணியிடங்களை நிரப்பவுள்ளனர். 8ஆம் வகுப்பு முதல் பட்டப்படிப்பு, டிப்ளமோ, ஐடிஐ மற்றும் பொறியியல் பட்டதாரிகள் அனைவரும் கலந்துகொள்ளலாம். வேலை தேடும் இளைஞர்கள் தங்களின் சுயவிபரக் குறிப்பு, உரிய கல்விச் சான்று, ஆதார் அட்டை ஆகியவற்றுடன் பங்கேற்கலாம். விருப்பமுள்ளோர் தமிழ்நாடு அரசின் தனியார் வேலைவாய்ப்பு இணையதளத்தில் முன்பதிவு செய்துகொள்ளலாம். விவரங்களுக்கு 04324 223555, 94990 55912, 93452 61136 என்ற எண்களில் தொடர்பு கொள்ளலாம். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💼 கரூரில் வரும் 20ஆம் தேதி தனியார் வேலைவாய்ப்பு முகாம்: 200க்கும் மேற்பட்ட பணியிடங்கள்\n\n📰 முழு விவரம்:\nகரூர் கலெக்டர் பிரசன்னா ராமசாமி தெரிவித்துள்ளபடி, வரும் 20ஆம் தேதி கரூர், வெண்ணைமலையில் உள்ள மாவட்ட வேலைவாய்ப்பு அலுவலகத்தில் தனியார் வேலைவாய்ப்பு முகாம் நடைபெறுகிறது. 25க்கும் மேற்பட்ட தனியார் நிறுவனங்கள் பங்கேற்று 200க்கும் மேற்பட்ட பணியிடங்களை நிரப்பவுள்ளன. 8ஆம் வகுப்பு முதல் பட்டப்படிப்பு, டிப்ளமோ, ஐ.டி.ஐ., பொறியியல் பட்டதாரிகள் அனைவரும் கலந்துகொள்ளலாம்.\n📍 இடம்: கரூர், வெண்ணைமலை மாவட்ட வேலைவாய்ப்பு அலுவலகம்\n🗓️ நாள்: வரும் 20 நவம்பர் 2026\n🕘 நேரம்: காலை 10 மணி முதல் மதியம் 2 மணி வரை\nℹ️ மக்கள் கவனத்திற்கு: சுயவிபரக் குறிப்பு, உரிய கல்விச் சான்று, ஆதார் அட்டை எடுத்துச் செல்லுங்கள். விருப்பமுள்ள வேலையளிப்போரும் வேலை தேடுவோரும் www.tnprivatejobs.tn.gov.in இணையதளத்தில் பதிவு செய்யலாம்.\n📞 தொடர்புக்கு: 04324 223555, 94990 55912, 93452 61136\n\nKarur private job camp on 20 November | Karur news\n📍 வெண்ணைமலை, கரூர் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #Venaimalai",
-   "prompts": "A long line of young job seekers in shirts, trousers, sarees and salwars, holding resume folders, waits in a government employment office hall in Venaimalai, Karur, as private company representatives sit at registration desks at the far end. The hall is a plain government office interior with tube lights, tables, chairs and a tiled floor, typical of a district employment office in Karur town. Most job seekers are seen from behind or in profile, some looking at forms; the employers' tables are spaced across the room with several staff seated behind them. It is a bright morning in daylight, the job camp running between 10 am and 2 pm, with a steady flow of applicants. Shot at eye level with a 35 mm lens, wide enough to show the full hall, the queue and the desks together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a table at the registration counter of the job camp: a neat stack of resumes, a set of education certificates in plastic sleeves, and an Aadhaar card placed on top, with a pen resting beside them. Behind the table, a blurred job seeker's hand holds a folder, and the edge of a second table with employer staff is visible in the soft background. The scene is lit by daylight from office windows in a government employment office in Venaimalai, Karur. Shot at slightly high angle with a 35 mm lens, shallow depth of field, focusing on the documents to tell the story of applicants bringing their papers to the private job camp. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/private-job-camp-to-be-held-in-20th/4378303",
-   "published": "2026-11-17T04:15:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: www.; numbers not found in the article: 04324, 223555; caption misses facts of the article (put every one in 📰 முழு விவரம்): 04324223555, ('விபரங்களுக்கு, 04324223555, 94990-55912, 93452-61136 என்ற எண')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883445/karur360/kplh4niz6na3dmjvekoi.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883489/karur360/pnuezfxcptlults4amkb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "குளித்தலை அருகே போலீசாரை கண்டித்து ஆர்ப்பாட்டம்: சட்ட நடவடிக்கை கோரிக்கை",
-   "english_headline": "Protest against police near Kulithalai demanding legal action; demonstrators also seek curbs on ganja, liquor, lottery and gambling in Karur district",
-   "category": "Crime & Safety",
-   "location": "Balavidudhi police station, Kulithalai, Karur district",
+   "tamil_headline": "கரூரில் அரிசி உள்ளிட்ட பொருட்களின் விலை உயர்வைக் கண்டித்து ஆர்ப்பாட்டம்",
+   "english_headline": "Karur: Protest against price rise of rice and essential goods held outside the Head Post Office",
+   "category": "Civic Issues",
+   "location": "Head Post Office, Karur city, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
     "cat": "ஆர்ப்பாட்டம்",
-    "loc": "பாலவிடுதி, குளித்தலை",
-    "hl1": "குளித்தலை அருகே போலீசாரை கண்டித்து",
-    "hl2": "நேற்று முன்தினம் மாலை",
+    "loc": "கரூர் நகரம்",
+    "hl1": "கரூரில் விலை உயர்வைக் கண்டித்து",
+    "hl2": "தலைமை தபால் நிலையம் முன்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே, எப்போது?",
       "lines": [
-       "பாலவிடுதி போலீஸ் ஸ்டேஷன் முன் கண்டன ஆர்ப்பாட்டம்",
-       "காவல்துறை மீது சட்ட நடவடிக்கை கோரிக்கை",
-       "சமூக அமைப்புகள், அரசியல் கட்சி நிர்வாகிகள் பங்கேற்பு"
+       "கரூர் தலைமை தபால் நிலையம் முன்",
+       "நேற்று <b>மாலை</b> ஆர்ப்பாட்டம் நடந்தது",
+       "இந்திய ஜனநாயக வாலிபர் சங்கம் ஏற்பாடு"
       ]
      },
      {
-      "title": "முக்கிய",
+      "title": "ஏன் ஆர்ப்பாட்டம்?",
       "lines": [
-       "கஞ்சா, மது, லாட்டரி, சூதாட்டத்தைத் தடை செய்ய வேண்டும்",
-       "பொய் புகார் மீதான போலி பி.சி.ஆர். வழக்குகளை ரத்து செய்ய",
-       "ஒருதலைபட்சமாக செயல்படும் போலீசார் மீது நடவடிக்கை"
+       "அரிசி உள்ளிட்ட அத்தியாவசியப் பொருட்களின் விலை உயர்வு",
+       "கள்ளக்குறிச்சி எம்.எல்.ஏ. அருள் விக்னேஷ் பதவி விலக வேண்டும்",
+       "கோரிக்கைகளை முழக்கமாக எழுப்பினர்"
       ]
      },
      {
-      "title": "அடுத்தது என்ன?",
+      "title": "யார் பங்கேற்றனர்?",
       "lines": [
-       "கரூர் காவல் கண்காணிப்பாளர் அலுவலகம் முன் மாபெரும்",
-       "தமிழ்நாடு ஊராளி கவுண்டர்களின் கூட்டமைப்பு தலைவர் நாகராஜன்",
-       "நிகழ்வில் பல்வேறு அமைப்பின் பொறுப்பாளர்கள் கலந்துகொண்டனர்"
+       "மாநகர செயலாளர் ராஜேந்திர பிரசாத் தலைமையில் நடந்தது",
+       "மாவட்ட செயலாளர் சிவக்குமார் பங்கேற்றார்",
+       "மாநகர பொருளாளர் அன்பு செல்வன், சி.ஐ.டி.யு. செயலாளர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "குளித்தலை அருகே போலீசாரை கண்டித்து ஆர்ப்பாட்டம் நடைபெற்றது. நேற்று முன்தினம் மாலை, குளித்தலை அடுத்த பாலவிடுதி போலீஸ் ஸ்டேஷன் முன் இந்த ஆர்ப்பாட்டம் நடத்தப்பட்டது. தமிழ்நாடு ஊராளி கவுண்டர் கூட்டமைப்பு, சமூக அமைப்புகளின் தலைவர்கள் மற்றும் அரசியல் கட்சி நிர்வாகிகள் இணைந்து இதில் பங்கேற்றனர். காவல்துறை மீது சட்ட நடவடிக்கை எடுக்க வலியுறுத்தி கண்டன ஆர்ப்பாட்டம் நடத்தப்பட்டது. கூட்டமைப்புத் தலைவர் நாகராஜன் தலைமையில் நடைபெற்ற இந்நிகழ்வில் பேசியவர்கள், கரூர் மாவட்டத்தில் கஞ்சா, மது, லாட்டரி, சூதாட்டம் போன்ற சட்ட விரோத செயல்களைத் தடை செய்ய வேண்டும் என்று கோரினர். பொய் புகார் மீது பதியப்படும் போலி பி சி ஆர் வழக்குகளை ரத்து செய்ய வேண்டும் என்றும், ஒருதலைபட்சமாக செயல்படும் போலீசார் மீது நடவடிக்கை எடுக்க வேண்டும் என்றும் வலியுறுத்தப்பட்டது. இதே கோரிக்கைகளுக்காக கரூர் காவல் கண்காணிப்பாளர் அலுவலகம் முன் மாபெரும் கண்டன ஆர்ப்பாட்டம் நடத்தப்படும் என்று அறிவிக்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚔 குளித்தலை அருகே போலீசாரை கண்டித்து ஆர்ப்பாட்டம்: சட்ட நடவடிக்கை கோரிக்கை\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த பாலவிடுதி போலீஸ் ஸ்டேஷன் முன், நேற்று முன்தினம் மாலை, தமிழ்நாடு ஊராளி கவுண்டர் கூட்டமைப்பு, சமூக அமைப்புகளின் தலைவர்கள் மற்றும் அரசியல் கட்சி நிர்வாகிகள் இணைந்து கண்டன ஆர்ப்பாட்டம் நடத்தினர். காவல்துறை மீது சட்ட நடவடிக்கை எடுக்க வலியுறுத்தப்பட்டது.\nகூட்டமைப்பு நிறுவனரும் தலைவருமான நாகராஜன் தலைமையில் நடந்த இந்நிகழ்வில், கரூர் மாவட்டத்தில் கஞ்சா, மது, லாட்டரி, சூதாட்டம் உள்ளிட்ட சமூக விரோத செயல்களைத் தடை செய்ய வேண்டும் என்று கோரப்பட்டது.\nபொய் புகார் மீது பதியப்படும் போலி பி.சி.ஆர். வழக்குகளை ரத்து செய்ய வேண்டும்; ஒருதலைபட்சமாக செயல்படும் போலீசார் மீது சட்ட நடவடிக்கை எடுக்க வேண்டும் என்றும் வலியுறுத்தப்பட்டது.\nஇதற்காக கரூர் காவல் கண்காணிப்பாளர் அலுவலகம் முன் மாபெரும் கண்டன ஆர்ப்பாட்டம் நடத்தப்படும் என அறிவிக்கப்பட்டது.\nஆர்ப்பாட்டத்தில் சோழிய வெள்ளாளர், வ.உ.சி. அமைப்பு பொறுப்பாளர் மாதவன், ஓ.பி.சி., பி.சி., எம்.பி.சி. கூட்டமைப்பு பொறுப்பாளர் தியாகராஜன், முன்னாள் ஒன்றிய கவுன்சிலர் ராமமூர்த்தி உள்ளிட்டோர் கலந்துகொண்டனர்.\n\nProtest against police near Kulithalai | Karur news\n📍 பாலவிடுதி, குளித்தலை, கரூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "A group of community leaders and political party functionaries stand in a protest gathering outside Balavidudhi police station near Kulithalai in Karur district, during the evening. Seen from behind at a slight distance, the crowd of men in shirts and veshti holds up hands and a few placards, facing the police station gate. The police station is a modest single-storey government building with a plain front wall and a gate, and a small road with a roadside tea shop and a couple of parked two-wheelers lies in front. A few Tamil Nadu police personnel in khaki stand quietly near the entrance, far from the crowd. The time is early evening with soft dusk light and a clear sky. Camera at eye level, 35 mm, wide enough to show the police station building, the crowd and the road. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of the police station gate and its front wall, with a crowd's raised hands and a few placards held at the edge of the frame, seen from behind the protesters. The gate is an iron grill with the station's plain concrete entrance behind it, and a couple of Tamil Nadu police in khaki stand just inside the gate. The protesters' sleeves and shirts show at the frame edge, slightly blurred. Evening dusk light falls on the concrete wall and the gate bars. Camera at slightly high eye level, 35 mm, focused on the gate and placards. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/protest-against-police-action/4378312",
-   "published": "2026-11-17T04:20:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is consistent; however the reel_script omits the key fact that the protest was held in front of the Palavidudhi police station (it does state this) — no issue there. Main problem: the reel_script and caption say the event was attended by 'அரசியல் கட்சி நிர்வாகிகள்' and 'சமூக அமைப்புகளின் தலைவர்கள' which matches the article, but the reel_script describes the speakers as 'பேசியவர்கள்' asking for bans, which is fine. The actual problem: the slides_spec line 'நிகழ்வில் பல்வேறு அமைப்பின் பொறுப்பாளர்கள் கலந்துகொண்டனர்' and the caption omit nothing critical.; fact-check: Reel_script states the bans were demanded in Karur district as 'கரூர் மாவட்டத்தில்' — matches the article, but the reel_script says the protest 'கண்டன ஆர்ப்பாட்டம் நடத்தப்பட்டது' while the caption correctly reflects it; no further factual mismatch found in reel_script.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883495/karur360/t3txpiwhncv88knxmwb7.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883500/karur360/k2qzvqlulzcdzlbdwrnn.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சின்னதாராபுரம் அருகே சேவல் சண்டை: 5 பேர் கைது, ₹1,000 பறிமுதல்",
-   "english_headline": "Cockfight at Venkatapuram near Chinnadharapuram: 5 arrested, ₹1,000 seized",
-   "category": "Crime & Safety",
-   "location": "T. Venkatapuram, Chinnadharapuram, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சேவல் சண்டை",
-    "loc": "டி.வெங்கடாபுரம், சின்னதாராபுரம்",
-    "hl1": "டி.வெங்கடாபுரத்தில் சேவல் சண்டை: 5 பேர்",
-    "hl2": "₹1,000 பறிமுதல்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "டி.வெங்கடாபுரத்தில் சேவல் சண்டை நடத்தியதாக 5 பேர் கைது",
-       "சின்னதாராபுரம் போலீசார் ரோந்துப் பணியில் இருந்தபோது",
-       "நேற்று முன்தினம் நடந்த சம்பவம்"
-      ]
-     },
-     {
-      "title": "எங்கே நடந்தது?",
-      "lines": [
-       "நல்லசாமி என்பவரின் விவசாயத் தோட்டத்தில் சேவல் சண்டை",
-       "போலீஸ் எஸ்.ஐ. ராஜ்குமார் தலைமையிலான போலீசார் நடவடிக்கை",
-       "சின்னதாராபுரம் போலீசார் வழக்குப் பதிவு செய்தனர்"
-      ]
-     },
-     {
-      "title": "கைதானவர்கள்",
-      "lines": [
-       "நல்லசிவம், 49; பாலச்சந்தர், 39; நந்தகுமார், 32",
-       "குமரசேன், 36; ஜெகதீஷ்வரன், 27",
-       "மொத்தம் <b>5 பேர்</b> கைது"
-      ]
-     },
-     {
-      "title": "பறிமுதல்",
-      "lines": [
-       "<b>₹1,000</b> பணம் பறிமுதல் செய்யப்பட்டது",
-       "சேவல் சண்டை சட்டவிரோதமானது என போலீசார் எச்சரிக்கை",
-       "வேறு இடங்களில் இப்படி நடந்தால் போலீசுக்குத் தகவல் கொடுங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "டி.வெங்கடாபுரத்தில் சேவல் சண்டை நடத்திய 5 பேர் போலீசாரால் கைது செய்யப்பட்டனர். நேற்று முன்தினம் சின்னதாராபுரம் போலீசார் ரோந்துப் பணியில் ஈடுபட்டிருந்தபோது இச்சம்பவம் கண்டறியப்பட்டது. நல்லசாமி என்பவரின் விவசாயத் தோட்டத்தில் சேவல் சண்டை நடைபெற்றதாக போலீசார் தெரிவித்தனர். காவல் உதவி ஆய்வாளர் ராஜ்குமார் தலைமையிலான போலீசார் இந்த நடவடிக்கையை மேற்கொண்டனர். கைதானவர்கள் நல்லசிவம், 49 வயது; பாலச்சந்தர், 39 வயது; நந்தகுமார், 32 வயது; குமரசேன், 36 வயது; ஜெகதீஷ்வரன், 27 வயது ஆகியோர். அவர்களிடமிருந்து 1,000 ரூபாய் பணம் பறிமுதல் செய்யப்பட்டது. சின்னதாராபுரம் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐓 டி.வெங்கடாபுரத்தில் சேவல் சண்டை: 5 பேர் கைது, ₹1,000 பறிமுதல்\n\n📰 முழு விவரம்:\nசின்னதாராபுரம் போலீஸ் எஸ்.ஐ. ராஜ்குமார் உள்ளிட்ட போலீசார் நேற்று முன்தினம் டி.வெங்கடாபுரம் பகுதியில் ரோந்துப் பணியில் ஈடுபட்டிருந்தனர். அப்போது நல்லசாமி என்பவரின் விவசாயத் தோட்டத்தில் சேவல் சண்டை நடத்தியதாக 5 பேரை போலீசார் கைது செய்தனர். அவர்களிடமிருந்து 1,000 ரூபாய் பறிமுதல் செய்யப்பட்டது.\n\n📍 இடம்: டி.வெங்கடாபுரம், சின்னதாராபுரம், கரூர் மாவட்டம்\n🗓️ நாள்: நவம்பர் 15, 2026 (நேற்று முன்தினம்)\n👮 நடவடிக்கை: 5 பேர் கைது; ₹1,000 பறிமுதல்\n\nஉள்ளூர் செய்திகளுக்கு Share செய்யுங்கள்\n\nCockfight 5 arrested Venkatapuram Chinnadharapuram | Karur news\n📍 டி.வெங்கடாபுரம், சின்னதாராபுரம், கரூர் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of Tamil Nadu police in khaki uniforms, led by a sub-inspector, walks across a dry farm plot in T. Venkatapuram village near Chinnadharapuram, Karur district, while five men in shirts and veshti stand together with their hands visible, having been stopped during a cockfight. The scene is a rural agricultural farm with a farmhouse, a coconut tree and a bare patch of earth where the fight took place, with a few plastic chairs knocked over. Seen from a distance and from behind, the men are not identifiable. Lighting is early evening with soft golden light, the sky partly cloudy. Camera at eye level, 35 mm, wide enough to show the farm and the police. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small heap of Indian currency notes of low denomination lying on a plain cloth sheet on the bare ground of a farm plot, beside a folded veshti and a wooden crate, with a khaki police boot edge visible at the frame corner. Behind it, out of focus, a dusty farm yard with a few banana plants in Karur district village. Warm daylight from the side, the notes slightly crumpled, no readable text or numbers visible. Camera slightly high, 50 mm macro-style detail shot, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cockfight-5-people-arrested/4378298",
-   "published": "2026-11-17T04:12:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 49, ('அப்போது, நல்லசாமி என்பவரது விவசாய தோட்டத்தில் சேவல் சண்டை நட'); 39, ('அப்போது, நல்லசாமி என்பவரது விவசாய தோட்டத்தில் சேவல் சண்டை நட'); 32, ('அப்போது, நல்லசாமி என்பவரது விவசாய தோட்டத்தில் சேவல் சண்டை நட'); 36, ('அப்போது, நல்லசாமி என்பவரது விவசாய தோட்டத்தில் சேவல் சண்டை நட'); 27, ('அப்போது, நல்லசாமி என்பவரது விவசாய தோட்டத்தில் சேவல் சண்டை நட')",
+   "reel_script": "கரூர் தலைமை தபால் நிலையம் முன் நேற்று மாலை ஆர்ப்பாட்டம் நடைபெற்றது. அரிசி உள்ளிட்ட அத்தியாவசியப் பொருட்களின் விலை உயர்வைக் கண்டித்து இந்த ஆர்ப்பாட்டம் நடைபெற்றது. இந்திய ஜனநாயக வாலிபர் சங்கம் கரூர் மாவட்டக் குழு சார்பில் இது ஏற்பாடு செய்யப்பட்டது. மாநகர செயலாளர் ராஜேந்திர பிரசாத் தலைமை வகித்தார். கள்ளக்குறிச்சி த வெ க சட்டமன்ற உறுப்பினர் அருள் விக்னேஷ் பதவி விலக வேண்டும் என்றும் கோஷம் எழுப்பப்பட்டது. மாவட்ட செயலாளர் சிவக்குமார், மாநகர பொருளாளர் அன்பு செல்வன், சி ஐ டி யு செயலாளர் சுப்பிரமணி உள்ளிட்ட நிர்வாகிகள் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "✊ கரூர் தலைமை தபால் நிலையம் முன் விலை உயர்வைக் கண்டித்து ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட இந்திய ஜனநாயக வாலிபர் சங்கம் சார்பில், தலைமை தபால் நிலையம் முன் நேற்று மாலை ஆர்ப்பாட்டம் நடைபெற்றது.\nமாநகர செயலாளர் ராஜேந்திர பிரசாத் தலைமை வகித்தார்.\nஅரிசி உள்ளிட்ட அத்தியாவசியப் பொருட்களின் விலை உயர்வைக் கண்டித்து கோஷம் எழுப்பப்பட்டது.\nகள்ளக்குறிச்சி த.வெ.க. எம்.எல்.ஏ. அருள் விக்னேஷ் பதவி விலக வேண்டும் என்றும் கோரிக்கை வைக்கப்பட்டது.\nமாவட்ட செயலாளர் சிவக்குமார், மாநகர பொருளாளர் அன்பு செல்வன், சி.ஐ.டி.யு. செயலாளர் சுப்பிரமணி உள்ளிட்ட நிர்வாகிகள் பங்கேற்றனர்.\n\nKarur protest against rice price rise | Karur news\n📍 தலைமை தபால் நிலையம், கரூர் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A crowd of youth union cadres gathers outside the Head Post Office in Karur city during the evening, raising slogans against the rise in rice and essential goods prices. Seen from behind and at a distance, men in shirts and trousers, some in veshti, stand in a loose group on the road in front of the post office building, holding red flags and placards above their heads. Behind them, the plain multi-storey post office facade and a few parked two-wheelers and an autorickshaw line the roadside, with town buses passing on the street in the background. Shops and street lamps glow as daylight fades into early evening. Camera at eye level, 35 mm, wide enough to show the post office building, the protesters and the road. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close detail of a red union flag and a placard held up above the heads of the protesters outside the Head Post Office in Karur city, with a few sacks of rice placed on the roadside as a protest prop. The placard is blank-toned with no readable text, and the flag hangs slightly in the evening breeze. Behind it, out of focus, the shoulders and backs of cadres in shirts and veshti are visible, and a parked two-wheeler sits at the kerb. Warm evening light falls across the scene. Camera slightly high, 50 mm, shallow depth of field, focused on the flag and the placard. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/democratic-youth-union-protest/4378307",
+   "published": "2026-11-17T04:18:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'நகரம்' is not in the article",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883512/karur360/d96uww8hbjtfunclurvr.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794883528/karur360/byyfwsphfpr0lxp6r9eh.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892619/karur360/rvaxyihjomhgavvyi0d0.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892622/karur360/ri7l6i7zeqd6coxuplbv.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர்: கால்நடை மருத்துவமனைகளில் அமைச்சர் கமலி ஆய்வு",
+   "english_headline": "Karur: Minister Kamali inspects veterinary hospitals and dispensaries across the district",
+   "category": "Government & Services",
+   "location": "Kolandhakavundanur, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு அறிவிப்பு",
+    "loc": "கொளந்தாகவுண்டனூர், கரூர்",
+    "hl1": "கால்நடை மருத்துவமனைகளில் அமைச்சர் ஆய்வு",
+    "hl2": "கால்நடைத்துறை அமைச்சர் கமலி",
+    "slides": [
+     {
+      "title": "எங்கே ஆய்வு?",
+      "lines": [
+       "கொளந்தாகவுண்டனூர் கால்நடை மண்டல இணை இயக்குனர் அலுவலக",
+       "வேலாயுதம்பாளையம், மண்மங்கலம், வாங்கல், எஸ்.வெள்ளாளப்பட்டி"
+      ]
+     },
+     {
+      "title": "என்ன ஆய்வு?",
+      "lines": [
+       "சிகிச்சை முறைகள், மருந்துகள் இருப்பு, பயன்பாடு",
+       "தடுப்பூசி செலுத்தும் பணிகள், நோய் தடுப்பு நடவடிக்கைகள்",
+       "அவசரகால மருத்துவ சேவைகள் குறித்து கேட்டறிந்தார்"
+      ]
+     },
+     {
+      "title": "புதிய பணிகள்",
+      "lines": [
+       "பெரியகாளிபாளையத்தில் புதிய கால்நடை மருந்தக கட்டடம் கட்டுதல்",
+       "ஆத்தூர் கால்நடை மருத்துவமனை வளாகத்தில் விலங்குகள் பிறப்பு"
+      ]
+     },
+     {
+      "title": "யார் பங்கேற்றனர்?",
+      "lines": [
+       "கலெக்டர் பிரசன்னா ராமசாமி, கிருஷ்ணராயபுரம் எம்.எல்.ஏ. சத்யா",
+       "கரூர் ஆர்.டி.ஓ. கார்த்திகேயன், கால்நடை மண்டல இணை இயக்குனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் மாவட்டத்தில் கால்நடைத்துறை அமைச்சர் கமலி நேற்று கால்நடை மருத்துவமனைகளில் ஆய்வு மேற்கொண்டார். கொளந்தாகவுண்டனூரில் உள்ள கால்நடை மண்டல இணை இயக்குனர் அலுவலக வளாகத்தில் உள்ள கால்நடை மருத்துவமனை உள்பட பல இடங்களில் ஆய்வு நடைபெற்றது. வேலாயுதம்பாளையம், மண்மங்கலம், வாங்கல், எஸ்.வெள்ளாளப்பட்டி கால்நடை மருந்தகங்களில் சிகிச்சை முறைகள், மருந்துகள் இருப்பு, பயன்பாடு குறித்து கேட்டறிந்தார். தடுப்பூசி செலுத்தும் பணிகள், நோய் தடுப்பு நடவடிக்கைகள், அவசரகால மருத்துவ சேவைகள் குறித்தும் ஆய்வு செய்யப்பட்டது. பெரியகாளிபாளையத்தில் புதிய கால்நடை மருந்தக கட்டடம் கட்டும் பணியும், ஆத்தூர் கால்நடை மருத்துவமனை வளாகத்தில் விலங்குகள் பிறப்பு கட்டுப்பாட்டு மையம் அமைக்கும் பணியும் ஆய்வு செய்யப்பட்டன. கலெக்டர் பிரசன்னா ராமசாமி, கிருஷ்ணராயபுரம் சட்டமன்ற உறுப்பினர் சத்யா, கரூர் வருவாய் கோட்டாட்சியர் கார்த்திகேயன், கால்நடை மண்டல இணை இயக்குனர் விஜயகுமார் உள்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐄 கரூரில் கால்நடை மருத்துவமனைகளில் அமைச்சர் கமலி ஆய்வு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டத்தில் கால்நடைத்துறை அமைச்சர் கமலி நேற்று கால்நடை மருத்துவமனைகளில் ஆய்வு மேற்கொண்டார். கொளந்தாகவுண்டனூரில் உள்ள கால்நடை மண்டல இணை இயக்குனர் அலுவலக வளாகத்தில் உள்ள கால்நடை மருத்துவமனை உள்பட பல இடங்களில் ஆய்வு நடைபெற்றது.\nவேலாயுதம்பாளையம், மண்மங்கலம், வாங்கல், எஸ்.வெள்ளாளப்பட்டி கால்நடை மருந்தகங்களில் சிகிச்சை முறைகள், மருந்துகள் இருப்பு, பயன்பாடு, தடுப்பூசி செலுத்தும் பணிகள், நோய் தடுப்பு நடவடிக்கைகள், அவசரகால மருத்துவ சேவைகள் குறித்து கேட்டறியப்பட்டது.\nபெரியகாளிபாளையத்தில் புதிய கால்நடை மருந்தக கட்டடம் கட்டும் பணியும், ஆத்தூர் கால்நடை மருத்துவமனை வளாகத்தில் விலங்குகள் பிறப்பு கட்டுப்பாட்டு மையம் அமைக்கும் பணியும் ஆய்வு செய்யப்பட்டன.\nகலெக்டர் பிரசன்னா ராமசாமி, கிருஷ்ணராயபுரம் எம்.எல்.ஏ. சத்யா, கரூர் ஆர்.டி.ஓ. கார்த்திகேயன், கால்நடை பராமரிப்புத்துறை மண்டல இணை இயக்குனர் விஜயகுமார் உள்பட பலர் பங்கேற்றனர்.\n\nKarur minister Kamali inspects veterinary hospitals | Karur news\n📍 கொளந்தாகவுண்டனூர், கரூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A group of Tamil Nadu officials in shirts and sarees walks through the courtyard of a veterinary hospital campus in Kolandhakavundanur, Karur, while the Animal Husbandry Minister leads a tour inspecting the facility. The setting is a single-storey government veterinary hospital building with plain concrete walls, a tiled or sheeted roof, and a small compound with a few cattle tied near the shed. Officials and staff are seen from behind or at a distance, some in formal shirts and others in white coats, gathering near the entrance and a wooden notice-free veranda. A couple of farmers stand near a cattle shed holding a rope of a calf, also seen from behind. A white government vehicle with a red beacon is parked at the edge of the compound. The time is mid-morning in bright daylight with soft shadows, and the sky is clear. Camera at eye level, 35 mm, wide enough to show the building, the people and the cattle shed together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a government veterinary dispensary counter where neatly arranged vaccine vials and medicine boxes sit on a metal tray beside a clipboard and a stack of registers, with a stainless steel cooler box open nearby. A veterinary assistant in a plain cotton uniform stands out of focus behind the counter, his back partly turned, checking the stock. Through a half-open door, a few cattle are visible in a shaded enclosure in the background. The light is natural daylight from a window, with soft warm tones and gentle shadows across the table. The objects are simple and clearly medical, with no readable labels. Camera close and slightly high, 50 mm, shallow depth of field so the medicine stock is sharp and the background is softly blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/minister-kamali-inspects-veterinary-hospital/4378299",
+   "published": "2026-11-17T04:12:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'கொளந்தாகவுண்டனூர்', e.g. 'கொளந்தாகவுண்டனூர்: ...' or 'கொளந்தாகவுண்டனூர்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892628/karur360/ocqgjzlfodtqxcu5h3l7.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892631/karur360/jvyuyo6wkiboxrkjyipm.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கிருஷ்ணராயபுரத்தில் நாளை முதல் 'உங்களை தேடி உங்கள் ஊரில்' முகாம்",
+   "english_headline": "Krishnarayapuram 'Ungalai Thedi Ungal Ooril' camp from tomorrow for two days, petitions at panchayat office and revenue offices",
+   "category": "Government & Services",
+   "location": "Krishnarayapuram block, Karur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு சேவை",
+    "loc": "கிருஷ்ணராயபுரம்",
+    "hl1": "கிருஷ்ணராயபுரத்தில் நாளை முதல் முகாம்",
+    "hl2": "மாலை 4 – 6 மணி மனு",
+    "slides": [
+     {
+      "title": "முகாம் எப்போது?",
+      "lines": [
+       "நாளை, நாளை மறுநாள் – <b>இரு நாட்கள்</b>",
+       "'உங்களை தேடி உங்கள் ஊரில்' திட்ட முகாம்",
+       "கலெக்டர் பிரசன்னா ராமசாமி தெரிவித்தார்"
+      ]
+     },
+     {
+      "title": "கோரிக்கை மனு",
+      "lines": [
+       "கிருஷ்ணராயபுரம் ஊராட்சி அலுவலகம்",
+       "மாலை <b>4 மணி</b> முதல் <b>6 மணி</b> வரை",
+       "பொதுமக்களிடம் கோரிக்கை மனுக்கள் பெறப்படும்"
+      ]
+     },
+     {
+      "title": "பட்டா மாறுதல் மனு",
+      "lines": [
+       "நாளை காலை <b>9 மணி</b> முதல் மாலை <b>5 மணி</b> வரை",
+       "கட்டளை, சிந்தலவாடி, பஞ்சப்பட்டி வருவாய் ஆய்வாளர் அலுவலகங்கள்",
+       "பட்டா மாறுதல் தொடர்பான மனுக்கள் பெறப்படும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கிருஷ்ணராயபுரத்தில் நாளை முதல் 'உங்களை தேடி உங்கள் ஊரில்' திட்ட முகாம் நடைபெறுகிறது. கரூர் மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி இதைத் தெரிவித்துள்ளார். கிருஷ்ணராயபுரம் வட்டாரத்தில் நாளை, நாளை மறுநாள் என இரு நாட்கள் இந்த முகாம் நடைபெறும். கிருஷ்ணராயபுரம் ஊராட்சி அலுவலகத்தில் மாலை 4 மணி முதல் 6 மணி வரை பொதுமக்களிடம் கோரிக்கை மனுக்கள் பெறப்படும். நாளை காலை 9 மணி முதல் மாலை 5 மணி வரை, கட்டளை, சிந்தலவாடி, பஞ்சப்பட்டி ஆகிய வருவாய் ஆய்வாளர் அலுவலகங்களில் பட்டா மாறுதல் தொடர்பான மனுக்கள் பெறப்படும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📋 கிருஷ்ணராயபுரத்தில் நாளை முதல் 'உங்களை தேடி உங்கள் ஊரில்' முகாம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், கிருஷ்ணராயபுரம் வட்டாரத்தில் 'உங்களை தேடி உங்கள் ஊரில்' திட்ட முகாம் நாளை முதல் நடைபெறுகிறது என மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி தெரிவித்துள்ளார். நாளை, நாளை மறுநாள் என இரு நாட்கள் முகாம் நடைபெறும்.\n📍 இடம்: கிருஷ்ணராயபுரம் ஊராட்சி அலுவலகம்\n🕘 நேரம்: மாலை 4 மணி முதல் 6 மணி வரை – பொதுமக்களிடம் கோரிக்கை மனுக்கள் பெறப்படும்\n🗓️ நாள்: நாளை காலை 9 மணி முதல் மாலை 5 மணி வரை – பட்டா மாறுதல் தொடர்பான மனுக்கள்\n📍 பட்டா மாறுதல் மனுக்கள் பெறப்படும் அலுவலகங்கள்: கட்டளை, சிந்தலவாடி, பஞ்சப்பட்டி வருவாய் ஆய்வாளர் அலுவலகங்கள்\n\nKrishnarayapuram camp tomorrow for two days | Karur news\n📍 கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #கரூர் #KarurNews",
+   "prompts": "A line of villagers in simple cotton shirts, veshti and sarees stands at a long table in a government panchayat office in Krishnarayapuram block, handing folded petition papers to a panchayat clerk seated behind a wooden desk; a 'Ungalai Thedi Ungal Ooril' camp is underway in the afternoon light coming through tall windows. The hall is a plain government office with ceiling fans, stacked steel almirahs and files piled on tables, while a few more people wait on wooden benches along the wall. Men are seen from behind in checked shirts and veshti, women in cotton sarees with bags over their shoulders, and two officials in shirts sit at a camp table with a stack of petition forms and a register open. Mid-afternoon daylight, slightly warm and bright. Shot at eye level or slightly high, 35 mm, wide enough to show the whole hall and the queue of petitioners. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden desk inside a revenue inspector office in rural Karur district, with a neat stack of patta transfer petition forms, a steel tiffin box and a black ink pen resting on a green cloth-covered register. A villager's hand, seen only from the wrist in a faded shirt sleeve, places a folded document on the pile. Behind the desk, a steel almirah full of bound land record files and a wall calendar blur softly. Bright morning daylight falls through a window across the papers. Camera at table height, 35 mm, shallow depth of field to keep the focus on the stack of petitions. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/search-for-yourself-in-krishnarayapuram-tomorrow-in-your-city/4378310",
+   "published": "2026-11-17T04:19:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says the 'Ungalai Thedi Ungal Ooril' camp starts tomorrow and continues the day after tomorrow, but the caption says the camp 'நாளை முதல்' (from tomorrow) and the reel says 'நாளை, நாளை மறுநாள்' — consistent; however the reel script's claim that the 4-6 pm petition collection is at Krishnarayapuram panchayat office is stated without specifying it is only on the first day, which is an ambiguity not in the article; fact-check: The reel script states 'நாளை காலை 9 மணி முதல் மாலை 5 மணி வரை' for the revenue inspector offices, which matches the article; but the caption attaches this time to 'நாள்' with the label 'பட்டா மாறுதல் தொடர்பான மனுக்கள்' and omits the three office names, which is a missing key detail from the reel's point of view (the reel does name them, so this is a caption gap); fact-check: The reel script says 'மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்' — this is the permitted fixed closing sentence and is not a problem",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892636/karur360/qxjoxjoons8lxtc3t705.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794892639/karur360/cyzui2ks1onn7m7bdtlc.jpg"
    ]
   }
  ]
