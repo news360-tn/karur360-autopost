@@ -24,7 +24,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-17T08:02:44.289837+05:30",
-   "picked_at": "2026-11-17T18:33:01.989284+05:30"
+   "picked_at": "2026-11-17T18:33:01.989284+05:30",
+   "posted": true
   },
   "C8de5bb0": {
    "id": "C8de5bb0",
@@ -37,7 +38,8 @@
    "score": 2.0,
    "power_cut": false,
    "listed_at": "2026-11-17T08:02:44.289837+05:30",
-   "picked_at": "2026-11-17T18:33:01.989285+05:30"
+   "picked_at": "2026-11-17T18:33:01.989285+05:30",
+   "refused": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
   }
  },
  "rounds": {
@@ -744,7 +746,10 @@
    "written": [
     "C0143278",
     "C8de5bb0"
-   ]
+   ],
+   "refused": {
+    "C8de5bb0": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
+   }
   }
  },
  "retry": {}
