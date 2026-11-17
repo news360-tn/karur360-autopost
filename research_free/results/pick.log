@@ -8,3 +8,23 @@
 18:32:59    3. [பொது] தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் செ.கமலி (தினமணி) (earlier)
 18:32:59 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-17_18
+18:33:01 a round time was skipped by GitHub since the last round - this round writes 8 (its own 5 + the skipped round's)
+18:33:01    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பின் அவசியம் குறித்து விழிப்புணர்வு பேரணி
+18:33:01 round 2026-11-17_18 (at least 8, up to 3 more of well-watched topics): 2 news to choose from (2 from earlier rounds), ranked by this page's insights
+18:33:01   PICK   1.   1.5 [other +0.00 pattern] (earlier) வீட்டுமனை பட்டா கேட்டு கடவூர் தாசில்தார் ஆபீஸ் முன் மக்கள் க
+18:33:01   PICK   2.   0.0 [other +0.00 pattern] (earlier) தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் 
+18:33:01 decided: automatic: top 8 of 2 by insights -> 2 news to write and post
+PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-protest-in-front-of-tahsildars-office-in-kadavur-demanding-house-site-patta/4378308 https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/16/தமிழகத்தில்-பறவைக்-காய்ச்சல்-இல்லை-கால்நடைத்-துறை-அமைச்சா்-செகமலி
+bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+18:49:20 1 picked news refused by the writer - not offered again
+18:49:20 1 listed news now in the Sheet
+18:49:30 instagram duplicate check karur: 50 recent posts read
+18:49:30 verify 2026-11-17_18: 0 of 2 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:49:30    SKIPPED C8de5bb0: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் 
+18:49:30    NOT POSTED C0143278: queued RN-88 (Queued) - வீட்டுமனை பட்டா கேட்டு கடவூர் தாசில்தார் ஆபீஸ் முன் மக்கள் க
+18:54:37 instagram duplicate check karur: 50 recent posts read
+18:54:37 verify 2026-11-17_18: 0 of 2 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:54:37    SKIPPED C8de5bb0: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் 
+18:54:37    NOT POSTED C0143278: queued RN-88 (Queued) - வீட்டுமனை பட்டா கேட்டு கடவூர் தாசில்தார் ஆபீஸ் முன் மக்கள் க
+18:59:43 verify 2026-11-17_18: 1 of 2 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+18:59:43    SKIPPED C8de5bb0: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - தமிழகத்தில் பறவைக் காய்ச்சல் இல்லை! கால்நடைத் துறை அமைச்சா் 
