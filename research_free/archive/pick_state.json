@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-17T18:29:30.258034+05:30",
+ "last_end": "2026-11-17T22:28:47.133845+05:30",
  "pool": {
   "C37c45f9": {
    "id": "C37c45f9",
@@ -12,20 +12,6 @@
    "score": 11.24,
    "power_cut": false,
    "listed_at": "2026-11-17T08:02:44.289837+05:30"
-  },
-  "C0143278": {
-   "id": "C0143278",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-protest-in-front-of-tahsildars-office-in-kadavur-demanding-house-site-patta/4378308",
-   "title": "வீட்டுமனை பட்டா கேட்டு கடவூர் தாசில்தார் ஆபீஸ் முன் மக்கள் காத்திருப்பு போராட்டம்",
-   "summary": "குளித்தலை: குளித்தலை அடுத்த கடவூர் ஒன்றியம், மாவத்துார் பஞ்., வினோபாஜிபுரம் கிராமத்தில், 100க்கும் மேற்பட்ட பொதுமக்கள் வசித்து வருகின்றனர். இப்பகுதியில், இன்ப சேவா சங்கம் என்ற தொண்டு நிறுவனத்திற்கு, 1986ல், 511 ஏக்கர்...",
-   "source": "தினமலர்",
-   "published": "2026-11-17T04:18:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-17T08:02:44.289837+05:30",
-   "picked_at": "2026-11-17T18:33:01.989284+05:30",
-   "posted": true
   },
   "C8de5bb0": {
    "id": "C8de5bb0",
@@ -40,39 +26,36 @@
    "listed_at": "2026-11-17T08:02:44.289837+05:30",
    "picked_at": "2026-11-17T18:33:01.989285+05:30",
    "refused": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
+  },
+  "Ca078f5b": {
+   "id": "Ca078f5b",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vijayalakshmi-minister-of-credit-for-college-students/4379044",
+   "title": "கல்லூரி மாணவர்களுக்கு கடனுதவி அமைச்சர் விஜயலட்சுமி வழங்கல்",
+   "summary": "கரூர்: கரூர் அருகே மணல்மேட்டில் உள்ள தனியார் பொறியியல் கல்லுாரியில், மாவட்ட நிர்வாகம் மற்றும் முன்னோடி வங்கி சார்பில் கல்வி கடன் விழிப்புணர்வு மற்றும் கடன் வழங்கும் விழா நடந்தது.",
+   "source": "தினமலர்",
+   "published": "2026-11-17T20:52:39+05:30",
+   "category": "கல்வி",
+   "score": 7.84,
+   "power_cut": false,
+   "alts": [
+    "https://www.dinamalar.com/news/tamil-nadu-news/vijayalakshmi-minister-of-credit-for-college-students/4379044"
+   ],
+   "listed_at": "2026-11-17T22:28:47.133845+05:30"
+  },
+  "C03000fd": {
+   "id": "C03000fd",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-news/aiadmk-begins-campaign-for-karur-by-election/4379043",
+   "title": "கரூர் இடைத்தேர்தலுக்காக ஆட்டத்தை துவங்கும் அ.தி.மு.க.,",
+   "summary": "கரூர்: கரூருக்கு வரும், 29ல், அ.தி.மு.க., பொதுச் செயலாளர் இ.பி.எஸ்., வருகை தரவுள்ளார். நடந்து முடிந்த சட்டசபை தேர்தலில், கரூர் தொகுதியில் அ.தி.மு.க., சார்பில் போட்டியிட்டு வெற்றி பெற்ற, முன்னாள் அமைச்சர் விஜயபாஸ்கர், ...",
+   "source": "தினமலர்",
+   "published": "2026-11-17T20:52:37+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-17T22:28:47.133845+05:30"
   }
  },
  "rounds": {
-  "2026-11-14_01": {
-   "window": [
-    "2026-11-13T21:45:14.227433+05:30",
-    "2026-11-14T01:45:01.673659+05:30"
-   ],
-   "ids": [
-    "Ccaf22b4",
-    "Cc4525e0",
-    "C12d84c5",
-    "Cd5bb6b8",
-    "C5d09495",
-    "Ce55e5a2"
-   ],
-   "sent": false,
-   "deadline": "2026-11-14T02:45:01.673659+05:30",
-   "decided": {
-    "how": "no submit by 02:45 AM - automatic top 3",
-    "ids": [
-     "Ccaf22b4",
-     "C12d84c5",
-     "Cd5bb6b8"
-    ],
-    "at": "2026-11-14T01:47:01.283857+05:30"
-   },
-   "written": [
-    "C12d84c5",
-    "Ccaf22b4",
-    "Cd5bb6b8"
-   ]
-  },
   "2026-11-14_05": {
    "window": [
     "2026-11-14T01:45:01.673659+05:30",
@@ -750,6 +733,21 @@
    "refused": {
     "C8de5bb0": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
    }
+  },
+  "2026-11-17_22": {
+   "window": [
+    "2026-11-17T18:29:30.258034+05:30",
+    "2026-11-17T22:28:47.133845+05:30"
+   ],
+   "ids": [
+    "Ca078f5b",
+    "C03000fd",
+    "C37c45f9"
+   ],
+   "sent": false,
+   "deadline": "2026-11-17T23:28:47.133845+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
