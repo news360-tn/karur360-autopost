@@ -13,3 +13,180 @@
 07:16:13    8. [நீதிமன்றம்] நீதிமன்ற உத்தரவுபடி திருப்பரங்குன்ற தீபதூணில் காா்திகை தீபம் ஏற்ற வேண் (தினமணி)
 07:16:13 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-18_07
+07:16:15 a round time was skipped by GitHub since the last round - this round writes 7 (its own 5 + the skipped round's)
+07:16:15 round 2026-11-18_07 (at least 7, up to 3 more of well-watched topics): 8 news to choose from (0 from earlier rounds), ranked by this page's insights
+07:16:15   PICK   1.  12.8 [crime +0.08 page] கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:16:15   PICK   2.  10.8 [crime +0.08 page] புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:16:15   PICK   3.  10.0 [other +0.00 pattern] சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:16:15   PICK   4.   6.5 [other +0.00 pattern] கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:16:15   PICK   5.   6.0 [other +0.00 pattern] ரயில்வே ஸ்டேஷனுக்கு பஸ்கள் சென்று வர நடவடிக்கை தேவை
+07:16:15   PICK   6.   4.0 [other +0.00 pattern] நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:16:15   PICK   7.   2.4 [sports_culture -0.20 pattern] நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:16:15          8.   1.5 [other +0.00 pattern] நீதிமன்ற உத்தரவுபடி திருப்பரங்குன்ற தீபதூணில் காா்திகை தீபம்
+07:16:15 decided: automatic: top 7 of 8 by insights -> 7 news to write and post
+PICK_URLS=https://www.dinakaran.com/district/karur_181126_2 https://www.dinakaran.com/district/karur_181126_3 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/chamba-cultivation-insurance-till-december-1/4379366 https://www.dinakaran.com/district/karur_181126_1 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/steps-needed-to-be-taken-to-get-buses-to-the-railway-station/4379361 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/kartik-deepotsav-approaching-production-of-earthen-lamps-picks-up-pace/4379364 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/painting-competition-for-prisoners-on-the-occasion-of-library-week/4379365
+07:20:51 7 listed news now in the Sheet
+07:21:00 instagram duplicate check karur: 50 recent posts read
+07:21:00 verify 2026-11-18_07: 0 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:21:00    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:21:00    NOT POSTED C76b219d: queued RN-92 (Queued) - நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:21:00    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:21:00    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:21:00    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:21:00    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:21:00    NOT POSTED Cf88c6d7: queued RN-93 (Queued) - ரயில்வே ஸ்டேஷனுக்கு பஸ்கள் சென்று வர நடவடிக்கை தேவை
+07:26:08 instagram duplicate check karur: 50 recent posts read
+07:26:09 verify 2026-11-18_07: 0 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:26:09    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:26:09    NOT POSTED C76b219d: queued RN-92 (Queued) - நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:26:09    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:26:09    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:26:09    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:26:09    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:26:09    NOT POSTED Cf88c6d7: queued RN-93 (Queued) - ரயில்வே ஸ்டேஷனுக்கு பஸ்கள் சென்று வர நடவடிக்கை தேவை
+07:31:16 instagram duplicate check karur: 50 recent posts read
+07:31:17 verify 2026-11-18_07: 1 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:31:17    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:31:17    NOT POSTED C76b219d: queued RN-92 (Queued) - நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:31:17    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:31:17    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:31:17    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:31:17    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:36:25 instagram duplicate check karur: 50 recent posts read
+07:36:25 verify 2026-11-18_07: 1 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:36:25    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:36:25    NOT POSTED C76b219d: queued RN-92 (Queued) - நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:36:25    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:36:25    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:36:25    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:36:25    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:41:33 instagram duplicate check karur: 50 recent posts read
+07:41:33 verify 2026-11-18_07: 1 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:41:33    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:41:33    NOT POSTED C76b219d: queued RN-92 (Queued) - நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:41:33    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:41:33    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:41:33    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:41:33    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:46:42 instagram duplicate check karur: 50 recent posts read
+07:46:42 verify 2026-11-18_07: 1 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:46:42    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:46:42    NOT POSTED C76b219d: queued RN-92 (Queued) - நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:46:42    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:46:42    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:46:42    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:46:42    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:51:52 instagram duplicate check karur: 50 recent posts read
+07:51:52 verify 2026-11-18_07: 1 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:51:52    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:51:52    NOT POSTED C76b219d: queued RN-92 (Queued) - நெருங்கும் கார்த்திகை தீப விழா: மண் விளக்கு உற்பத்தி விறுவிற
+07:51:52    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:51:52    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:51:52    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:51:52    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+07:57:00 instagram duplicate check karur: 50 recent posts read
+07:57:00 verify 2026-11-18_07: 2 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+07:57:00    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+07:57:00    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+07:57:00    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+07:57:00    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+07:57:00    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:02:07 instagram duplicate check karur: 50 recent posts read
+08:02:07 verify 2026-11-18_07: 2 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:02:07    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:02:07    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:02:07    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+08:02:07    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:02:07    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:07:14 instagram duplicate check karur: 50 recent posts read
+08:07:14 verify 2026-11-18_07: 2 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:07:14    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:07:14    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:07:14    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+08:07:14    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:07:14    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:12:20 instagram duplicate check karur: 50 recent posts read
+08:12:20 verify 2026-11-18_07: 2 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:12:20    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:12:20    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:12:20    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+08:12:20    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:12:20    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:17:26 instagram duplicate check karur: 50 recent posts read
+08:17:26 verify 2026-11-18_07: 2 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:17:26    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:17:26    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:17:26    NOT POSTED Cd0e6877: queued RN-96 (Queued) - கரூர் திருக்காம்புலியூரில் சட்ட விரோதமாக மது விற்ற பெண் கைது
+08:17:26    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:17:26    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:22:33 instagram duplicate check karur: 50 recent posts read
+08:22:33 verify 2026-11-18_07: 3 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:22:33    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:22:33    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:22:33    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:22:33    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:27:39 instagram duplicate check karur: 50 recent posts read
+08:27:39 verify 2026-11-18_07: 3 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:27:39    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:27:39    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:27:39    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:27:39    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:32:46 instagram duplicate check karur: 50 recent posts read
+08:32:46 verify 2026-11-18_07: 3 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:32:46    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:32:46    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:32:46    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:32:46    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:37:53 instagram duplicate check karur: 50 recent posts read
+08:37:53 verify 2026-11-18_07: 3 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:37:53    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:37:53    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:37:53    NOT POSTED Cd4b76c0: queued RN-95 (Queued) - புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய்
+08:37:53    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:43:00 instagram duplicate check karur: 50 recent posts read
+08:43:00 verify 2026-11-18_07: 4 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:43:00    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:43:00    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:43:00    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:48:06 instagram duplicate check karur: 50 recent posts read
+08:48:06 verify 2026-11-18_07: 4 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:48:06    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:48:06    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:48:06    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:53:12 instagram duplicate check karur: 50 recent posts read
+08:53:12 verify 2026-11-18_07: 4 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:53:12    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:53:12    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:53:12    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+08:58:18 instagram duplicate check karur: 50 recent posts read
+08:58:18 verify 2026-11-18_07: 4 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+08:58:18    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+08:58:18    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+08:58:18    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+09:03:24 instagram duplicate check karur: 50 recent posts read
+09:03:24 verify 2026-11-18_07: 4 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+09:03:24    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+09:03:24    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+09:03:24    NOT POSTED Cf6667ef: queued RN-94 (Queued) - கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல ஐஜி திடீர் ஆய்வ
+09:08:31 instagram duplicate check karur: 50 recent posts read
+09:08:31 verify 2026-11-18_07: 5 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+09:08:31    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+09:08:31    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+09:13:38 instagram duplicate check karur: 50 recent posts read
+09:13:38 verify 2026-11-18_07: 5 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+09:13:38    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+09:13:38    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+09:18:44 instagram duplicate check karur: 50 recent posts read
+09:18:44 verify 2026-11-18_07: 5 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+09:18:44    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+09:18:44    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+09:23:51 instagram duplicate check karur: 50 recent posts read
+09:23:51 verify 2026-11-18_07: 5 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+09:23:51    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+09:23:51    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+09:28:59 instagram duplicate check karur: 50 recent posts read
+09:28:59 verify 2026-11-18_07: 5 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+09:28:59    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்
+09:28:59    NOT POSTED Cabbb385: queued RN-91 (Queued) - நூலக வார விழாவை முன்னிட்டு சிறை கைதிகளுக்கு ஓவிய போட்டி
+09:34:03 verify 2026-11-18_07: 6 of 7 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
+09:34:03    SKIPPED C3209d93: skipped RN-97: held: location is only the district - the town from the article is missing - சம்பா சாகுபடி காப்பீடு டிச.,1 வரை அவகாசம்

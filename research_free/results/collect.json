@@ -3,229 +3,600 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vijayalakshmi-minister-of-credit-for-college-students/4379044",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/aiadmk-begins-campaign-for-karur-by-election/4379043",
-  "candidate filter: collected=2",
-  "to write: 2 Karur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/aiadmk-begins",
+  "manual link added: https://www.dinakaran.com/district/karur_181126_2",
+  "manual link added: https://www.dinakaran.com/district/karur_181126_3",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/chamba-cultivation-insurance-till-december-1/4379366",
+  "manual link added: https://www.dinakaran.com/district/karur_181126_1",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/steps-needed-to-be-taken-to-get-buses-to-the-railway-station/4379361",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/kartik-deepotsav-approaching-production-of-earthen-lamps-picks-up-pace/4379364",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/painting-competition-for-prisoners-on-the-occasion-of-library-week/4379365",
+  "candidate filter: collected=7",
+  "to write: 7 Karur district candidates (max 7 stories)",
+  "round: top 7 of 7 candidates",
+  "candidates waiting: 7 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_181126_1",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 74 min",
-  "filed: 2 Karur district stories (target 2), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_181126_3",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_181126_2",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
+  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 75 min",
+  "filed: 7 Karur district stories (target 7), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "ok gemini/gemini-3-flash-preview (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (16s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (23s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூர் இடைத்தேர்தல்: அ.தி.மு.க. ஆலோசனைக் கூட்டம் நவம்பர் 29",
-   "english_headline": "AIADMK to hold strategy meeting in Karur on 29 Nov ahead of Karur by-election; EPS to attend",
-   "category": "Government & Services",
-   "location": "Karur town, Karur district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "கரூரில் சிறை கைதிகளுக்கு ஓவியப் போட்டி: நூலக வார விழாவை முன்னிட்டு நடந்தது",
+   "english_headline": "Painting competition for prisoners held in Karur to mark National Library Week; 21 prisoners took part",
+   "category": "Education",
+   "location": "Karur taluk office complex, Karur district",
+   "importance": "Low",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல்",
+    "cat": "நூலக வாரம்",
     "loc": "கரூர்",
-    "hl1": "கரூரில் அ.தி.மு.க. ஆலோசனைக் கூட்டம்",
-    "hl2": "நவம்பர் 29, காலை 10:30 மணி",
+    "hl1": "கரூரில் சிறை கைதிகளுக்கு ஓவிய போட்டி",
+    "hl2": "21 கைதிகள் பங்கேற்பு",
     "slides": [
      {
-      "title": "எப்போது, எங்கே?",
+      "title": "எங்கே நடந்தது?",
       "lines": [
-       "நவம்பர் 29 காலை 10:30 மணிக்கு",
-       "கரூர் கொங்கு திருமண மண்டபத்தில் கூட்டம்",
-       "மாவட்ட செயலாளர் கமலகண்ணன் தலைமையில் நடைபெறும்"
+       "கரூர் தாலுகா அலுவலக வளாகத்தில் உள்ள கிளை சிறையில் போட்டி",
+       "தேசிய நூலக வார விழாவை முன்னிட்டு நடந்தது"
       ]
      },
      {
-      "title": "யார் பங்கேற்பு?",
+      "title": "யார் பங்கேற்றனர்?",
       "lines": [
-       "அ.தி.மு.க. பொதுச் செயலாளர் இ.பி.எஸ். பேசுகிறார்",
-       "முன்னணித் தலைவர்கள், முன்னாள் அமைச்சர்கள் பங்கேற்பு",
-       "இடைத்தேர்தலில் வெற்றி பெறும் வழிகள் ஆலோசிக்கப்படும்"
+       "மொத்தம் <b>21 சிறை கைதிகள்</b> ஆர்வத்துடன் பங்கேற்றனர்",
+       "போட்டியை மாவட்ட மைய நூலக வாசகர் வட்டத் தலைவர் சங்கர்",
+       "ஓவிய ஆசிரியர் துரைராஜ் சிறப்பாளராக கலந்து கொண்டார்"
       ]
      },
      {
-      "title": "ஏன்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "முன்னாள் அமைச்சர் விஜயபாஸ்கர் எம்.எல்.ஏ. பதவியை ராஜினாமா",
-       "அவர் த.வெ.க.வில் இணைந்ததால் கரூர் தொகுதி காலி",
-       "இடைத்தேர்தல் தேதி விரைவில் அறிவிக்கப்பட உள்ளது"
+       "போட்டி விதிமுறைகள், ஓவியக் கலை நுணுக்கங்கள் எளிமையாக",
+       "கைதிகள் தங்கள் கற்பனைத் திறனை ஓவியத்தில் வெளிப்படுத்தினர்",
+       "நூலகர்கள், சிறை கண்காணிப்பாளர் உள்பட பலர் பங்கேற்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் நவம்பர் 29 அன்று காலை 10:30 மணிக்கு அ.தி.மு.க. ஆலோசனைக் கூட்டம் நடைபெற உள்ளது. இதனால் மாவட்ட செயலாளர் கமலகண்ணன் தலைமையில் கூட்டம் தொடங்கும். மேலும் அ.தி.மு.க. பொதுச் செயலாளர் இ.பி.எஸ். பேசுகிறார், முன்னணித் தலைவர்களும் முன்னாள் அமைச்சர்களும் கலந்து கொள்கிறார்கள். இதையடுத்து முன்னாள் அமைச்சர் விஜயபாஸ்கர் எம்.எல்.ஏ. பதவியை ராஜினாமா செய்து த.வெ.க.வில் இணைந்ததால் கரூர் தொகுதி காலியாகியுள்ளது. இடைத்தேர்தல் தேதி விரைவில் அறிவிக்கப்பட உள்ளது; தேர்தல் தேதிக்கு முன்பே கூட்டம் நடைபெறுவதால் கட்சித் தொண்டர்கள் மகிழ்ச்சியடைந்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ கரூரில் நவம்பர் 29 அ.தி.மு.க. ஆலோசனைக் கூட்டம்: இ.பி.எஸ். பங்கேற்பு\n\n📰 முழு விவரம்:\nகரூர் சட்டசபைத் தொகுதி இடைத்தேர்தலுக்கு முன்னதாக, அ.தி.மு.க. ஆலோசனைக் கூட்டம் நவம்பர் 29 காலை 10:30 மணிக்கு கரூர் கொங்கு திருமண மண்டபத்தில் நடைபெறவுள்ளது. மாவட்ட செயலாளர் கமலகண்ணன் தலைமையில் நடைபெறும் இக்கூட்டத்தில் அ.தி.மு.க. பொதுச் செயலாளர் இ.பி.எஸ். பேசுகிறார். இடைத்தேர்தலில் வெற்றி பெறுவது குறித்து முன்னணித் தலைவர்களும் முன்னாள் அமைச்சர்களும் ஆலோசனை வழங்குவர். முன்னாள் அமைச்சர் விஜயபாஸ்கர் எம்.எல்.ஏ. பதவியை ராஜினாமா செய்து த.வெ.க.வில் இணைந்ததால் கரூர் தொகுதி காலியாக உள்ளது. இடைத்தேர்தல் தேதி விரைவில் அறிவிக்கப்பட உள்ளது.\n\n📍 இடம்: கரூர் கொங்கு திருமண மண்டபம்\n🗓️ நாள்: நவம்பர் 29\n🕘 நேரம்: காலை 10:30 மணி\n👤 தலைமை: மாவட்ட செயலாளர் கமலகண்ணன்\n\nFollow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of AIADMK party cadres in white shirts and veshti gathers at the entrance of a large Kongu marriage hall in Karur town on the morning of the strategy meeting, many holding party flags folded on poles, with a few cars and two-wheelers parked along the road outside. Several men stand in a welcoming line near the gate while others walk in towards the hall, seen from behind and at a distance. The building is a plain multi-storey mandapam with concrete pillars and a wide entrance, and the street around it shows typical Karur town traffic with a town bus passing in the background. The morning light is bright daylight with a clear sky, and the scene feels busy and hopeful as workers prepare for a political meeting. Shot at eye level on a 35 mm lens, wide enough to show the hall, the parked vehicles, and the crowd of party workers. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a row of plastic chairs arranged in neat rows inside a marriage hall in Karur, with a raised dais at the front and party flags on tall poles placed beside it. A few folded flags and a red-and-black party banner lie stacked near the stage, and the chairs are only partly filled, showing the meeting about to begin. The floor is clean tiled concrete, and sunlight from high windows falls across the seats. No readable text or faces are visible, only the empty stage and the flags. Taken at slightly high eye level on a 35 mm lens, focusing on the chairs, flags, and stage to show a political strategy meeting being prepared. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/aiadmk-begins-campaign-for-karur-by-election/4379043",
-   "published": "2026-11-17T20:52:37+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/openai/gpt-oss-120b) - NOT CLEAN, held from posting - problems: caption must contain the exact follow line",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/openai/gpt-oss-120b, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூர் கிளை சிறையில் சிறை கைதிகளுக்கு ஓவிய போட்டி நடைபெற்றது. இது தேசிய நூலக வார விழாவை முன்னிட்டு நடத்தப்பட்டது. மொத்தம் 21 சிறை கைதிகள் ஆர்வத்துடன் இந்தப் போட்டியில் பங்கேற்றனர். கரூர் தாலுகா அலுவலக வளாகத்தில் செயல்பட்டு வரும் கிளை சிறையில் இந்தப் போட்டி நடந்தது. மாவட்ட மைய நூலக வாசகர் வட்டத் தலைவர் சங்கர் தலைமை தாங்கி போட்டியைத் தொடங்கி வைத்தார். ஓவிய ஆசிரியர் துரைராஜ் சிறப்பாளராக கலந்துகொண்டு போட்டியின் விதிமுறைகளையும், ஓவியக் கலையின் நுணுக்கங்களையும் எளிமையாக விளக்கினார். நிகழ்ச்சியில் மாவட்ட மைய நூலக முதல் நிலை நூலகர் அபிராமசுந்தரி, நூலகர் சுகன்யா, கரூர் கிளை சிறை கண்காணிப்பாளர் (பொ) அலெக்ஸாண்டர் உள்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎨 கரூர் கிளை சிறையில் கைதிகளுக்கு ஓவிய போட்டி\n\n📰 முழு விவரம்:\nதேசிய நூலக வார விழாவை முன்னிட்டு, கரூர் தாலுகா அலுவலக வளாகத்தில் செயல்பட்டு வரும் கிளை சிறையில் கைதிகளுக்கு ஓவியப் போட்டி நடைபெற்றது.\nமாவட்ட மைய நூலக வாசகர் வட்டத் தலைவர் சங்கர் தலைமை தாங்கி போட்டியைத் தொடங்கி வைத்தார்.\nஓவிய ஆசிரியர் துரைராஜ் சிறப்பாளராக கலந்துகொண்டு, போட்டியின் விதிமுறைகள் மற்றும் ஓவியக் கலையின் நுணுக்கங்களை சிறைவாசிகளுக்கு எளிமையாக விளக்கினார்.\nபோட்டியில் மொத்தம் 21 சிறை கைதிகள் ஆர்வத்துடன் பங்கேற்று, தங்கள் கற்பனைத் திறனை ஓவியத்தில் வெளிப்படுத்தினர்.\nநிகழ்ச்சியில் மாவட்ட மைய நூலக முதல் நிலை நூலகர் அபிராமசுந்தரி, நூலகர் சுகன்யா, கரூர் கிளை சிறை கண்காணிப்பாளர் (பொ) அலெக்ஸாண்டர் உள்பட பலர் பங்கேற்றனர்.\n\nPainting competition for prisoners in Karur | Karur news\n📍 கரூர் தாலுகா அலுவலக வளாகம், கரூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A group of about 21 male prisoners in plain prison-issue clothes sits at long tables inside the branch prison compound in Karur, each bent over a blank drawing sheet with pencils and paint trays in front of them, as a painting teacher stands at the front explaining the rules of a competition held to mark National Library Week. The setting is the open yard and hall of a small branch prison that sits within the government taluk office complex in Karur city, with plain whitewashed walls, iron grilles, a few fans on the ceiling and a simple banner or stage at the front. The prisoners are seen from behind or from a distance, their faces not visible, some leaning forward with concentration, a few holding pencils and brushes, while library officials and the prison in-charge sit together at the front table in the background. Daylight falls through the open doorway and windows, the scene looks calm and orderly, shot at eye level on a 35 mm lens wide enough to show the whole hall and the rows of tables. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of drawing sheets and paint trays laid out on a wooden table inside the Karur branch prison, with a few colour pencils, brushes and a half-finished painting of a landscape with a river, trees and a small house on the paper. Behind the table, slightly out of focus, a prisoner's hand in plain clothing holds a brush over the sheet, and the iron grille of a prison window shows in the background. Daylight from the window lights the paper and paints evenly, with the teacher's rules sheet pinned to the wall blurred and unreadable. The focus is on the artwork and the simple materials, shot at a slightly high angle with a 35 mm lens to highlight the creative effort inside a prison setting. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/painting-competition-for-prisoners-on-the-occasion-of-library-week/4379365",
+   "published": "2026-11-18T07:09:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794935123/karur360/qtgyb5yhsqx2agzce1ma.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794935127/karur360/uokdnohujvl1mbrigfih.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966557/karur360/elcuagsigkbe75lmbqre.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966559/karur360/cxnnn15libwcqjjuhqxr.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூரில் 3.52 கோடி ரூபாய் கல்வி கடன் வழங்கல்",
-   "english_headline": "Minister Vijayalakshmi releases 3.52 Crore Rupees education loans in Karur",
-   "category": "Government & Services",
-   "location": "Manalmedu, Karur district",
-   "importance": "High",
+   "tamil_headline": "கார்த்திகை தீப விழா நெருங்குகிறது: கரூரில் மண் விளக்கு உற்பத்தி விறுவிறுப்பு",
+   "english_headline": "Karthigai Deepam nears: mud lamp production picks up pace in Karur",
+   "category": "Temples & Events",
+   "location": "Karur city, Karur district",
+   "importance": "Medium",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்வி கடன்",
-    "loc": "மணல்மேட்டில், கரூர்",
-    "hl1": "கரூரில் 3.52 கோடி ரூபாய் கடன் வழங்கல்",
-    "hl2": "50 மாணவர்களுக்கு உதவி",
+    "cat": "கார்த்திகை தீபம்",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் மண் விளக்கு உற்பத்தி",
+    "hl2": "கார்த்திகை தீபம் 24ல்",
     "slides": [
      {
-      "title": "நிகழ்ச்சி விவரம்",
+      "title": "என்ன நடக்கிறது?",
       "lines": [
-       "மணல்மேட்டில் உள்ள பொறியியல் கல்லூரியில் நடைபெற்றது",
-       "மாவட்ட நிர்வாகம் மற்றும் வங்கி சார்பில் கடன் விழா",
-       "பால் வளத்துறை அமைச்சர் விஜயலட்சுமி கலந்துகொண்டார்"
+       "கரூர் பகுதிகளில் மண் விளக்கு தயாரிப்பு சுறுசுறுப்பு",
+       "கார்த்திகை தீபத்திருவிழா <b>24</b>ல் நடைபெறுகிறது",
+       "இன்னும் <b>6 நாட்கள்</b> உள்ளன"
       ]
      },
      {
-      "title": "கடன் அளவு",
+      "title": "எங்கே",
       "lines": [
-       "50 பயனாளிகளுக்கு <b>3.52 கோடி ரூபாய்</b> கடன் வழங்கப்பட்டது",
-       "கட்டுமான தொழிலாளர்களுக்கான உதவித்தொகையும் வழங்கப்பட்டது",
-       "அமைச்சர் விஜயலட்சுமி நேரடியாக கடனை வழங்கினார்"
+       "அண்ணா வளைவு, காளிப்பாளையம், தான்தோன்றிமலை",
+       "லாலாப்பேட்டை கொடிக்கால் தெரு, மாயனூர்",
+       "கோவில்களுக்கான மண் விளக்குகளும் மின் மோட்டாரில் தயாரிப்பு"
       ]
      },
      {
-      "title": "மாவட்ட இலக்கு",
+      "title": "விலை நிலவரம்",
       "lines": [
-       "கரூர் மாவட்டத்தில் <b>2,500</b> மாணவர்களுக்கு கடன் வழங்க இலக்கு",
-       "மொத்த மதிப்பு <b>60 கோடி ரூபாய்</b> வரை நிர்ணயிக்கப்பட்டுள்ளது",
-       "பி.எம். வித்யாலட்சுமி திட்டத்தின் கீழ் பிணையற்ற கடன்"
+       "சிறிய விளக்கு 100க்கு <b>200 ரூபாய்</b>",
+       "பெரிய விளக்கு 100க்கு <b>300 ரூபாய்</b>",
+       "ஐந்து முக விளக்கு ஒன்று <b>15 ரூபாய்</b>"
+      ]
+     },
+     {
+      "title": "வியாபாரிகள் வருகை",
+      "lines": [
+       "கரூர் மட்டுமின்றி ஈரோடு, திண்டுக்கல், நாமக்கல்",
+       "பகுதி வியாபாரிகளும் விளக்குகளை வாங்க வருகின்றனர்",
+       "களிமண் விளக்குகளை வெயிலில் காயவைத்து சுட வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் மாவட்டத்தில் 3.52 கோடி ரூபாய் மதிப்பில் கல்வி கடன் வழங்கப்பட்டது. மணல்மேட்டில் உள்ள தனியார் பொறியியல் கல்லூரியில் இந்த நிகழ்ச்சி நடைபெற்றது. பால் வளத்துறை அமைச்சர் விஜயலட்சுமி 50 பயனாளிகளுக்கு கடனை வழங்கினார். கட்டுமான தொழிலாளர்களுக்கான உதவித்தொகையும் அமைச்சர் வழங்கினார். மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி நிகழ்ச்சியில் உரையாற்றினார். பி எம் வித்யாலட்சுமி திட்டத்தின் கீழ் பிணையற்ற கல்வி கடன் வழங்கப்படுகிறது. தமிழ்நாட்டில் 133 கல்லூரிகள் இந்த திட்டத்தில் சேர்க்கப்பட்டுள்ளன. கரூர் மாவட்டத்தில் 2,500 மாணவர்களுக்கு கடன் வழங்க இலக்கு நிர்ணயிக்கப்பட்டுள்ளது. இந்த இலக்கின் மதிப்பு 60 கோடி ரூபாய் வரை உள்ளது. தற்போது 43 மாணவ, மாணவிகளுக்கு 3.17 கோடி ரூபாய் கடன் ஆணை வழங்கப்பட்டுள்ளது. படிப்பு முடிந்த பின் வேலை தேட 1 ஆண்டு அவகாசம் வழங்கப்படுகிறது. கடனை திருப்பி செலுத்த 15 ஆண்டுகள் வரை தவணை காலம் உள்ளது. 7 கட்டுமான தொழிலாளர்களின் குடும்பங்களுக்கு 33.40 லட்சம் ரூபாய் உதவி வழங்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ கரூரில் 3.52 கோடி ரூபாய் கல்வி கடன் வழங்கல் - 50 மாணவர்களுக்கு உதவி\n\n📰 முழு விவரம்:\nமணல்மேட்டில் உள்ள தனியார் பொறியியல் கல்லூரியில் கல்வி கடன் விழிப்புணர்வு மற்றும் கடன் வழங்கும் விழா நடைபெற்றது. பால் வளத்துறை அமைச்சர் விஜயலட்சுமி 50 பயனாளிகளுக்கு 3.52 கோடி ரூபாய் மதிப்பில் கடனுதவியை வழங்கினார். கட்டுமான தொழிலாளர்களுக்கான உதவித்தொகையும் அமைச்சர் வழங்கினார். மாவட்ட ஆட்சியர் பிரசன்னா ராமசாமி நிகழ்ச்சியில் உரையாற்றினார். பி.எம். வித்யாலட்சுமி திட்டத்தின் கீழ் தமிழ்நாட்டில் 133 கல்லூரிகள் சேர்க்கப்பட்டுள்ளன. கரூர் மாவட்டத்தில் 2,500 மாணவர்களுக்கு 60 கோடி ரூபாய் வரை கடன் வழங்க இலக்கு நிர்ணயிக்கப்பட்டுள்ளது. தற்போது 43 மாணவ, மாணவிகளுக்கு 3.17 கோடி ரூபாய் கடன் ஆணை வழங்கப்பட்டுள்ளது. 7 கட்டுமான தொழிலாளர்களின் குடும்பங்களுக்கு 33.40 லட்சம் ரூபாய் விபத்து மரண உதவி வழங்கப்பட்டது.\n\n📍 இடம்: மணல்மேட்டில், கரூர்\n🗓️ நாள்: நவம்பர் 17, 2026\n👮 நடவடிக்கை: கடன் வழங்கல் நிகழ்ச்சி நடைபெற்றது\nℹ️ மக்கள் கவனத்திற்கு: பி.எம். வித்யாலட்சுமி திட்டத்தின் கீழ் பிணையற்ற கடன் கிடைக்கும்\n\nKulithalai education loan release | Karur news\n📍 Manalmedu, Karur | 17 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Karur360 #Karur #KarurNews #கரூர் #Education",
-   "prompts": "A minister in a sari stands on a stage of a private engineering college hall in Manalmedu, Karur, handing a sanction document to a row of student beneficiaries at a government education-loan function. Behind the dais, several officials in formal wear sit at a long table draped with a cloth, and a banner-free backdrop of plain cream wall frames the stage. Students in shirts and trousers and women in sarees and salwar stand in a line from behind, waiting their turn, while the seated audience of parents and college staff fills rows of white plastic chairs in the auditorium. Microphones stand at the edge of the stage, and ceiling fans and tube lights light the bright indoor hall in daytime. Shot at eye level with a 35 mm lens, wide enough to show the stage, the queue and the full hall. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of loan sanction papers and a few cheque-style certificates resting on a government-office table covered with a plain white cloth, with a glass water jug and steel tumbler beside them. In the soft background, a student's hand in a shirt sleeve reaches toward the papers, blurred, and the edge of a stage backdrop shows an out-of-focus crowd of seated attendees in an indoor college auditorium. Warm tube lighting falls on the documents, shot at slightly high eye level with a 35 mm lens to focus on the paperwork of the education-loan distribution. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vijayalakshmi-minister-of-credit-for-college-students/4379044",
-   "published": "2026-11-17T20:52:39+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,425 ('வித்யாலட்சுமி திட்டத்தின் கீழ் நாட்டின் சிறந்த, 1,425 கல்வி '); 15 ('படிப்பு முடிந்த பின், வேலை வாய்ப்பு தேட ஓராண்டு அவகாசமும், க'); கிருஷ்ணராயபுரம் ('நிகழ்ச்சியில் கிருஷ்ணராயபுரம் த.வெ.க., – எம்.எல்.ஏ., சத்யா, ')",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூரில் கார்த்திகை தீபத்துக்காக மண் விளக்குகள் தயாரிக்கும் பணி விறுவிறுப்பாக நடைபெறுகிறது. கார்த்திகை தீபத்திருவிழா 24ஆம் தேதி நடைபெறவுள்ளது. இன்னும் 6 நாட்களே உள்ள நிலையில் மண்பாண்டத் தொழிலாளர்கள் விளக்குகள் தயாரிப்பில் ஈடுபட்டுள்ளனர். அண்ணா வளைவு, காளிப்பாளையம், தான்தோன்றிமலை, லாலாப்பேட்டை கொடிக்கால் தெரு மற்றும் மாயனூர் பகுதிகளில் அதிக அளவில் மண் விளக்குகள் உற்பத்தி செய்யப்படுகின்றன. கோவில்களில் நாள்தோறும் பயன்படுத்தப்படும் ஐந்து முக விளக்குகளும், சிறிய விளக்குகளும் மின் மோட்டார் மூலம் தயாரிக்கப்படுகின்றன. களிமண் விளக்குகளை வெயிலில் காயவைத்து சூளையில் சுட வேண்டும் என்று உற்பத்தியாளர்கள் தெரிவிக்கின்றனர். தற்போது மொத்த வியாபாரிகளுக்கு 100 சிறிய விளக்குகள் 200 ரூபாய்க்கும், 100 பெரிய விளக்குகள் 300 ரூபாய்க்கும், ஐந்து முக விளக்கு ஒன்று 15 ரூபாய்க்கும் விற்கப்படுகிறது. கரூர் மட்டுமின்றி ஈரோடு, திண்டுக்கல், நாமக்கல் பகுதிகளிலிருந்தும் வியாபாரிகள் விளக்குகளை வாங்க வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🪔 கரூரில் கார்த்திகை தீபத்துக்காக மண் விளக்கு உற்பத்தி விறுவிறுப்பு\n\n📰 முழு விவரம்:\nகார்த்திகை தீபத்திருவிழா 24ஆம் தேதி நடைபெறவுள்ளது. இதற்காக கரூர் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் மண் விளக்கு தயாரிக்கும் பணி சுறுசுறுப்படைந்துள்ளது. இன்னும் 6 நாட்களே உள்ள நிலையில் மண்பாண்டத் தொழிலாளர்கள் விளக்குகள் தயாரிப்பில் ஈடுபட்டுள்ளனர்.\n📍 இடங்கள்: அண்ணா வளைவு, காளிப்பாளையம், தான்தோன்றிமலை, லாலாப்பேட்டை கொடிக்கால் தெரு, மாயனூர்\n🪔 கோவில்களில் நாள்தோறும் பயன்படுத்தப்படும் ஐந்து முக விளக்கு, சிறிய விளக்குகள் மின் மோட்டார் மூலம் தயாரிக்கப்படுகின்றன.\n💰 மொத்த வியாபாரிகளுக்கு விலை: 100 சிறிய விளக்கு ₹200, 100 பெரிய விளக்கு ₹300, ஐந்து முக விளக்கு ஒன்று ₹15.\n🚚 கரூர் மட்டுமின்றி ஈரோடு, திண்டுக்கல், நாமக்கல் பகுதி வியாபாரிகளும் விளக்குகளை வாங்க வருகின்றனர்.\nℹ️ மக்கள் கவனத்திற்கு: களிமண் விளக்குகளை வெயிலில் காயவைத்து சூளையில் சுட்டால்தான் விளக்கு தரமாக இருக்கும் என உற்பத்தியாளர்கள் தெரிவிக்கின்றனர்.\n\nKarur mud lamps Karthigai Deepam production | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "Mud-clay potters in Karur city sit on the ground and shape wet clay into rows of small and five-faced oil lamps for the Karthigai Deepam festival, about six days away. The workplace is an open yard on the edge of a potters' street in Karur, near the Anna Valaivu and Kalippalayam area, with a low brick-walled shed and a kiln (soolai) visible in the background. Several men and women in plain cotton shirts, sarees and lungi sit from behind, their hands busy, while a few finished lamps dry in neat rows on the ground in the sun. Wooden boards, a stack of clay pots and a hand-cranked wheel stand nearby, with a small electric motor-driven machine on one side for the bigger lamps. A two-wheeler is parked at the edge of the yard. It is bright midday daylight with clear skies. Shot at eye level, 35 mm, wide enough to show the whole drying yard and the people working. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of freshly made clay lamps laid out to sun-dry on a mat in a Karur potter's yard, the five-faced lamps and small round lamps arranged in lines, some already darker from drying, others still pale wet clay. Beside them sit a stack of finished unfired lamps and a shallow wooden tray of wet clay, with a potter's hand from behind placing another lamp into the row. In the background, out of focus, the brick kiln (soolai) and a pile of red-brown earth. The light is strong daylight, with soft shadows on the bare ground. Shot at slightly high angle, 35 mm, focusing on the lamps and their texture, the background softened. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/kartik-deepotsav-approaching-production-of-earthen-lamps-picks-up-pace/4379364",
+   "published": "2026-11-18T07:08:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794935144/karur360/qglburg3oyutgwayexdn.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794935148/karur360/p11p8ypj5srkewlkmzfn.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966569/karur360/jl2hjqet9wqvepp5ndeu.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966572/karur360/dsqybblzxru8sqb4m7gp.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் ரயில்வே ஸ்டேஷனுக்குள் பஸ்களை அனுமதிக்க கோரிக்கை",
+   "english_headline": "Demand to allow government and private buses inside Karur railway station premises to ease passenger hardship",
+   "category": "Roads & Transport",
+   "location": "Karur railway station, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பேருந்து கோரிக்கை",
+    "loc": "கரூர் ரயில் நிலையம்",
+    "hl1": "கரூர் ரயில் நிலையத்துக்குள் பஸ்கள் வர",
+    "hl2": "500 மீட்டர் நடந்து செல்லும்",
+    "slides": [
+     {
+      "title": "கோரிக்கை என்ன?",
+      "lines": [
+       "கரூர் ரயில் நிலையத்துக்குள் அரசு, தனியார் பஸ்கள் செல்ல",
+       "பயணிகளின் சிரமத்தைத் தவிர்க்க இந்தக் கோரிக்கை எழுந்துள்ளது"
+      ]
+     },
+     {
+      "title": "ஏன் சிரமம்?",
+      "lines": [
+       "நாள்தோறும் 40க்கும் மேற்பட்ட ரயில்கள் கரூருக்கு வந்து",
+       "வளாகத்தில் போதிய இடவசதி இருந்தும் பஸ்கள் செல்வதில்லை",
+       "பயணிகள், குழந்தைகள், லக்கேஜுடன் <b>500 மீட்டர்</b> வரை"
+      ]
+     },
+     {
+      "title": "யார் பாதிப்பு?",
+      "lines": [
+       "நாமக்கல், குளித்தலை, கொடுமுடி பகுதித் தொழிலாளர்கள் கரூர்",
+       "நூற்றுக்கணக்கான தொழிலாளர்கள் நாள்தோறும் பயணம் செய்கின்றனர்"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "சேலம் கோட்ட ரயில்வே நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் ரயில் நிலையத்துக்குள் பஸ்களை அனுமதிக்க வேண்டும் என்ற கோரிக்கை எழுந்துள்ளது. பயணிகளின் சிரமத்தைத் தவிர்ப்பதற்காக இந்தக் கோரிக்கை முன்வைக்கப்பட்டுள்ளது. கரூர் ரயில் நிலையத்துக்கு நாள்தோறும் 40க்கும் மேற்பட்ட ரயில்கள் வந்து செல்கின்றன. கரூர் - சேலம் இடையே அமைக்கப்பட்டுள்ள புதிய வழித்தடத்தில் வந்தே பாரத் உள்ளிட்ட சிறப்பு ரயில்களும் இயக்கப்படுகின்றன. நாமக்கல், குளித்தலை, கொடுமுடி பகுதிகளிலிருந்து நூற்றுக்கணக்கான தொழிலாளர்கள் நாள்தோறும் கரூர் நகரில் உள்ள டெக்ஸ்டைல்ஸ், கொசுவலை நிறுவனங்களுக்கு வேலைக்கு வருகின்றனர். ரயில் நிலைய வளாகத்தில் போதிய இடவசதி இருந்தும் அரசு, தனியார் பஸ்கள் உள்ளே செல்வதில்லை. இதனால் பயணிகள், குழந்தைகள், லக்கேஜ் பொருட்களுடன் 500 மீட்டர் தூரம் வரை நடந்து சென்று பஸ்களில் ஏற வேண்டிய நிலை உள்ளது. எனவே, பஸ்களை அனுமதிக்க சேலம் கோட்ட ரயில்வே நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 கரூர் ரயில் நிலையத்துக்குள் பஸ்களை அனுமதிக்க கோரிக்கை\n\n📰 முழு விவரம்:\nகரூர் ரயில் நிலையத்துக்குள் அரசு, தனியார் பஸ்கள் செல்ல அனுமதிக்க வேண்டும் என்ற கோரிக்கை எழுந்துள்ளது. நாள்தோறும் 40க்கும் மேற்பட்ட ரயில்கள் கரூருக்கு வந்து செல்கின்றன.\nநாமக்கல், குளித்தலை, கொடுமுடி பகுதித் தொழிலாளர்கள் கரூர் நகரில் உள்ள டெக்ஸ்டைல்ஸ், கொசுவலை நிறுவனங்களுக்கு நாள்தோறும் வேலைக்கு வருகின்றனர்.\nவளாகத்தில் போதிய இடவசதி இருந்தும் பஸ்கள் உள்ளே செல்வதில்லை. பயணிகள் 500 மீட்டர் வரை நடந்து சென்று பஸ் ஏற வேண்டியுள்ளது.\n\n📍 இடம்: கரூர் ரயில் நிலையம்\n🏢 கோரிக்கை: சேலம் கோட்ட ரயில்வே நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும்\n\nKarur railway station bus access demand | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A line of passengers with children and heavy luggage bags walks along the outer road towards the bus stop at Karur railway station, as a government town bus and a private bus stand at a distance beyond the station entrance and the compound gate stays closed to them. The station is a Karur railway station building with a platform canopy, a station approach road and a parking strip in front, with two-wheelers, autorickshaws and a few trains visible on the tracks beyond. Men in shirts and trousers and women in sarees and salwar carry suitcases, trolley bags and cloth bundles, some holding small children by the hand, all seen from behind or far away. Buses and autorickshaws idle outside the gate while the walking crowd crosses the open road. The scene is daylight with a clear sky and a slight heat haze. Shot at eye level with a 35 mm lens, wide enough to show the station gate, the road and the bus stop. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a heavy trolley bag and a child's hand clutching a cloth bundle on the wet cement pavement outside the railway station approach, with the long walkway stretching behind toward a distant bus stop. The pavement is worn with a shallow puddle and a metal bollard at the edge of the road. Only the feet and the lower legs of a few passengers in trousers and salwar are visible at the edge of the frame, no faces. In the background a town bus waits beyond a barrier, out of focus. Daylight, overcast, soft even light. Shot at low-eye level with a 35 mm lens, shallow depth of field to highlight the luggage and the distance walked. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/steps-needed-to-be-taken-to-get-buses-to-the-railway-station/4379361",
+   "published": "2026-11-18T07:07:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 4 must have 2-3 lines",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966579/karur360/exxnzstrjpqf0juhdtiy.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966583/karur360/kjpgxaw41sp119etqzeu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் காவல் அலுவலகத்தில் மத்திய மண்டல காவல்துறைத் தலைவர் ஆய்வு",
+   "english_headline": "Central Zone Police Chief Balakrishnan inspects Karur district police office and gives advice to officers",
+   "category": "Government & Services",
+   "location": "Karur district police office, Karur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "காவல் ஆய்வு",
+    "loc": "கரூர் மாவட்ட காவல் அலுவலகம்",
+    "hl1": "கரூர் காவல் அலுவலகத்தில் ஆய்வு",
+    "hl2": "அதிகாரிகளுக்கு அறிவுரை",
+    "slides": [
+     {
+      "title": "யார் ஆய்வு?",
+      "lines": [
+       "திருச்சிராப்பள்ளி மத்திய மண்டல காவல்துறைத் தலைவர்",
+       "நேற்று கரூர் மாவட்ட காவல் அலுவலகத்தில் ஆய்வு செய்தார்",
+       "கரூர் மாவட்ட காவல் கண்காணிப்பாளர் ரகுபதி உடனிருந்தார்"
+      ]
+     },
+     {
+      "title": "எந்தெந்த பிரிவு?",
+      "lines": [
+       "மாவட்ட குற்ற ஆவணக் காப்பக அலுவலகத்தைப் பார்வையிட்டார்",
+       "பராமரிக்கப்படும் ஆவணங்கள், அலுவலகப் பணிகள் குறித்து ஆய்வு",
+       "அதிகாரிகளுக்கு வழிகாட்டுதல்களும் அறிவுரைகளும் வழங்கினார்"
+      ]
+     },
+     {
+      "title": "என்ன அறிவுரை?",
+      "lines": [
+       "காவல்துறைப் பணிகளைச் சிறப்பாகச் செய்ய வேண்டும்",
+       "ஆவணங்களை முறையாகப் பராமரிக்க வேண்டும்",
+       "உரிய கவனம் செலுத்த வேண்டும் என அறிவுறுத்தினார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் மாவட்ட காவல் அலுவலகத்தில் மத்திய மண்டல காவல்துறைத் தலைவர் பாலகிருஷ்ணன் ஆய்வு செய்தார். நேற்று நடந்த இந்த ஆய்வில் அவர் அதிகாரிகளுக்குப் பல்வேறு அறிவுரைகளை வழங்கினார். திருச்சிராப்பள்ளி மத்திய மண்டல காவல்துறைத் தலைவரான பாலகிருஷ்ணன், கரூர் மாவட்ட காவல் அலுவலகத்தில் செயல்படும் மாவட்ட குற்ற ஆவணக் காப்பக அலுவலகத்தைப் பார்வையிட்டார். அங்கு பராமரிக்கப்படும் ஆவணங்கள் மற்றும் அலுவலகப் பணிகள் குறித்து ஆய்வு செய்தார். காவல்துறையின் செயல்பாடுகளைச் சிறப்பாகச் செய்ய வேண்டும் என்றும், ஆவணங்களை முறையாகப் பராமரிக்க வேண்டும் என்றும் அறிவுறுத்தினார். இந்த ஆய்வின்போது கரூர் மாவட்ட காவல் கண்காணிப்பாளர் ரகுபதி உடனிருந்தார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "👮 கரூர் காவல் அலுவலகத்தில் மத்திய மண்டல காவல்துறைத் தலைவர் ஆய்வு\n\n📰 முழு விவரம்:\nதிருச்சிராப்பள்ளி மத்திய மண்டல காவல்துறைத் தலைவர் பாலகிருஷ்ணன் நேற்று கரூர் மாவட்ட காவல் அலுவலகத்தில் ஆய்வு மேற்கொண்டார்.\nஆய்வின்போது மாவட்ட குற்ற ஆவணக் காப்பக அலுவலகத்தைப் பார்வையிட்டு, அங்கு பராமரிக்கப்படும் ஆவணங்கள் மற்றும் அலுவலகப் பணிகள் குறித்துச் ஆய்வு செய்தார்.\nஅதிகாரிகளுக்கு வழிகாட்டுதல்களையும் அறிவுரைகளையும் வழங்கினார். காவல்துறையின் செயல்பாடுகளைச் சிறப்பாக மேற்கொள்ளவும், ஆவணங்களை முறையாகப் பராமரிக்கவும் உரிய கவனம் செலுத்த வேண்டும் என அறிவுறுத்தினார்.\nஇந்த ஆய்வின்போது கரூர் மாவட்ட காவல் கண்காணிப்பாளர் ரகுபதி உடனிருந்தார்.\n\nKarur police office inspection by Central Zone IG | Karur news\n📍 கரூர் மாவட்ட காவல் அலுவலகம், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "Inside the Karur district police office in Tamil Nadu, a senior police officer in a khaki uniform stands with several police officers in khaki, seen from behind, during a daytime inspection visit. The setting is a government office hall with tube lights, wooden desks, and a corridor leading to the district crime records archive room. Two or three officers in khaki shirts and trousers gather around the senior officer, who is seen from behind and far away, gesturing as if giving instructions. A few other officers stand near the doorway, some holding files in their hands. Light is soft daylight coming through windows and overhead tube lights, with a Tamil Nadu police khaki uniform look throughout. Camera at eye level, 35 mm, wide enough to show the office corridor and the group of officers, all faces turned away or blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the district crime records archive room in the Karur district police office. Tall steel almirahs and wooden racks are stacked with bundles of old case files, bound registers and dusty documents tied with cloth strings. A file is open on a wooden table in the foreground, with a pen resting beside it. In the background, a khaki-uniformed police officer stands out of focus, seen from behind, looking at the shelves. Soft indoor office light from tube lights and a window, neutral daytime tones, no readable text on the files. Camera at eye level, 35 mm, slightly shallow depth of field to focus on the stacked records and the orderly shelves of the archive. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/karur_181126_1",
+   "published": "2026-11-18T02:00:59+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The caption contains a grammatically incorrect form 'ஆய்வு செய்தார்' is fine, but 'குறித்துச் ஆய்வு செய்தார்' has a misplaced/incorrect Tamil particle (extra 'ச்' before 'ஆய்வு'), making the sentence ungrammatical",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966601/karur360/wlid0vtgfx41y4u5dfp8.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966605/karur360/ni1v5s6m0aohrpcvbxu3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புகழூர் நகராட்சி அருகே சாலையில் இடையூறு செய்த நபர் கைது",
+   "english_headline": "Man arrested for causing disturbance in the middle of the road near Pugalur municipality",
+   "category": "Crime & Safety",
+   "location": "MGR Nagar road, Pugalur municipality, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "புகழூர் நகராட்சி",
+    "hl1": "புகழூர் அருகே இடையூறு செய்தவர் கைது",
+    "hl2": "சாலையில் நின்று தகராறு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "புகழூர் நகராட்சி எம்ஜிஆர் நகர் சாலையில் ஒருவர் நின்று",
+       "பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு",
+       "வேலாயுதம்பாளையம் போலீசாருக்கு தகவல்"
+      ]
+     },
+     {
+      "title": "போலீஸ் எச்சரிக்கை",
+      "lines": [
+       "சிறப்பு சப்-இன்ஸ்பெக்டர் ரமேஷ் தலைமையில் போலீசார் விரைந்தனர்",
+       "அங்கிருந்து வெளியேறும்படி எச்சரிக்கை விடுத்தனர்",
+       "அவர் வெளியேறாமல் இடையூறு தொடர்ந்தது"
+      ]
+     },
+     {
+      "title": "கைது",
+      "lines": [
+       "வள்ளுவர் நகர் நர்மதா தெருவைச் சேர்ந்த <b>ஐயப்பன் (53 வயது)</b> கைது",
+       "வழக்குப் பதிவு செய்து விசாரணை நடக்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "புகழூர் நகராட்சி அருகே சாலையின் நடுவில் நின்று இடையூறு செய்த ஒருவர் போலீசாரால் கைது செய்யப்பட்டார். கரூர் மாவட்டம், புகழூர் நகராட்சி எம்ஜிஆர் நகர் பகுதிக்குச் செல்லும் சாலையில் ஒருவர் நின்று தகாத வார்த்தைகளால் திட்டிக் கொண்டிருந்தார். இதனால் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு ஏற்பட்டது. அந்தப் பகுதியைச் சேர்ந்தவர்கள் வேலாயுதம்பாளையம் போலீசாருக்குத் தகவல் தெரிவித்தனர். சிறப்பு சப்-இன்ஸ்பெக்டர் ரமேஷ் தலைமையிலான போலீசார் விரைந்து சென்றனர். அங்கிருந்து வெளியேறும்படி போலீசார் எச்சரிக்கை விடுத்தனர். ஆனால் அவர் வெளியேறாமல் தகராறில் ஈடுபட்டுக் கொண்டிருந்தார். வள்ளுவர் நகர் நர்மதா தெருவைச் சேர்ந்த ஐயப்பன், 53 வயது, டி என் பி எல் காகித ஆலை ஒப்பந்தத் தொழிலாளி என்பவரை போலீசார் கைது செய்தனர். அவர் மீது வழக்குப் பதிவு செய்து போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚔 புகழூர் அருகே சாலையில் இடையூறு செய்தவர் கைது\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், புகழூர் நகராட்சி எம்ஜிஆர் நகர் பகுதிக்குச் செல்லும் சாலையின் நடுவே ஒருவர் நின்று தகாத வார்த்தைகளால் திட்டி, பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு ஏற்படுத்தினார். அந்தப் பகுதியினர் வேலாயுதம்பாளையம் போலீசாருக்குத் தகவல் தெரிவித்தனர். சிறப்பு சப்-இன்ஸ்பெக்டர் ரமேஷ் தலைமையிலான போலீசார் விரைந்து சென்று வெளியேறும்படி எச்சரித்தனர். அவர் வெளியேறாததால் கைது செய்யப்பட்டார். வள்ளுவர் நகர் நர்மதா தெருவைச் சேர்ந்த ஐயப்பன் (53 வயது), டி.என்.பி.எல். காகித ஆலை ஒப்பந்தத் தொழிலாளி ஆவார். அவர் மீது வழக்குப் பதிவு செய்து போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n📍 இடம்: புகழூர் நகராட்சி எம்ஜிஆர் நகர் சாலை\n🗓️ நாள்: நவம்பர் 18, 2026\n👮 நடவடிக்கை: கைது செய்து வழக்குப் பதிவு, விசாரணை நடைபெறுகிறது\n\nPugalur man arrested for disturbing public road | Karur news\n📍 புகழூர், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A Tamil Nadu police team in khaki uniform stands beside a middle-aged man in a shirt and veshti who is standing in the middle of a town road in Pugalur, Karur district, while two-wheelers and an autorickshaw slow down and swerve around him. The road is a concrete-paved town street in Pugalur municipality lined with modest shops, low houses and a few concrete electric poles with TNEB wires overhead. Several onlookers, seen from behind and at a distance, gather on the roadside, and a police jeep is parked at the edge of the road. The man's arms are raised as if he is arguing, but his face is turned away from the camera. It is bright daylight with clear skies. The camera is at eye level, shot with a 35 mm lens from a slight distance, wide enough to show the road, the traffic and the police team. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stretch of Pugalur town road where a line of two-wheelers and a parked autorickshaw are halted behind a painted road-divider, with a police team's khaki-clad arm and a pair of black police boots visible at the edge of the frame. Near the roadside stands a concrete electric pole with TNEB wires, and a few scattered plastic bags and a small heap of roadside dust sit on the tarmac. The surface shows fresh tyre marks and the faded white paint of the road centre line. Bright daylight with soft shadows falls across the road. The camera is at a low eye-level angle, 35 mm lens, close enough to show the blocked road and the police presence without showing any faces. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/karur_181126_3",
+   "published": "2026-11-18T02:01:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966623/karur360/dm6oh8lsyhwwfqylcvhk.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966626/karur360/xt668h52007ovgfpexjd.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்பனை: 60 வயது பெண் கைது",
+   "english_headline": "Woman, 60, arrested for illegal liquor sales near Bhagavathi Amman temple in Thirukkampuliyur, Karur",
+   "category": "Crime & Safety",
+   "location": "Thirukkampuliyur, Karur city, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கைது",
+    "loc": "திருக்காம்புலியூர், கரூர்",
+    "hl1": "திருக்காம்புலியூரில் மது விற்ற பெண் கைது",
+    "hl2": "26 மது பாட்டில்கள் பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சட்டவிரோத மது விற்பனை குறித்து ரகசியத் தகவல்",
+       "திருக்காம்புலியூர் பகவதி அம்மன் கோயில் அருகே சோதனை",
+       "கரூர் நகர காவல் நிலைய போலீசார் நடவடிக்கை"
+      ]
+     },
+     {
+      "title": "யார்? எவ்வளவு?",
+      "lines": [
+       "சரஸ்வதி (<b>60</b>), அப்பகுதியைச் சேர்ந்தவர்",
+       "<b>26</b> மது பாட்டில்கள் பறிமுதல்",
+       "மதிப்பு சுமார் <b>ரூ.4,680</b>"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "சரஸ்வதி கைது, வழக்குப்பதிவு செய்யப்பட்டுள்ளது",
+       "போலீசார் தொடர்ந்து விசாரணை நடத்துகின்றனர்",
+       "அனுமதியின்றி மது விற்போர் மீது நடவடிக்கை தொடரும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் திருக்காம்புலியூரில் சட்டவிரோதமாக மது விற்ற 60 வயது பெண் கைது செய்யப்பட்டார். திருக்காம்புலியூர் பகவதி அம்மன் கோயில் அருகே மதுபாட்டில்கள் பதுக்கி விற்கப்படுவதாக கரூர் நகர காவல் நிலைய போலீசாருக்கு ரகசியத் தகவல் கிடைத்தது. தகவலின் அடிப்படையில் போலீசார் சம்பவ இடத்திற்கு விரைந்து சென்று கண்காணிப்பு மற்றும் சோதனையில் ஈடுபட்டனர். அப்போது அப்பகுதியைச் சேர்ந்த சரஸ்வதி என்ற 60 வயது பெண் சட்டவிரோதமாக மதுபாட்டில்களை விற்பனை செய்தது தெரியவந்தது. அவரிடமிருந்து சுமார் ரூ.4,680 மதிப்புள்ள 26 மதுபாட்டில்களை போலீசார் பறிமுதல் செய்தனர். சரஸ்வதியைக் கைது செய்த போலீசார், வழக்குப்பதிவு செய்து தொடர்ந்து விசாரணை மேற்கொண்டுள்ளனர். கரூர் மாநகரப் பகுதிகளில் அனுமதியின்றி மதுபாட்டில்களைப் பதுக்கி விற்போர் மீது தொடர்ந்து நடவடிக்கை எடுக்கப்படும் என காவல்துறையினர் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது\n\n📰 முழு விவரம்:\nகரூர் திருக்காம்புலியூர் பகவதி அம்மன் கோயில் அருகே சட்டவிரோதமாக மதுபாட்டில்கள் பதுக்கி விற்பனை செய்யப்படுவதாக கரூர் நகர காவல் நிலைய போலீசாருக்கு ரகசியத் தகவல் கிடைத்தது. அதன் அடிப்படையில் போலீசார் சம்பவ இடத்திற்குச் சென்று கண்காணிப்பு மற்றும் சோதனை நடத்தினர். அப்போது அப்பகுதியைச் சேர்ந்த சரஸ்வதி (60 வயது) சட்டவிரோதமாக மதுபாட்டில்களை விற்பனை செய்தது தெரியவந்தது. அவரிடமிருந்து சுமார் ரூ.4,680 மதிப்புள்ள 26 மதுபாட்டில்கள் பறிமுதல் செய்யப்பட்டன. சரஸ்வதி கைது செய்யப்பட்டு, வழக்குப்பதிவு செய்யப்பட்டு விசாரணை தொடர்கிறது.\n👮 நடவடிக்கை: கரூர் மாநகரப் பகுதிகளில் அனுமதியின்றி மதுபாட்டில்களைப் பதுக்கி விற்போர் மீது தொடர்ந்து நடவடிக்கை எடுக்கப்படும் என காவல்துறை தெரிவித்துள்ளது.\n\nKarur illegal liquor sales woman arrested | Karur news\n📍 திருக்காம்புலியூர், கரூர் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "Tamil Nadu police in khaki uniform stand beside a 60-year-old woman in a cotton saree, seen from behind, as she is taken away after an arrest on a narrow residential street in Thirukkampuliyur, Karur city. Modest one-storey houses with tiled or concrete roofs line the lane, and a temple gopuram rises faintly in the distance near the Bhagavathi Amman temple. A police jeep is parked at the roadside, and a few onlookers stand at a distance. It is bright daylight with soft natural light and a plain sky. Shot at eye level, 35 mm, wide enough to show the street, the houses, and the temple tower. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of 26 seized liquor bottles lined up together on a wooden table or the bare ground, with a police officer's khaki-clad arm and boots visible at the edge of the frame. The bottles are clustered as evidence, their dark glass catching daylight, with no readable labels or text visible. Behind them, a blurred street of old Tamil Nadu houses in Karur city and a far-off temple tower suggest the location. Bright daytime light, shallow depth of field, 35 mm, eye level. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/karur_181126_2",
+   "published": "2026-11-18T02:01:14+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966631/karur360/o4pjuqyuiblklu3wr3pi.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966636/karur360/glmbk5bqu2wuhrv4bolh.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சம்பா சாகுபடி பயிர் காப்பீடு டிச. 1 வரை நீட்டிப்பு",
+   "english_headline": "Samba crop insurance deadline extended to 1 December in Karur district",
+   "category": "Weather & Agriculture",
+   "location": "Karur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விவசாயம்",
+    "loc": "கரூர் மாவட்டம்",
+    "hl1": "சம்பா பயிர் காப்பீடு டிச. 1 வரை",
+    "hl2": "ஏக்கருக்கு ₹589.50",
+    "slides": [
+     {
+      "title": "காலக்கெடு",
+      "lines": [
+       "பயிர் காப்பீடு செய்ய கால அவகாசம் <b>டிச. 1</b> வரை நீட்டிப்பு",
+       "நடப்பு சம்பா நெல் சாகுபடிக்கான காப்பீடு",
+       "கலெக்டர் பிரசன்னா ராமசாமி அறிவிப்பு"
+      ]
+     },
+     {
+      "title": "கட்டணம், ஆவணங்கள்",
+      "lines": [
+       "ஒரு ஏக்கர் நெல் பயிருக்கு <b>₹589.50</b> செலுத்த வேண்டும்",
+       "ஆதார் அட்டை, ஆதாருடன் இணைந்த மொபைல் எண்",
+       "நில ஆவணங்கள் (பட்டா, சிட்டா), தனித்துவ அடையாள எண்"
+      ]
+     },
+     {
+      "title": "எங்கே செலுத்தலாம்?",
+      "lines": [
+       "அருகிலுள்ள பொது சேவை மையம்",
+       "தொடக்க வேளாண் கூட்டுறவு கடன் சங்கம்",
+       "தேசியமயமாக்கப்பட்ட வங்கிகள்"
+      ]
+     },
+     {
+      "title": "கவனிக்க வேண்டியவை",
+      "lines": [
+       "கடைசி தேதி வரை காத்திருக்காமல் முன்கூட்டியே காப்பீடு",
+       "எல் நினோ காரணமாக மழை பாதிப்பு, பூச்சி நோய் அபாயம்",
+       "விவரங்களுக்கு வட்டார வேளாண்மை உதவி இயக்குனர் அலுவலகம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சம்பா சாகுபடி பயிர் காப்பீட்டுக்கான கால அவகாசம் டிசம்பர் 1ஆம் தேதி வரை நீட்டிக்கப்பட்டுள்ளது. கரூர் மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி இதை அறிவித்துள்ளார். எல் நினோ காலநிலை மாற்றத்தால் மழைப்பொழிவில் ஏற்றத்தாழ்வும், பூச்சி நோய்த் தாக்குதலும் ஏற்படலாம். இந்த இழப்பை ஈடுசெய்ய விவசாயிகள் அனைவரும் சம்பா சாகுபடி செய்ய வேண்டும். ஒரு ஏக்கர் நெல் பயிருக்கு 589 ரூபாய் 50 பைசா காப்பீடு கட்டணம் செலுத்த வேண்டும். ஆதார் அட்டை, ஆதாருடன் இணைக்கப்பட்ட மொபைல் எண், பட்டா, சிட்டா போன்ற நில ஆவணங்கள், தனித்துவ அடையாள எண் ஆகியவற்றை சமர்ப்பிக்க வேண்டும். விவசாயிகள் கடைசி தேதி வரை காத்திருக்காமல், அருகிலுள்ள பொது சேவை மையம், தொடக்க வேளாண் கூட்டுறவு கடன் சங்கம் அல்லது தேசியமயமாக்கப்பட்ட வங்கிகளில் கட்டணம் செலுத்தி முன்கூட்டியே காப்பீடு செய்ய வேண்டும். கூடுதல் விவரங்களுக்கு அந்தந்த வட்டார வேளாண்மை உதவி இயக்குனர் அலுவலகத்தை தொடர்பு கொள்ளலாம். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 சம்பா பயிர் காப்பீடு டிச. 1 வரை நீட்டிப்பு – கரூர் மாவட்ட விவசாயிகளுக்கு அறிவிப்பு\n\n📰 முழு விவரம்:\nநடப்பு சம்பா நெல் சாகுபடிக்கான பிரதம மந்திரியின் பயிர் காப்பீடு செய்யும் கால அவகாசம் டிசம்பர் 1ஆம் தேதி வரை நீட்டிக்கப்பட்டுள்ளதாக கலெக்டர் பிரசன்னா ராமசாமி தெரிவித்துள்ளார். எல் நினோ காலநிலை மாற்றத்தால் மழைப்பொழிவில் ஏற்றத்தாழ்வும், பூச்சி நோய்த் தாக்குதலும் ஏற்படலாம் என்பதால், இழப்பை ஈடுசெய்ய விவசாயிகள் அனைவரும் சம்பா சாகுபடி செய்து காப்பீடு செய்ய வேண்டும் என அவர் அறிவுறுத்தியுள்ளார்.\n💰 ஒரு ஏக்கர் நெல் பயிருக்கு காப்பீடு கட்டணம் ₹589.50.\n📄 தேவையான ஆவணங்கள்: ஆதார் அட்டை, ஆதாருடன் இணைக்கப்பட்ட மொபைல் எண், நில ஆவணங்கள் (பட்டா, சிட்டா), தனித்துவ அடையாள எண்.\n🏦 அருகிலுள்ள பொது சேவை மையம், தொடக்க வேளாண் கூட்டுறவு கடன் சங்கம் அல்லது தேசியமயமாக்கப்பட்ட வங்கிகளில் கட்டணம் செலுத்தலாம்.\n\nKarur samba crop insurance deadline extended | Karur news\n📍 கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A group of farmers in a green samba paddy field in Karur district stand among ripening rice stalks while a paddy harvest-ready crop sways under a bright daytime sky. The field is a flat, wide stretch of wet paddy with narrow earthen bunds between plots, and in the distance you can see a few banana trees and the outline of a village with low tiled houses. Several farmers, seen from behind or far away, wear shirts with veshti or lungi and women wear cotton sarees tied at the waist, some holding folded paper documents. The farmers are looking across the crop, as if inspecting it for pest damage, with a dusty village track running between the fields. The light is warm daylight with a slightly hazy sky. Taken at eye level, 35 mm, wide enough to show the full paddy field and the farmers standing in it. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of paper documents and a small cloth bundle resting on a wooden counter at a rural cooperative society, beside a steel tray holding paddy grain samples. The papers are plain forms with land records folded in them, and a few crisp rupee notes are placed neatly on the counter next to them, with a worn ledger book lying open beside. A pair of hands from a farmer, seen from behind and slightly blurred, rests on the edge of the counter. Behind the counter, a wall with a plain painted surface and a corner of a wooden cabinet is visible, with soft daylight entering through a window. The mood is quiet and orderly, showing the act of paying the insurance fee. Taken at slightly high angle, 35 mm, close enough to show the documents and money clearly. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/chamba-cultivation-insurance-till-december-1/4379366",
+   "published": "2026-11-18T07:10:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966643/karur360/wsezrfsqxn3vrb9euqxh.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1794966646/karur360/kk30djix591dkvsbp45h.jpg"
    ]
   }
  ]
