@@ -1,49 +1,50 @@
 {
- "updated": "2026-11-18T10:10+05:30",
- "posts_measured": 84,
+ "updated": "2026-11-18T17:16+05:30",
+ "posts_measured": 91,
  "topic_weight": {
-  "temple": 1.5,
-  "accident": -0.0,
-  "education": -0.02,
-  "poultry_agri": 0.15,
-  "politics": -0.02,
+  "temple": 0.01,
+  "accident": 0.27,
+  "education": -0.03,
+  "power_cut": 1.43,
+  "poultry_agri": 0.14,
+  "politics": 0.19,
   "civic": -0.5,
-  "crime": 0.92,
-  "weather": 0.16
+  "crime": 1.09,
+  "weather": -0.07
  },
  "topic_n": {
-  "temple": 11,
-  "accident": 8,
+  "temple": 13,
+  "accident": 9,
   "education": 13,
   "jobs": 2,
-  "power_cut": 2,
+  "power_cut": 3,
   "poultry_agri": 6,
-  "politics": 6,
+  "politics": 7,
   "civic": 11,
-  "crime": 9,
-  "weather": 3,
+  "crime": 10,
+  "weather": 4,
   "sports_culture": 1
  },
  "best_hours_ist": [
   19,
-  23,
   11,
+  23,
   0
  ],
  "top_openings": [
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
   "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப",
-  "🚨 குளித்தலை அருகே 3 பேர் மாயம்: போலீசார் விசாரணை",
-  "🍌 லாலாப்பேட்டையில் ரஸ்தாளி வாழைத்தார் ₹400 வரை விற்பனை"
+  "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது",
+  "🚨 குளித்தலை அருகே 3 பேர் மாயம்: போலீசார் விசாரணை"
  ],
- "avg_watch_s": 6.8,
+ "avg_watch_s": 6.9,
  "best_topics": [
-  "temple",
+  "power_cut",
   "crime",
-  "weather"
+  "accident"
  ],
  "weak_topics": [
   "civic",
-  "education"
+  "weather"
  ]
 }
