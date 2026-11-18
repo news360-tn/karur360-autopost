@@ -1,62 +1,24 @@
-writing [N]: ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
-writing [N]: கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் ஒரே
+writing [N]: கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
+writing [N]: நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-writing [N]: தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் வ
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-switching away from gemini/gemini-3.6-flash for 10 min
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3-flash-preview (12s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 300 (' கோவை அரசு தொழில்நுட்ப கல்லூரியில், 300 மாணவர்கள் தங்கும் வ'); 12 ('திருப்பூர் எல்.ஆர்.ஜி., அரசு மகளிர் கலை கல்லூரியில், எட்டு க'); 22 ('செங்கல்பட்டு மாவட்டம் ஆலந்தூரில், 22.1 கோடி ரூபாய் செலவில் க'); 1 ('செங்கல்பட்டு மாவட்டம் ஆலந்தூரில், 22.1 கோடி ரூபாய் செலவில் க')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (14s)
-attempt 1 gemini/gemini-3-flash-preview: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+    "code": 503,
+    "message": "This model is currently experiencing high d
+ok gemini/gemini-3-flash-preview (8s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
@@ -64,161 +26,109 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok gemini/gemini-3-flash-preview (12s)
-attempt 2 gemini/gemini-3-flash-preview: 1 problems
-  numbers not found in the article: 8
+ok groq/openai/gpt-oss-120b (2s)
+factcheck by groq/openai/gpt-oss-120b: 0 problems
+attempt 1 gemini/gemini-3-flash-preview: 0 problems
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/openai/gpt-oss-120b (7s)
-attempt 2 groq/openai/gpt-oss-120b: 3 problems
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
   missing key: reel_script
   missing key: caption
   missing key: scenes
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.6-flash for 10 min
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+ok groq/qwen/qwen3.8-27b (1s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok groq/qwen/qwen3.8-27b (4s)
-attempt 3 groq/qwen/qwen3.8-27b: 3 problems
-  reel_script has 67 words; need 82-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 12 ('திருப்பூர் எல்.ஆர்.ஜி., அரசு மகளிர் கலை கல்லூரியில், எட்டு க'); 52 ('இவ்வாறு, 52 கோடி ரூபாய் செலவில் கட்டப்பட்ட உயர்கல்வித் துறை '); 22 ('செங்கல்பட்டு மாவட்டம் ஆலந்தூரில், 22.1 கோடி ரூபாய் செலவில் க'); 1 ('செங்கல்பட்டு மாவட்டம் ஆலந்தூரில், 22.1 கோடி ரூபாய் செலவில் க')
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Farmers' grievance meeting in Karur tomo'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-0229","first":"RN-113"}
+posting job started at once
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 58 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.5-flash
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  slide 3 must have 2-3 lines
-  reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
 ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  reel_script says 'கம்யூனிஸ்ட் கட்சியினர்' (Communist party members) in the opening sentence; the article only names the Marxist Communist Party (மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி), which is consistent, but the reel_script's subsequent sentence names it again so no conflict — however the headline and slides frame the protest as 'Communist' generically, which is acceptable.
+  reel_script states the protest was held 'at the Karur Corporation office' as the place of the demonstration, which matches the article; no problem there.
+  reel_script adds that the 'ஜனநாயகபூர்வமான போராட்டங்களை' demand concerns the 'தீர்மானத்தை திரும்பப் பெற' — the article says the resolution forbidding such protests in front of taluk and collector offices should be withdrawn; the draft matches this, no problem.
+  The slides_spec 'முக்கிய கோரிக்கை' slide states the old Amaravathi bridge is 'நூற்றாண்டு பழமையான' (centuries-old); the article says 'நூற்றாண்டு கண்ட கரூரின் அடையாளங்களில் ஒன்று' meaning one of Karur's landmarks that has seen a century, so 'நூற்றாண்டு பழமையான' is a slight reinterpretation, not a fabricated number.
+  The slides_spec's 'பிற கோரிக்கைகள்' slide says the list of protest leaders includes 'மாவட்ட நிர்வாகி ஜோதிபாசு, சுப்பிரமணி உட்பட நிர்வாகிகள்' as a demand item, mixing a list of attendees into a list of demands, which is two different facts combined in one slide.
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: reel_script says 'கம்யூனிஸ்ட் கட்சியினர்' (Communist party members) in the opening sentence; the article only names the Marxist Communist Party (மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி), which is consistent, but the reel_script's subsequent sentence names it again so no conflict — however the headline and slides frame the protest as 'Communist' generically, which is acceptable.
+  fact-check: reel_script states the protest was held 'at the Karur Corporation office' as the place of the demonstration, which matches the article; no problem there.
+  fact-check: reel_script adds that the 'ஜனநாயகபூர்வமான போராட்டங்களை' demand concerns the 'தீர்மானத்தை திரும்பப் பெற' — the article says the resolution forbidding such protests in front of taluk and collector offices should be withdrawn; the draft matches this, no problem.
+  fact-check: The slides_spec 'முக்கிய கோரிக்கை' slide states the old Amaravathi bridge is 'நூற்றாண்டு பழமையான' (centuries-old); the article says 'நூற்றாண்டு கண்ட கரூரின் அடையாளங்களில் ஒன்று' meaning one of Karur's landmarks that has seen a century, so 'நூற்றாண்டு பழமையான' is a slight reinterpretation, not a fabricated number.
+  fact-check: The slides_spec's 'பிற கோரிக்கைகள்' slide says the list of protest leaders includes 'மாவட்ட நிர்வாகி ஜோதிபாசு, சுப்பிரமணி உட்பட நிர்வாகிகள்' as a demand item, mixing a list of attendees into a list of demands, which is two different facts combined in one slide.
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 72 words; need 82-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 12 ('திருப்பூர் எல்.ஆர்.ஜி., அரசு மகளிர் கலை கல்லூரியில், எட்டு க'); 52 ('இவ்வாறு, 52 கோடி ரூபாய் செலவில் கட்டப்பட்ட உயர்கல்வித் துறை '); 22 ('செங்கல்பட்டு மாவட்டம் ஆலந்தூரில், 22.1 கோடி ரூபாய் செலவில் க'); 1 ('செங்கல்பட்டு மாவட்டம் ஆலந்தூரில், 22.1 கோடி ரூபாய் செலவில் க')
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The slide line 'தாலுகா, கலெக்டர் அலுவலகம் முன் போராட்டம் நடத்த விதித்த' is ungrammatical and has no clear meaning, since the sentence is cut off and the verb is missing.
+  The slide line 'ஜனநாயக இயக்கங்களின் போராட்ட உரிமையை வலியுறுத்தியது' is a fragment that does not clearly connect to the preceding line, which makes the slide hard to understand.
+  The reel_script states that the demonstration was attended by all office-bearers, while the article says all administrators took part, so the wording is slightly altered and not exact.
+  The slide 'கரூரின் அடையாளங்களில் ஒன்றான பாலம் இது' and the reel_script's description of the bridge as a 'முக்கியக் கோரிக்கை' (main demand) mixes the bridge's identity with a demand claim not stated in the article as the main demand; the article lists it among several demands.
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The slide line 'தாலுகா, கலெக்டர் அலுவலகம் முன் போராட்டம் நடத்த விதித்த' is ungrammatical and has no clear meaning, since the sentence is cut off and the verb is missing.
+  fact-check: The slide line 'ஜனநாயக இயக்கங்களின் போராட்ட உரிமையை வலியுறுத்தியது' is a fragment that does not clearly connect to the preceding line, which makes the slide hard to understand.
+  fact-check: The reel_script states that the demonstration was attended by all office-bearers, while the article says all administrators took part, so the wording is slightly altered and not exact.
+  fact-check: The slide 'கரூரின் அடையாளங்களில் ஒன்றான பாலம் இது' and the reel_script's description of the bridge as a 'முக்கியக் கோரிக்கை' (main demand) mixes the bridge's identity with a demand claim not stated in the article as the main demand; the article lists it among several demands.
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 2 problems
-  The reel_script incorrectly identifies Shivan (10) and Adhiran (4) as 'granddaughter' and 'grandson' (பேத்தி, பேரன்), whereas the article lists them simply as family members (implied children/nieces/nephews) without specifying grandchild status.
-  The reel_script incorrectly identifies Shivan and Adhiran as 'grandchildren' (பேத்தி, பேரன்), while the article only lists them as part of the family without specifying the exact relationship to Ramasamy (they are likely his children or grandchildren, but the draft assumes grandchild status which is not explicitly stated in the text provided, although 'daughter Suguna' is listed separately, implying Shivan/Adhiran might be her children or Ramasamy's children. However, the article lists 'Daughter Suguna, Shivan, Adhiran'. It does not explicitly say Shivan/Adhiran are grandchildren. The draft adds the specific relationship 'granddaughter/grandson' which is an invented detail not in the text.)
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: The reel_script incorrectly identifies Shivan (10) and Adhiran (4) as 'granddaughter' and 'grandson' (பேத்தி, பேரன்), whereas the article lists them simply as family members (implied children/nieces/nephews) without specifying grandchild status.
-  fact-check: The reel_script incorrectly identifies Shivan and Adhiran as 'grandchildren' (பேத்தி, பேரன்), while the article only lists them as part of the family without specifying the exact relationship to Ramasamy (they are likely his children or grandchildren, but the draft assumes grandchild status which is not explicitly stated in the text provided, although 'daughter Suguna' is listed separately, implying Shivan/Adhiran might be her children or Ramasamy's children. However, the article lists 'Daughter Suguna, Shivan, Adhiran'. It does not explicitly say Shivan/Adhiran are grandchildren. The draft adds the specific relationship 'granddaughter/grandson' which is an invented detail not in the text.)
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (3s)
-proofread rejected (2 problems)
-  reel_script has 52 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+factcheck by groq/qwen/qwen3.8-27b: 0 problems
+claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  slide 3 must have 2-3 lines
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
-ok anthropic/claude-haiku-5-5
-claude answer not JSON (Expecting ',' delimiter: line 1 column 3154 (char 3153)); stop_reason=end_turn blocks=['text'] usage={'input_tokens': 934, 'cache_creation_input_tokens': 0, 'cache_read_input_tokens': 13089, 'cache_creation': {'ephemeral_5m_input_tokens': 0, 'ephemeral_1h_input_tokens': 0}, 'output_tokens': 2094, 'output_tokens_details': {'thinking_tokens': 0}, 'service_tier': 'standard', 'inference_geo': 'global', 'speed': 'standard'} head='{"tamil_headline": "கரூர் அருகே கிணற்றில் விழுந்து ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் உயிரிழப்பு", "english_headline": "Five members of one family die after falling into a well near Vangal, Karur distri'
-claude rewrite failed: Expecting ',' delimiter: line 1 column 3154 (char 3153)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1477. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 2048. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
 
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-ok anthropic/claude-haiku-5-5
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 8 problems
-  The reel_script says the ₹210 crore buildings were opened at Karur hospital and that the ICU building in Karur was opened, but the article lists the ₹210 crore ICU and additional buildings across four hospitals; the headline's 'ICU கட்டடம்' for Karur specifically is not stated in the article.
-  The reel_script and slides say the 300-student hostel was built, but the article only says a 300-student hostel building was constructed at Coimbatore govt technology college; this is consistent, however the reel_script says the Thanjavur internal sports arena was built, which is in the article, so no issue there.
-  The reel_script claims the ₹210 crore covered the education buildings too ('கல்வித் துறையிலும் கட்டடங்கள் திறக்கப்பட்டுள்ளன' follows the ₹210 crore hospital sentence context), mixing the hospital ₹210 crore funding with separate education buildings; the ₹52 crore education buildings are omitted from the reel_script.
-  The slide 'கல்லூரிகளில்' lists Tiruppur government women's arts college classrooms, but the article does not mention a figure for that college beyond the listed works; the reel_script omits the Tiruppur details while the slides include them, an inconsistency.
-  The caption says the ₹52 crore education buildings were opened, yet the caption also presents the Thanjavur arena under this figure; the article attributes ₹52 crore to the higher-education buildings in general, so the caption attaches it to Thanjavur alone.
-  The caption's Karur headline and reel_script omit that the Karur hospital is one of four hospitals with new buildings in a sentence that clearly separates hospitals; the reel_script phrase 'கரூர் மாவட்ட அரசு மருத்துவமனையுடன்' is ungrammatical and unclear.
-  The reel_script does not mention the Alandur new government arts and science college foundation stone clearly as a separate fact; it appears only in the slides and caption, and the reel_script's omission is an important fact missing from the reel_script.
-  The slides_spec slide title 'எந்த' is an incomplete, meaningless Tamil word fragment rather than a complete title.
-claude rewrite 2 anthropic/claude-haiku-5-5: 8 problems
-  fact-check: The reel_script says the ₹210 crore buildings were opened at Karur hospital and that the ICU building in Karur was opened, but the article lists the ₹210 crore ICU and additional buildings across four hospitals; the headline's 'ICU கட்டடம்' for Karur specifically is not stated in the article.
-  fact-check: The reel_script and slides say the 300-student hostel was built, but the article only says a 300-student hostel building was constructed at Coimbatore govt technology college; this is consistent, however the reel_script says the Thanjavur internal sports arena was built, which is in the article, so no issue there.
-  fact-check: The reel_script claims the ₹210 crore covered the education buildings too ('கல்வித் துறையிலும் கட்டடங்கள் திறக்கப்பட்டுள்ளன' follows the ₹210 crore hospital sentence context), mixing the hospital ₹210 crore funding with separate education buildings; the ₹52 crore education buildings are omitted from the reel_script.
-  fact-check: The slide 'கல்லூரிகளில்' lists Tiruppur government women's arts college classrooms, but the article does not mention a figure for that college beyond the listed works; the reel_script omits the Tiruppur details while the slides include them, an inconsistency.
-  fact-check: The caption says the ₹52 crore education buildings were opened, yet the caption also presents the Thanjavur arena under this figure; the article attributes ₹52 crore to the higher-education buildings in general, so the caption attaches it to Thanjavur alone.
-  fact-check: The caption's Karur headline and reel_script omit that the Karur hospital is one of four hospitals with new buildings in a sentence that clearly separates hospitals; the reel_script phrase 'கரூர் மாவட்ட அரசு மருத்துவமனையுடன்' is ungrammatical and unclear.
-  fact-check: The reel_script does not mention the Alandur new government arts and science college foundation stone clearly as a separate fact; it appears only in the slides and caption, and the reel_script's omission is an important fact missing from the reel_script.
-  fact-check: The slides_spec slide title 'எந்த' is an incomplete, meaningless Tamil word fragment rather than a complete title.
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Five members of one family die after fal'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2211","first":"RN-111"}
-posting job started at once
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 12 ('திருப்பூர் எல்.ஆர்.ஜி., அரசு மகளிர் கலை கல்லூரியில், எட்டு க')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok groq/qwen/qwen3.8-27b (5s)
-proofread rejected (2 problems)
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  numbers not found in the article: 8
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-ok anthropic/claude-haiku-5-5
+ok groq/qwen/qwen3.8-27b (1s)
+real photo: vision check resting (free quota busy)
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'CM Vijay inaugurates new ICU building at'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2211","first":"RN-112"}
+images made: 2 for 'Communist party demonstration held in fr'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-0229","first":"RN-114"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinakaran.com/news/karur_death_after_falling_well
-manual link added: https://tamil.oneindia.com/news/karur/five-members-of-same-family-die-after-falling-into-well-in-karur-846425.html
-manual link added: https://www.dinamalar.com/news/tamil-nadu-news/cm-vijay-inaugurates-icu-buildings/4379818
-candidate filter: collected=3
-to write: 3 Karur district candidates (max 3 stories)
-round: top 3 of 3 candidates
-candidates waiting: 3 Karur; time left 79 min
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/cm-vijay-inau
-try (N) manual=True: https://tamil.oneindia.com/news/karur/five-members-of-same-f
-try (N) manual=True: https://www.dinakaran.com/news/karur_death_after_falling_wel
+manual link added: https://www.dinakaran.com/district/karur_191126_2
+manual link added: https://www.dinakaran.com/district/karur_191126_3
+candidate filter: collected=2
+to write: 2 Karur district candidates (max 2 stories)
+round: top 2 of 2 candidates
+candidates waiting: 2 Karur; time left 79 min
+try (N) manual=True: https://www.dinakaran.com/district/karur_191126_3
+try (N) manual=True: https://www.dinakaran.com/district/karur_191126_2
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-NOT filed (N) ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் : duplicate after write
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min
-filed: 2 Karur district stories (target 3), reels only
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min
+filed: 2 Karur district stories (target 2), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":3,"updated":0} 
+All News sheet: {"ok":true,"added":2,"updated":0} 
 stories: 2
