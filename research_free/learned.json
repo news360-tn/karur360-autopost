@@ -1,33 +1,33 @@
 {
- "updated": "2026-11-18T17:16+05:30",
- "posts_measured": 91,
+ "updated": "2026-11-18T22:07+05:30",
+ "posts_measured": 97,
  "topic_weight": {
-  "temple": 0.01,
-  "accident": 0.27,
-  "education": -0.03,
-  "power_cut": 1.43,
-  "poultry_agri": 0.14,
-  "politics": 0.19,
-  "civic": -0.5,
-  "crime": 1.09,
-  "weather": -0.07
+  "temple": 0.3,
+  "accident": 0.3,
+  "education": -0.01,
+  "power_cut": 1.5,
+  "poultry_agri": 0.12,
+  "politics": -0.01,
+  "civic": -0.46,
+  "crime": 0.17,
+  "weather": -0.06
  },
  "topic_n": {
-  "temple": 13,
+  "temple": 14,
   "accident": 9,
   "education": 13,
   "jobs": 2,
   "power_cut": 3,
-  "poultry_agri": 6,
-  "politics": 7,
+  "poultry_agri": 7,
+  "politics": 8,
   "civic": 11,
-  "crime": 10,
-  "weather": 4,
+  "crime": 11,
+  "weather": 5,
   "sports_culture": 1
  },
  "best_hours_ist": [
-  19,
   11,
+  19,
   23,
   0
  ],
@@ -37,10 +37,10 @@
   "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது",
   "🚨 குளித்தலை அருகே 3 பேர் மாயம்: போலீசார் விசாரணை"
  ],
- "avg_watch_s": 6.9,
+ "avg_watch_s": 6.8,
  "best_topics": [
   "power_cut",
-  "crime",
+  "temple",
   "accident"
  ],
  "weak_topics": [
