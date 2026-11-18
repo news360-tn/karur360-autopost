@@ -1,31 +1,39 @@
-01:31:28 SKIP RN-12 stale: published 13 Nov, older than yesterday
-01:31:31 SKIP RN-28 held: fact-check problems - numbers not found in the article: 77962, 83097
-01:31:31 SKIP RN-34 held: fact-check problems - fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, th
-01:31:31 SKIP RN-39 held: location is only the district - the town from the article is missing
-01:31:34 SKIP RN-43 held: fact-check problems - numbers not found in the article: 364800, 50
-01:31:37 SKIP RN-49 held: fact-check problems - numbers not found in the article: 135
-01:31:37 SKIP RN-70 held: fact-check problems - fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
-01:31:37 SKIP RN-71 held: fact-check problems - fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்),
-01:31:40 SKIP RN-80 held: fact-check problems - numbers not found in the article: 04324, 223555
+07:19:57 SKIP RN-12 stale: published 13 Nov, older than yesterday
+07:20:00 SKIP RN-28 held: fact-check problems - numbers not found in the article: 77962, 83097
+07:20:00 SKIP RN-34 held: fact-check problems - fact-check: Caption adds an invented health advice sentence ('வீட்டைச் சுற்றித் தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.; fact-check: Reel script's fixed closing aside, th
+07:20:00 SKIP RN-39 held: location is only the district - the town from the article is missing
+07:20:03 SKIP RN-43 held: fact-check problems - numbers not found in the article: 364800, 50
+07:20:06 SKIP RN-49 held: fact-check problems - numbers not found in the article: 135
+07:20:06 SKIP RN-70 held: fact-check problems - fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
+07:20:06 SKIP RN-71 held: fact-check problems - fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்),
+07:20:08 SKIP RN-80 held: fact-check problems - numbers not found in the article: 04324, 223555
 ::warning title=Held from posting RN-80::held: fact-check problems - numbers not found in the article: 04324, 223555
-01:31:40 SKIP RN-81 held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is 
+07:20:08 SKIP RN-81 held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is 
 ::warning title=Held from posting RN-81::held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is 
-01:31:43 SKIP RN-85 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
+07:20:11 SKIP RN-85 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
 ::warning title=Held from posting RN-85::held: fact-check problems - not grounded: location 'நகரம்' is not in the article
-01:31:43 SKIP RN-87 held: fact-check problems - fact-check: The article says the 'Ungalai Thedi Ungal Ooril' camp starts tomorrow and continues the day after tomorrow, but the caption says the camp 'நாளை முதல்' (from tomorrow) and the reel says 'நா
+07:20:11 SKIP RN-87 held: fact-check problems - fact-check: The article says the 'Ungalai Thedi Ungal Ooril' camp starts tomorrow and continues the day after tomorrow, but the caption says the camp 'நாளை முதல்' (from tomorrow) and the reel says 'நா
 ::warning title=Held from posting RN-87::held: fact-check problems - fact-check: The article says the 'Ungalai Thedi Ungal Ooril' camp starts tomorrow and continues the day after tomorrow, but the caption says the camp 'நாளை முதல்' (from tomorrow) and the reel says 'நா
-01:31:45 story catch-up karur: quota 15/50, 40 recent posts, 2 live stories, owner ids ['17841444626877594', '29966472656372622']
-01:31:45 12 stories in the queue, ready to post: 0
-01:31:45   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-01:31:45    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 101.2 ready= False set_started= True
-01:31:45    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 80.0 ready= False set_started= True
-01:31:45    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 76.0 ready= False set_started= True
-01:31:45    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 67.9 ready= False set_started= True
-01:31:45    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 63.5 ready= False set_started= True
-01:31:45    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 55.9 ready= False set_started= True
-01:31:45    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 30.9 ready= False set_started= True
-01:31:45    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 30.9 ready= False set_started= True
-01:31:45    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 17.3 ready= False set_started= True
-01:31:45    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 17.3 ready= False set_started= True
-01:31:45    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 14.7 ready= False set_started= True
-01:31:45    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 14.7 ready= False set_started= True
+07:20:15 story catch-up karur: quota 15/50, 40 recent posts, 2 live stories, owner ids ['17841444626877594', '29966472656372622']
+07:20:15 15 stories in the queue, ready to post: 3
+07:20:15   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+07:20:15    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 107.0 ready= False set_started= True
+07:20:15    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 85.8 ready= False set_started= True
+07:20:15    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 81.8 ready= False set_started= True
+07:20:15    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 73.7 ready= False set_started= True
+07:20:15    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 69.3 ready= False set_started= True
+07:20:15    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 61.7 ready= False set_started= True
+07:20:15    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 36.8 ready= False set_started= True
+07:20:15    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 36.8 ready= False set_started= True
+07:20:15    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 23.1 ready= False set_started= True
+07:20:15    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 23.1 ready= False set_started= True
+07:20:15    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 20.6 ready= False set_started= True
+07:20:15    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 20.6 ready= False set_started= True
+07:20:15    RN-91 review= 'Auto' images= 195 spec= 693 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
+07:20:15    RN-92 review= 'Auto' images= 195 spec= 844 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
+07:20:15    RN-93 review= 'Auto' images= 195 spec= 782 pages= ['karur'] links= '' '' age_h= 0.0 ready= True set_started= True
+07:20:17 publishing quota karur: 15/50
+07:20:18 instagram duplicate check karur: 50 recent posts read
+07:20:18    RN-92 waits for the 12-minute gap after the last post on ['karur']
+07:20:18    RN-91 waits for the 12-minute gap after the last post on ['karur']
+07:20:18 prebuilding ahead of the set start: ['RN-91', 'RN-92']
