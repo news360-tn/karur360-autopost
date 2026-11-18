@@ -3,537 +3,234 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/onion-prices-fall-on-rising-demand/4379383",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/leprosy-detection-special-camp-till-december-2/4379386",
-  "manual link added: https://tamil.oneindia.com/news/karur/arjun-sampath-warns-joseph-vijay-about-congress-betrayal-using-sonia-gandhi-example-846275.html",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karthigai-month-begins-devotees-of-lord-ayyappa-wear-garlands/4379380",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/ig---inspection-at-karur--office/4379381",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/17/karthigai-deepam-must-be-lit-at-thirupparankundram-deepa-thoon-lamp-pillar-as-per-court-order-arjun-sampath",
-  "candidate filter: collected=6",
-  "to write: 6 Karur district candidates (max 6 stories)",
-  "round: top 6 of 6 candidates",
-  "candidates waiting: 6 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "manual link added: https://www.dinakaran.com/news/karur_death_after_falling_well",
+  "manual link added: https://tamil.oneindia.com/news/karur/five-members-of-same-family-die-after-falling-into-well-in-karur-846425.html",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/cm-vijay-inaugurates-icu-buildings/4379818",
+  "candidate filter: collected=3",
+  "to write: 3 Karur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/cm-vijay-inau",
+  "try (N) manual=True: https://tamil.oneindia.com/news/karur/five-members-of-same-f",
+  "try (N) manual=True: https://www.dinakaran.com/news/karur_death_after_falling_wel",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://tamil.oneindia.com/news/karur/arjun-sampath-warns-jo",
+  "NOT filed (N) ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் : duplicate after write",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 6}, time left 75 min",
-  "filed: 6 Karur district stories (target 6), reels only",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
+  "filed: 2 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (40s)",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok gemini/gemini-3-flash-preview (23s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பரங்குன்றம் மலையில் தீபம் ஏற்ற வேண்டும்: கரூரில் அர்ஜுன் சம்பத் வலியுறுத்தல்",
-   "english_headline": "Light the lamp on Thiruparankundram hill as per court order: Arjun Sampath demands in Karur",
-   "category": "Temples & Events",
-   "location": "Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "district",
+   "tamil_headline": "கரூர் வாங்கல் அருகே கிணற்றில் விழுந்து ஒரே குடும்பத்தில் 5 பேர் உயிரிழப்பு",
+   "english_headline": "Five members of one family die after falling into a well near Vangal, Karur district",
+   "category": "Crime & Safety",
+   "location": "Chinna Kalipalayam, Vangal, Karur district",
+   "importance": "High",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல்",
-    "loc": "கரூர்",
-    "hl1": "திருப்பரங்குன்றம் மலையில் தீபம் ஏற்றுக",
-    "hl2": "கரூரில் அர்ஜுன்",
+    "cat": "விபத்து",
+    "loc": "வாங்கல், கரூர்",
+    "hl1": "வாங்கல் அருகே கிணற்றில் 5 பேர்",
+    "hl2": "ஒரே",
     "slides": [
      {
-      "title": "கோரிக்கை",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "திருப்பரங்குன்றம் மலை மீது தீபம் ஏற்ற வேண்டும்",
-       "நீதிமன்ற உத்தரவுப்படி தீபம் ஏற்ற வலியுறுத்தல்",
-       "கரூரில் அர்ஜுன் சம்பத் பேட்டி"
+       "ஒரே குடும்பத்தைச் சேர்ந்த <b>5 பேர்</b> கிணற்றில் விழுந்து",
+       "கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில்"
       ]
      },
      {
-      "title": "குற்றச்சாட்டு",
+      "title": "யார் யார்?",
       "lines": [
-       "முதல்வர் தலைமையில் தீபம் ஏற்ற அழைப்பு",
-       "விசிக, கம்யூனிஸ்ட் கட்சிகள் தடுப்பதாக குற்றச்சாட்டு",
-       "செவ்வாய்க்கிழமை கரூரில் செய்தியாளர் சந்திப்பு"
+       "ராமசாமி (<b>62 வயது</b>), அவரது மனைவி ஜானகி (<b>60 வயது</b>)",
+       "மகள் சுகுணா, பேத்தி ஷிவானி (<b>10 வயது</b>), பேரன் ஆதீரன் (<b>4 வயது</b>)"
       ]
      },
      {
-      "title": "பிற கருத்துகள்",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "திருச்செந்தூர் விழாவில் அமைச்சரை புகழ்ந்ததற்கு கண்டனம்",
-       "ராகுல் காந்தி மீது நடவடிக்கை எடுக்க கோரிக்கை",
-       "சோனியா காந்தி புத்தகத்தில் ஊழல் மறைப்பு"
+       "இறப்புக்கான காரணம் குறித்து போலீசார் விசாரணை நடத்தி",
+       "மேலும் செய்திகளுக்கு Karur 360 பக்கத்தை பின்தொடருங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பரங்குன்றம் மலையில் தீபம் ஏற்ற கரூரில் அர்ஜுன் சம்பத் வலியுறுத்தல். இந்து மக்கள் கட்சியின் தலைவர் அர்ஜுன் சம்பத் செவ்வாய்க்கிழமை கரூரில் செய்தியாளர்களைச் சந்தித்தார். நீதிமன்ற உத்தரவின்படி இந்த ஆண்டு கார்த்திகை தீப நாளில் திருப்பரங்குன்றம் மலை மீதுள்ள தீபதூணில் தீபம் ஏற்ற வேண்டும் என்று அவர் கூறினார். இந்த நிகழ்வை முதலமைச்சர் ஜோசப் விஜய் தலைமையில் நடத்த வேண்டும் என்றும் அவர் கேட்டுக்கொண்டார். திருப்பரங்குன்றம் மலையில் தீபம் ஏற்ற விடாமல் விசிக மற்றும் கம்யூனிஸ்ட் கட்சிகள் தடுப்பதாக அவர் குற்றம் சாட்டினார். திருச்செந்தூர் சூரசம்ஹார விழாவில் முதலமைச்சர் மற்றும் அமைச்சரை புகழ்ந்து பாடியதற்கு அவர் கண்டனம் தெரிவித்தார். சோனியா காந்தி வெளியிட்ட புத்தகத்தில் ஊழல் வழக்குகள் மறைக்கப்பட்டுள்ளதாகவும் அவர் கூறினார். ராகுல் காந்தி தேசவிரோத சக்திகளின் கைப்பாவையாக செயல்படுவதால் அவர் மீது மத்திய அரசு நடவடிக்கை எடுக்க வேண்டும் என்றார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🪔 திருப்பரங்குன்றம் மலையில் தீபம் ஏற்ற வேண்டும்: கரூரில் அர்ஜுன் சம்பத் வலியுறுத்தல்\n\n📰 முழு விவரம்:\nஇந்து மக்கள் கட்சியின் தலைவர் அர்ஜுன் சம்பத் செவ்வாய்க்கிழமை (நவ. 17) கரூரில் செய்தியாளர்களைச் சந்தித்தார். நீதிமன்ற உத்தரவின்படி இந்த ஆண்டு கார்த்திகை தீப நாளில் திருப்பரங்குன்றம் மலை மீதுள்ள தீபதூணில் தீபம் ஏற்ற வேண்டும் என்று அவர் கூறினார். இந்த நிகழ்வை முதலமைச்சர் ஜோசப் விஜய் தலைமையில் நடத்த வேண்டும் என்றும் அவர் அழைப்பு விடுத்தார். திருப்பரங்குன்றம் மலையில் தீபம் ஏற்ற விடாமல் விசிக மற்றும் கம்யூனிஸ்ட் கட்சிகள் தடுப்பதாக அவர் குற்றம் சாட்டினார். திருச்செந்தூர் சூரசம்ஹார விழாவில் முதலமைச்சர் மற்றும் அமைச்சரை புகழ்ந்து பாடியதற்கு கண்டனம் தெரிவித்த அவர், சோனியா காந்தியின் புத்தகத்தில் ஊழல் வழக்குகள் மறைக்கப்பட்டுள்ளதாகக் கூறினார். மேலும், ராகுல் காந்தி மீது மத்திய அரசு நடவடிக்கை எடுக்க வேண்டும் என்றும் அவர் வலியுறுத்தினார்.\n\n📍 இடம்: கரூர் (செய்தியாளர் சந்திப்பு)\n🗓️ நாள்: 17 நவம்பர் 2026 (செவ்வாய்க்கிழமை)\n👮 நடவடிக்கை: முதலமைச்சர் தலைமையில் தீபம் ஏற்ற கோரிக்கை\n\nArjun Sampath press meet in Karur | Thiruparankundram Deepam news\n📍 Karur city, Karur | 18 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #ArjunSampath #KarthigaiDeepam #KarurNews #கரூர்",
-   "prompts": "A small group of reporters with microphones and cameras gathers around a press meet in Karur city, Tamil Nadu, where a Hindu Makkal Katchi leader is speaking to the media about lighting the Karthigai Deepam lamp on the Thiruparankundram hill pillar. The setting is a plain office hall or party office in Karur town, with white plastic chairs, a table covered with a cloth and a bunch of microphones, and a couple of saffron and red party flags tied to a wall. Behind the table stands a leader in a white shirt and veshti, seen from behind and slightly blurred, while a few party cadres in shirts sit in the front row. Reporters in shirts and trousers hold up phones and cameras from the side. Daylight from tube lights and an open window, the scene taken at eye level with a 35 mm lens, wide enough to show the room and the people gathered. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of microphones clipped to a table with a folded cloth and a glass of water, with a red and saffron party flag hanging softly in the background. The microphones are the main focus, with the blurred shoulders of a reporter and a cameraman at the edge of the frame. Plain office wall behind, slight daylight from a window, relaxed indoor light. Shot at a slightly high angle with a 35 mm lens to keep the focus on the microphones and the table surface, with no readable text or signboards visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/17/karthigai-deepam-must-be-lit-at-thirupparankundram-deepa-thoon-lamp-pillar-as-per-court-order-arjun-sampath",
-   "published": "2026-11-17T18:34:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 6",
+   "reel_script": "வாங்கல் அருகே ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் கிணற்றில் விழுந்து உயிரிழந்துள்ளனர். கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் இந்தச் சம்பவம் நடந்துள்ளது. உயிரிழந்தவர்கள் ராமசாமி, 62 வயது. அவரது மனைவி ஜானகி, 60 வயது. மகள் சுகுணா. பேத்தி ஷிவானி, 10 வயது. பேரன் ஆதீரன், 4 வயது. இறப்புக்கான காரணம் குறித்து போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "😢 வாங்கல் அருகே கிணற்றில் விழுந்து ஒரே குடும்பத்தில் 5 பேர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் கிணற்றில் விழுந்து உயிரிழந்தனர். ராமசாமி (62 வயது), அவரது மனைவி ஜானகி (60 வயது), மகள் சுகுணா, பேத்தி ஷிவானி (10 வயது), பேரன் ஆதீரன் (4 வயது) ஆகியோர் உயிரிழந்தவர்கள். இறப்புக்கான காரணம் குறித்து போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\nFive family members die after falling into well near Vangal, Karur | Karur news\n📍 வாங்கல், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Vangal #KarurNews #கரூர்",
+   "prompts": "A group of Tamil Nadu police in khaki uniform stand around an open village well in Chinna Kalipalayam, Vangal, Karur district, while a plainclothes officer writes notes in a notebook. The well is a circular, unfenced stone-and-concrete ring rising about knee-high from dry, dusty ground, with a rope and a rusted iron bucket lying beside its rim. Behind the well are a few coconut palms and a low mud-brick house with a tiled roof, typical of a farming village near Karur. Around 4 to 5 villagers stand at a distance, seen from behind, the men in shirts with veshti and the women in cotton sarees, their faces turned away from the camera. The scene is in bright daylight with a dull, overcast sky suggesting a calm afternoon. Shot at eye level on a 35 mm lens, wide enough to show the well, the police, the house and the palms together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the rim of an open village well in Chinna Kalipalayam, Vangal, Karur district, showing rough, weathered stone and concrete edges with a frayed rope tied to a rusted iron bucket resting on the ground beside it. Dry earth and a few scattered dead leaves surround the base, with a faint wet mark on the inner stone ring suggesting the water level below. In the soft-focus background, the khaki trouser legs of two police officers and the bare feet of a villager are visible, while the rest is blurred. The light is flat daylight with an overcast sky, giving a sombre, quiet mood. Shot at close range on a 35 mm lens, slightly from above, with a shallow depth of field keeping the well rim sharp. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/karur_death_after_falling_well",
+   "published": "2026-11-18T19:52:31+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795020079/karur360/f0svanwaejzmziwz1zp6.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795020084/karur360/hmamg8s1hu4nwurrlkdx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூரில் புதிய தீவிர சிகிச்சை பிரிவு கட்டடம்: முதல்வர் விஜய் திறந்து வைத்தார்",
+   "english_headline": "CM Vijay inaugurates new ICU building at Karur Government Hospital and other facilities via video conferencing",
+   "category": "Government & Services",
+   "location": "Karur District Government Hospital, Karur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு திட்டங்கள்",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் புதிய தீவிர சிகிச்சை பிரிவு",
+    "hl2": "முதல்வர் விஜய் திறந்து",
+    "slides": [
+     {
+      "title": "புதிய கட்டடம்",
+      "lines": [
+       "கரூர் அரசு மருத்துவமனையில் <b>தீவிர சிகிச்சை பிரிவு</b>",
+       "முதல்வர் விஜய் நேற்று திறந்து வைத்தார்",
+       "வீடியோ கான்பரன்ஸ் மூலம் நிகழ்ச்சி நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "மருத்துவப் பணிகள்",
+      "lines": [
+       "மொத்தம் <b>210 கோடி ரூபாய்</b> செலவில் பணிகள்",
+       "திருக்கோவிலூர், சத்தியமங்கலம், கவுந்தம்பாடி",
+       "அரசு மருத்துவமனைகளிலும் புதிய கட்டடங்கள்"
+      ]
+     },
+     {
+      "title": "கல்வித் துறை",
+      "lines": [
+       "<b>52 கோடி ரூபாய்</b> மதிப்பிலான கல்லூரி கட்டடங்கள்",
+       "கோவையில் <b>300</b> மாணவர்கள் தங்கும் விடுதி",
+       "திருப்பூரில் <b>12</b> ஆய்வகங்கள், <b>8</b> வகுப்பறைகள்"
+      ]
+     },
+     {
+      "title": "புதிய கல்லூரி",
+      "lines": [
+       "ஆலந்தூரில் புதிய அரசு கலைக் கல்லூரி",
+       "<b>22.1 கோடி ரூபாய்</b> செலவில் கட்டப்பட உள்ளது",
+       "இதற்கான அடிக்கல்லையும் முதல்வர் நாட்டினார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூரில் புதிய தீவிர சிகிச்சை பிரிவு கட்டடத்தை முதல்வர் விஜய் திறந்து வைத்தார். மக்கள் நல்வாழ்வுத்துறை சார்பில் கரூர் மாவட்ட அரசு மருத்துவமனையில் கூடுதல் கட்டடங்கள் கட்டப்பட்டுள்ளன. இதேபோல் திருக்கோவிலூர், சத்தியமங்கலம் மற்றும் கவுந்தம்பாடி அரசு மருத்துவமனைகளிலும் புதிய கட்டடங்கள் அமைக்கப்பட்டுள்ளன. மொத்தம் 210 கோடி ரூபாய் செலவில் கட்டப்பட்ட இந்தத் தீவிர சிகிச்சை பிரிவு கட்டடங்களை முதல்வர் நேற்று திறந்து வைத்தார். தலைமைச் செயலகத்தில் இருந்து வீடியோ கான்பரன்ஸ் வாயிலாக இந்தத் திறப்பு விழா நடைபெற்றது. மேலும் 52 கோடி ரூபாய் செலவில் கட்டப்பட்ட உயர்கல்வித் துறை கட்டடங்களையும் முதல்வர் திறந்து வைத்தார். இதில் கோவை அரசு தொழில்நுட்பக் கல்லூரியில் 300 மாணவர்கள் தங்கும் விடுதி கட்டடம் அடங்கும். திருப்பூர் எல் ஆர் ஜி கல்லூரியில் 8 வகுப்பறைகள் மற்றும் 12 ஆய்வகங்கள் அமைக்கப்பட்டுள்ளன. தஞ்சாவூர் மன்னர் சரபோஜி கல்லூரியில் உள் விளையாட்டு அரங்கம் மற்றும் சுற்றுச்சுவர் கட்டப்பட்டுள்ளது. ஆலந்தூரில் 22.1 கோடி ரூபாய் மதிப்பிலான புதிய அரசு கலைக் கல்லூரிக்கும் முதல்வர் அடிக்கல் நாட்டினார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏥 கரூரில் புதிய தீவிர சிகிச்சை பிரிவு கட்டடம்: முதல்வர் விஜய் நேற்று திறந்து வைத்தார்!\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட அரசு மருத்துவமனையில் மக்கள் நல்வாழ்வுத்துறை சார்பில் புதிய தீவிர சிகிச்சை பிரிவு மற்றும் கூடுதல் கட்டடங்கள் கட்டப்பட்டுள்ளன. மொத்தம் 210 கோடி ரூபாய் செலவில் கரூர், திருக்கோவிலூர், சத்தியமங்கலம் மற்றும் கவுந்தம்பாடி அரசு மருத்துவமனைகளில் கட்டப்பட்ட இந்தக் கட்டடங்களை முதல்வர் விஜய் நேற்று வீடியோ கான்பரன்ஸ் மூலம் திறந்து வைத்தார். மேலும் 52 கோடி ரூபாய் மதிப்பிலான உயர்கல்வித் துறை கட்டடங்களையும் முதல்வர் திறந்து வைத்தார். கோவை அரசு தொழில்நுட்பக் கல்லூரியில் 300 மாணவர்கள் தங்கும் விடுதி, திருப்பூர் எல்.ஆர்.ஜி. கல்லூரியில் 8 கூடுதல் வகுப்பறைகள் மற்றும் 12 ஆய்வகங்கள், தஞ்சாவூர் மன்னர் சரபோஜி கல்லூரியில் உள் விளையாட்டு அரங்கம் ஆகியவை இதில் அடங்கும். செங்கல்பட்டு மாவட்டம் ஆலந்தூரில் 22.1 கோடி ரூபாய் செலவில் புதிய அரசு கலை மற்றும் அறிவியல் கல்லூரி கட்டவும் முதல்வர் அடிக்கல் நாட்டினார்.\n\n📍 இடம்: கரூர் மாவட்ட அரசு மருத்துவமனை\n💰 மொத்த மதிப்பு: ₹210 கோடி (மருத்துவம்) + ₹52 கோடி (கல்வி)\n🏢 வசதிகள்: தீவிர சிகிச்சை பிரிவு, 300 பேர் தங்கும் விடுதி, 12 ஆய்வகங்கள், 8 வகுப்பறைகள்\n🏗️ புதிய பணி: ஆலந்தூர் அரசு கலைக் கல்லூரி (₹22.1 கோடி)\n\nKarur government hospital new ICU building inauguration | CM Vijay news\n📍 Karur District Government Hospital, Karur | 18 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #CMVijay #கரூர்",
+   "prompts": "A new multi-storey ICU building at the Karur District Government Hospital in Karur city stands freshly completed with clean glass windows and a newly painted facade, while an ambulance waits near the entrance and hospital staff in white coats and blue uniforms walk along the driveway. The hospital compound has neat paved walkways, tall palm trees and relatives of patients sitting on benches under a canopy, seen from behind and far away. It is bright daylight with a clear sky and warm sunlight on the new building. Shot at eye level or slightly high, 35 mm, wide enough to show the whole new block and the hospital entrance. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nInside the new ICU ward of the Karur District Government Hospital, a row of hospital beds with monitors and ventilators stands in a clean, bright room with tiled floors and large windows. A nurse in a white uniform adjusts equipment near one bed, seen from behind, while a patient's bag and a water bottle rest on a metal side table. Daylight streams through the windows, showing the calm, newly equipped interior. Shot at eye level, 35 mm, medium-wide to show several beds and the equipment clearly. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/cm-vijay-inaugurates-icu-buildings/4379818",
+   "published": "2026-11-18T19:17:13+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: numbers not found in the article: 8",
    "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002696/karur360/rpdcwvxssddcq3eucghc.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002699/karur360/px5dndwe239yvh1vppgr.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் ஐயப்ப பக்தர்கள் மாலை அணிந்து விரதம் தொடக்கம்",
-   "english_headline": "Ayyappa devotees in Karur wear garlands and begin the fast as Karthigai month starts",
-   "category": "Temples & Events",
-   "location": "Karupathur, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ஐயப்ப பக்தர்கள்",
-    "loc": "கருப்பத்தூர், கரூர்",
-    "hl1": "கரூரில் ஐயப்ப பக்தர்கள் மாலை அணிந்தனர்",
-    "hl2": "கார்த்திகை மாதம் தொடக்கம்",
-    "slides": [
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "கார்த்திகை மாதம் தொடங்கிய நேற்று மாலை அணிந்தனர்",
-       "சபரிமலை மகர விளக்கு பூஜைக்காக விரதம் தொடக்கம்",
-       "48 நாட்கள் விரதம் இருந்து சபரிமலைக்கு செல்வர்"
-      ]
-     },
-     {
-      "title": "கருப்பத்தூர்",
-      "lines": [
-       "நேற்று காலை <b>6 மணி</b> முதல் பக்தர்கள் காவிரியில் குளித்தனர்",
-       "கோவில் அர்ச்சகரிடம் மாலை அணிந்து ஐயப்பனை வழிபட்டனர்",
-       "<b>700</b>க்கும் மேற்பட்ட பக்தர்கள் வழிபட்டனர்"
-      ]
-     },
-     {
-      "title": "பிற கோவில்கள்",
-      "lines": [
-       "கரூர் ஐயப்பன் சுவாமி கோவிலில் சிறப்பு அபிஷேகம் நடந்தது",
-       "வெண்ணைமலை, கருப்பத்தூர், காந்திகிராமம் கோவில்களிலும் மாலை",
-       "சபரிமலை மகர ஜோதி தரிசனம் ஜன. 14ல் நடைபெறும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் ஐயப்ப பக்தர்கள் நேற்று மாலை அணிந்து விரதத்தைத் தொடங்கினர். கார்த்திகை மாதம் தொடங்கியதால் இந்த நிகழ்வு நடைபெற்றது. கருப்பத்தூர் ஐயப்பன் கோவிலில் நேற்று காலை 6 மணி முதல் பக்தர்கள் காவிரி ஆற்றில் குளித்தனர். பின்னர் கோவில் அர்ச்சகரிடம் மாலை அணிந்து ஐயப்பனை வழிபட்டனர். 700க்கும் மேற்பட்ட பக்தர்கள் அங்கு வழிபட்டனர். கரூர் ஐயப்பன் சுவாமி கோவிலில் அதிகாலை சிறப்பு அபிஷேகம் நடைபெற்றது. பின்னர் தீபாராதனை காட்டப்பட்டது. வெண்ணைமலை, கருப்பத்தூர், காந்திகிராமம் ஐயப்பன் கோவில்களிலும் பக்தர்கள் மாலை அணிந்தனர். 48 நாட்கள் விரதம் இருந்து பக்தர்கள் சபரிமலைக்குச் செல்வர். சபரிமலை மகர ஜோதி தரிசனம் ஜனவரி 14ஆம் தேதி நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 கரூரில் ஐயப்ப பக்தர்கள் மாலை அணிந்து விரதம் தொடக்கம்\n\n📰 முழு விவரம்:\nகார்த்திகை மாதம் தொடங்கியதால் நேற்று கரூரில் ஐயப்ப பக்தர்கள் மாலை அணிந்து கொண்டனர். கருப்பத்தூர் ஐயப்பன் கோவிலில் நேற்று காலை 6 மணி முதல் பக்தர்கள் காவிரி ஆற்றில் குளித்துவிட்டு, கோவில் அர்ச்சகரிடம் மாலை அணிந்து ஐயப்பனை வழிபட்டனர். 700க்கும் மேற்பட்ட பக்தர்கள் அங்கு வழிபட்டனர். கரூர் ஐயப்பன் சுவாமி கோவிலில் அதிகாலை சிறப்பு அபிஷேகத்துக்குப் பின் தீபாராதனை காட்டப்பட்டது. வெண்ணைமலை, கருப்பத்தூர், காந்திகிராமம் ஐயப்பன் கோவில்களிலும் பக்தர்கள் மாலை அணிந்தனர். 48 நாட்கள் விரதம் இருந்து பக்தர்கள் சபரிமலைக்குச் செல்வர்.\n📅 சபரிமலையில் நடை திறக்கப்பட்டு ஜனவரி 20 வரை 62 நாட்கள் பூஜை நடைபெறும்.\n✨ மகர ஜோதி தரிசனம் ஜனவரி 14ஆம் தேதி நடைபெறும்.\n\nAyyappa devotees wear garlands in Karur, Karthigai fast begins | Karur news\n📍 கருப்பத்தூர், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Karupathur #KarurNews #கரூர்",
-   "prompts": "A group of over 700 Ayyappa devotees stands in a long queue outside the Ayyappan Temple near Karupathur main road, preparing to wear garlands. The temple is a traditional South Indian structure with a gopuram, situated close to a busy road. The devotees, mostly men, are dressed in white dhotis and shirts, some with red or yellow markings on their foreheads. They are seen from behind, facing the temple entrance, creating a dense crowd that stretches down the temple pathway. The atmosphere is solemn and devotional. In the background, the Cauvery river bank is visible, where many devotees bathed earlier in the morning. The scene is lit by the soft, golden light of the evening sun, casting long shadows. The camera is positioned at eye level, 35 mm, wide enough to capture the scale of the crowd and the temple architecture. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a devotee's hands holding a fresh, green coconut and flower garland, ready to be worn around the neck. The hands are adorned with traditional red and yellow tilak markings. In the blurred background, the stone steps of the Ayyappan Temple and the flickering flames of oil lamps (deepam) are visible, indicating the evening ritual. The focus is sharp on the garland and the hands, highlighting the texture of the flowers and the smoothness of the coconut. The lighting is warm, coming from the temple lamps, creating a spiritual and intimate mood. The camera is slightly high, 35 mm, focusing on the object that signifies the start of the 48-day fast. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karthigai-month-begins-devotees-of-lord-ayyappa-wear-garlands/4379380",
-   "published": "2026-11-18T07:18:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('பஞ்சப்பட்டி, தோகைமலை, கொசூர், முத்தம்பட்டி, கழுகூர், புனவாசி'); மாயனூர் ('பஞ்சப்பட்டி, தோகைமலை, கொசூர், முத்தம்பட்டி, கழுகூர், புனவாசி'); தோகைமலை ('பஞ்சப்பட்டி, தோகைமலை, கொசூர், முத்தம்பட்டி, கழுகூர், புனவாசி'); பஞ்சப்பட்டி ('பஞ்சப்பட்டி, தோகைமலை, கொசூர், முத்தம்பட்டி, கழுகூர், புனவாசி')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002712/karur360/kvnsoyh3x7y4rl7yb801.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002717/karur360/otqce2rdur4xxzar6qs8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூர் எஸ்.பி. அலுவலகத்தில் ஐ.ஜி., டி.ஐ.ஜி. ஆய்வு; இடைத்தேர்தல் பணிகள் தீவிரம்",
-   "english_headline": "IG and DIG inspect Karur SP office as Karur by-election preparations gather pace",
-   "category": "Government & Services",
-   "location": "Karur SP office, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போலீஸ் ஆய்வு",
-    "loc": "கரூர் எஸ்.பி. அலுவலகம்",
-    "hl1": "கரூர் எஸ்.பி. அலுவலகத்தில் ஐ.ஜி.",
-    "hl2": "இடைத்தேர்தல் பணிகள் தீவிரம்",
-    "slides": [
-     {
-      "title": "யார் ஆய்வு?",
-      "lines": [
-       "மத்திய மண்டல ஐ.ஜி. பாலகிருஷ்ணன் ஆய்வு நடத்தினார்",
-       "திருச்சி சரக டி.ஐ.ஜி. சிபி சக்கரவர்த்தியும் ஆய்வு நடத்தினார்",
-       "கரூர் எஸ்.பி. அலுவலகத்தில் பல பிரிவுகள் ஆய்வு"
-      ]
-     },
-     {
-      "title": "என்ன ஆய்வு?",
-      "lines": [
-       "குற்ற வழக்கு, தண்டனை விவரங்கள் ஆய்வு",
-       "நிலுவை வழக்குகளை விரைந்து முடிக்க அறிவுரை",
-       "அனைத்து பிரிவுகளிலும் கோப்புகள் தயாராக இருக்க வேண்டும்"
-      ]
-     },
-     {
-      "title": "இடைத்தேர்தல்",
-      "lines": [
-       "கரூர் சட்டசபை தொகுதிக்கு இடைத்தேர்தல் தேதி விரைவில்",
-       "முதல்வர் விஜய் கரூர் வருகைக்கான ஏற்பாடுகள் தீவிரம்",
-       "அரசு நிகழ்ச்சி, ரோடு ஷோவுக்கான பணிகள் நடைபெறுகின்றன"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் காவல் கண்காணிப்பாளர் அலுவலகத்தில் ஐ ஜி மற்றும் டி ஐ ஜி ஆய்வு நடத்தியுள்ளனர். நேற்று மத்திய மண்டல ஐ ஜி பாலகிருஷ்ணன் பல பிரிவுகளில் ஆய்வு மேற்கொண்டார். குற்றப்பிரிவு, குற்ற ஆவணக் காப்பகப் பிரிவு, கைரேகைப் பிரிவு, மோப்ப நாய் பிரிவு உள்ளிட்ட பிரிவுகள் ஆய்வில் இடம்பெற்றன. குற்ற வழக்கு பதிவு விவரங்கள், தண்டனை விவரங்கள், நீதிமன்ற வழக்கு நிலவரம் ஆகியவை ஆய்வு செய்யப்பட்டன. நிலுவை வழக்குகளை விரைந்து முடிக்க வேண்டும் என போலீசாருக்கு அறிவுரை வழங்கப்பட்டது. முதல்வர் விஜய் கரூர் வரும் பட்சத்தில் அனைத்துப் பிரிவுகளிலும் கோப்புகள் தயார் நிலையில் இருக்க வேண்டும் என்றும் அறிவுறுத்தப்பட்டது. நேற்று முன்தினம் திருச்சி சரக டி ஐ ஜி சிபி சக்கரவர்த்தியும் துறை வாரியாக ஆய்வு மேற்கொண்டு ஆலோசனைகள் தெரிவித்தார். கரூர் சட்டசபை தொகுதிக்கு விரைவில் இடைத்தேர்தல் தேதி அறிவிக்கப்பட உள்ளது. இடைத்தேர்தலையொட்டி முதல்வர் விஜய் பங்கேற்கும் அரசு நிகழ்ச்சி மற்றும் ரோடு ஷோவுக்கான ஏற்பாடுகள் தீவிரமாக நடைபெறுகின்றன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚔 கரூர் எஸ்.பி. அலுவலகத்தில் ஐ.ஜி., டி.ஐ.ஜி. ஆய்வு; இடைத்தேர்தல் பணிகள் தீவிரம்\n\n📰 முழு விவரம்:\nகரூர் எஸ்.பி. அலுவலகத்தில் மத்திய மண்டல ஐ.ஜி. பாலகிருஷ்ணன் நேற்று ஆய்வு மேற்கொண்டார். குற்றப்பிரிவு, குற்ற ஆவணக் காப்பகப் பிரிவு, குழந்தை கடத்தல் தடுப்புப் பிரிவு, கைரேகைப் பிரிவு, மோப்ப நாய் பிரிவு, மனித உரிமைப் பிரிவு உள்ளிட்ட பல பிரிவுகள் ஆய்வில் இடம்பெற்றன. குற்ற வழக்கு பதிவு விவரம், தண்டனை விவரம், நீதிமன்ற வழக்கு நிலவரம் ஆகியவை ஆய்வு செய்யப்பட்டன.\n👮 நிலுவை வழக்குகளை விரைந்து முடிக்க வேண்டும் என போலீசாருக்கு ஐ.ஜி. அறிவுரை வழங்கியுள்ளார்.\n👮 முதல்வர் விஜய் கரூர் வரும் பட்சத்தில் அனைத்துப் பிரிவுகளிலும் கோப்புகள் தயார் நிலையில் இருக்க வேண்டும் என அறிவுறுத்தப்பட்டுள்ளது.\n👮 நேற்று முன்தினம் திருச்சி சரக டி.ஐ.ஜி. சிபி சக்கரவர்த்தி துறை வாரியாக ஆய்வு மேற்கொண்டு ஆலோசனைகள் தெரிவித்தார்.\n🗳️ கரூர் சட்டசபை தொகுதிக்கு விரைவில் இடைத்தேர்தல் தேதி அறிவிக்கப்பட உள்ளது. இடைத்தேர்தலையொட்டி முதல்வர் விஜய் பங்கேற்கும் அரசு நிகழ்ச்சி மற்றும் ரோடு ஷோவுக்கான ஏற்பாடுகள் தீவிரமாக நடைபெறுகின்றன.\n\nKarur SP office IG DIG review by-election | Karur news\n📍 கரூர் எஸ்.பி. அலுவலகம், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A senior police officer in khaki uniform walks through a government office corridor of the Karur district police (SP) office in Karur city, Tamil Nadu, followed by two or three lower-ranking officers in khaki, one holding a file. Seen from behind at a distance, they move past a notice-board wall and rows of wooden almirahs stacked with bundles of old case files tied with red tape. Some clerks sit at desks in the background, quietly reviewing papers. The building is a plain government block with cream painted walls, tube lights and ceiling fans; outside a glimpse of a palm-lined compound and a parked white police jeep. Daylight comes through tall windows, giving a calm, official mood. Camera at eye level, 35 mm, wide enough to show the corridor, the officers and the office racks. No readable text or faces visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden office table in the Karur police district office, piled with neatly stacked case files bound in faded pink and green cloth covers and tied with string, with a steel tiffin-style file tray and a black rotary telephone beside them. In soft focus behind, the sleeve of a khaki uniform rests on the table as an officer turns a page, with a ceiling fan and tube light above. Daylight from a window falls across the files, suggesting a review of pending cases ahead of an election-time visit. Camera slightly high, 35 mm, shallow depth of field, showing the stack of files clearly with the office and officer softly blurred in the background. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/ig---inspection-at-karur--office/4379381",
-   "published": "2026-11-18T07:18:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002724/karur360/kv4xsf5lftby71crvnxd.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002727/karur360/orimilpvdzmiabxsd9rd.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "முதல்வர் விஜய் முதுகில் குத்துவார்கள்: சோனியா காந்தியை வைத்து அர்ஜுன் சம்பத் எச்சரிக்கை",
-   "english_headline": "Arjun Sampath warns CM Vijay he may be betrayed like DMK, invokes Sonia Gandhi book launch row",
-   "category": "Government & Services",
-   "location": "Thanthonrimalai, Karur Corporation, Karur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசியல் செய்தி",
-    "loc": "தாந்தோன்றிமலை, கரூர்",
-    "hl1": "தாந்தோன்றிமலை: முதல்வருக்கு எச்சரிக்கை",
-    "hl2": "22ம் தேதி கவன ஈர்ப்பு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "தாந்தோன்றிமலையில் கார் எரிக்கப்பட்ட சம்பவத்தை அர்ஜுன்",
-       "இந்து மக்கள் கட்சி நிர்வாகி சுரேஷ் வீட்டின் அருகே கார்",
-       "போலீசார் வழக்கு பதிவு செய்து 8 நாட்களாகியும் முன்னேற்றம்"
-      ]
-     },
-     {
-      "title": "முதல்வருக்கு",
-      "lines": [
-       "திருப்பரங்குன்றம் மலை உச்சிக்கு முதல்வர் நேரில் சென்று",
-       "இதற்காக <b>22ம் தேதி</b> கவன ஈர்ப்பு ஆர்ப்பாட்டம் நடைபெறும்",
-       "காங்கிரஸ் முதுகில் குத்தும், திமுகவே உதாரணம் என்று"
-      ]
-     },
-     {
-      "title": "சோனியா விழா",
-      "lines": [
-       "டெல்லியில் சோனியா புத்தக வெளியீட்டு விழாவில் முதல்வர் விஜய்",
-       "மேகதாது அணை விவகாரத்தில் சோனியாவிடம் பேசி உத்தரவு பெற",
-       "தவெக கூட்டணி கட்சிகள் மீது நடவடிக்கை எடுக்க வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தாந்தோன்றிமலையில் கார் எரிப்பு சம்பவத்தை அர்ஜுன் சம்பத் பார்வையிட்டார். இந்து மக்கள் கட்சி மாவட்ட அமைப்புச் செயலாளர் சுரேஷ் வீட்டின் அருகே நிறுத்தப்பட்டிருந்த கார் மர்ம நபர்களால் எரிக்கப்பட்டது. போலீசார் வழக்குப் பதிவு செய்து 8 நாட்களாகியும் எந்த முன்னேற்றமும் இல்லை என்று அவர் குற்றம் சாட்டினார். இது விபத்தா அல்லது சதித்திட்டமா என்பதை ஆய்வு செய்ய வேண்டும் என்றும் வலியுறுத்தினார். திருப்பரங்குன்றம் மலை உச்சிக்கு முதல்வர் விஜய் நேரில் சென்று தீபம் ஏற்ற வேண்டும் என்று அவர் கோரியுள்ளார். இதற்காக வரும் 22ஆம் தேதி கவன ஈர்ப்பு ஆர்ப்பாட்டம் நடைபெறும் என்று அறிவித்துள்ளார். டெல்லியில் சோனியா காந்தி புத்தக வெளியீட்டு விழாவில் முதல்வர் விஜய் முன் வரிசையில் அமர்ந்ததை அவர் விமர்சித்தார். காங்கிரஸ் எப்போது வேண்டுமானாலும் முதுகில் குத்தும் என்றும், நாளை ஜோசப் விஜய்யின் முதுகிலும் குத்துவார்கள் என்றும் எச்சரித்தார். மேகதாது அணை விவகாரத்தில் சோனியாவிடம் பேசி கர்நாடக காங்கிரஸுக்கு உத்தரவிட முதல்வர் முயல வேண்டும் என்றும் கூறினார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚠️ தாந்தோன்றிமலையில் கார் எரிப்பு: முதல்வருக்கு அர்ஜுன் சம்பத் எச்சரிக்கை\n\n📰 முழு விவரம்:\nகரூர் மாநகராட்சிக்கு உட்பட்ட தாந்தோன்றிமலையில், இந்து மக்கள் கட்சி மாவட்ட அமைப்புச் செயலாளர் சுரேஷ் வீட்டின் அருகே நிறுத்தியிருந்த கார் மர்ம நபர்களால் எரிக்கப்பட்டது.\nஇந்தச் சம்பவத்தைப் பார்வையிட வந்த அர்ஜுன் சம்பத், போலீசார் வழக்குப் பதிவு செய்து 8 நாட்களாகியும் முன்னேற்றம் இல்லை என்றார்.\nதிருப்பரங்குன்றம் மலை உச்சியில் முதல்வர் நேரில் சென்று தீபம் ஏற்ற வேண்டும் என்று வலியுறுத்தினார்.\nஇதற்காக வரும் 22ஆம் தேதி கவன ஈர்ப்பு ஆர்ப்பாட்டம் நடைபெறும் என்று அறிவித்தார்.\nசோனியா காந்தி புத்தக வெளியீட்டு விழாவில் முதல்வர் விஜய் முன் வரிசையில் அமர்ந்ததை விமர்சித்து, காங்கிரஸ் முதுகில் குத்தும் என்று எச்சரித்தார்.\n📍 இடம்: தாந்தோன்றிமலை, கரூர் மாநகராட்சி\n🗓️ நாள்: 18 நவம்பர் 2026\n📅 ஆர்ப்பாட்டம்: 22ஆம் தேதி\nℹ️ மக்கள் கவனத்திற்கு: இந்தச் செய்தியைத் தேவைப்படுவோருடன் Share செய்யுங்கள்.\n\nArjun Sampath warns CM Vijay over Thanthonrimalai car burning | Karur news\n📍 தாந்தோன்றிமலை, கரூர் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of reporters with microphones and recorders surrounds a political leader in a white shirt and veshti as he speaks beside a parked car that has been burnt, its charred metal body and blackened windows visible on a quiet residential street in Thanthonrimalai, Karur city. Men in shirts and trousers, some in khaki police uniform, stand near the speaker while two-wheelers are parked along the roadside and small concrete houses with tiled roofs line the lane. Daylight, mild and overcast, lights the scene. Shot at eye level and slightly high, 35 mm, wide enough to show the burnt car, the houses and the crowd, with the leader and reporters seen from behind or at a distance and faces softly blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the burnt shell of a car parked beside a house wall in Thanthonrimalai, Karur city, with charred and blackened paint, melted plastic trim and scorched tyres showing the fire damage clearly. A pile of loose soot-stained debris and a few stray wires lie on the ground near the wheel arch, and a concrete compound wall and a plain doorway stand in the background. Daylight, neutral weather. Shot at slightly low eye level, 35 mm, tight enough to show the damage and textures with no people in focus. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/karur/arjun-sampath-warns-joseph-vijay-about-congress-betrayal-using-sonia-gandhi-example-846275.html",
-   "published": "2026-11-18T11:03:24+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 24 ('இந்த சம்பவம் விபத்தா, சதித்திட்டமா என்பது குறித்து ஆய்வு செய'); 144 ('இந்த சம்பவம் விபத்தா, சதித்திட்டமா என்பது குறித்து ஆய்வு செய')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002751/karur360/htlyknypvbzxcttcqoex.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002755/karur360/oc4jawopmoejlwwmkypy.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கிருஷ்ணராயபுரத்தில் வெண்டைக்காய் விலை சரிவு: கிலோ ரூ.40-லிருந்து ரூ.25 ஆக குறைந்தது",
-   "english_headline": "Ladies finger prices fall in Krishnarayapuram as supply rises: Rs 40 a kg last week, Rs 25 yesterday",
-   "category": "Weather & Agriculture",
-   "location": "Krishnarayapuram, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "கிருஷ்ணராயபுரம்",
-    "hl1": "கிருஷ்ணராயபுரத்தில் வெண்டைக்காய் விலை",
-    "hl2": "கிலோ ரூ.40 → ரூ.25",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கிருஷ்ணராயபுரம் பகுதியில் வெண்டைக்காய் விலை சரிந்துள்ளது",
-       "வரத்து அதிகரித்ததால் விலை குறைந்துள்ளது",
-       "தற்போது குறைந்த விலையில் விற்பனை நடக்கிறது"
-      ]
-     },
-     {
-      "title": "எந்தெந்த ஊர்கள்?",
-      "lines": [
-       "புனவாசிப்பட்டி, அந்தரப்பட்டி, கணக்கம்பட்டி",
-       "மகிளிப்பட்டி, உடையந்தோட்டம், பாப்பகாப்பட்டி",
-       "மலையாண்டிப்பட்டி ஆகிய பகுதிகளில் விவசாயிகள் சாகுபடி"
-      ]
-     },
-     {
-      "title": "விலை நிலவரம்",
-      "lines": [
-       "கடந்த வாரம் கிலோ <b>ரூ.40</b> க்கு விற்றது",
-       "நேற்று கிலோ <b>ரூ.25</b> க்கு விற்பனை செய்யப்பட்டது",
-       "விவசாயிகளின் வருமானம் குறைந்துள்ளது"
-      ]
-     },
-     {
-      "title": "எங்கே விற்பனை?",
-      "lines": [
-       "கரூர், குளித்தலை, முசிறி வாரச்சந்தைகளில் விற்பனை",
-       "உள்ளூர் வாரச்சந்தைகளில் வெண்டைக்காய் விற்கப்படுகிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கிருஷ்ணராயபுரம் பகுதியில் வெண்டைக்காய் விலை சரிந்துள்ளது. கடந்த வாரம் கிலோ 40 ரூபாய்க்கு விற்ற வெண்டைக்காய், நேற்று 25 ரூபாய்க்கு விற்பனை செய்யப்பட்டது. கிருஷ்ணராயபுரம் ஒன்றியத்திற்கு உட்பட்ட புனவாசிப்பட்டி, அந்தரப்பட்டி, கணக்கம்பட்டி, மகிளிப்பட்டி, உடையந்தோட்டம், பாப்பகாப்பட்டி, மலையாண்டிப்பட்டி ஆகிய பகுதிகளில் விவசாயிகள் வெண்டைக்காய் சாகுபடி செய்து வருகின்றனர். தற்போது வரத்து அதிகரித்ததால் விலை சரிந்து விற்பனை நடந்து வருகிறது. கரூர், குளித்தலை, முசிறி ஆகிய பகுதிகளில் செயல்படும் உள்ளூர் வாரச்சந்தைகளில் வெண்டைக்காய் விற்கப்படுகிறது. விலை சரிந்ததால் விவசாயிகளுக்கு வருமானம் குறைந்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🥬 கிருஷ்ணராயபுரத்தில் வெண்டைக்காய் விலை சரிவு: கிலோ ரூ.40-லிருந்து ரூ.25 ஆக குறைந்தது\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் பகுதியில் வெண்டைக்காய் விலை சரிந்துள்ளது. வரத்து அதிகரித்ததால் தற்போது குறைந்த விலையில் விற்பனை நடைபெறுகிறது.\nகடந்த வாரம் கிலோ ரூ.40-க்கு விற்ற வெண்டைக்காய், நேற்று கிலோ ரூ.25-க்கு விற்பனை செய்யப்பட்டது.\nகிருஷ்ணராயபுரம் ஒன்றியத்திற்கு உட்பட்ட புனவாசிப்பட்டி, அந்தரப்பட்டி, கணக்கம்பட்டி, மகிளிப்பட்டி, உடையந்தோட்டம், பாப்பகாப்பட்டி, மலையாண்டிப்பட்டி ஆகிய பகுதிகளில் விவசாயிகள் வெண்டைக்காய் சாகுபடி செய்து வருகின்றனர்.\nகரூர், குளித்தலை, முசிறி ஆகிய பகுதிகளில் செயல்படும் உள்ளூர் வாரச்சந்தைகளில் வெண்டைக்காய் விற்கப்படுகிறது. விலை சரிந்ததால் விவசாயிகளின் வருமானம் குறைந்துள்ளது.\n\n📍 இடம்: கிருஷ்ணராயபுரம் ஒன்றியம், கரூர் மாவட்டம்\n🗓️ நாள்: 18 நவம்பர் 2026\n\nLadies finger price falls in Krishnarayapuram | Karur news\n📍 கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
-   "prompts": "A farmer and a vendor sit beside heaps of fresh green ladies finger (vendaikkai) piled in plastic crates and gunny sacks at a weekly vegetable market in Krishnarayapuram, Karur district, Tamil Nadu, as the vegetable sells at lower prices. The market is an open-air weekly bazaar under a few tarpaulin sheds on a dusty ground, with small wooden tables, a row of loose vegetables and bundles of greens on the floor, and a few two-wheelers and a tractor-trolley parked at the edge. Two or three farmers in shirts and veshti stand at the stall while women in cotton sarees bargain with the vendor, seen from slightly behind and far away. Several crates are stacked high with long, fresh ladies finger pods, showing an abundance of supply, while a hand-held balance and loose coins lie on the table. Bright daylight, clear sky, warm morning light. Camera at eye level, 35 mm lens, wide enough to show the full market and the heaped produce. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of heaped fresh green ladies finger (vendaikkai) pods spilling out of a plastic crate at a rural weekly market in Krishnarayapuram, Karur district, Tamil Nadu, showing the large surplus that has pulled prices down. The pods are bright green, slightly dusty, with their stems still attached, piled loosely on a wooden table and gunny sack. Beside them sits a simple hand-held weighing balance with a few coins and a folded cloth, suggesting a small farmer's stall. Blurred figures of a vendor's hands and a farmer in a checked shirt and veshti are visible at the edge of the frame, seen from behind. Background shows open market ground and a tarpaulin shade in soft focus. Natural daylight, warm and bright, no visible text or labels. Camera slightly high, 35 mm lens, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/onion-prices-fall-on-rising-demand/4379383",
-   "published": "2026-11-18T07:19:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002768/karur360/uqzewpfcpqilmzsr01qc.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002772/karur360/msngbzwsslxskepvdkke.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அரவக்குறிச்சியில் தொழுநோய் கண்டறியும் சிறப்பு முகாம்: டிச. 2 வரை நடைபெறும்",
-   "english_headline": "Special leprosy detection camp underway in Aravakurichi and nearby areas until 2 December",
-   "category": "Health",
-   "location": "Aravakurichi and surrounding areas, Karur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சுகாதாரம்",
-    "loc": "அரவக்குறிச்சி",
-    "hl1": "அரவக்குறிச்சியில் தொழுநோய் சிறப்பு",
-    "hl2": "டிச. <b>2</b> வரை நடைபெறும்",
-    "slides": [
-     {
-      "title": "முகாம் விவரம்",
-      "lines": [
-       "அரவக்குறிச்சி மற்றும் சுற்றுவட்டாரப் பகுதிகளில் முகாம்",
-       "தொழுநோய் கண்டறியும் சிறப்பு முகாம் துவங்கியுள்ளது",
-       "முகாம் <b>டிச. 2</b> வரை நடைபெறும்"
-      ]
-     },
-     {
-      "title": "யார்",
-      "lines": [
-       "சுகாதார ஆய்வாளர் மேற்பார்வையில் பணி",
-       "கிராம சுகாதார செவிலியர், இடைநிலை சுகாதார செவிலியர்",
-       "தன்னார்வலர்களும் வீடு வீடாகச் செல்கின்றனர்"
-      ]
-     },
-     {
-      "title": "என்ன பரிசோதனை?",
-      "lines": [
-       "வெளிர், சிவந்த உணர்ச்சியற்ற தேமல் உள்ளதா என பரிசோதனை",
-       "கை, கால், கண்களில் நரம்பு பாதிப்பு உள்ளதா என பரிசோதனை",
-       "அனைத்து வீடுகளிலும் பரிசோதனை நடைபெறுகிறது"
-      ]
-     },
-     {
-      "title": "இலவச சிகிச்சை",
-      "lines": [
-       "தொழுநோய் உறுதியானவருக்கு <b>6 மாதம்</b> தொடர் சிகிச்சை",
-       "சிகிச்சை இலவசமாக வீட்டிற்கே சென்று வழங்கப்படும்",
-       "தொழுநோய் முற்றிலும் குணப்படுத்தக் கூடியது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அரவக்குறிச்சியில் தொழுநோய் கண்டறியும் சிறப்பு முகாம் துவங்கியுள்ளது. இந்த முகாம் டிசம்பர் 2ஆம் தேதி வரை நடைபெறும். கரூர் மாவட்ட துணை இயக்குனர் மருத்துவர் சாந்தியின் ஆணைப்படி இந்த முகாம் நடைபெறுகிறது. அரவக்குறிச்சி வட்டார மருத்துவ அலுவலர் மருத்துவர் கவுசல்யா தலைமையில் அரவக்குறிச்சி மற்றும் சுற்றுவட்டாரப் பகுதிகளில் பணி நடைபெறுகிறது. சுகாதார ஆய்வாளர் மேற்பார்வையில், கிராம சுகாதார செவிலியர், இடைநிலை சுகாதார செவிலியர் மற்றும் தன்னார்வலர்கள் அனைத்து வீடுகளுக்கும் சென்று பரிசோதனை செய்கின்றனர். வெளிர், சிவந்த உணர்ச்சியற்ற தேமல் உள்ளதா, கை கால்கள் மற்றும் கண்களில் நரம்பு பாதிப்பு உள்ளதா என பரிசோதிக்கின்றனர். தொழுநோய் உறுதி செய்யப்பட்டவருக்கு ஆறு மாதம் தொடர் கூட்டு சிகிச்சை இலவசமாக வீட்டிற்கே சென்று வழங்கப்படுகிறது. தொழுநோய் முற்றிலும் குணப்படுத்தக் கூடியது. வீடு தேடி வரும் சுகாதாரப் பணியாளர்களுக்கு முழு ஒத்துழைப்பு தர வேண்டும் என பொது சுகாதாரத் துறை தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🩺 அரவக்குறிச்சியில் தொழுநோய் கண்டறியும் சிறப்பு முகாம்: டிச. 2 வரை நடைபெறும்\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட துணை இயக்குனர் (தொழுநோய்) மருத்துவர் சாந்தியின் ஆணைப்படி, அரவக்குறிச்சி வட்டார மருத்துவ அலுவலர் மருத்துவர் கவுசல்யா தலைமையில் அரவக்குறிச்சி மற்றும் சுற்றுவட்டாரப் பகுதிகளில் தொழுநோய் கண்டறியும் சிறப்பு முகாம் துவங்கியுள்ளது.\nமுகாம் டிசம்பர் 2ஆம் தேதி வரை நடைபெறும். அனைத்து வீடுகளிலும் சுகாதாரத்துறை மூலம் பரிசோதனை செய்யப்படுகிறது.\nசுகாதார ஆய்வாளர் மேற்பார்வையில், கிராம சுகாதார செவிலியர், இடைநிலை சுகாதார செவிலியர் மற்றும் தன்னார்வலர்கள் வீடுகளுக்குச் சென்று பரிசோதிக்கின்றனர். வெளிர், சிவந்த உணர்ச்சியற்ற தேமல் உள்ளதா, கை கால்கள் மற்றும் கண்களில் நரம்பு பாதிப்பு உள்ளதா என சோதிக்கப்படுகிறது.\nதொழுநோய் உறுதி செய்யப்பட்டவருக்கு 6 மாதம் தொடர் கூட்டு சிகிச்சை வீட்டிற்கே சென்று இலவசமாக வழங்கப்படும். தொழுநோய் முற்றிலும் குணப்படுத்தக் கூடியது.\n\n👉 வீடு தேடி வரும் சுகாதாரப் பணியாளர்களுக்கு முழு ஒத்துழைப்பு தர வேண்டும் என பொது சுகாதாரத் துறை தெரிவித்துள்ளது.\n\nSpecial leprosy detection camp in Aravakurichi till 2 Dec | Karur news\n📍 அரவக்குறிச்சி, கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #சுகாதாரம் #KarurNews",
-   "prompts": "A group of health workers, a health inspector with two nurses in white saris and a volunteer, walks down a narrow residential lane in Aravakurichi town, Karur district, carrying a clipboard and a medical bag as they begin a house-to-house leprosy screening drive. The street is lined with single-storey tiled-roof houses, concrete compound walls, a parked two-wheeler and a few plastic chairs in a doorway, with a concrete electric pole and overhead wires above. Residents stand at their gates, a woman in a cotton saree holding a child, an elderly man in a white shirt and veshti, all seen from behind or at a distance. The health workers wear white saris and aprons, with one carrying a folder of records. It is bright daylight with a clear sky and soft morning light. Shot at eye level on a 35 mm lens, wide enough to show the full lane and the houses on both sides. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a health worker's hands holding a small medical examination kit on a wooden table at a doorway of a plain village house in Aravakurichi, Karur district. Beside it rests a stack of registration forms, a pen, and a cotton swab tray, with a plastic water pot and a folded towel in the background. A corner of a cement doorstep and a tiled floor of a home are visible, with the blurred figure of a resident in a cotton saree standing inside the doorway, seen only from the waist down. Soft daylight falls from the side, giving a calm, clinical feel. Shot at slightly high angle on a 35 mm lens, close enough to show the tools of the screening clearly. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/leprosy-detection-special-camp-till-december-2/4379386",
-   "published": "2026-11-18T07:21:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002798/karur360/hjkz6y4yxot8rxv3zdqq.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795002832/karur360/czo1miapzh6i8pfdtbds.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795020105/karur360/qogcxgtxyoolnhr2xlen.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795020110/karur360/e8vpn9evcpzvzkdql120.jpg"
    ]
   }
  ]
