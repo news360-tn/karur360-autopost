@@ -1,42 +1,10 @@
-22:07:18 round 2026-11-18_22: news published 18 Nov 17:16 -> 18 Nov 22:07 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-22:07:18 insights 2026-11-18T22:07+05:30 (97 reels): topic weights {'temple': 0.3, 'accident': 0.3, 'education': -0.01, 'power_cut': 1.5, 'poultry_agri': 0.12, 'politics': -0.01, 'civic': -0.46, 'crime': 0.17, 'weather': -0.06}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-22:08:11 52 links on the two papers' Karur pages
-22:09:07 skipped: not Karur district=18, already posted=12, published before this window=8, same event already posted=5
-22:09:07 list: 3 new + 0 earlier news not posted yet
-22:09:07    1. [விபத்து] கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் ஒரே குடும்பத் (தினகரன்)
-22:09:07    2. [விபத்து] ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயரச் சம்பவம் (ஒன்இந்தியா)
-22:09:07    3. [பொது] தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் விஜய் (தினமலர்)
-22:09:07 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-18_22
-22:09:09 round 2026-11-18_22 (at least 4, up to 3 more of well-watched topics): 3 news to choose from (0 from earlier rounds), ranked by this page's insights
-22:09:09   PICK   1.  12.2 [accident +0.30 page] கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் ஒரே
-22:09:09   PICK   2.  11.2 [accident +0.30 page] ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
-22:09:09   PICK   3.   3.0 [politics -0.01 page] தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் வ
-22:09:09 decided: automatic: top 4 of 3 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinakaran.com/news/karur_death_after_falling_well https://tamil.oneindia.com/news/karur/five-members-of-same-family-die-after-falling-into-well-in-karur-846425.html https://www.dinamalar.com/news/tamil-nadu-news/cm-vijay-inaugurates-icu-buildings/4379818
-22:11:58 1 picked news refused by the writer - not offered again
-22:11:58 2 listed news now in the Sheet
-22:12:10 instagram duplicate check karur: 50 recent posts read
-22:12:11 verify 2026-11-18_22: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:12:11    SKIPPED Ce8c482c: skipped: the writer refused it - not filed: duplicate after write - ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
-22:12:11    NOT POSTED C962615a: queued RN-111 (Queued) - கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் ஒரே
-22:12:11    NOT POSTED Cca7a039: queued RN-112 (Queued) - தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் வ
-22:17:20 instagram duplicate check karur: 50 recent posts read
-22:17:22 verify 2026-11-18_22: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:17:22    SKIPPED Ce8c482c: skipped: the writer refused it - not filed: duplicate after write - ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
-22:17:22    NOT POSTED C962615a: queued RN-111 (Queued) - கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் ஒரே
-22:17:22    NOT POSTED Cca7a039: queued RN-112 (Queued) - தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் வ
-22:22:31 instagram duplicate check karur: 50 recent posts read
-22:22:31 verify 2026-11-18_22: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:22:31    SKIPPED Ce8c482c: skipped: the writer refused it - not filed: duplicate after write - ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
-22:22:31    NOT POSTED Cca7a039: queued RN-112 (Queued) - தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் வ
-22:27:40 instagram duplicate check karur: 50 recent posts read
-22:27:40 verify 2026-11-18_22: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:27:40    SKIPPED Ce8c482c: skipped: the writer refused it - not filed: duplicate after write - ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
-22:27:40    NOT POSTED Cca7a039: queued RN-112 (Queued) - தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் வ
-22:32:49 instagram duplicate check karur: 50 recent posts read
-22:32:49 verify 2026-11-18_22: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:32:49    SKIPPED Ce8c482c: skipped: the writer refused it - not filed: duplicate after write - ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
-22:32:49    NOT POSTED Cca7a039: queued RN-112 (Queued) - தீவிர சிகிச்சை பிரிவு கட்டடங்கள் திறந்து வைத்தார் முதல்வர் வ
-22:37:57 verify 2026-11-18_22: 2 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-22:37:57    SKIPPED Ce8c482c: skipped: the writer refused it - not filed: duplicate after write - ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயர
+02:26:37 round 2026-11-19_02: news published 18 Nov 22:07 -> 19 Nov 02:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+02:26:37 insights 2026-11-19T02:26+05:30 (99 reels): topic weights {'temple': 0.79, 'accident': 0.28, 'education': -0.03, 'power_cut': 1.5, 'poultry_agri': 0.1, 'politics': -0.26, 'civic': -0.48, 'crime': 0.16, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+02:27:06 38 links on the two papers' Karur pages
+02:28:07 skipped: already posted=15, published before this window=8, not Karur district=6, same event already posted=5
+02:28:07 list: 3 new + 0 earlier news not posted yet
+02:28:07    1. [பொது] கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran (தினகரன்)
+02:28:07    2. [பொது] நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran (தினகரன்)
+02:28:07    3. [பொது] ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran (தினகரன்)
+02:28:07 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-19_02
