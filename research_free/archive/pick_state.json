@@ -54,7 +54,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rs-290-lakh-jewellery-silver-stolen-from-financial-institution-principals-house/4381180"
    ],
-   "listed_at": "2026-11-20T04:29:09.859960+05:30"
+   "listed_at": "2026-11-20T04:29:09.859960+05:30",
+   "picked_at": "2026-11-20T04:31:40.223064+05:30"
   },
   "Ce04d186": {
    "id": "Ce04d186",
@@ -66,7 +67,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30"
+   "listed_at": "2026-11-20T04:29:09.859960+05:30",
+   "picked_at": "2026-11-20T04:31:40.223066+05:30"
   },
   "Ccee5633": {
    "id": "Ccee5633",
@@ -93,7 +95,8 @@
    "category": "குற்றம்",
    "score": 11.0,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30"
+   "listed_at": "2026-11-20T04:29:09.859960+05:30",
+   "picked_at": "2026-11-20T04:31:40.223069+05:30"
   },
   "C9ef8877": {
    "id": "C9ef8877",
@@ -105,7 +108,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30"
+   "listed_at": "2026-11-20T04:29:09.859960+05:30",
+   "picked_at": "2026-11-20T04:31:40.223070+05:30"
   },
   "Cc394270": {
    "id": "Cc394270",
@@ -117,7 +121,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30"
+   "listed_at": "2026-11-20T04:29:09.859960+05:30",
+   "picked_at": "2026-11-20T04:31:40.223071+05:30"
   },
   "C3a7851b": {
    "id": "C3a7851b",
@@ -129,7 +134,8 @@
    "category": "பொது",
    "score": 9.5,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30"
+   "listed_at": "2026-11-20T04:29:09.859960+05:30",
+   "picked_at": "2026-11-20T04:31:40.223067+05:30"
   },
   "Ce4d6b3e": {
    "id": "Ce4d6b3e",
@@ -156,7 +162,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/adopting-the-toilet-day-pledge-at-school/4381190"
    ],
-   "listed_at": "2026-11-20T04:29:09.859960+05:30"
+   "listed_at": "2026-11-20T04:29:09.859960+05:30",
+   "picked_at": "2026-11-20T04:31:40.223072+05:30"
   },
   "Cd55246d": {
    "id": "Cd55246d",
@@ -938,8 +945,28 @@
    ],
    "sent": false,
    "deadline": "2026-11-20T05:29:09.859960+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 7 of 17 by insights",
+    "ids": [
+     "C14f50dd",
+     "Ce04d186",
+     "C3a7851b",
+     "C2da5a48",
+     "C9ef8877",
+     "Cc394270",
+     "C16a9c19"
+    ],
+    "at": "2026-11-20T04:31:40.223054+05:30"
+   },
+   "written": [
+    "C14f50dd",
+    "C16a9c19",
+    "C2da5a48",
+    "C3a7851b",
+    "C9ef8877",
+    "Cc394270",
+    "Ce04d186"
+   ]
   }
  },
  "retry": {}
