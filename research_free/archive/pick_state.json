@@ -38,7 +38,8 @@
    "score": 7.66,
    "power_cut": false,
    "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T08:42:57.832365+05:30"
+   "picked_at": "2026-11-19T08:42:57.832365+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C8c4af42": {
    "id": "C8c4af42",
@@ -51,7 +52,8 @@
    "score": 6.98,
    "power_cut": false,
    "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T08:42:57.832367+05:30"
+   "picked_at": "2026-11-19T08:42:57.832367+05:30",
+   "refused": "not filed: bad draft: 'scenes'"
   },
   "C8d7a349": {
    "id": "C8d7a349",
@@ -64,7 +66,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T08:42:57.832384+05:30"
+   "picked_at": "2026-11-19T08:42:57.832384+05:30",
+   "posted": true
   },
   "C13290cc": {
    "id": "C13290cc",
@@ -137,7 +140,8 @@
    "score": 10.28,
    "power_cut": false,
    "listed_at": "2026-11-19T08:42:00.670368+05:30",
-   "picked_at": "2026-11-19T08:42:57.832362+05:30"
+   "picked_at": "2026-11-19T08:42:57.832362+05:30",
+   "posted": true
   },
   "Cc8c4769": {
    "id": "Cc8c4769",
@@ -150,7 +154,8 @@
    "score": 6.97,
    "power_cut": false,
    "listed_at": "2026-11-19T08:42:00.670368+05:30",
-   "picked_at": "2026-11-19T08:42:57.832369+05:30"
+   "picked_at": "2026-11-19T08:42:57.832369+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -870,7 +875,11 @@
     "C8d7a349",
     "Ca364933",
     "Cc8c4769"
-   ]
+   ],
+   "refused": {
+    "C8c4af42": "not filed: bad draft: 'scenes'",
+    "C898f2a1": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
