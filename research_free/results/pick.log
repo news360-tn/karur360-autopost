@@ -9,3 +9,16 @@
 14:18:25    4. [பொது] வ.உ.சி., நினைவு நாள் (தினமலர்) (earlier)
 14:18:25 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-19_14
+14:18:27    not picked automatically (suicide / obituary - only when the owner ticks it): வ.உ.சி., நினைவு நாள்
+14:18:27 round 2026-11-19_14 (at least 3, up to 3 more of well-watched topics): 3 news to choose from (1 from earlier rounds), ranked by this page's insights
+14:18:27   PICK   1.  15.2 [crime +1.04 page] கரூர் அருகே நிதி நிறுவன அதிபர் வீட்டில் கொள்ளை: ரூ.2.90 லட்ச
+14:18:27   PICK   2.  15.2 [crime +1.04 page] கரூர் அருகே பூட்டிய வீட்டின் பின்பக்க கதவை உடைத்து கொள்ளை..
+14:18:27   PICK   3.   1.5 [other +0.00 pattern] (earlier) ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran
+14:18:27 decided: automatic: top 3 of 3 by insights -> 3 news to write and post
+PICK_URLS=https://www.hindutamil.in/news/crime/cash-gold-robbed-at-finance-company-owner-house-in-karur https://www.polimernews.com/districtnews/burglary-at-a-locked-house-near-karur-after-breaking-the-back-door-12822737 https://www.dinakaran.com/district/karur_191126_1
+14:22:23 2 picked news refused by the writer - not offered again
+14:22:23 1 listed news now in the Sheet
+14:22:32 verify 2026-11-19_14: 0 of 3 picked news posted, 3 skipped on purpose, 0 waiting for their posting start
+14:22:32    SKIPPED C7cad38d: skipped: the writer refused it - not filed: duplicate after write - ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran
+14:22:32    SKIPPED C852475a: skipped: the writer refused it - not filed: duplicate after write - கரூர் அருகே நிதி நிறுவன அதிபர் வீட்டில் கொள்ளை: ரூ.2.90 லட்ச
+14:22:32    SKIPPED Ca21bd87: skipped RN-128: held: fact-check problems - numbers not found in the article: 290000 - கரூர் அருகே பூட்டிய வீட்டின் பின்பக்க கதவை உடைத்து கொள்ளை..

@@ -3,101 +3,103 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/karur/youth-was-tried-to-kidnapped-by-a-gang-in-karur-846485.html",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/passengers-waiting-on-the-pudarmanadi-andipalayam-silhouette-highway/4380309",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/daughter-missing-father-complains/4380307",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/aiadmk-office-bearers-meet/4380308",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/18/additional-building-at-pallapatti-government-hospital-constructed-at-a-cost-of-rs-6-crore-inaugurated-by-the-chief-minister-via-video-conference",
-  "candidate filter: collected=5",
-  "to write: 5 Karur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "manual link added: https://www.hindutamil.in/news/crime/cash-gold-robbed-at-finance-company-owner-house-in-karur",
+  "manual link added: https://www.polimernews.com/districtnews/burglary-at-a-locked-house-near-karur-after-breaking-the-back-door-12822737",
+  "manual link added: https://www.dinakaran.com/district/karur_191126_1",
+  "candidate filter: collected=3",
+  "to write: 3 Karur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_191126_1",
+  "try (N) manual=True: https://www.polimernews.com/districtnews/burglary-at-a-locke",
+  "try (N) manual=True: https://www.hindutamil.in/news/crime/cash-gold-robbed-at-fin",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://tamil.oneindia.com/news/karur/youth-was-tried-to-kid",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
-  "filed: 5 Karur district stories (target 5), reels only",
+  "NOT filed (N) ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Di: duplicate after write",
+  "NOT filed (N) கரூர் அருகே நிதி நிறுவன அதிபர் வீட்டில் கொள்ளை: ரூ: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 1}, time left 76 min",
+  "filed: 1 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok groq/openai/gpt-oss-120b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -105,326 +107,105 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "குளித்தலை அருகே கல்லூரி மாணவி மாயம்; தந்தை புகார்",
-   "english_headline": "College student missing near Kulithalai; father files police complaint",
+   "tamil_headline": "கரூர் அருகே பூட்டிய வீட்டில் கொள்ளை: ரொக்கம், நகை, வெள்ளி திருட்டு",
+   "english_headline": "Locked house near Karur broken into; cash, gold and silver stolen; police probe using CCTV",
    "category": "Crime & Safety",
-   "location": "Kulithalai, Karur district",
+   "location": "Govindampalayam, near Karur city, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "காணவில்லை",
-    "loc": "குளித்தலை",
-    "hl1": "குளித்தலை அருகே கல்லூரி மாணவி மாயம்",
-    "hl2": "தந்தை போலீசில் புகார்",
+    "cat": "கொள்ளை",
+    "loc": "கோவிந்தம்பாளையம், கரூர்",
+    "hl1": "கரூர் அருகே பூட்டிய வீட்டில் கொள்ளை",
+    "hl2": "2.9 லட்சம் ரொக்கம் திருட்டு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கல்லூரி சென்ற மகள் வீடு திரும்பவில்லை",
-       "குளித்தலை அருகே கழுகூரில் உள்ள குடும்பம்",
-       "தந்தை போலீசில் புகார் அளித்தார்"
+       "பூட்டிய வீட்டின் பின்பக்க கதவை உடைத்து கொள்ளை",
+       "<b>2 லட்சத்து 90 ஆயிரம்</b> ரொக்கம் திருட்டு",
+       "<b>4 பவுன்</b> தங்க நகைகளும் கொள்ளை"
       ]
      },
      {
-      "title": "யார்?",
+      "title": "எங்கே?",
       "lines": [
-       "தந்தை ரெட்டைமலை, <b>45</b> வயது, விவசாயக் கூலித் தொழிலாளி",
-       "மகள் தமயந்தி, <b>19</b> வயது",
-       "அய்யர்மலை பகுதி தனியார் மகளிர் கல்லூரியில் பி.காம்., சிஏ"
+       "கரூர் அருகே கோவிந்தம்பாளையம்",
+       "வீட்டின் உரிமையாளர் ராமலிங்கம்",
+       "சென்னையில் பைனான்ஸ் தொழில் செய்கிறார்"
       ]
      },
      {
-      "title": "எப்போது, எப்படி?",
+      "title": "போலீஸ் விசாரணை",
       "lines": [
-       "நேற்று முன்தினம் காலை கல்லூரி பஸ்சில் கல்லூரிக்குச் சென்றார்",
-       "மாலையில் வீடு திரும்பவில்லை",
-       "மொபைல்போன் சுவிட்ச் ஆப் செய்யப்பட்டிருந்தது"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "தோகைமலை போலீசார் வழக்குப் பதிவு செய்துள்ளனர்",
-       "தமயந்தியை போலீசார் தேடி வருகின்றனர்"
+       "கடந்த ஒரு வாரமாக வீட்டில் யாரும் இல்லை",
+       "<b>அரை கிலோ</b> வெள்ளிப் பொருட்களும் திருட்டு",
+       "பைக்கில் சுற்றிய மர்ம நபர்கள் சிசிடிவியில் பதிவு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "குளித்தலை அருகே கல்லூரி மாணவி மாயம். கழுகூரைச் சேர்ந்த 19 வயது மாணவி தமயந்தி வீடு திரும்பவில்லை. அய்யர்மலை பகுதியில் உள்ள தனியார் மகளிர் கல்லூரியில் அவர் பி.காம்., சிஏ இரண்டாம் ஆண்டு படித்து வருகிறார். நேற்று முன்தினம் காலை வழக்கம்போல் கல்லூரி பஸ்சில் கல்லூரிக்குச் சென்றார். மாலையில் அவர் வீடு திரும்பவில்லை. அவரது மொபைல்போன் சுவிட்ச் ஆப் செய்யப்பட்டிருந்தது. பல இடங்களில் தேடியும் எந்தத் தகவலும் கிடைக்கவில்லை. இதையடுத்து, அவரது தந்தை ரெட்டைமலை, 45 வயது விவசாயக் கூலித் தொழிலாளி, போலீசில் புகார் அளித்தார். தோகைமலை போலீசார் வழக்குப் பதிவு செய்து தமயந்தியைத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த கழுகூரைச் சேர்ந்த ரெட்டைமலை, 45 வயது, விவசாயக் கூலித் தொழிலாளி. இவரது மகள் தமயந்தி, 19 வயது, அய்யர்மலை பகுதியில் உள்ள தனியார் மகளிர் கல்லூரியில் பி.காம்., சிஏ இரண்டாம் ஆண்டு படித்து வருகிறார்.\nநேற்று முன்தினம் காலை வழக்கம்போல் கல்லூரி பஸ்சில் கல்லூரிக்குச் சென்ற அவர், மாலையில் வீடு திரும்பவில்லை.\nஅவரது மொபைல்போன் சுவிட்ச் ஆப் செய்யப்பட்டிருந்தது. பல இடங்களில் தேடியும் விசாரித்தும் எந்தத் தகவலும் கிடைக்கவில்லை.\nதந்தை கொடுத்த புகாரின்படி, தோகைமலை போலீசார் வழக்குப் பதிவு செய்து தமயந்தியைத் தேடி வருகின்றனர்.\n\n📍 இடம்: குளித்தலை அருகே கழுகூர், கரூர் மாவட்டம்\n👮 நடவடிக்கை: தோகைமலை போலீசார் வழக்குப் பதிவு செய்து தேடி வருகின்றனர்\n\nKulithalai college student missing, father files complaint | Karur news\n📍 குளித்தலை, கரூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "A police station exterior at Thogaimalai in Karur district, Tamil Nadu, seen from across the road at eye level in bright daylight. A small single-storey government police station building with a tiled roof and a low compound wall stands beside a dusty road, with a Tamil Nadu police jeep parked in front. Two police constables in khaki uniform stand near the entrance, seen from behind and far away, while a middle-aged man in a plain shirt and veshti, seen from behind, walks toward the gate holding a folded paper as if to file a complaint. A few two-wheelers and an autorickshaw pass on the road, and a row of coconut palms and a distant paddy field edge the frame. Late morning light, clear sky, no people's faces visible. Shot at 35 mm, eye level, wide enough to show the whole station and road. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table inside a police station room in Karur district, Tamil Nadu, showing a stack of blank complaint forms, a steel tumbler of water and a black ballpoint pen resting on a thick register book. Behind the table, a khaki-clad police sub-inspector's sleeve and hand are partly visible, writing in the register, while the background is softly blurred with a tube light and a plain cream wall. Natural light from a window falls across the papers, warm and calm. No readable text, no signboards, no faces. Shot at 35 mm, slightly high angle, shallow depth of field focusing on the register and the pen. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/daughter-missing-father-complains/4380307",
-   "published": "2026-11-19T06:39:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: known issue meta_article: cards talks about the article instead of the news ('தகவல் கிடைக்கவில்லை') - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூர் அருகே பூட்டிய வீட்டில் கொள்ளை நடந்துள்ளது. கோவிந்தம்பாளையத்தைச் சேர்ந்த ராமலிங்கம் என்பவரின் வீட்டின் பின்பக்கக் கதவை உடைத்து மர்ம நபர்கள் உள்ளே புகுந்தனர். வீட்டில் இருந்த 2 லட்சத்து 90 ஆயிரம் ரூபாய் ரொக்கம் கொள்ளையடிக்கப்பட்டது. 4 பவுன் தங்க நகைகளும், அரை கிலோ வெள்ளிப் பொருட்களும் திருடப்பட்டன. ராமலிங்கம் சென்னையில் பைனான்ஸ் தொழில் செய்து வருகிறார். கடந்த ஒரு வாரமாக வீட்டில் யாரும் இல்லாத நிலையில் இந்தக் கொள்ளை நடந்துள்ளது. பைக்கில் சுற்றித் திரிந்த மர்ம நபர்கள் சிசிடிவி காட்சிகளில் பதிவாகியுள்ளனர். அந்தக் காட்சிகளின் அடிப்படையில் போலீசார் விசாரணை மேற்கொண்டுள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கரூர் அருகே பூட்டிய வீட்டில் ₹2.9 லட்சம், 4 பவுன் நகை கொள்ளை\n\n📰 முழு விவரம்:\nகரூர் அருகே கோவிந்தம்பாளையத்தில் பூட்டிய வீட்டின் பின்பக்கக் கதவை உடைத்து கொள்ளை நடந்துள்ளது. வீட்டில் இருந்த 2 லட்சத்து 90 ஆயிரம் ரூபாய் ரொக்கம், 4 பவுன் தங்க நகைகள், அரை கிலோ வெள்ளிப் பொருட்கள் கொள்ளையடிக்கப்பட்டுள்ளன. வீட்டின் உரிமையாளர் ராமலிங்கம் சென்னையில் பைனான்ஸ் தொழில் செய்து வருகிறார்; கடந்த ஒரு வாரமாக வீட்டில் யாரும் இல்லை. பைக்கில் சுற்றித் திரிந்த மர்ம நபர்களின் சிசிடிவி காட்சிகள் அடிப்படையில் போலீசார் விசாரணை மேற்கொண்டுள்ளனர்.\n\n📍 இடம்: கோவிந்தம்பாளையம், கரூர் அருகே\n💰 கொள்ளை போனவை: ரொக்கம் ₹2,90,000, தங்க நகை 4 பவுன், வெள்ளிப் பொருட்கள் அரை கிலோ\n👮 நடவடிக்கை: சிசிடிவி காட்சிகள் அடிப்படையில் போலீசார் விசாரணை\n\nKarur house burglary, cash and gold stolen | Karur news\n📍 கோவிந்தம்பாளையம், கரூர் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A Tamil Nadu police constable in khaki uniform examines the back side of a locked, single-storey house in Govindampalayam near Karur city, as a two-wheeler and a parked car stand near the boundary wall. The house is a plain concrete building with a tiled sloped roof, a narrow back yard with a low compound wall and an iron gate, and the back door visibly pried open. Two plainclothes police personnel stand at a distance, seen from behind, while a lone neighbour in a shirt and veshti watches from a doorway. Daylight, slightly overcast. Camera at eye level, 35 mm, wide enough to show the house, the compound wall and the street beyond. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden back door of a residential house in Karur district, its lock and latch bent and splintered where it was forced open, with a small iron hook and tear marks on the frame. Beside the door on the concrete step lies a single two-wheeler helmet, and a pair of police in khaki boots stands out of focus at the edge of the frame. Plain painted wall, dusty concrete floor, daylight. Camera at eye level, 35 mm, shallow depth of field focused on the damaged lock. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.polimernews.com/districtnews/burglary-at-a-locked-house-near-karur-after-breaking-the-back-door-12822737",
+   "published": "2026-11-19T13:14:38+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 290000, 9",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062540/karur360/ak0hlbkzexes0pozmavv.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062544/karur360/nkgqksywpzndmlawhejj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் 29ஆம் தேதி இ.பி.எஸ்.க்கு வரவேற்பு: அ.தி.மு.க. ஆலோசனை",
-   "english_headline": "AIADMK Karur district meeting plans grand welcome for EPS on 29 Nov and by-poll work",
-   "category": "Government & Services",
-   "location": "Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசியல் கூட்டம்",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் 29ஆம் தேதி இ.பி.எஸ். வரவேற்பு",
-    "hl2": "இடைத்தேர்தல் பணி திட்டம்",
-    "slides": [
-     {
-      "title": "கூட்டம் எங்கே?",
-      "lines": [
-       "கரூர் மாவட்ட அ.தி.மு.க. நிர்வாகிகள் ஆலோசனை கூட்டம்",
-       "கட்சி அலுவலகத்தில் நடைபெற்றது",
-       "மாவட்ட அவைத்தலைவர் திருவிகா தலைமையில் நடந்தது"
-      ]
-     },
-     {
-      "title": "என்ன முடிவு?",
-      "lines": [
-       "<b>29ஆம் தேதி</b> கரூர் வரும் இ.பி.எஸ்.க்கு சிறப்பான வரவேற்பு",
-       "கரூர் சட்டசபை தொகுதி இடைத்தேர்தலில் வெற்றிக்கு களப்பணி",
-       "வாக்காளர் பட்டியல் திருத்த பணிகள் மேற்கொள்ளப்படும்"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்பு?",
-      "lines": [
-       "மாவட்ட செயலாளர் கமலகண்ணன் விளக்கம் அளித்தார்",
-       "மாநில எம்.ஜி.ஆர். மன்ற துணை செயலாளர் சிவசாமி பங்கேற்றார்",
-       "மருத்துவ அணி துணை செயலாளர் திவ்யா உள்பட பலர் பங்கேற்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் 29ஆம் தேதி இ பி எஸ் வருகைக்கு சிறப்பான வரவேற்பு அளிக்க அ தி மு க முடிவு செய்துள்ளது. கரூர் மாவட்ட அ தி மு க நிர்வாகிகள் ஆலோசனை கூட்டம் கட்சி அலுவலகத்தில் நடைபெற்றது. மாவட்ட அவைத்தலைவர் திருவிகா தலைமையில் இந்தக் கூட்டம் நடந்தது. அ தி மு க பொதுச்செயலாளர் இ பி எஸ் நவம்பர் 29ஆம் தேதி கரூர் வருகை தர உள்ளார். கரூர் சட்டசபை தொகுதி இடைத்தேர்தலில் வெற்றி பெற களப்பணி ஆற்றுவது குறித்தும் விவாதிக்கப்பட்டது. வாக்காளர் பட்டியல் திருத்தப் பணிகளை மேற்கொள்வது குறித்தும் மாவட்ட செயலாளர் கமலகண்ணன் விளக்கம் அளித்தார். மாநில எம் ஜி ஆர் மன்ற துணை செயலாளர் சிவசாமி, மருத்துவ அணி துணை செயலாளர் திவ்யா, இணை செயலாளர் மல்லிகா, துணை செயலாளர் முத்து, பகுதி செயலாளர் காமராஜ் உள்பட பலர் கூட்டத்தில் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ கரூரில் 29ஆம் தேதி இ.பி.எஸ்.க்கு வரவேற்பு: அ.தி.மு.க. ஆலோசனை\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட அ.தி.மு.க. நிர்வாகிகள் ஆலோசனை கூட்டம் மாவட்ட அவைத்தலைவர் திருவிகா தலைமையில் கட்சி அலுவலகத்தில் நடைபெற்றது.\nநவம்பர் 29ஆம் தேதி கரூர் வரும் அ.தி.மு.க. பொதுச்செயலாளர் இ.பி.எஸ்.க்கு சிறப்பான வரவேற்பு அளிக்கப்படும்.\nகரூர் சட்டசபை தொகுதி இடைத்தேர்தலில் வெற்றி பெற களப்பணி ஆற்றுவது குறித்தும், வாக்காளர் பட்டியல் திருத்தப் பணிகளை மேற்கொள்வது குறித்தும் மாவட்ட செயலாளர் கமலகண்ணன் விளக்கம் அளித்தார்.\nமாநில எம்.ஜி.ஆர். மன்ற துணை செயலாளர் சிவசாமி, மருத்துவ அணி துணை செயலாளர் திவ்யா, மாவட்ட இணை செயலாளர் மல்லிகா, துணை செயலாளர் முத்து, பகுதி செயலாளர் காமராஜ் உள்பட பலர் பங்கேற்றனர்.\n\n📍 இடம்: கரூர் கட்சி அலுவலகம்\n🗓️ நாள்: நவம்பர் 29 (இ.பி.எஸ். வருகை)\n\nBJP Karur AIADMK EPS visit 29 Nov | Karur news\n📍 கரூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "Inside a political party office hall in Karur city, Tamil Nadu, a group of AIADMK functionaries sits on plastic chairs around a long table covered with a white cloth during a district consultation meeting. A middle-aged man in a white shirt and veshti stands at the head of the table, speaking and gesturing toward a paper in his hand, while about a dozen men and women in shirts, sarees and salwar listen attentively from behind a few seated backs. Along the back wall hang a party flag in the characteristic two-leaf-themed style and a framed portrait area left blank, with ceiling fans and tube lights overhead. Afternoon daylight enters through a side window, and the room feels busy and purposeful. Shot at eye level from the rear corner of the room, 35 mm, wide enough to show the full table and the seated group, people seen from behind or in soft profile. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a stack of printed voter-list correction forms and a folded paper agenda lying on a wooden table in a Karur party office, beside a steel tumbler of water and a few loose pens. Behind them, a blurred row of plastic chairs and the sleeve of a white shirt of a seated party worker are visible at the edge of the frame. Soft daylight from a window falls across the papers, showing the stacked pages and a red party-coloured flag folded in the background, with no readable text. Shot at a slightly high angle, 35 mm, shallow depth of field to isolate the papers and table. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/aiadmk-office-bearers-meet/4380308",
-   "published": "2026-11-19T06:40:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062552/karur360/quz6ynf3lyr6km2ldic9.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062556/karur360/hqtqnv3erksb5dm5gbg6.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ.6.37 கோடியில் புதிய கட்டடம் திறப்பு",
-   "english_headline": "New ₹6.37 crore building at Pallapatti government hospital opened by CM via video link",
-   "category": "Health",
-   "location": "Pallapatti government hospital, Karur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மருத்துவமனை",
-    "loc": "பள்ளப்பட்டி",
-    "hl1": "பள்ளப்பட்டி மருத்துவமனையில் புதிய",
-    "hl2": "ரூ.6.37 கோடியில்",
-    "slides": [
-     {
-      "title": "என்ன திறப்பு?",
-      "lines": [
-       "பள்ளப்பட்டி அரசு மருத்துவமனையில் <b>ரூ.6.37 கோடி</b>",
-       "தமிழக முதல்வர் காணொலி காட்சி மூலம் திறந்து வைத்தார்",
-       "புதன்கிழமை திறப்பு விழா நடந்தது"
-      ]
-     },
-     {
-      "title": "சேவைகள்",
-      "lines": [
-       "தினமும் <b>15 பேருக்கு</b> சிறுநீரக ரத்த சுத்திகரிப்பு சேவை",
-       "மாதம் <b>15 முதல் 20</b> பிரசவ சேவைகள் வழங்கப்படுகின்றன",
-       "பழைய கட்டடங்கள் பழுதடைந்ததால் புதிய கட்டடம்"
-      ]
-     },
-     {
-      "title": "விழாவில்",
-      "lines": [
-       "மாவட்ட ஆட்சியர் ச. பிரசன்னா ராமசாமி குத்துவிளக்கேற்றினார்",
-       "அரவக்குறிச்சி எம்எல்ஏ மொஞ்சனூர் ஆர். இளங்கோ பங்கேற்றார்",
-       "பள்ளப்பட்டி நகர்மன்றத் தலைவர் உள்ளிட்டோர் பங்கேற்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பள்ளப்பட்டி அரசு மருத்துவமனைக்கு ரூ.6.37 கோடியில் புதிய கட்டடம் திறக்கப்பட்டுள்ளது. தமிழக முதல்வர் சி. ஜோசப் விஜய் சென்னையில் இருந்து காணொலி காட்சி மூலம் இந்தக் கட்டடத்தைப் புதன்கிழமை திறந்து வைத்தார். கரூர் மாவட்டம் பள்ளப்பட்டி அரசு மருத்துவமனையில் கூடுதலாக ரூ.6.37 கோடி மதிப்பில் கட்டடம் கட்டப்பட்டது. இதையடுத்து மாவட்ட ஆட்சியர் ச. பிரசன்னா ராமசாமி மருத்துவமனையில் குத்துவிளக்கேற்றினார். மருத்துவமனையில் தினமும் 15 பேருக்கு சிறுநீரக ரத்த சுத்திகரிப்பு சேவை வழங்கப்படுகிறது. மாதந்தோறும் 15 முதல் 20 பிரசவ சேவைகளும் வழங்கப்படுகின்றன. பழைய கட்டடங்கள் பழுதடைந்த நிலையில் பொதுமக்கள் நலன் கருதி புதிய நவீன மருத்துவ உபகரணங்களுடன் புதிய கட்டடம் கட்டப்பட்டது. அரவக்குறிச்சி சட்டப்பேரவை உறுப்பினர் மொஞ்சனூர் ஆர். இளங்கோ, பள்ளப்பட்டி நகர்மன்றத் தலைவர் முனவர் ஜான் உள்ளிட்டோர் நிகழ்ச்சியில் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏥 பள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ.6.37 கோடியில் புதிய கட்டடம் திறப்பு\n\n📰 முழு விவரம்:\nபள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ.6.37 கோடி மதிப்பில் கூடுதல் கட்டடம் கட்டப்பட்டது. தமிழக முதல்வர் சி. ஜோசப் விஜய் சென்னையில் இருந்து காணொலி காட்சி மூலம் புதன்கிழமை இதைத் திறந்து வைத்தார். அதைத் தொடர்ந்து மாவட்ட ஆட்சியர் ச. பிரசன்னா ராமசாமி மருத்துவமனையில் குத்துவிளக்கேற்றினார். தினமும் 15 பேருக்கு சிறுநீரக ரத்த சுத்திகரிப்பு சேவையும், மாதந்தோறும் 15 முதல் 20 பிரசவ சேவைகளும் வழங்கப்படுகின்றன. பழைய கட்டடங்கள் பழுதடைந்ததால் நவீன மருத்துவ உபகரணங்களுடன் புதிய கட்டடம் பொதுமக்கள் பயன்பாட்டுக்கு வந்துள்ளது.\n🏛️ நிகழ்ச்சியில் அரவக்குறிச்சி சட்டப்பேரவை உறுப்பினர் மொஞ்சனூர் ஆர். இளங்கோ, பள்ளப்பட்டி நகர்மன்றத் தலைவர் முனவர் ஜான், இணை இயக்குநர் (நலப்பணிகள்) சி. வடிவேல், மாவட்ட பிற்படுத்தப்பட்டோர் மற்றும் சிறுபான்மையினர் நல அலுவலர் மு. முகமது பைசல், பள்ளப்பட்டி நகராட்சி ஆணையர் அ. ஆனந்தகுமார், பள்ளப்பட்டி தலைமை மருத்துவ அலுவலர் ந. வித்யாவதி ஆகியோர் பங்கேற்றனர்.\n\nPallapatti hospital new building Rs 6.37 crore | Karur news\n📍 பள்ளப்பட்டி, கரூர் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A ceremonial lamp-lighting at the newly built block of Pallapatti government hospital in Karur district, where the District Collector stands before a large brass kuthuvilakku lit with flames, while a small group of officials in formal wear and sarees stand around the table in the hospital corridor. The setting is a clean, open government hospital ground floor in a small Tamil Nadu town, with pale-painted concrete walls, tiled floors and a new double-storey block with fresh windows visible behind. Several men in white shirts and trousers and women in cotton sarees stand in a loose semi-circle, seen from behind or in profile at a distance, while a large flat-screen TV on a stand shows a blurred video feed, suggesting the Chief Minister's virtual address. Attendees hold folded papers and wait quietly, and patients and attendants in simple clothes walk past in the far background. It is bright midday daylight coming through open doorways. Camera at eye level, 35 mm, wide enough to show the hospital corridor and the lamp. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a brass kuthuvilakku on a plain table inside the newly built block of Pallapatti government hospital, its five wicks burning with steady flames, with a bunch of marigold flowers and a few betel leaves placed beside the lamp. Behind it, slightly out of focus, a government office desk and a blurred row of hospital bed frames in a clean, bright ward indicate a new medical facility. The lamp's warm glow contrasts with the cool white walls and pale tiled floor. In the soft background, the sleeves and saree edges of officials in formal dress are partially visible, seen from behind. It is daytime, with natural light from a window. Camera at slightly high angle, 35 mm, shallow depth of field focusing on the lit kuthuvilakku. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/18/additional-building-at-pallapatti-government-hospital-constructed-at-a-cost-of-rs-6-crore-inaugurated-by-the-chief-minister-via-video-conference",
-   "published": "2026-11-18T22:17:20.382Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): பள்ளபட்டி ('பள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ.6.37 கோடி மதிப்பில் கட்ட')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062564/karur360/uq6m8hkgekfbv05j2iyx.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062568/karur360/itdxekkjf1dmqlpkgfy8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூர் ஆண்டிபாளையத்தில் புதர்மண்டிய பயணிகள் நிழற்கூடம்: பயணிகள் சாலையோரம் காத்திருப்பு",
-   "english_headline": "Antipalayam bus shelter on Karur-Trichy highway overgrown with bushes; passengers forced to wait by the road",
-   "category": "Civic Issues",
-   "location": "Antipalayam bus stop, Karur-Trichy highway, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பொதுமக்கள் குறை",
-    "loc": "ஆண்டிபாளையம், கரூர்",
-    "hl1": "ஆண்டிபாளையத்தில் புதர்மண்டிய நிழற்கூடம்",
-    "hl2": "பயணிகள் சாலையில்",
-    "slides": [
-     {
-      "title": "நிழற்கூடத்தின்",
-      "lines": [
-       "ஆண்டிபாளையம் பஸ் ஸ்டாப்பில் நிழற்கூடம் சேதம்",
-       "பராமரிப்பு இன்றி புதர்மண்டிக் கிடக்கிறது",
-       "2010-11ஆம் ஆண்டு கட்டப்பட்ட நிழற்கூடம்"
-      ]
-     },
-     {
-      "title": "மக்கள் சிரமம்",
-      "lines": [
-       "பயணிகள் நெடுஞ்சாலையோரம் நின்று பஸ்சுக்கு காத்திருப்பு",
-       "கனரக வாகனங்கள் வேகமாகச் செல்லும் சாலை",
-       "வெயில், மழையில் ஒதுங்க இடமில்லை"
-      ]
-     },
-     {
-      "title": "பொதுமக்கள்",
-      "lines": [
-       "நிழற்கூடத்தை சுற்றியுள்ள புதர்களை அகற்ற வேண்டும்",
-       "சேதமடைந்த கட்டமைப்பை சீரமைக்க வேண்டும்",
-       "உள்ளாட்சி அதிகாரிகள் உடனடியாகத் தலையிட வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் – திருச்சி நெடுஞ்சாலையில் ஆண்டிபாளையம் பஸ் ஸ்டாப்பில் உள்ள பயணிகள் நிழற்கூடம் புதர்மண்டிக் கிடக்கிறது. இந்த நிழற்கூடம் 2010-11ஆம் ஆண்டு கட்டப்பட்டது. ஆண்டிபாளையம் மற்றும் சுற்றுவட்டாரக் கிராம மக்கள், மாணவ, மாணவியர், வேலைக்குச் செல்வோர் இங்கு பயன்படுத்துகின்றனர். பல ஆண்டுகளாகப் பராமரிப்பு இல்லாததால் கட்டமைப்பு சேதமடைந்து வருகிறது. நிழற்கூடத்தைச் சுற்றி முட்செடிகளும் புதர்களும் அடர்ந்து வளர்ந்துள்ளன. இதனால் பயணிகள் நிழற்கூடத்தைப் பயன்படுத்த முடியாமல், நெடுஞ்சாலையோரம் நின்று பஸ்சுக்காகக் காத்திருக்கின்றனர். கனரக வாகனங்கள் வேகமாகச் செல்லும் சாலையோரம் நிற்பதால் விபத்து அபாயமும் உள்ளது. வெயில், மழைக் காலங்களில் ஒதுங்க இடமின்றி மக்கள் நனைய வேண்டிய நிலை உள்ளது. முதியவர்கள், பெண்கள், பள்ளி மாணவ, மாணவியர் மிகுந்த சிரமத்துக்கு ஆளாகின்றனர். நிழற்கூடத்தைச் சுற்றியுள்ள புதர்களை அகற்றி, சேதமடைந்த கட்டமைப்பைச் சீரமைக்க உள்ளாட்சி அதிகாரிகள் உடனடியாகத் தலையிட வேண்டும் என மக்கள் கோரியுள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 ஆண்டிபாளையம் பஸ் ஸ்டாப்பில் புதர்மண்டிய நிழற்கூடம்: பயணிகள் சாலையில் காத்திருப்பு\n\n📰 முழு விவரம்:\nகரூர் – திருச்சி நெடுஞ்சாலையில் ஆண்டிபாளையம் பஸ் ஸ்டாப்பில் அமைக்கப்பட்டுள்ள பயணிகள் நிழற்கூடம், போதிய பராமரிப்பின்றி சேதமடைந்து புதர்மண்டிக் கிடக்கிறது.\nஇந்த நிழற்கூடம் 2010-11ஆம் ஆண்டு கட்டப்பட்டது. சில ஆண்டுகளாகப் பராமரிப்பு இல்லாததால் கட்டமைப்பு சேதமடைந்து வருகிறது. நிழற்கூடத்தைச் சுற்றி முட்செடிகளும் புதர்களும் அடர்ந்து வளர்ந்துள்ளன.\nநிழற்கூடம் பயன்படாததால், பயணிகள் நெடுஞ்சாலையோரம் நின்று பஸ்சுக்காகக் காத்திருக்கின்றனர். வேகமாகச் செல்லும் கனரக வாகனங்களால் விபத்து அபாயமும் உள்ளது. வெயில், மழைக் காலங்களில் ஒதுங்க இடமின்றி மக்கள் நனைய வேண்டியுள்ளது.\n\n📍 இடம்: ஆண்டிபாளையம் பஸ் ஸ்டாப், கரூர் – திருச்சி நெடுஞ்சாலை, கரூர் மாவட்டம்\n🗓️ நாள்: 19 நவம்பர் 2026\nℹ️ மக்கள் கோரிக்கை: நிழற்கூடத்தைச் சுற்றியுள்ள புதர்களை அகற்றி, சேதமடைந்த கட்டமைப்பைச் சீரமைக்க உள்ளாட்சி அதிகாரிகள் உடனடியாகத் தலையிட வேண்டும்.\n\nAntipalayam bus shelter overgrown, Karur-Trichy highway | Karur news\n📍 ஆண்டிபாளையம், கரூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of commuters, including school students in uniform and an elderly woman with a bag, stands at the edge of a busy highway at the Antipalayam bus stop in Karur district, waiting for a bus beside the road because the passenger shelter behind them is overrun. The setting is a two-lane Karur-Trichy highway shoulder with a plain concrete bus stop structure, its walls cracked and its roof sagging, now almost hidden by dense thorny bushes, shrubs and tall weeds that spill onto the footpath. Behind the people, a blurred row of heavy lorries and a private bus rush past at speed, and a few two-wheelers pass on the carriageway. The people are seen from behind or in profile at a distance, standing on the dusty road shoulder with no cover from the sun. It is daylight under a bright open sky with dry roadside grass and a few trees in the background. Camera at eye level, 35 mm, wide enough to show the shelter, the bushes, the highway and the waiting crowd together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of the overgrown passenger shelter at the Antipalayam bus stop on the Karur-Trichy highway: thick thorny bushes and dense shrubs have grown up through and around the damaged concrete pillars and broken edge of the shelter, hiding its seating area and open front. Dry branches, spiky thorns and tangled weeds fill the gaps, and a cracked concrete slab shows where the structure has deteriorated. In the blurred foreground, the edge of the tarmac of the busy highway and a passing heavy vehicle's wheel suggest how close the road is. No people in focus, only a faint silhouette of a commuter standing far back by the road. Daylight, dry dusty atmosphere, slightly overcast light. Camera at a low angle, 50 mm, shallow depth of field to emphasise the bushes overtaking the shelter. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/passengers-waiting-on-the-pudarmanadi-andipalayam-silhouette-highway/4380309",
-   "published": "2026-11-19T06:40:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062591/karur360/ha7o7smnop6vgrcvd1mm.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062594/karur360/jhwcn1ldsfpeqfinancd.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் பட்டப்பகலில் இளைஞரை கடத்த முயன்ற கும்பல்: சிசிடிவியில் பரபரப்பு",
-   "english_headline": "Gang tries to kidnap youth riding with friend in broad daylight in Karur city; CCTV footage goes viral, police probe",
-   "category": "Crime & Safety",
-   "location": "Gandhigramam, Karur city, Karur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கடத்தல் முயற்சி",
-    "loc": "காந்திகிராமம், கரூர்",
-    "hl1": "கரூரில் பட்டப்பகலில் கடத்த முயற்சி",
-    "hl2": "சிசிடிவி காட்சி வெளியீடு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "தோழியுடன் பைக்கில் சென்ற இளைஞரை மர்ம கும்பல் தாக்கியது",
-       "சொகுசு காரில் இளைஞரை கடத்த முயற்சி",
-       "காந்திகிராமம் மைதானம் அருகே நடந்த சம்பவம்"
-      ]
-     },
-     {
-      "title": "புகார் & விசாரணை",
-      "lines": [
-       "பொதுமக்கள் தான்தோன்றிமலை காவல் நிலையத்தில் புகார்",
-       "போலீசார் இரு தரப்பையும் அழைத்து 2 மணி நேரத்திற்கு மேல்",
-       "கார் பதிவு எண் சரியாக அடையாளம் காண முடியவில்லை"
-      ]
-     },
-     {
-      "title": "இளைஞர் யார்?",
-      "lines": [
-       "கிருஷ்ணராயபுரத்தைச் சேர்ந்த 27 வயது விக்னேஷ்வரன்",
-       "சில நாட்களுக்கு முன் காரை கல் எறிந்து சேதப்படுத்தியதாக",
-       "கார் கண்ணாடி உடையவில்லை என கூறப்படுகிறது"
-      ]
-     },
-     {
-      "title": "மக்கள் கவனத்திற்கு",
-      "lines": [
-       "இரு தரப்பு தகவல்கள் முரண்பட்டுள்ளன",
-       "விசாரணை தொடர்கிறது",
-       "சிசிடிவி காட்சிகள் பரவி பரபரப்பை ஏற்படுத்தியுள்ளன"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் பட்டப்பகலில் ஒரு இளைஞரை மர்ம கும்பல் சொகுசு காரில் கடத்த முயன்றது. காந்திகிராமம் மைதானம் அருகே, கரூர் திருச்சி நெடுஞ்சாலையில் இந்தச் சம்பவம் நடந்தது. தோழியுடன் பைக்கில் சென்ற இளைஞரை, காரில் வந்த கும்பல் நிறுத்தி தாக்கியது. சட்டையைப் பிடித்து இழுத்து காரில் ஏற்ற முயன்றனர். இந்தக் காட்சிகளின் சிசிடிவி பதிவுகள் வெளியாகி பரபரப்பை ஏற்படுத்தியுள்ளன. பொதுமக்கள் அளித்த புகாரின் பேரில் தான்தோன்றிமலை காவல் நிலைய போலீசார் வந்தனர். இரு தரப்பையும் காவல் நிலையம் அழைத்துச் சென்று 2 மணி நேரத்திற்கு மேல் விசாரணை நடத்தினர். இளைஞர் கிருஷ்ணராயபுரத்தைச் சேர்ந்த 27 வயது விக்னேஷ்வரன். சில நாட்களுக்கு முன் தன் காரை கல் எறிந்து சேதப்படுத்தியதாக கும்பல் போலீசில் புகார் கூறியது. கார் கண்ணாடி எதுவும் உடையவில்லை என கூறப்படுகிறது. இரு தரப்பு தகவல்களும் முரண்பட்டுள்ளதால், காரின் பதிவு எண்ணும் சரியாக அடையாளம் காண முடியவில்லை. விசாரணை தொடர்கிறது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கரூரில் பட்டப்பகலில் இளைஞரை கடத்த முயன்ற கும்பல்: சிசிடிவியில் பரபரப்பு\n\n📰 முழு விவரம்:\nகரூர் - திருச்சி நெடுஞ்சாலையில் காந்திகிராமம் மைதானம் அருகே, தோழியுடன் பைக்கில் சென்ற இளைஞரை மர்ம கும்பல் தாக்கி சொகுசு காரில் கடத்த முயன்றது.\nஇது தொடர்பாக பொதுமக்கள் அளித்த புகாரின் பேரில் தான்தோன்றிமலை காவல் நிலைய போலீசார் இரு தரப்பையும் விசாரித்து வருகின்றனர்.\nகாரில் வந்தவர்கள் கல் எறிந்ததாக கூறியதற்கு, இளைஞர் தரப்பு மறுக்கிறது. இரு தரப்பு தகவல்களும் முரண்பட்டுள்ளன.\n\n📍 இடம்: காந்திகிராமம் மைதானம் அருகே, கரூர் - திருச்சி நெடுஞ்சாலை\n🗓️ நாள்: 19 நவம்பர் 2026\n👮 நடவடிக்கை: தான்தோன்றிமலை காவல் நிலையத்தில் இரு தரப்பிடமும் 2 மணி நேரத்திற்கு மேல் விசாரணை; கார் பதிவு எண் சரியாக அடையாளம் காண முடியவில்லை\n📞 தொடர்புக்கு: தான்தோன்றிமலை காவல் நிலையம்\nℹ️ மக்கள் கவனத்திற்கு: சிசிடிவி காட்சிகள் பரவி வருகின்றன; விசாரணை முடிவை எதிர்பாருங்கள்.\n\nKarur Gandhigramam car kidnap attempt CCTV | Karur news\n📍 காந்திகிராமம், கரூர் | 19 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Gandhigramam #KarurNews #கரூர்",
-   "prompts": "A busy daytime highway in Karur city on the Karur-Trichy road, with a two-wheeler carrying a young man and a woman stopped beside a luxury car on the roadside near a small police outpost booth. Seen from a distance at eye level, a young man in a shirt is being pulled by the shirt by two or three men in casual clothes standing beside a dark-coloured luxury car with its door open. Passers-by, a few two-wheelers, an autorickshaw and a town bus pass on the road. Behind them is the open ground of Gandhigramam with trees, and a police outpost booth stands at the roadside. The men are seen from behind or in profile, faces not clear. It is bright daylight, sunny, with clear skies. Camera at eye level, 35 mm, wide enough to show the highway, the car, the police booth and the open ground. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of the rear of a dark luxury car parked on the roadside, with its rear number plate deliberately blurred and unreadable, and a dented or scratched panel suggesting the stone-throwing allegation. Beside it on the tarmac lie a few scattered stones and a two-wheeler's side is visible at the edge of the frame. In the background, slightly out of focus, a police outpost booth in khaki-coloured setting and a passing town bus on the highway. Bright daylight, hard shadows on the road. Camera at low-to-eye level, 50 mm, shallow depth of field, the car and stones sharp and the background softened. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/karur/youth-was-tried-to-kidnapped-by-a-gang-in-karur-846485.html",
-   "published": "2026-11-19T09:20:31+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('காரில் கல் வீசியதற்காக தாக்குதல் நடத்தியதாக கூறும் தகவல் குற'); 27 ('காரில் வந்த மர்ம நபர்கள் வந்த காரின் பதிவு எண் சரியாக அடையாள'); 12 ('கள்ளக்குறிச்சியில் ஒரு சிறுமியின் வாயில் துணியை அடைத்து கடத்'); 12 ('அங்கிருந்து எப்படியோ தப்பிய சிறுமி, ஆட்டோ டிரைவர்களின் உதவி'); 25 ('அவர்களும் கடந்த 25 நாட்களுக்கு மேலாக அந்த கிராமத்தில் தங்கி ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062615/karur360/nc04uryi4fgj15qxicmg.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795062619/karur360/izslqrii9jqxys05gyol.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795078325/karur360/aupbzttuzkcjlr0k5djz.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795078333/karur360/qnpstncbpotg1caxxf5e.jpg"
    ]
   }
  ]
