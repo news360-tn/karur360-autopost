@@ -1,0 +1,28 @@
+{
+ "2026-11-20": {
+  "karur": {
+   "reach": 68396,
+   "reach_by_follow_type": {
+    "FOLLOWER": 2144,
+    "NON_FOLLOWER": 66905
+   },
+   "follower_cities": {
+    "Karur, Tamil Nadu": 338,
+    "Kulittalai, Tamil Nadu": 326,
+    "Coimbatore, Tamil Nadu": 172,
+    "Chennai, Tamil Nadu": 127,
+    "Tiruchirappalli, Tamil Nadu": 108,
+    "Madurai, Tamil Nadu": 72,
+    "Palladam, Tamil Nadu": 57,
+    "Kulithalai, Tamil Nadu": 46,
+    "Tirupur, Tamil Nadu": 43,
+    "Perundurai, Tamil Nadu": 32,
+    "Vedasandur, Tamil Nadu": 20,
+    "Namakkal, Tamil Nadu": 19,
+    "Musiri, Tamil Nadu": 18,
+    "Kulattur, Tamil Nadu": 17,
+    "Pallapatti, Tamil Nadu": 17
+   }
+  }
+ }
+}
