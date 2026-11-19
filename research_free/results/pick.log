@@ -1,44 +1,21 @@
-02:26:37 round 2026-11-19_02: news published 18 Nov 22:07 -> 19 Nov 02:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-02:26:37 insights 2026-11-19T02:26+05:30 (99 reels): topic weights {'temple': 0.79, 'accident': 0.28, 'education': -0.03, 'power_cut': 1.5, 'poultry_agri': 0.1, 'politics': -0.26, 'civic': -0.48, 'crime': 0.16, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-02:27:06 38 links on the two papers' Karur pages
-02:28:07 skipped: already posted=15, published before this window=8, not Karur district=6, same event already posted=5
-02:28:07 list: 3 new + 0 earlier news not posted yet
-02:28:07    1. [பொது] கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran (தினகரன்)
-02:28:07    2. [பொது] நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran (தினகரன்)
-02:28:07    3. [பொது] ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran (தினகரன்)
-02:28:07 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-19_02
-02:28:10 round 2026-11-19_02 (at least 2, up to 3 more of well-watched topics): 3 news to choose from (0 from earlier rounds), ranked by this page's insights
-02:28:10   PICK   1.   8.0 [other +0.00 pattern] கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-02:28:10   PICK   2.   3.4 [poultry_agri +0.10 page] நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran
-02:28:10          3.   3.0 [other +0.00 pattern] ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran
-02:28:10 decided: automatic: top 2 of 3 by insights -> 2 news to write and post
-PICK_URLS=https://www.dinakaran.com/district/karur_191126_2 https://www.dinakaran.com/district/karur_191126_3
-02:29:46 2 listed news now in the Sheet
-02:30:00 instagram duplicate check karur: 50 recent posts read
-02:30:00 verify 2026-11-19_02: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:30:00    NOT POSTED C0604f00: queued RN-113 (Queued) - நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran
-02:30:00    NOT POSTED C0f88802: queued RN-114 (Queued) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-02:35:08 instagram duplicate check karur: 50 recent posts read
-02:35:08 verify 2026-11-19_02: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:35:08    NOT POSTED C0604f00: queued RN-113 (Queued) - நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran
-02:35:08    NOT POSTED C0f88802: queued RN-114 (Queued) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-02:40:15 instagram duplicate check karur: 50 recent posts read
-02:40:15 verify 2026-11-19_02: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:40:15    NOT POSTED C0604f00: queued RN-113 (Queued) - நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran
-02:40:15    NOT POSTED C0f88802: queued RN-114 (Queued) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-02:45:23 instagram duplicate check karur: 50 recent posts read
-02:45:23 verify 2026-11-19_02: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:45:23    NOT POSTED C0f88802: queued RN-114 (Queued) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-02:50:33 instagram duplicate check karur: 50 recent posts read
-02:50:33 verify 2026-11-19_02: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:50:33    NOT POSTED C0f88802: queued RN-114 (Queued) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-02:55:40 instagram duplicate check karur: 50 recent posts read
-02:55:40 verify 2026-11-19_02: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:55:40    NOT POSTED C0f88802: queued RN-114 (Queued) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-03:00:48 instagram duplicate check karur: 50 recent posts read
-03:00:48 verify 2026-11-19_02: 1 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-03:00:48    NOT POSTED C0f88802: queued RN-114 (Queued) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
-03:05:57 instagram duplicate check karur: 50 recent posts read
-03:05:57 verify 2026-11-19_02: 1 of 2 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-03:05:57    SKIPPED C0f88802: skipped RN-114: already on Instagram (2026-11-18T21:35:49+0000) - கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran
+06:47:56 round 2026-11-19_06: news published 19 Nov 02:26 -> 19 Nov 06:47 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+06:47:56 insights 2026-11-19T06:47+05:30 (101 reels): topic weights {'temple': 0.02, 'accident': 0.29, 'education': -0.02, 'power_cut': 1.5, 'poultry_agri': 0.11, 'politics': -0.34, 'civic': -0.47, 'crime': 0.15, 'weather': 0.16}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+06:48:29 39 links on the two papers' Karur pages
+06:49:09 skipped: already posted=7, not Karur district=7, published before this window=5, same event already posted=3
+06:49:09 list: 13 new + 1 earlier news not posted yet
+06:49:09    1. [விபத்து] கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து (தினமலர்)
+06:49:09    2. [பொது] கழிவுநீரால் தொற்று அபாயம் (தினமலர்)
+06:49:09    3. [பொது] மாடு முட்டியதில் தொழிலாளி காயம் (தினமலர்)
+06:49:09    4. [பொது] சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள் (தினமலர்)
+06:49:09    5. [பொது] மா.கம்யூ., கட்சி ஆர்ப்பாட்டம் (தினமலர்)
+06:49:09    6. [கல்வி] ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா (தினமலர்)
+06:49:09    7. [பொது] தேர்தல் விழிப்புணர்வு போட்டி மாநில அளவில் 20 மாணவர் தேர்வு (தினமலர்)
+06:49:09    8. [பொது] ஓய்வூதியர்கள் மனித சங்கிலி போராட்டம் (தினமலர்)
+06:49:09    9. [சாலை] புதர்மண்டிய ஆண்டிபாளையம் நிழற்கூடம் நெடுஞ்சாலையில் காத்திருக்கும் பயணி (தினமலர்)
+06:49:09   10. [பொது] பள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ. 6 கோடி மதிப்பில் கூடுதல் கட்டடம்: (தினமணி)
+06:49:09   11. [பொது] மகள் மாயம்; தந்தை புகார் (தினமலர்)
+06:49:09   12. [பொது] அ.தி.மு.க., நிர்வாகிகள் ஆலோசனை கூட்டம் (தினமலர்)
+06:49:09   13. [பொது] வ.உ.சி., நினைவு நாள் (தினமலர்)
+06:49:09   14. [பொது] ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran (தினகரன்) (earlier)
+06:49:09 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-19_06
