@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-19T18:40:55.686188+05:30",
+ "last_end": "2026-11-19T22:10:58.084969+05:30",
  "pool": {
-  "Ce8c482c": {
-   "id": "Ce8c482c",
-   "url": "https://tamil.oneindia.com/news/karur/five-members-of-same-family-die-after-falling-into-well-in-karur-846425.html",
-   "title": "ஒரே குடும்பத்தை சேர்ந்த 5 பேர் உயிரிழப்பு.. கரூர் அருகே துயரச் சம்பவம்!",
-   "summary": "கரூர்: கரூர் மாவட்டம் வாங்கல் அருகே சின்ன காளிபாளையம் பகுதியில் ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் கிணற்றில் விழுந்து உயிரிழந்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தி உள்ளது.சின்ன காளிபாளையம் பகுதியைச் சேர்ந்த ராமசாமி (6...",
-   "source": "ஒன்இந்தியா",
-   "published": "2026-11-18T19:46:41+05:30",
-   "category": "விபத்து",
-   "score": 10.3,
-   "power_cut": false,
-   "listed_at": "2026-11-18T22:07:18.505586+05:30",
-   "picked_at": "2026-11-18T22:09:09.593138+05:30",
-   "refused": "not filed: duplicate after write"
-  },
   "C7cad38d": {
    "id": "C7cad38d",
    "url": "https://www.dinakaran.com/district/karur_191126_1",
@@ -68,61 +54,9 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-19T06:47:56.861053+05:30"
-  },
-  "C2f4e96b": {
-   "id": "C2f4e96b",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-news/rs-modern-machine-that-reduced-the-cost-of-6000-to-750-rs-karur-engineer-who-excels-in-natural-rice-cultivation/4380552",
-   "title": "ரூ.6,000 செலவை ரூ.750- ஆக குறைத்த நவீன இயந்திரம் இயற்கை நெல் சாகுபடியில் அசத்தும் கரூர் பொறியாளர்",
-   "summary": "கரூர்: கரூரில், நவீன இயந்திரம் உதவியுடன் குறைந்த செலவில் இயற்கை நெல் சாகுபடியில், கட்டட பொறியாளர் ஈடுபட்டு வருவது, சக விவசாயிகளிடையே வரவேற்பை பெற்றுள்ளது.",
-   "source": "தினமலர்",
-   "published": "2026-11-19T17:52:36+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-19T18:40:55.686188+05:30",
-   "picked_at": "2026-11-19T18:43:33.526799+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-15_21": {
-   "window": [
-    "2026-11-15T17:32:24.105940+05:30",
-    "2026-11-15T21:31:36.572319+05:30"
-   ],
-   "ids": [
-    "C99f5e72",
-    "C0b4fbc7",
-    "Cb7f0e1a",
-    "C33baa63",
-    "C59c8f20",
-    "Cda18b9e",
-    "C036661c",
-    "Cf2edb7c",
-    "Cfc1f4e2"
-   ],
-   "sent": false,
-   "deadline": "2026-11-15T22:31:36.572319+05:30",
-   "decided": {
-    "how": "automatic: top 4 of 8 by insights",
-    "ids": [
-     "C99f5e72",
-     "C0b4fbc7",
-     "C33baa63",
-     "Cb7f0e1a"
-    ],
-    "at": "2026-11-15T21:35:05.224094+05:30"
-   },
-   "written": [
-    "C0b4fbc7",
-    "C33baa63",
-    "C99f5e72",
-    "Cb7f0e1a"
-   ],
-   "refused": {
-    "C99f5e72": "not filed: not Karur district news (the story's first lines name another place and no Karur place)"
-   }
-  },
   "2026-11-16_04": {
    "window": [
     "2026-11-15T21:31:36.572319+05:30",
@@ -774,6 +708,19 @@
    "written": [
     "C2f4e96b"
    ]
+  },
+  "2026-11-19_22": {
+   "window": [
+    "2026-11-19T18:40:55.686188+05:30",
+    "2026-11-19T22:10:58.084969+05:30"
+   ],
+   "ids": [
+    "Cb2938e7"
+   ],
+   "sent": false,
+   "deadline": "2026-11-19T23:10:58.084969+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
