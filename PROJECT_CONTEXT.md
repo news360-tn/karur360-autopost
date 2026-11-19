@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `c445483` | 19 Nov owner changes: reel length / wording, source first comment, 360 gold reel, posting windows, rasipalan before 9 AM |
+| 2026-11-19 | `f4540e6` | powercut: notices written |
+| 2026-11-19 | `8bec0d6` | powercut: notices written |
+| 2026-11-19 | `2882571` | pick: written and posted |
+| 2026-11-19 | `ed936fa` | pick: picked news saved |
+| 2026-11-19 | `239d8c2` | pick: list sent |
+| 2026-11-19 | `0f4fe2b` | pick: written and posted |
+| 2026-11-19 | `756704c` | pick: picked news saved |
+| 2026-11-19 | `12a979b` | pick: picked news saved |
+| 2026-11-19 | `84e7059` | pick: list sent |
 | 2026-11-19 | `629f22d` | rasipalan + goldrate: publish again when Instagram says 'media not ready' (9007, nothing posted - Erode 19 Nov); Cloudinary upload tried 3 times with its reason in the log (Rasipuram rasipalan posted 18:43 on 18 Nov after 3 refusals) |
 | 2026-11-19 | `99ade31` | PROJECT_CONTEXT.md: wording ('<district>-district news') |
 | 2026-11-19 | `7711408` | PROJECT_CONTEXT.md: page names with a space (Salem 360 style), not an underscore |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `11eb7ef` | pick: picked news saved |
 | 2026-11-19 | `f5b2dce` | pick: list sent |
 | 2026-11-19 | `a45bbec` | goldrate posted |
-| 2026-11-19 | `e943978` | pick: written and posted |
-| 2026-11-19 | `104846f` | pick: picked news saved |
-| 2026-11-19 | `4e9b6f7` | pick: picked news saved |
-| 2026-11-19 | `c5d42bd` | pick: list sent |
-| 2026-11-19 | `5e12aac` | pick: written and posted |
-| 2026-11-19 | `d750284` | rasipalan posted |
-| 2026-11-19 | `8f16ff8` | pick: picked news saved |
-| 2026-11-19 | `46f6bb6` | pick: picked news saved |
-| 2026-11-19 | `2c14a48` | pick: list sent |
-| 2026-11-18 | `cd88363` | pick: written and posted |
 <!-- recent-changes:end -->
