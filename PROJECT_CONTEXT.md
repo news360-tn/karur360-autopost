@@ -81,34 +81,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `7a1afbd` | Gold & silver rate also as a reel, posted after the carousel (never twice; a reel problem never touches the carousel) |
+| 2026-11-19 | `028e30c` | powercut: notices written |
+| 2026-11-19 | `0cc8668` | pick: written and posted |
+| 2026-11-19 | `06a72bf` | pick: picked news saved |
+| 2026-11-19 | `11eb7ef` | pick: picked news saved |
+| 2026-11-19 | `f5b2dce` | pick: list sent |
+| 2026-11-19 | `a45bbec` | goldrate posted |
+| 2026-11-19 | `e943978` | pick: written and posted |
+| 2026-11-19 | `104846f` | pick: picked news saved |
+| 2026-11-19 | `4e9b6f7` | pick: picked news saved |
+| 2026-11-19 | `c5d42bd` | pick: list sent |
+| 2026-11-19 | `5e12aac` | pick: written and posted |
+| 2026-11-19 | `d750284` | rasipalan posted |
+| 2026-11-19 | `8f16ff8` | pick: picked news saved |
+| 2026-11-19 | `46f6bb6` | pick: picked news saved |
+| 2026-11-19 | `2c14a48` | pick: list sent |
+| 2026-11-18 | `cd88363` | pick: written and posted |
+| 2026-11-18 | `219b148` | pick: picked news saved |
+| 2026-11-18 | `8490593` | pick: picked news saved |
+| 2026-11-18 | `714cb6c` | pick: list sent |
+| 2026-11-18 | `bb8b11e` | powercut: notices written |
+| 2026-11-18 | `d75fb8e` | powercut: notices written |
+| 2026-11-18 | `f7ab237` | pick: written and posted |
+| 2026-11-18 | `8b08842` | pick: picked news saved |
 | 2026-11-18 | `2962f20` | pick: picked news saved |
 | 2026-11-18 | `fb1996b` | pick: list sent |
 | 2026-11-18 | `c7eb326` | schedule: rasipalan 6:40 AM, gold 9:40 AM (MJDTA 9:30), afternoon gold change post after MJDTA's 3:30 PM rate, watchdog in the posting job starts them (and an overdue news round) when GitHub skips the schedule |
 | 2026-11-18 | `df95782` | pick: written and posted |
 | 2026-11-18 | `662cbb2` | pick: picked news saved |
 | 2026-11-18 | `c1225cd` | pick: picked news saved |
-| 2026-11-18 | `875c562` | pick: list sent |
-| 2026-11-18 | `d1a2b3d` | goldrate posted |
-| 2026-11-18 | `99df705` | powercut: notices written |
-| 2026-11-18 | `cc61286` | powercut: notices written |
-| 2026-11-18 | `654de0a` | rasipalan posted |
-| 2026-11-18 | `9908a96` | pick: written and posted |
-| 2026-11-18 | `3051e36` | pick: picked news saved |
-| 2026-11-18 | `b7d06b5` | pick: picked news saved |
-| 2026-11-18 | `1cf79ca` | pick: list sent |
-| 2026-11-18 | `0ec0497` | pick: written and posted |
-| 2026-11-18 | `d6f9780` | pick: picked news saved |
-| 2026-11-18 | `40db223` | pick: picked news saved |
-| 2026-11-18 | `7bf280f` | pick: list sent |
-| 2026-11-17 | `3de61c9` | powercut: notices written |
-| 2026-11-17 | `626d369` | powercut: notices written |
-| 2026-11-17 | `06b4426` | pick: written and posted |
-| 2026-11-17 | `8d0c8ec` | pick: picked news saved |
-| 2026-11-17 | `f687d66` | pick: picked news saved |
-| 2026-11-17 | `9f1cd39` | pick: list sent |
-| 2026-11-17 | `f746c1d` | pick: written and posted |
-| 2026-11-17 | `0fd237b` | pick: picked news saved |
-| 2026-11-17 | `2595b69` | pick: picked news saved |
-| 2026-11-17 | `c2492b5` | pick: list sent |
-| 2026-11-17 | `2ae4443` | pictures: NVIDIA FLUX no longer accepts 'seed' (422) - dropped so the free NVIDIA pictures work again |
 <!-- recent-changes:end -->
