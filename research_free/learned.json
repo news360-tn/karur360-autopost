@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-19T06:47+05:30",
+ "updated": "2026-11-19T07:30+05:30",
  "posts_measured": 101,
  "topic_weight": {
   "temple": 0.02,
-  "accident": 0.29,
-  "education": -0.02,
+  "accident": 0.28,
+  "education": -0.03,
   "power_cut": 1.5,
-  "poultry_agri": 0.11,
-  "politics": -0.34,
-  "civic": -0.47,
-  "crime": 0.15,
-  "weather": 0.16
+  "poultry_agri": 0.1,
+  "politics": -0.22,
+  "civic": -0.48,
+  "crime": 0.14,
+  "weather": 0.15
  },
  "topic_n": {
   "temple": 15,
@@ -37,7 +37,7 @@
   "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது",
   "🚨 குளித்தலை அருகே 3 பேர் மாயம்: போலீசார் விசாரணை"
  ],
- "avg_watch_s": 7.0,
+ "avg_watch_s": 7.1,
  "best_topics": [
   "power_cut",
   "accident",
