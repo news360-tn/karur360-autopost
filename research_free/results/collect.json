@@ -3,113 +3,566 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/rs-modern-machine-that-reduced-the-cost-of-6000-to-750-rs-karur-engineer-who-excels-in-natural-rice-cultivation/4380552",
-  "candidate filter: collected=1",
-  "to write: 1 Karur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/rs-modern-mac",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "addStories failed: Expecting value: line 1 column 1 (char 0)",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 70 min",
-  "filed: 1 Karur district stories (target 1), reels only",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/19/நிதிநிறுவன-அதிபா்-வீட்டில்-பணம்-நகைகள்-திருட்டு",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cockfighting-arrested-4-escapees/4381181",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-plant-charged-with-damage-to-crops-by-sewage/4381194",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/240-kg-hans-smuggled-in-luxury-car-seized/4381183",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mentally-challenged-woman-rescued/4381199",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/inspector-in-charge/4381198",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/national-accept-the-integrity-day-pledge/4381192",
+  "candidate filter: collected=7",
+  "to write: 7 Karur district candidates (max 7 stories)",
+  "round: top 7 of 7 candidates",
+  "candidates waiting: 7 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
+  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 76 min",
+  "filed: 7 Karur district stories (target 7), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (30s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3-flash-preview (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/openai/gpt-oss-120b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ரூ.750-க்கு நெல் சாகுபடி: கரூர் பொறியாளரின் இயற்கை முறை",
-   "english_headline": "Karur engineer grows paddy naturally with machine-sowing, cutting cost from Rs 6,000 to Rs 750 per acre",
-   "category": "Weather & Agriculture",
-   "location": "Sukkaliyur, Karur district",
+   "tamil_headline": "குளித்தலையில் சாலையில் சுற்றித்திரிந்த மனநலம் பாதித்த பெண் மீட்பு: காப்பகத்தில் ஒப்படைப்பு",
+   "english_headline": "Mentally challenged woman rescued in Kulithalai and sent to health shelter",
+   "category": "Health",
+   "location": "Kulithalai town, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "சுக்காலியூர், கரூர்",
-    "hl1": "சுக்காலியூர்: ரூ.6,000 செலவு ரூ.750 ஆனது",
-    "hl2": "இயற்கை நெல் சாகுபடியில்",
+    "cat": "பெண் மீட்பு",
+    "loc": "குளித்தலை",
+    "hl1": "குளித்தலையில் மனநலம் பாதித்த பெண் மீட்பு",
+    "hl2": "காப்பகத்தில் ஒப்படைப்பு",
     "slides": [
      {
-      "title": "யார் இவர்?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "சுக்காலியூரைச் சேர்ந்த கட்டட பொறியாளர் சிவக்குமார்",
-       "5 ஆண்டுக்கும் மேலாக இயற்கை நெல் சாகுபடி செய்கிறார்",
-       "இந்த ஆண்டு <b>3 ஏக்கரில்</b> நேரடி விதைப்பு செய்துள்ளார்"
+       "குளித்தலையில் சுற்றித்திரிந்த பெண் மீட்பு",
+       "சுமார் <b>40 வயது</b> மதிக்கத்தக்க பெண்",
+       "மருத்துவமனை, சுங்ககேட் பகுதியில் திரிந்தார்"
       ]
      },
      {
-      "title": "ஏன் இந்த முறை?",
+      "title": "இடையூறு",
       "lines": [
-       "அமராவதி அணை நீர்மட்டம் குறைந்து பாசனத்துக்குத் தண்ணீர்",
-       "விவசாயிகள் கிணறு, ஆழ்துளை கிணற்று பாசனத்தை நம்பியுள்ளனர்",
-       "ஆட்கள் பற்றாக்குறையும் நிலவுகிறது"
+       "கடம்பன் துறை பகுதியிலும் உலாவினார்",
+       "பொதுமக்கள், போக்குவரத்துக்கு இடையூறு ஏற்பட்டது",
+       "உரிமைகள் திட்ட அலுவலர் போலீசில் புகார்"
       ]
      },
      {
-      "title": "செலவு குறைந்தது",
+      "title": "மீட்பு நடவடிக்கை",
       "lines": [
-       "நடவுக்கு ஏக்கருக்கு <b>6,000 ரூபாய்</b> வரை கூலி ஆகும்",
-       "நேரடி விதைப்பில் ஏக்கருக்கு <b>750 ரூபாய்</b> மட்டுமே",
-       "விதை நெல் <b>30 கிலோ</b>-விலிருந்து <b>10 கிலோ</b>வாகக் குறைந்தது"
-      ]
-     },
-     {
-      "title": "இயற்கை முறை",
-      "lines": [
-       "ரசாயன உரம், பூச்சிக்கொல்லி பயன்படுத்தவில்லை",
-       "அமிர்த கரைசல், பஞ்சகவ்யா, மீன் அமிலம் பயன்படுத்துகிறார்",
-       "சக விவசாயிகளிடையே நல்ல வரவேற்பு கிடைத்துள்ளது"
+       "தலைமை மருத்துவ அலுவலர் சுதர்சனா நடவடிக்கை",
+       "மாவட்ட மனநல மையம் மூலம் உதவி",
+       "<b>சாந்திவனம்</b> காப்பகத்தில் ஒப்படைக்கப்பட்டார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் ஒரு பொறியாளர் நெல் சாகுபடி செலவை ஏக்கருக்கு 6,000 ரூபாயிலிருந்து 750 ரூபாயாகக் குறைத்துள்ளார். சுக்காலியூரைச் சேர்ந்த கட்டட பொறியாளர் சிவக்குமார் 5 ஆண்டுக்கும் மேலாக இயற்கை நெல் சாகுபடியில் ஈடுபட்டு வருகிறார். இந்த ஆண்டு 3 ஏக்கர் நிலத்தில் பூங்கார், மைசூர் மல்லி, சிவன் சம்பா ஆகிய மூன்று பாரம்பரிய நெல் ரகங்களை நவீன இயந்திரம் உதவியுடன் நேரடி விதைப்பு செய்துள்ளார். கரூர் மாவட்டத்தில் கிருஷ்ணராயபுரம், அரவக்குறிச்சி, க.பரமத்தி, தான்தோன்றிமலை ஆகிய வட்டாரங்களில் சம்பா பருவத்தில் 1,300 ஏக்கர் பரப்பளவில் நெல் சாகுபடி நடைபெறுவது வழக்கம். இந்தப் பகுதி விவசாயம் அமராவதி அணை நீரையே பெரிதும் நம்பியுள்ளது. இந்த ஆண்டு தென்மேற்கு பருவமழை போதிய அளவு பெய்யாததால் அணை நீர்மட்டம் குறைந்து பாசனத்துக்குத் தண்ணீர் திறக்க முடியாத நிலை ஏற்பட்டுள்ளது. இதனால் விவசாயிகள் கிணறு, ஆழ்துளை கிணற்று பாசனத்தை நம்பி சாகுபடியைத் தொடங்கியுள்ளனர். வழக்கமான நடவு முறையில் ஏக்கருக்கு 10-க்கும் மேற்பட்ட தொழிலாளர்கள் தேவை. கூலியாக மட்டும் 6,000 ரூபாய் வரை ஆகும். நேரடி விதைப்பில் ஏக்கருக்கு 750 ரூபாய் மட்டுமே செலவாகிறது. சாதாரண நடவுக்கு ஏக்கருக்கு 30 கிலோ விதை நெல் தேவை; இயந்திர விதைப்புக்கு 10 கிலோ போதுமானது. ரசாயன உரங்களையும் பூச்சிக்கொல்லிகளையும் தவிர்த்து, அமிர்த கரைசல், பஞ்சகவ்யா, மீன் அமிலம், இயற்கை பூச்சி விரட்டிகளை மட்டுமே பயன்படுத்துகிறார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 ரூ.6,000 செலவை ரூ.750 ஆக குறைத்த கரூர் பொறியாளரின் இயற்கை நெல் சாகுபடி\n\n📰 முழு விவரம்:\nகரூரில் சுக்காலியூரைச் சேர்ந்த கட்டட பொறியாளர் சிவக்குமார், நவீன இயந்திரம் உதவியுடன் குறைந்த செலவில் இயற்கை நெல் சாகுபடி செய்து வருகிறார். 5 ஆண்டுக்கும் மேலாக இதில் ஈடுபடும் அவர், இந்த ஆண்டு 3 ஏக்கரில் பூங்கார், மைசூர் மல்லி, சிவன் சம்பா ஆகிய மூன்று பாரம்பரிய நெல் ரகங்களை நேரடி விதைப்பு செய்துள்ளார்.\n🌧️ கரூர் மாவட்டத்தில் கிருஷ்ணராயபுரம், அரவக்குறிச்சி, க.பரமத்தி, தான்தோன்றிமலை ஆகிய வட்டாரங்களில் சம்பா பருவத்தில் 1,300 ஏக்கர் பரப்பில் நெல் சாகுபடி நடைபெறுவது வழக்கம். தென்மேற்கு பருவமழை போதிய அளவு பெய்யாததால் அமராவதி அணையின் நீர்மட்டம் குறைந்து, பாசனத்துக்குத் தண்ணீர் திறக்க முடியவில்லை. இதனால் விவசாயிகள் கிணறு, ஆழ்துளை கிணற்று பாசனத்தை நம்பி சாகுபடியைத் தொடங்கியுள்ளனர்.\n💰 வழக்கமான நடவுக்கு ஏக்கருக்கு 10-க்கும் மேற்பட்ட தொழிலாளர்கள் தேவை; கூலி மட்டும் 6,000 ரூபாய் வரை ஆகும். நேரடி விதைப்பில் ஏக்கருக்கு 750 ரூபாய் மட்டுமே செலவாகிறது.\n🌱 சாதாரண நடவுக்கு ஏக்கருக்கு 30 கிலோ விதை நெல் தேவை; இயந்திர விதைப்புக்கு 10 கிலோ போதுமானது.\n🍃 ரசாயன உரம், பூச்சிக்கொல்லி தவிர்த்து அமிர்த கரைசல், பஞ்சகவ்யா, மீன் அமிலம், இயற்கை பூச்சி விரட்டிகளை மட்டுமே பயன்படுத்துகிறார்.\nதண்ணீர், ஆட்கள் பற்றாக்குறை நிலவும் இந்தக் காலத்தில் இந்த முறை சக விவசாயிகளிடையே வரவேற்பையும் ஆர்வத்தையும் ஏற்படுத்தியுள்ளது.\n\nKarur engineer natural paddy cultivation cost Rs 750 | Karur news\n📍 சுக்காலியூர், கரூர் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #விவசாயம் #கரூர்",
-   "prompts": "A civil engineer operates a modern paddy‑sowing machine that directly plants seed rows across a freshly prepared 3‑acre field. The scene is set in a typical Karur countryside paddy field at Sukkaliyur, low‑lying, with the Amaravathi‑fed irrigation channels visible in the distance and the soil a light brown under the dry sky. From behind, the engineer in a khaki shirt and trousers walks alongside the machine; a few labourers in simple shirts stand a short distance away, watching the equipment move. The modern sowing machine – a tractor‑mounted unit with a large seed hopper – is the focal object, its metal body contrasting with the earth tones. Daylight illuminates the field; the weather is clear but dry, indicating the shortfall of southwest monsoon rain. Shot at eye level with a 35 mm lens, the frame is wide enough to capture the field’s expanse and the machine in action. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of the modern paddy‑sowing machine’s seed hopper, open to reveal a compact pile of seed bags labelled for the three traditional varieties – Bungkar, Mysore Malli and Sivan Semba. The hopper holds only about one‑third the amount of seed that would be spread by manual broadcasting, visually confirming the reduced seed requirement (≈10 kg per acre). The metal surface of the hopper is slightly rust‑stained, and the surrounding field shows neat furrows already cut by the machine. Sunlight glints off the metal, and a faint dust plume rises from the soil. The background shows the green‑ish edges of the paddy field, confirming the location. The shot is taken slightly high, eye‑level focus, using a 35 mm lens to isolate the machine’s detail while still hinting at the surrounding field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/rs-modern-machine-that-reduced-the-cost-of-6000-to-750-rs-karur-engineer-who-excels-in-natural-rice-cultivation/4380552",
-   "published": "2026-11-19T17:52:36+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "reel_script": "குளித்தலையில் சாலையில் சுற்றித்திரிந்த மனநலம் பாதித்த பெண் மீட்கப்பட்டார். குளித்தலை அரசு மாவட்ட தலைமை மருத்துவமனை முன்புறம், சுங்ககேட் மற்றும் கடம்பன் துறை பகுதிகளில் சுமார் 40 வயது மதிக்கத்தக்க பெண் ஒருவர் சுற்றித்திரிந்தார். இதனால் பொதுமக்கள் மற்றும் போக்குவரத்துக்கு இடையூறு ஏற்பட்டது. இதுகுறித்து தமிழ்நாடு உரிமைகள் திட்ட அலுவலர் குளித்தலை காவல் நிலையத்தில் புகார் அளித்தார். இதையடுத்து தலைமை மருத்துவ அலுவலர் சுதர்சனா தலைமையில், மாவட்ட மனநல மையம் மூலம் அந்தப் பெண் மீட்கப்பட்டார். மேல் சிகிச்சைக்காக சாந்திவனம் மனநல காப்பகத்தில் அவர் ஒப்படைக்கப்பட்டார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குளித்தலையில் மனநலம் பாதித்த பெண் மீட்பு - காப்பகத்தில் ஒப்படைப்பு\n\n📰 முழு விவரம்:\nகுளித்தலை அரசு மாவட்ட தலைமை மருத்துவமனை முன்புறம், சுங்ககேட் மற்றும் கடம்பன் துறை பகுதிகளில் சுமார் 40 வயது மதிக்கத்தக்க மனநலம் பாதிக்கப்பட்ட பெண் ஒருவர் சுற்றித்திரிந்து பொதுமக்கள் மற்றும் போக்குவரத்துக்கு இடையூறு செய்து வந்தார்.\nதமிழ்நாடு உரிமைகள் திட்ட அலுவலர் குளித்தலை காவல் நிலையத்தில் புகார் அளித்தார். அதைத் தொடர்ந்து தலைமை மருத்துவ அலுவலர் சுதர்சனா, குளித்தலை அரசு மருத்துவமனை மற்றும் மாவட்ட மனநல மையம் இணைந்து அந்தப் பெண்ணை மீட்டனர். மேல் சிகிச்சைக்காக அவர் சாந்திவனம் மனநல காப்பகத்தில் ஒப்படைக்கப்பட்டார்.\n\n📍 இடம்: குளித்தலை, கரூர் மாவட்டம்\n🏥 காப்பகம்: சாந்திவனம் மனநல காப்பகம்\n👮 நடவடிக்கை: காவல் துறை மற்றும் மருத்துவத் துறை நடவடிக்கை\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nMentally ill woman rescued in Kulithalai town | Karur news\n📍 குளித்தலை, கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "Health workers in white coats and a police officer in khaki assist a woman in a faded saree near the entrance of the Kulithalai Government District Headquarters Hospital. The hospital building features typical government architecture with wide corridors and a busy entrance area. A white ambulance is parked nearby with its rear doors open. Several onlookers in shirts and veshtis stand at a distance, watching the process from behind. The scene is captured in bright daylight at eye level with a 35mm lens, showing the activity at the hospital gate. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of the Sungagate junction in Kulithalai where the woman was previously wandering. The street is lined with small local shops and a few trees. A yellow autorickshaw and several two-wheelers are parked or moving along the road. Pedestrians, including men in shirts and women in sarees, walk along the dusty roadside. The Pasupatheeswarar temple gopuram is visible in the far distance under a clear sky. The camera is positioned at a slightly high angle to capture the layout of the town area during the day. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mentally-challenged-woman-rescued/4381199",
+   "published": "2026-11-20T04:05:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129389/karur360/w4taya2wvmctrqpqtegg.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129395/karur360/fskozcgf6re5sgo3pf6k.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குளித்தலை போலீஸ் ஸ்டேஷனுக்கு புதிய இன்ஸ்பெக்டர் பொறுப்பேற்பு",
+   "english_headline": "New inspector takes charge at Kulithalai police station; Kalaiyarasi transferred from Kallakurichi district, Guniyamathi moved to Ariyalur cyber crime",
+   "category": "Government & Services",
+   "location": "Kulithalai police station, Kulithalai, Karur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் பணியிட மாற்றம்",
+    "loc": "குளித்தலை",
+    "hl1": "குளித்தலை போலீஸ் ஸ்டேஷனுக்கு புதிய",
+    "hl2": "இன்ஸ்பெக்டர் கலையரசி",
+    "slides": [
+     {
+      "title": "புதிய இன்ஸ்பெக்டர்",
+      "lines": [
+       "குளித்தலை போலீஸ் ஸ்டேஷனில் இன்ஸ்பெக்டர் கலையரசி நேற்று",
+       "இவர் கள்ளக்குறிச்சி மாவட்டம் வரஞ்ஜரம் ஸ்டேஷனில் இருந்து",
+       "குளித்தலை ஸ்டேஷன் பொறுப்பை ஏற்றுக்கொண்டார்"
+      ]
+     },
+     {
+      "title": "முந்தைய",
+      "lines": [
+       "இங்கு இன்ஸ்பெக்டராக இருந்த குணமதி பணியிட மாற்றம்",
+       "குணமதி அரியலூர் மாவட்ட சைபர் கிரைம் இன்ஸ்பெக்டராக",
+       "இருவரின் பணியிட மாற்றமும் அரசு உத்தரவின்படி நடந்தது"
+      ]
+     },
+     {
+      "title": "மக்களுக்கு",
+      "lines": [
+       "குளித்தலை போலீஸ் ஸ்டேஷனில் புதிய இன்ஸ்பெக்டர் பணியில்",
+       "அவசர உதவிக்கு வழக்கம்போல் ஸ்டேஷனை தொடர்பு கொள்ளலாம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குளித்தலை போலீஸ் ஸ்டேஷனுக்கு புதிய இன்ஸ்பெக்டர் வந்துள்ளார். இன்ஸ்பெக்டர் கலையரசி நேற்று பொறுப்பேற்றுக் கொண்டார். இவர் கள்ளக்குறிச்சி மாவட்டம் வரஞ்ஜரம் ஸ்டேஷனில் இருந்து பணியிட மாற்றம் செய்யப்பட்டு வந்துள்ளார். இங்கு இன்ஸ்பெக்டராக இருந்த குணமதி அரியலூர் மாவட்ட சைபர் கிரைம் இன்ஸ்பெக்டராக பணியிட மாற்றம் செய்யப்பட்டுள்ளார். இந்த மாற்றங்கள் அரசு உத்தரவின்படி நடந்துள்ளன. குளித்தலை போலீஸ் ஸ்டேஷனில் புதிய இன்ஸ்பெக்டர் பணியில் உள்ளார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "👮 குளித்தலை போலீஸ் ஸ்டேஷனுக்கு புதிய இன்ஸ்பெக்டர் கலையரசி பொறுப்பேற்பு\n\n📰 முழு விவரம்:\nகுளித்தலை போலீஸ் ஸ்டேஷனில் இன்ஸ்பெக்டர் கலையரசி நேற்று பொறுப்பேற்றுக் கொண்டார். இவர் கள்ளக்குறிச்சி மாவட்டம் வரஞ்ஜரம் ஸ்டேஷன் இன்ஸ்பெக்டராக இருந்து பணியிட மாற்றம் செய்யப்பட்டார். இங்கு இன்ஸ்பெக்டராக இருந்த குணமதி அரியலூர் மாவட்ட சைபர் கிரைம் இன்ஸ்பெக்டராக பணியிட மாற்றம் செய்யப்பட்டார்.\n\n📍 இடம்: குளித்தலை போலீஸ் ஸ்டேஷன், கரூர் மாவட்டம்\n🗓️ நாள்: நேற்று (நவம்பர் 19, 2026)\n👮 நடவடிக்கை: இன்ஸ்பெக்டர்கள் இருவருக்கும் பணியிட மாற்றம்\n\nKulithalai police station new inspector | Karur news\n📍 குளித்தலை, கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "A woman police inspector in khaki uniform takes charge at the Kulithalai police station in Karur district, standing in front of a government police station building in Kulithalai town, Tamil Nadu. Seen from behind and at a distance, she is accompanied by a few Tamil Nadu police officers in khaki uniforms gathered near the station entrance. The police station is a plain government building with a worn front wall and a small signboard area (no readable text), with a road and a parked two-wheeler in the background and a few town residents walking past. The scene shows the formal handover atmosphere of a daytime office, with bright natural daylight. Camera at eye level, 35 mm, wide enough to show the whole station frontage and the people. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a government office desk inside the Kulithalai police station, with stacks of official files and a register open on the surface, beside a wooden chair and a ceiling fan above. Soft daylight enters from a barred window, lighting the paper documents and the desk nameplate area without any readable text. In the blurred background, a khaki-uniformed police officer stands near the doorway, seen from behind. The image conveys the routine of charge-taking and official paperwork in a Tamil Nadu police station. Camera slightly high, 35 mm, focusing on the files and desk. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/inspector-in-charge/4381198",
+   "published": "2026-11-20T04:05:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 52 words; need 60-90 (the key facts once each, in at most 60 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129433/karur360/bk3obtqe9jfo4oihh3pp.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129439/karur360/irpc38isywpqcszhegsy.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புகழூர் காகித நிறுவனத்தில் தேசிய ஒருமைப்பாடு தின உறுதிமொழி ஏற்பு",
+   "english_headline": "National Integration Day pledge taken at Pugalur paper company in Karur district",
+   "category": "Government & Services",
+   "location": "Pugalur, Karur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நிகழ்ச்சி",
+    "loc": "புகழூர், கரூர்",
+    "hl1": "புகழூரில் தேசிய ஒருமைப்பாடு உறுதிமொழி",
+    "hl2": "இந்திரா பிறந்த நாள்",
+    "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "கரூர் மாவட்டம் புகழூர் தமிழ்நாடு செய்தித்தாள் காகித நிறுவனம்",
+       "முன்னாள் பிரதமர் இந்திரா பிறந்த நாளை முன்னிட்டு நடந்தது",
+       "தேசிய ஒருமைப்பாடு தின உறுதிமொழி ஏற்பு"
+      ]
+     },
+     {
+      "title": "யார் பங்கேற்பு?",
+      "lines": [
+       "உதவி பொது மேலாளர் சபாபதி தலைமை வகித்தார்",
+       "முதன்மை மேலாளர் (மனித வளம்) வெங்கடேசன் உள்பட பலர்"
+      ]
+     },
+     {
+      "title": "உறுதிமொழி",
+      "lines": [
+       "ஜாதி, மத, மொழி பாகுபாடுகளை எதிர்க்க உறுதி",
+       "வன்முறையில் ஈடுபடாமல் மக்கள் ஒற்றுமைக்கு பாடுபடுவோம் என"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "புகழூர் காகித நிறுவனத்தில் தேசிய ஒருமைப்பாடு தின உறுதிமொழி ஏற்கப்பட்டது. முன்னாள் பிரதமர் இந்திரா பிறந்த நாளை முன்னிட்டு இந்த நிகழ்ச்சி நடைபெற்றது. உதவி பொது மேலாளர் சபாபதி தலைமை வகித்தார். முதன்மை மேலாளர் வெங்கடேசன் உள்பட பலர் பங்கேற்றனர். ஜாதி, மத, மொழி பாகுபாடுகளை எதிர்ப்போம் என்று அனைவரும் உறுதியேற்றனர். வன்முறையில் ஈடுபடாமல் மக்களின் உணர்வுப்பூர்வ ஒற்றுமைக்கு பாடுபடுவோம் என்றும் உறுதியேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🇮🇳 புகழூர் காகித நிறுவனத்தில் தேசிய ஒருமைப்பாடு தின உறுதிமொழி ஏற்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், புகழூர் தமிழ்நாடு செய்தித்தாள் காகித நிறுவனத்தில், முன்னாள் பிரதமர் இந்திரா பிறந்த நாளை முன்னிட்டு தேசிய ஒருமைப்பாடு தின உறுதிமொழி ஏற்பு நிகழ்ச்சி நடைபெற்றது.\nஉதவி பொது மேலாளர் சபாபதி தலைமை வகித்தார்.\nஜாதி, மத, மொழி பாகுபாடுகளை எதிர்த்து, வன்முறையில் ஈடுபடாமல் மக்களின் உணர்வுப்பூர்வ ஒற்றுமைக்கு பாடுபடுவோம் என உறுதியேற்கப்பட்டது.\nநிகழ்ச்சியில் முதன்மை மேலாளர் (மனித வளம்) வெங்கடேசன் உள்பட பலர் பங்கேற்றனர்.\n\nNational Integration Day pledge Pugalur Karur | Karur news\n📍 புகழூர், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Pugalur #KarurNews #கரூர்",
+   "prompts": "A group of company officials and employees stand in a row together on the open courtyard of a paper mill in Pugalur, raising their right hands in a collective pledge on National Integration Day. Seen from a slight distance and from behind, the group includes a presiding Assistant General Manager at the front and senior managers beside him, dressed in formal shirts and trousers, with some women in sarees and salwar among them. Behind them stand large grey industrial sheds, pipes and the tall chimney-like structures of the paper plant, typical of the Pugalur industrial belt in Karur district. A few plain plastic chairs and a simple table are set up at the side for the function. It is daytime under bright, clear sky with soft natural light. Shot at eye level with a 35 mm lens, wide enough to show the factory setting and the full group. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close detail of a small table at the side of the event, with a neatly placed bunch of flowers, a folded set of pledge papers and a plain microphone stand, with the blurred legs of employees standing in the background at the Pugalur paper mill premises. Sunlight falls on the table surface and the edge of a white plastic chair, while the grey walls of the factory shed fill the soft background. No readable text or signboards are visible. Daytime light, shot at a slightly high angle with a 35 mm lens to focus on the table objects while keeping the people only as blurred shapes behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/national-accept-the-integrity-day-pledge/4381192",
+   "published": "2026-11-20T04:01:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 52 words; need 60-90 (the key facts once each, in at most 60 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795094368/karur360/oqwe8hut3ac8p9vnuqra.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795094430/karur360/atlgcpuxcwlbbs8icyh6.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129449/karur360/cjnnqfbupz9jfdtp3obs.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129458/karur360/oqektqmqjdvukh7a7v3u.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் அருகே சொகுசு காரில் கடத்திய 240 கிலோ ஹான்ஸ் பறிமுதல், டிரைவர் கைது",
+   "english_headline": "240 kg of banned Hans seized from a luxury car near Karur; driver arrested",
+   "category": "Crime & Safety",
+   "location": "Thoudhuppalayam, Karur-Salem National Highway, Karur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "தவுட்டுப்பாளையம், கரூர்",
+    "hl1": "கரூர் அருகே 240 கிலோ ஹான்ஸ் பறிமுதல்",
+    "hl2": "காரில் கடத்திய டிரைவர் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கரூர்-சேலம் தேசிய நெடுஞ்சாலை, தவுட்டுப்பாளையத்தில் போலீஸ்",
+       "தடை செய்த ஹான்ஸ், பான்பராக் கடத்தல் காரில் சிக்கியது",
+       "வேலாயுதம்பாளையம் போலீசார் தகவலின் அடிப்படையில் நடவடிக்கை"
+      ]
+     },
+     {
+      "title": "எவ்வளவு பொருள்?",
+      "lines": [
+       "டொயோட்டா பார்ச்சூனர் சொகுசு காரில் மூட்டை மூட்டையாக இருந்தது",
+       "மொத்தம் <b>240 கிலோ</b> புகையிலைப் பொருட்கள்",
+       "மதிப்பு <b>₹1,92,928</b>"
+      ]
+     },
+     {
+      "title": "யார் கைது?",
+      "lines": [
+       "ராஜஸ்தான் ஜலோர் மாவட்டத்தைச் சேர்ந்த கார் டிரைவர் கர்ணா",
+       "ராஜஸ்தானில் இருந்து மதுரைக்கு விற்பனைக்காகக் கடத்தியது",
+       "கார், பொருட்கள் பறிமுதல்; விசாரணை நடைபெறுகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே 240 கிலோ தடை செய்யப்பட்ட ஹான்ஸ் பறிமுதல் செய்யப்பட்டது. கரூர்-சேலம் தேசிய நெடுஞ்சாலையில் உள்ள தவுட்டுப்பாளையம் பகுதியில் போலீசார் வாகனச் சோதனையில் ஈடுபட்டனர். வேலாயுதம்பாளையம் போலீசாருக்குக் கிடைத்த தகவலின் அடிப்படையில் இந்த நடவடிக்கை எடுக்கப்பட்டது. சொகுசு கார் ஒன்றை வழிமறித்து சோதனை செய்தபோது, மூட்டை மூட்டையாக ஹான்ஸ், பான்பராக் பதுக்கப்பட்டிருந்தது தெரியவந்தது. காரை ஓட்டி வந்த ராஜஸ்தான் மாநிலம் ஜலோர் மாவட்டத்தைச் சேர்ந்த கர்ணா ராம், 32 வயது, கைது செய்யப்பட்டார். ராஜஸ்தானில் இருந்து மதுரைக்கு விற்பனைக்காகக் கடத்தியது விசாரணையில் தெரியவந்தது. ₹1,92,928 மதிப்புள்ள 240 கிலோ புகையிலைப் பொருட்களும் காரும் பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கரூர் அருகே சொகுசு காரில் கடத்திய 240 கிலோ ஹான்ஸ் பறிமுதல்\n\n📰 முழு விவரம்:\nகரூர்-சேலம் தேசிய நெடுஞ்சாலையில் உள்ள தவுட்டுப்பாளையம் பகுதியில், தமிழக அரசால் தடை செய்யப்பட்ட ஹான்ஸ், பான்பராக் உள்ளிட்ட புகையிலைப் பொருட்கள் காரில் கடத்தி வரப்படுவதாக வேலாயுதம்பாளையம் போலீசாருக்குத் தகவல் கிடைத்தது.\nஎஸ்.எஸ்.ஐ. ரமேஷ் தலைமையிலான போலீசார் வாகனச் சோதனையில் ஈடுபட்டனர். அந்த வழியாக வந்த டொயோட்டா பார்ச்சூனர் சொகுசு காரை வழிமறித்து சோதனை செய்தபோது, மூட்டை மூட்டையாகத் தடை செய்யப்பட்ட புகையிலைப் பொருட்கள் பதுக்கப்பட்டிருந்தது கண்டுபிடிக்கப்பட்டது.\nகாரை ஓட்டி வந்த ராஜஸ்தான் மாநிலம் ஜலோர் மாவட்டத்தைச் சேர்ந்த கர்ணா ராம் (32 வயது), ராஜஸ்தானில் இருந்து தமிழகத்தின் மதுரை மாவட்டத்திற்கு விற்பனைக்காகக் கடத்தியது தெரியவந்தது.\nஇதையடுத்து, 1 லட்சத்து 92 ஆயிரத்து 928 ரூபாய் மதிப்புள்ள 240 கிலோ தடை செய்யப்பட்ட புகையிலைப் பொருட்களையும், கடத்தலுக்குப் பயன்படுத்தப்பட்ட காரையும் போலீசார் பறிமுதல் செய்தனர். டிரைவர் கர்ணா ராமை கைது செய்து விசாரணை நடைபெறுகிறது.\n\nKarur 240 kg Hans seized, driver arrested | Karur news\n📍 தவுட்டுப்பாளையம், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A police team in khaki stops a Toyota Fortuner luxury car on the Karur-Salem National Highway at Thoudhuppalayam, Karur, and opens its rear to reveal bundles of seized banned tobacco products. The setting is a busy four-lane national highway in Karur district, with lorries, two-wheelers and private cars passing on the road shoulder and a roadside vehicle-checking spot. Two or three police officers in Tamil Nadu khaki uniform stand beside the white Fortuner, while a man in a shirt and trousers, seen from behind and at a distance, stands by the car door. Sacks and bundles of seized tobacco packets are stacked on the road beside the vehicle. Daylight, clear sky, midday. Camera at eye level, 35 mm lens, wide enough to show the highway, the car and the police. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of sacks and bundles of seized banned tobacco products (Hans and Pan Parag type packets, unlabelled and unreadable) piled in the open boot of a luxury Toyota Fortuner on the roadside of the Karur-Salem National Highway. A gloved hand of a police officer in khaki sleeve rests on one bundle, slightly out of focus. Behind, the blurred road traffic and a lorry pass on the highway at Thoudhuppalayam. Daylight, midday, dry weather. Camera at a low-high angle, shallow depth of field, 50 mm lens, focusing on the stacked contraband in the car boot. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/240-kg-hans-smuggled-in-luxury-car-seized/4381183",
+   "published": "2026-11-20T03:57:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 192928",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129467/karur360/xaacozoln689cud0mnoy.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129476/karur360/q2uzabdn6vnjrsdbzikv.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புகழூர் டி.என்.பி.எல். ஆலை கழிவுநீரால் விளைநிலங்கள் பாதிப்பு",
+   "english_headline": "Farmland damaged by untreated effluent from TNPL mill in Pugalur, farmers allege",
+   "category": "Civic Issues",
+   "location": "Pugalur, Karur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விவசாயம்",
+    "loc": "புகழூர்",
+    "hl1": "புகழூரில் ஆலை கழிவுநீரால் விளைநிலங்கள்",
+    "hl2": "1,600 ஏக்கர் பாதிப்பு",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "புகழூர் டி.என்.பி.எல். ஆலையிலிருந்து சுத்திகரிக்காத",
+       "விவசாயம் பாதிக்கப்படுவதாக விவசாயிகள் புகார்",
+       "பாசன வாய்க்காலிலும் கழிவுநீர் கலக்கிறது"
+      ]
+     },
+     {
+      "title": "எத்தனை நிலம்?",
+      "lines": [
+       "மூலிமங்கலம், பலமாபுரம், தாதம்பாளையம் பகுதிகள்",
+       "<b>1,600 ஏக்கர்</b> விளைநிலங்கள் பாதிப்பு",
+       "<b>436 விவசாயிகள்</b> சங்க உறுப்பினர்கள்"
+      ]
+     },
+     {
+      "title": "உயர்நீதிமன்ற",
+      "lines": [
+       "2000ஆம் ஆண்டு <b>14 பரிந்துரைகள்</b> அமல்படுத்த உத்தரவு",
+       "ஆலை நிர்வாகம் பரிந்துரைகளை நிறைவேற்றவில்லை",
+       "மாசுக்கட்டுப்பாட்டு வாரியம் உடனடி நடவடிக்கை கோரிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "புகழூர் டி என் பி எல் ஆலையின் கழிவுநீரால் 1,600 ஏக்கர் விளைநிலங்கள் பாதிக்கப்படுவதாக விவசாயிகள் புகார் தெரிவித்துள்ளனர். சுத்திகரிக்கப்படாத கழிவுநீர் வாய்க்கால்களில் கலப்பதால் மண்ணின் சாகுபடி திறன் குறைந்துள்ளது. 1992ஆம் ஆண்டு தொடங்கப்பட்ட கழிவுநீரேற்று பாசன விவசாயிகள் சங்கத்தின் 436 உறுப்பினர்கள் இதனால் பாதிக்கப்படுகின்றனர். மூலிமங்கலம், பலமாபுரம், தாதம்பாளையம், பொன்னியாக்கவுண்டனூர், பாண்டிபாளையம் பகுதி நிலங்கள் பாதிப்பில் உள்ளன. சென்னை உயர்நீதிமன்றம் 2000ஆம் ஆண்டு 14 பரிந்துரைகளை அமல்படுத்த உத்தரவிட்டது. ஆனால் ஆலை நிர்வாகம் எந்தப் பரிந்துரையையும் நிறைவேற்றவில்லை என விவசாயிகள் குற்றம் சாட்டுகின்றனர். மாசுக்கட்டுப்பாட்டு வாரியம் உடனடியாக தலையிட்டு நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 புகழூரில் ஆலை கழிவுநீரால் 1,600 ஏக்கர் விளைநிலங்கள் பாதிப்பு\n\n📰 முழு விவரம்:\nபுகழூர் டி.என்.பி.எல். ஆலையிலிருந்து சுத்திகரிக்கப்படாத கழிவுநீர் வெளியேற்றப்படுவதால் சாகுபடி பாதிக்கப்படுவதாக விவசாயிகள் புகார் தெரிவித்துள்ளனர்.\n1992ஆம் ஆண்டு தொடங்கப்பட்ட கழிவுநீரேற்று பாசன விவசாயிகள் சங்கத்தில் 436 விவசாயிகள் உறுப்பினர்களாக உள்ளனர். இதன் மூலம் மூலிமங்கலம், பலமாபுரம், தாதம்பாளையம், பொன்னியாக்கவுண்டனூர், பாண்டிபாளையம் பகுதிகளின் 1,600 ஏக்கர் நிலங்கள் பாசன வசதி பெற்று வந்தன.\nநெல், கரும்பு, சோளம் பயிரிடப்பட்ட நிலங்களில் நாளடைவில் மண்ணின் வீரியம் குறைந்து பயிர் வளர்ச்சி பாதிக்கப்பட்டது. ஆலைக் கழிவுநீர் புகழூர் பாசன வாய்க்காலிலும் கலப்பதால் விவசாயம் கடுமையாக பாதிக்கப்படுவதாக விவசாயிகள் வேதனை தெரிவிக்கின்றனர்.\nதென்னை மற்றும் வேளாண் பயிர் சாகுபடி விவசாய சங்க மாவட்டத் தலைவர் சுப்பிரமணியன், ஒப்பந்தம் செய்யப்பட்ட வாய்க்காலில் மட்டுமே சுத்திகரிக்கப்பட்ட கழிவுநீர் திறந்துவிடப்பட வேண்டும் என்றார்.\nசென்னை உயர்நீதிமன்றம் 2000ஆம் ஆண்டு 14 பரிந்துரைகளை அமல்படுத்த உத்தரவிட்டது. மத்திய சுற்றுச்சூழல் துறை மற்றும் மாநில மாசுக்கட்டுப்பாட்டு வாரியம் கண்காணிக்க வேண்டும் என்றும் நீதிமன்றம் அறிவுறுத்தியது. ஆனால் ஆலை நிர்வாகம் எந்தப் பரிந்துரையையும் நிறைவேற்றவில்லை.\nமாசுக்கட்டுப்பாட்டு வாரியம் உடனடியாக தலையிட்டு நடவடிக்கை எடுக்க வேண்டும் என விவசாயிகள் கோரிக்கை விடுத்துள்ளனர்.\n\nPugalur TNPL effluent damages farmland | Karur news\n📍 புகழூர், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Pugalur #KarurNews #கரூர்",
+   "prompts": "A group of farmers in shirts and veshti stands on the bank of an irrigation canal in Pugalur, Karur district, looking over fields where their crops are failing. The canal water is murky and discoloured, carrying effluent from the nearby TNPL paper mill whose chimneys and industrial structures rise in the hazy distance. Paddy, sugarcane and maize fields stretch out beside the canal, with some plants stunted and yellowing, while a few women in sarees stand a little apart near the field edge. Daylight, soft overcast light. Shot at eye level on a 35 mm lens, wide enough to show the canal, the fields and the mill in the background, with the farmers seen from behind or in profile. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an irrigation canal in Pugalur where effluent-stained water flows slowly past cracked, dry farmland soil edged with weak, stunted paddy and sugarcane plants. The murky grey-brown water carries foam and sediment along the bank, and a large industrial outlet pipe from the paper mill empties into the channel at the edge of the frame. A farmer's bare feet and a rolled veshti edge are visible at the bank, seen from behind. Daylight, flat natural light. Shot at slightly high eye level on a 35 mm lens to show the contaminated water and the poor crop growth in the same frame. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-plant-charged-with-damage-to-crops-by-sewage/4381194",
+   "published": "2026-11-20T04:02:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129484/karur360/mme415pwzpiupnbdaagf.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129492/karur360/yljddfqepwerp3ioj6um.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் அருகே நிதி நிறுவன அதிபர் வீட்டில் ரூ.2.90 லட்சம் பணம், நகைகள் திருட்டு",
+   "english_headline": "Cash and jewellery stolen from finance firm owner's house near Karur",
+   "category": "Crime & Safety",
+   "location": "Govindampalayam, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "திருட்டு",
+    "loc": "கோவிந்தம்பாளையம், கரூர்",
+    "hl1": "கரூர் அருகே வீட்டில் ரூ.2.90 லட்சம்",
+    "hl2": "4 பவுன் நகை, அரை கிலோ வெள்ளி",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கரூர் அருகே நிதி நிறுவன அதிபர் வீட்டில் திருட்டு",
+       "பின்புற கதவை உடைத்து உள்ளே நுழைந்தனர்",
+       "வியாழக்கிழமை தெரியவந்தது"
+      ]
+     },
+     {
+      "title": "எவ்வளவு திருட்டு?",
+      "lines": [
+       "<b>ரூ.2.90 லட்சம்</b> பணம் திருட்டு",
+       "<b>4 பவுன்</b> தங்க நகைகள் திருட்டு",
+       "<b>அரை கிலோ</b> வெள்ளி திருட்டு"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "கரூர் நகர காவல் நிலையத்தில் புகார்",
+       "போலீசார் வழக்குப் பதிந்து விசாரித்து வருகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே வீட்டில் ரூ.2.90 லட்சம் பணமும் நகைகளும் திருடப்பட்டன. கோவிந்தம்பாளையத்தைச் சேர்ந்த நிதி நிறுவன அதிபர் ராமலிங்கம் வீட்டில் இந்தத் திருட்டு நடந்துள்ளது. ராமலிங்கம் சென்னையில் நிதி நிறுவனம் நடத்தி வருகிறார். கடந்த ஒரு வாரமாக அவர் குடும்பத்தினருடன் சென்னையில் தங்கியிருந்தார். வியாழக்கிழமை காலை வீடு திரும்பியபோது திருட்டு தெரியவந்தது. வீட்டின் பின்புற கதவை உடைத்து, பீரோவில் இருந்த ரூ.2.90 லட்சம் பணம், 4 பவுன் தங்க நகைகள், அரை கிலோ வெள்ளி ஆகியவற்றை மர்ம நபர்கள் திருடிச் சென்றுள்ளனர். ராமலிங்கம் அளித்த புகாரின் பேரில் கரூர் நகர காவல் நிலைய போலீசார் வழக்குப் பதிந்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கரூர் அருகே வீட்டில் ரூ.2.90 லட்சம் பணம், நகைகள் திருட்டு\n\n📰 முழு விவரம்:\nகரூரை அடுத்த கோவிந்தம்பாளையத்தைச் சேர்ந்த நிதி நிறுவன அதிபர் ராமலிங்கம் வீட்டில் திருட்டு நடந்துள்ளது. சென்னையில் நிதி நிறுவனம் நடத்தி வரும் ராமலிங்கம், கடந்த ஒரு வாரமாக குடும்பத்தினருடன் சென்னையில் தங்கியிருந்தார். வியாழக்கிழமை காலை குடும்பத்தினருடன் வீடு திரும்பியபோது, வீட்டின் பின்புற கதவு உடைக்கப்பட்டிருப்பது தெரியவந்தது.\n💰 பீரோவில் இருந்த ரூ.2.90 லட்சம் பணம், 4 பவுன் தங்க நகைகள், அரை கிலோ வெள்ளி ஆகியவை மர்ம நபர்களால் திருடப்பட்டன.\n👮 கரூர் நகர காவல் நிலையத்தில் ராமலிங்கம் அளித்த புகாரின் பேரில் போலீசார் வழக்குப் பதிந்து விசாரித்து வருகின்றனர்.\n\nKarur house theft Rs 2.90 lakh cash gold stolen | Karur news\n📍 கோவிந்தம்பாளையம், கரூர் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A police constable in khaki uniform stands at the rear door of a single-storey house in Govindampalayam near Karur, its wooden door panel splintered and pushed inward, while a plainclothes officer and a middle-aged man stand with their backs to the camera, looking into the dim interior. The house is a modest tiled-roof residence with a small backyard, a few potted plants and a low compound wall on a quiet village-fringe lane near Karur city. Several family members stand a distance away in the courtyard, slightly blurred, the women in sarees and a man in a shirt and veshti, visibly shaken, one holding a child's hand. Two-wheelers are parked by the gate and a tuk-tuk passes on the lane beyond. It is bright Thursday morning daylight with soft sunshine across the courtyard. Camera at eye level, 35 mm, wide enough to show the house, the broken door and the lane, people seen from behind or far away. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open steel almirah inside a bedroom, its doors pulled wide and its shelves disturbed, with a few scattered bundles of tied cash notes and an empty small jewellery box left on the floor beside it. A police officer's gloved hand in khaki sleeve points toward the open drawer, and a small heap of loose silver ornaments sits on a folded cotton cloth on the wooden cot. Morning daylight comes through a window grille and falls across the cupboard and the scattered items. The camera is close, at slightly high angle, 35 mm, focused on the cupboard and the valuables, with no readable text, labels or faces visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/19/நிதிநிறுவன-அதிபா்-வீட்டில்-பணம்-நகைகள்-திருட்டு",
+   "published": "2026-11-19T21:23:35.885Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129507/karur360/n9ueickhcsqukimrjeu3.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129511/karur360/wckck8kwoudtndlmsf1w.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரவக்குறிச்சி அருகே சேவல் சண்டை நடத்தியவர் கைது; 4 பேர் தப்பியோட்டம்",
+   "english_headline": "Man arrested for conducting rooster fight near Aravakurichi; 4 others flee, 5 two-wheelers and a rooster seized",
+   "category": "Crime & Safety",
+   "location": "Verichanampatti area, Aravakurichi, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "அரவக்குறிச்சி",
+    "hl1": "அரவக்குறிச்சி அருகே சேவல் சண்டை: ஒருவர்",
+    "hl2": "4 பேர் தப்பியோட்டம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அரவக்குறிச்சி அருகே சேவல் சண்டை நடத்தியவர் கைது",
+       "அனுமதியின்றி சேவல் சண்டை, பந்தயம், சூதாட்டம்",
+       "போலீசார் அதிரடி சோதனை செய்தனர்"
+      ]
+     },
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "வெரிச்சனம்பட்டி பகுதியில் இருந்து <b>4 கி.மீ.</b> தொலைவில்",
+       "தனியார் தோட்டத்தில் நடந்தது",
+       "பள்ளப்பட்டியை அடுத்த அண்ணா நகர் பகுதி நபர் கைது"
+      ]
+     },
+     {
+      "title": "யார் கைது?",
+      "lines": [
+       "அன்வர் பாஷா, <b>52</b> வயது, கைது செய்யப்பட்டார்",
+       "போலீசாரைக் கண்டதும் <b>4 பேர்</b> தப்பியோடினர்",
+       "தப்பியோடியவர்கள் யார் என போலீசார் விசாரணை"
+      ]
+     },
+     {
+      "title": "பறிமுதல்",
+      "lines": [
+       "<b>5 இரு சக்கர வாகனங்கள்</b> பறிமுதல்",
+       "<b>1 சேவல்</b> பறிமுதல்",
+       "அரவக்குறிச்சி போலீசார் வழக்கு விசாரணையில்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அரவக்குறிச்சி அருகே சேவல் சண்டை நடத்திய ஒருவர் போலீசாரால் கைது செய்யப்பட்டார். வெரிச்சனம்பட்டி பகுதியில் இருந்து 4 கிலோமீட்டர் தொலைவில் உள்ள ஒரு தனியார் தோட்டத்தில், அனுமதியின்றி சேவல் சண்டை நடத்தி, பந்தயம் கட்டி சூதாட்டத்தில் ஈடுபட்டு வந்ததாக போலீசுக்குத் தகவல் கிடைத்தது. அரவக்குறிச்சி போலீசார் அதிரடி சோதனை நடத்தினர். போலீசாரைக் கண்டதும் அங்கிருந்தவர்கள் தப்பியோடினர். பள்ளப்பட்டியை அடுத்த அண்ணா நகர் பகுதியைச் சேர்ந்த அன்வர் பாஷா, 52 வயது, போலீசாரால் பிடிக்கப்பட்டு கைது செய்யப்பட்டார். 4 பேர் தப்பியோடினர். சம்பவ இடத்தில் இருந்த 5 இரு சக்கர வாகனங்கள், ஒரு சேவல் பறிமுதல் செய்யப்பட்டன. தப்பியோடியவர்கள் யார் என்று அரவக்குறிச்சி போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐓 அரவக்குறிச்சி அருகே சேவல் சண்டை நடத்தியவர் கைது; 4 பேர் தப்பியோட்டம்\n\n📰 முழு விவரம்:\nஅரவக்குறிச்சி அடுத்த வெரிச்சனம்பட்டி பகுதியில் இருந்து 4 கி.மீ. தொலைவில் உள்ள தனியார் தோட்டத்தில், அனுமதியின்றி சேவல்களை வைத்து சண்டை நடத்தி, பந்தயம் கட்டி, சூதாட்டத்தில் ஈடுபட்டதாக போலீசாருக்கு தகவல் கிடைத்தது.\nஅரவக்குறிச்சி போலீசார் அங்கு அதிரடி சோதனை நடத்தினர். போலீசாரைக் கண்டதும் அங்கிருந்தவர்கள் தப்பியோடினர்.\nபள்ளப்பட்டியை அடுத்த அண்ணா நகர் பகுதியைச் சேர்ந்த அன்வர் பாஷா (52 வயது), போலீசாரால் பிடிக்கப்பட்டு கைது செய்யப்பட்டார். 4 பேர் தப்பியோடினர்.\nசம்பவ இடத்தில் இருந்த 5 இரு சக்கர வாகனங்கள், 1 சேவல் பறிமுதல் செய்யப்பட்டன.\nதப்பியோடிய நான்கு பேர் யார் என்று அரவக்குறிச்சி போலீசார் விசாரித்து வருகின்றனர்.\n\n📍 இடம்: வெரிச்சனம்பட்டி அருகே தனியார் தோட்டம், அரவக்குறிச்சி, கரூர் மாவட்டம்\nℹ️ மக்கள் கவனத்திற்கு: அனுமதியின்றி சேவல் சண்டை, பந்தயம், சூதாட்டம் சட்டவிரோதம் என்பதை நினைவில் கொள்ளுங்கள்.\n\nRooster fight arrest near Aravakurichi, 4 flee | Karur news\n📍 அரவக்குறிச்சி, கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
+   "prompts": "Five parked two-wheelers stand in a private farm garden near Verichanampatti, Aravakurichi, with a few Tamil Nadu police constables in khaki uniforms standing beside a man in a plain shirt and veshti who has been detained by the arm. Shot from behind and at a distance, the group stands among mango and coconut trees and a low compound wall, with tall palms and open paddy fields behind them. The two-wheelers are scooters and motorcycles parked in a loose row on dry earth, and a few other men are seen running away between the trees, their backs turned. It is bright daylight with a warm, dusty afternoon light, and the camera is at eye level with a 35 mm lens wide enough to show the whole garden and the rural setting. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a seized brown-and-red fighting rooster held in the hands of a police constable in khaki uniform, standing on bare earth in a private garden near Aravakurichi. Behind it, slightly out of focus, a row of parked two-wheelers and a low wall with shrubs and tree trunks show the open farm setting. The rooster's feathers are ruffled and its legs are tied with string, with a few scattered cloth betting slips or coins on the ground nearby. The light is clear daylight, the camera is slightly high at about 35 mm to keep the bird and the parked vehicles sharp, and the people in the background are blurred and seen only from behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cockfighting-arrested-4-escapees/4381181",
+   "published": "2026-11-20T03:56:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The caption adds a sentence 'அனுமதியின்றி சேவல் சண்டை, பந்தயம், சூதாட்டம் சட்டவிரோதம் என்பதை நினைவில் கொள்ளுங்கள்' (a public-awareness note saying such activities are illegal) that is not in the article.; fact-check: The reel_script says the suspect was arrested by 'போலீசாரால்' and the slides say 'போலீசார் அதிரடி சோதனை செய்தனர' — the phrase 'அதிரடி சோதனை' matches the article, but the slide line 'அரவக்குறிச்சி போலீசார் வழக்கு விசாரணையில்' (police in case investigation) is an unsupported claim that a case was registered, which the article does not mention.; fact-check: The slide line 'சட்டவிரோதம்' / 'சூதாட்டம், பந்தயம்' framing in slides_spec 'அனுமதியின்றி சேவல் சண்டை, பந்தயம், சூதாட்டம்' is consistent with the article, but the reel_script omits that the rooster fight was held on a private estate by 'சிலர' — minor; however the reel_script also omits that the police acted on information received, which is present, so no issue there.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129524/karur360/ke5hptcx3mqc6mclhedi.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795129528/karur360/mhsypehsbfoodt39ix5c.jpg"
    ]
   }
  ]
