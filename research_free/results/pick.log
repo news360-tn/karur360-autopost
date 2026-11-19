@@ -1,161 +1,18 @@
-06:47:56 round 2026-11-19_06: news published 19 Nov 02:26 -> 19 Nov 06:47 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-06:47:56 insights 2026-11-19T06:47+05:30 (101 reels): topic weights {'temple': 0.02, 'accident': 0.29, 'education': -0.02, 'power_cut': 1.5, 'poultry_agri': 0.11, 'politics': -0.34, 'civic': -0.47, 'crime': 0.15, 'weather': 0.16}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-06:48:29 39 links on the two papers' Karur pages
-06:49:09 skipped: already posted=7, not Karur district=7, published before this window=5, same event already posted=3
-06:49:09 list: 13 new + 1 earlier news not posted yet
-06:49:09    1. [விபத்து] கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து (தினமலர்)
-06:49:09    2. [பொது] கழிவுநீரால் தொற்று அபாயம் (தினமலர்)
-06:49:09    3. [பொது] மாடு முட்டியதில் தொழிலாளி காயம் (தினமலர்)
-06:49:09    4. [பொது] சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள் (தினமலர்)
-06:49:09    5. [பொது] மா.கம்யூ., கட்சி ஆர்ப்பாட்டம் (தினமலர்)
-06:49:09    6. [கல்வி] ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா (தினமலர்)
-06:49:09    7. [பொது] தேர்தல் விழிப்புணர்வு போட்டி மாநில அளவில் 20 மாணவர் தேர்வு (தினமலர்)
-06:49:09    8. [பொது] ஓய்வூதியர்கள் மனித சங்கிலி போராட்டம் (தினமலர்)
-06:49:09    9. [சாலை] புதர்மண்டிய ஆண்டிபாளையம் நிழற்கூடம் நெடுஞ்சாலையில் காத்திருக்கும் பயணி (தினமலர்)
-06:49:09   10. [பொது] பள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ. 6 கோடி மதிப்பில் கூடுதல் கட்டடம்: (தினமணி)
-06:49:09   11. [பொது] மகள் மாயம்; தந்தை புகார் (தினமலர்)
-06:49:09   12. [பொது] அ.தி.மு.க., நிர்வாகிகள் ஆலோசனை கூட்டம் (தினமலர்)
-06:49:09   13. [பொது] வ.உ.சி., நினைவு நாள் (தினமலர்)
-06:49:09   14. [பொது] ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran (தினகரன்) (earlier)
-06:49:09 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-19_06
-06:49:11    not picked automatically (suicide / obituary - only when the owner ticks it): வ.உ.சி., நினைவு நாள்
-06:49:11 round 2026-11-19_06 (at least 5, up to 3 more of well-watched topics): 13 news to choose from (1 from earlier rounds), ranked by this page's insights
-06:49:11   PICK   1.  11.2 [accident +0.29 page] கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-06:49:11   PICK   2.  10.0 [other +0.00 pattern] கழிவுநீரால் தொற்று அபாயம்
-06:49:11   PICK   3.   9.0 [other +0.00 pattern] மாடு முட்டியதில் தொழிலாளி காயம்
-06:49:11   PICK   4.   8.0 [other +0.00 pattern] சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-06:49:11   PICK   5.   6.9 [education -0.02 page] ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-06:49:11          6.   6.9 [education -0.02 page] தேர்தல் விழிப்புணர்வு போட்டி மாநில அளவில் 20 மாணவர் தேர்வு
-06:49:11          7.   6.6 [politics -0.34 page] மா.கம்யூ., கட்சி ஆர்ப்பாட்டம்
-06:49:11          8.   6.0 [other +0.00 pattern] ஓய்வூதியர்கள் மனித சங்கிலி போராட்டம்
-06:49:11          9.   4.1 [civic -0.47 page] புதர்மண்டிய ஆண்டிபாளையம் நிழற்கூடம் நெடுஞ்சாலையில் காத்திருக
-06:49:11         10.   3.0 [other +0.00 pattern] பள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ. 6 கோடி மதிப்பில் கூடுதல
-06:49:11         11.   3.0 [other +0.00 pattern] மகள் மாயம்; தந்தை புகார்
-06:49:11         12.   3.0 [other +0.00 pattern] அ.தி.மு.க., நிர்வாகிகள் ஆலோசனை கூட்டம்
-06:49:11         13.   2.5 [other +0.00 pattern] (earlier) ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran
-06:49:11 decided: automatic: top 5 of 13 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fire-breaks-out-in-2-houses-in-karur/4380314 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/the-risk-of-contamination-with-wastewater/4380311 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/labourer-injured-in-mishap/4380315 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sanitation-workers-in-chintalwadi/4380306 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/library-week-celebration-at-panchayat-union-middle-school/4380304
-06:52:12 5 listed news now in the Sheet
-06:52:23 instagram duplicate check karur: 50 recent posts read
-06:52:24 verify 2026-11-19_06: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:52:24    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-06:52:24    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-06:52:24    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-06:52:24    NOT POSTED Ca7dca63: queued RN-118 (Queued) - கழிவுநீரால் தொற்று அபாயம்
-06:52:24    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-06:57:33 instagram duplicate check karur: 50 recent posts read
-06:57:35 verify 2026-11-19_06: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:57:35    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-06:57:35    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-06:57:35    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-06:57:35    NOT POSTED Ca7dca63: queued RN-118 (Queued) - கழிவுநீரால் தொற்று அபாயம்
-06:57:35    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:02:44 instagram duplicate check karur: 50 recent posts read
-07:02:45 verify 2026-11-19_06: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:02:45    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:02:45    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:02:45    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:02:45    NOT POSTED Ca7dca63: queued RN-118 (Queued) - கழிவுநீரால் தொற்று அபாயம்
-07:02:45    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:07:55 instagram duplicate check karur: 50 recent posts read
-07:07:57 verify 2026-11-19_06: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:07:57    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:07:57    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:07:57    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:07:57    NOT POSTED Ca7dca63: queued RN-118 (Queued) - கழிவுநீரால் தொற்று அபாயம்
-07:07:57    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:13:05 instagram duplicate check karur: 50 recent posts read
-07:13:07 verify 2026-11-19_06: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:13:07    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:13:07    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:13:07    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:13:07    NOT POSTED Ca7dca63: queued RN-118 (Queued) - கழிவுநீரால் தொற்று அபாயம்
-07:13:07    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:18:16 instagram duplicate check karur: 50 recent posts read
-07:18:18 verify 2026-11-19_06: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:18:18    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:18:18    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:18:18    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:18:18    NOT POSTED Ca7dca63: queued RN-118 (Queued) - கழிவுநீரால் தொற்று அபாயம்
-07:18:18    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:23:27 instagram duplicate check karur: 50 recent posts read
-07:23:28 verify 2026-11-19_06: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:23:28    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:23:28    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:23:28    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:23:28    NOT POSTED Ca7dca63: queued RN-118 (Queued) - கழிவுநீரால் தொற்று அபாயம்
-07:23:28    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:28:38 instagram duplicate check karur: 50 recent posts read
-07:28:39 verify 2026-11-19_06: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:28:39    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:28:39    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:28:39    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:28:39    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:33:47 instagram duplicate check karur: 50 recent posts read
-07:33:49 verify 2026-11-19_06: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:33:49    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:33:49    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:33:49    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:33:49    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:38:58 instagram duplicate check karur: 50 recent posts read
-07:38:59 verify 2026-11-19_06: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:38:59    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:38:59    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:38:59    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:38:59    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:44:14 instagram duplicate check karur: 50 recent posts read
-07:44:16 verify 2026-11-19_06: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:44:16    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:44:16    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:44:16    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:44:16    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:49:23 instagram duplicate check karur: 50 recent posts read
-07:49:25 verify 2026-11-19_06: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:49:25    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:49:25    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:49:25    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:49:25    NOT POSTED Cf1632ee: queued RN-117 (Queued) - சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்
-07:54:34 instagram duplicate check karur: 50 recent posts read
-07:54:36 verify 2026-11-19_06: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:54:36    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:54:36    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:54:36    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-07:59:44 instagram duplicate check karur: 50 recent posts read
-07:59:46 verify 2026-11-19_06: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:59:46    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-07:59:46    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-07:59:46    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-08:04:55 instagram duplicate check karur: 50 recent posts read
-08:04:56 verify 2026-11-19_06: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:04:56    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-08:04:56    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-08:04:56    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-08:10:04 instagram duplicate check karur: 50 recent posts read
-08:10:06 verify 2026-11-19_06: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:10:06    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-08:10:06    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-08:10:06    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-08:15:13 instagram duplicate check karur: 50 recent posts read
-08:15:14 verify 2026-11-19_06: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:15:14    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-08:15:14    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-08:15:14    NOT POSTED C8830299: queued RN-116 (Queued) - மாடு முட்டியதில் தொழிலாளி காயம்
-08:20:22 instagram duplicate check karur: 50 recent posts read
-08:20:24 verify 2026-11-19_06: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:20:24    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-08:20:24    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-08:25:31 instagram duplicate check karur: 50 recent posts read
-08:25:33 verify 2026-11-19_06: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:25:33    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-08:25:33    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-08:30:41 instagram duplicate check karur: 50 recent posts read
-08:30:43 verify 2026-11-19_06: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:30:43    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-08:30:43    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-08:35:49 instagram duplicate check karur: 50 recent posts read
-08:35:51 verify 2026-11-19_06: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:35:51    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
-08:35:51    NOT POSTED C1f5b3d4: queued RN-115 (Queued) - ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா
-08:41:00 verify 2026-11-19_06: 4 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:41:00    SKIPPED C2149162: skipped RN-119: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து
+08:42:00 round 2026-11-19_08: news published 19 Nov 06:47 -> 19 Nov 08:42 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+08:42:00 insights 2026-11-19T08:42+05:30 (104 reels): topic weights {'temple': 0.01, 'accident': 0.28, 'education': -0.03, 'power_cut': 1.5, 'poultry_agri': 0.1, 'politics': -0.23, 'civic': -0.48, 'crime': 0.2, 'weather': 0.03}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+08:42:31 35 links on the two papers' Karur pages
+08:42:56 skipped: already posted=8, published before this window=6, same event already posted=6, not Karur district=2
+08:42:56 list: 2 new + 9 earlier news not posted yet
+08:42:56    1. [விபத்து] அடையாளம் தெரியாத வாகனம் மீது பைக் மோதி வாலிபர் பலி (தினமலர்)
+08:42:56    2. [கல்வி] பஸ் ஸ்டாப்பில் விழுந்து கிடந்த குடிமகன் பள்ளி மாணவியர் அச்சம் (தினமலர்)
+08:42:56    3. [பொது] மா.கம்யூ., கட்சி ஆர்ப்பாட்டம் (தினமலர்) (earlier)
+08:42:56    4. [பொது] தேர்தல் விழிப்புணர்வு போட்டி மாநில அளவில் 20 மாணவர் தேர்வு (தினமலர்) (earlier)
+08:42:56    5. [பொது] ஓய்வூதியர்கள் மனித சங்கிலி போராட்டம் (தினமலர்) (earlier)
+08:42:56    6. [சாலை] புதர்மண்டிய ஆண்டிபாளையம் நிழற்கூடம் நெடுஞ்சாலையில் காத்திருக்கும் பயணி (தினமலர்) (earlier)
+08:42:56    7. [பொது] பள்ளப்பட்டி அரசு மருத்துவமனையில் ரூ. 6 கோடி மதிப்பில் கூடுதல் கட்டடம்: (தினமணி) (earlier)
+08:42:56    8. [பொது] ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran (தினகரன்) (earlier)
+08:42:56    9. [பொது] மகள் மாயம்; தந்தை புகார் (தினமலர்) (earlier)
+08:42:56   10. [பொது] அ.தி.மு.க., நிர்வாகிகள் ஆலோசனை கூட்டம் (தினமலர்) (earlier)
+08:42:56   11. [பொது] வ.உ.சி., நினைவு நாள் (தினமலர்) (earlier)
+08:42:56 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-19_08

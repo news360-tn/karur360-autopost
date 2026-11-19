@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-19T07:30+05:30",
- "posts_measured": 101,
+ "updated": "2026-11-19T08:42+05:30",
+ "posts_measured": 104,
  "topic_weight": {
-  "temple": 0.02,
+  "temple": 0.01,
   "accident": 0.28,
   "education": -0.03,
   "power_cut": 1.5,
   "poultry_agri": 0.1,
-  "politics": -0.22,
+  "politics": -0.23,
   "civic": -0.48,
-  "crime": 0.14,
-  "weather": 0.15
+  "crime": 0.2,
+  "weather": 0.03
  },
  "topic_n": {
   "temple": 15,
@@ -20,16 +20,16 @@
   "power_cut": 3,
   "poultry_agri": 7,
   "politics": 10,
-  "civic": 11,
+  "civic": 13,
   "crime": 11,
-  "weather": 5,
+  "weather": 6,
   "sports_culture": 1
  },
  "best_hours_ist": [
   11,
   19,
   23,
-  0
+  8
  ],
  "top_openings": [
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
@@ -37,11 +37,11 @@
   "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது",
   "🚨 குளித்தலை அருகே 3 பேர் மாயம்: போலீசார் விசாரணை"
  ],
- "avg_watch_s": 7.1,
+ "avg_watch_s": 7.0,
  "best_topics": [
   "power_cut",
   "accident",
-  "weather"
+  "crime"
  ],
  "weak_topics": [
   "civic",

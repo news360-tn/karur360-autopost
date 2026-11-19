@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-19T06:47:56.861053+05:30",
+ "last_end": "2026-11-19T08:42:00.670368+05:30",
  "pool": {
-  "C11a8ebc": {
-   "id": "C11a8ebc",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/wife-disappears-husband-complains/4379384",
-   "title": "மனைவி மாயம்; கணவர் புகார்",
-   "summary": "குளித்தலை,:குளித்தலை அடுத்த பொய்யாமணி பஞ்., துாய்மை பணியாளர் மணிகண்டன், 32. இவர்களுக்கு, 13 ஆண்டுகளுக்கு முன்பு திருமணம் நடந்தது. இவர்களுக்கு இரண்டு மகன்கள் உள்ளனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-18T07:20:00+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-18T10:10:18.969068+05:30",
-   "picked_at": "2026-11-18T10:12:02.200694+05:30",
-   "refused": "not filed: bad draft: 'scenes'"
-  },
   "Ce8c482c": {
    "id": "Ce8c482c",
    "url": "https://tamil.oneindia.com/news/karur/five-members-of-same-family-die-after-falling-into-well-in-karur-846425.html",
@@ -41,62 +27,6 @@
    "power_cut": false,
    "listed_at": "2026-11-19T02:26:37.312543+05:30"
   },
-  "C2149162": {
-   "id": "C2149162",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fire-breaks-out-in-2-houses-in-karur/4380314",
-   "title": "கரூரில் 2 வீடுகளில் அடுத்தடுத்து தீ விபத்து",
-   "summary": "கரூர்:கரூரில் நேற்று, இரண்டு வீடுகளில் தீ விபத்து ஏற்பட்டது. கரூர், வாங்கல் சாலை வெங்கடாசலம் தெருவை சேர்ந்தவர் குணா, 45; இவர் நேற்று வீட்டை பூட்டி விட்டு, வெளியே சென்றுள்ளார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:44:00+05:30",
-   "category": "விபத்து",
-   "score": 10.29,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T06:49:11.043065+05:30",
-   "posted": true
-  },
-  "Ca7dca63": {
-   "id": "Ca7dca63",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/the-risk-of-contamination-with-wastewater/4380311",
-   "title": "கழிவுநீரால் தொற்று அபாயம்",
-   "summary": "குளித்தலை,;குளித்தலை, பெரியார் நகர் அருகே, ஏ.சி.டி., நகர் கிழக்கு பகுதியில் உள்ள குடியிருப்புகளில், கழிவுநீர் வடிகால் வசதி இல்லாததால், சமீபத்தில் பெய்த மழை மற்றும் குடியிருப்பு பகுதியில் பயன்படுத்தப்பட்ட கழிவுநீர் முழ...",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:42:00+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T06:49:11.043067+05:30",
-   "posted": true
-  },
-  "C8830299": {
-   "id": "C8830299",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/labourer-injured-in-mishap/4380315",
-   "title": "மாடு முட்டியதில் தொழிலாளி காயம்",
-   "summary": "கரூர்:வேலாயுதம்பாளையம் அருகே, மாடு முட்டியதில் கூலி தொழிலாளி படுகாயம் அடைந்தார். கரூர் மாவட்டம், பெரிய வரப்பாளையம் பகுதியை சேர்ந்தவர் செல்லதுரை, 54; கூலி தொழிலாளி.",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:44:00+05:30",
-   "category": "பொது",
-   "score": 9.0,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T06:49:11.043070+05:30",
-   "posted": true
-  },
-  "Cf1632ee": {
-   "id": "Cf1632ee",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sanitation-workers-in-chintalwadi/4380306",
-   "title": "சிந்தலவாடியில் தூய்மை பணியில் தொழிலாளர்கள்",
-   "summary": "கிருஷ்ணராயபுரம்:சிந்தலவாடி பகுதியில், துாய்மை பணி நடந்தது. கிருஷ்ணராயபுரம் அடுத்த சிந்தலவாடி பஞ்., பகுதிகளில் மக்கள் பயன்படுத்தும் குப்பை, சாலையோரத்தில் கொட்டப்படுகிறது.",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:38:00+05:30",
-   "category": "பொது",
-   "score": 8.0,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T06:49:11.043071+05:30",
-   "posted": true
-  },
   "C898f2a1": {
    "id": "C898f2a1",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cpi-m-party-protest/4380313",
@@ -108,20 +38,6 @@
    "score": 7.66,
    "power_cut": false,
    "listed_at": "2026-11-19T06:47:56.861053+05:30"
-  },
-  "C1f5b3d4": {
-   "id": "C1f5b3d4",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/library-week-celebration-at-panchayat-union-middle-school/4380304",
-   "title": "ஊராட்சி ஒன்றிய நடுநிலை பள்ளியில் நூலக வார விழா",
-   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சி ஊராட்சி ஒன்றிய நடுநிலைப்பள்ளியில், நுாலகத்துறை சார்பில், 59ம் ஆண்டு நுாலக வார விழா, தலைமை ஆசிரியர் சாகுல் அமீது தலைமையில் நடைபெற்றது.",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:37:00+05:30",
-   "category": "கல்வி",
-   "score": 6.98,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T06:49:11.043073+05:30",
-   "posted": true
   },
   "C8c4af42": {
    "id": "C8c4af42",
@@ -206,39 +122,33 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-19T06:47:56.861053+05:30"
+  },
+  "Ca364933": {
+   "id": "Ca364933",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/youth-killed-as-bike-rams-into-unidentified-vehicle/4380320",
+   "title": "அடையாளம் தெரியாத வாகனம் மீது பைக் மோதி வாலிபர் பலி",
+   "summary": "கரூர்:கரூர் அருகே பைக்கில் சென்ற வாலிபர், அடையாளம் தெரியாத வாகனம் மீது மோதியதில் உயிரிழந்தார். தஞ்சாவூர் மாவட்டம், திருவையாறு பகுதியை சேர்ந்த முருகேசன் என்பவரது மகன் லட்சுமணன், 22; இவர், நேற்று முன்தினம் மதியம், கரூர்...",
+   "source": "தினமலர்",
+   "published": "2026-11-19T06:49:00+05:30",
+   "category": "விபத்து",
+   "score": 10.28,
+   "power_cut": false,
+   "listed_at": "2026-11-19T08:42:00.670368+05:30"
+  },
+  "Cc8c4769": {
+   "id": "Cc8c4769",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/schoolgirl-feared-afterdrunkson-falls-at-bus-stop/4380319",
+   "title": "பஸ் ஸ்டாப்பில் விழுந்து கிடந்த குடிமகன் பள்ளி மாணவியர் அச்சம்",
+   "summary": "கடவூர்:கடவூர் ஊராட்சி ஒன்றியத்திற்கு உட்பட்ட, பாலவிடுதி அரசு மேல்நிலைப்பள்ளியில், 664 மாணவ, மாணவியர் படிக்கின்றனர். 30 ஆசிரியர்கள் பணிபுரிகின்றனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-19T06:48:00+05:30",
+   "category": "கல்வி",
+   "score": 6.97,
+   "power_cut": false,
+   "listed_at": "2026-11-19T08:42:00.670368+05:30"
   }
  },
  "rounds": {
-  "2026-11-15_05": {
-   "window": [
-    "2026-11-15T01:29:20.206642+05:30",
-    "2026-11-15T05:36:09.891332+05:30"
-   ],
-   "ids": [
-    "C7ac17a6",
-    "Ca03fd80",
-    "Cab5bc62",
-    "C553753c"
-   ],
-   "sent": false,
-   "deadline": "2026-11-15T06:36:09.891332+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 4 by insights",
-    "ids": [
-     "C7ac17a6",
-     "Ca03fd80",
-     "Cab5bc62",
-     "C553753c"
-    ],
-    "at": "2026-11-15T05:37:01.666317+05:30"
-   },
-   "written": [
-    "C553753c",
-    "C7ac17a6",
-    "Ca03fd80",
-    "Cab5bc62"
-   ]
-  },
   "2026-11-15_09": {
    "window": [
     "2026-11-15T05:36:09.891332+05:30",
@@ -917,6 +827,29 @@
     "Ca7dca63",
     "Cf1632ee"
    ]
+  },
+  "2026-11-19_08": {
+   "window": [
+    "2026-11-19T06:47:56.861053+05:30",
+    "2026-11-19T08:42:00.670368+05:30"
+   ],
+   "ids": [
+    "Ca364933",
+    "Cc8c4769",
+    "C898f2a1",
+    "C8c4af42",
+    "C8d7a349",
+    "C13290cc",
+    "Cd4123d7",
+    "C7cad38d",
+    "C1654032",
+    "C6966a30",
+    "Cb2938e7"
+   ],
+   "sent": false,
+   "deadline": "2026-11-19T09:42:00.670368+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
