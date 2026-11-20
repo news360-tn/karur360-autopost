@@ -1,13 +1,8 @@
-00:25:24 round 2026-11-21_00: news published 20 Nov 21:48 -> 21 Nov 00:25 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-00:25:24 insights 2026-11-21T00:25+05:30 (128 reels): topic weights {'temple': 0.66, 'accident': 0.24, 'education': 0.1, 'power_cut': 1.5, 'poultry_agri': 0.17, 'politics': -0.01, 'civic': -0.45, 'crime': 1.5, 'weather': 0.06}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-00:25:45 36 links on the two papers' Karur pages
-00:26:47 skipped: already posted=21, published before this window=6, not Karur district=5, same event already posted=2
-00:26:47 list: 0 new + 1 earlier news not posted yet
-00:26:47    1. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-00:26:47 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-21_00
-00:26:49    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி
-00:26:49 round 2026-11-21_00 (at least 4, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-00:26:49 decided: automatic: top 4 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-00:26:54 verify 2026-11-21_00: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+02:29:24 round 2026-11-21_02: news published 21 Nov 00:25 -> 21 Nov 02:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+02:29:24 insights 2026-11-21T02:29+05:30 (128 reels): topic weights {'temple': 0.68, 'accident': 0.2, 'education': 0.05, 'power_cut': 1.5, 'poultry_agri': 0.19, 'politics': 0.01, 'civic': -0.43, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+02:29:34 33 links on the two papers' Karur pages
+02:30:23 skipped: already posted=21, published before this window=6, not Karur district=2, same event already posted=2
+02:30:23 list: 0 new + 1 earlier news not posted yet
+02:30:23    1. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+02:30:23 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-21_02
