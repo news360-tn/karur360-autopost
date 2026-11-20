@@ -1,68 +1,112 @@
-writing [N]: சிங்கம்புணரி அருகே தொழிலதிபர் வீட்டில் 50 பவுன் நகை, 12 கிலோ
+writing [N]: திருச்சி, கரூர் உள்ளிட்ட 5 மாவட்டங்களில் ரேஷன் அரிசி, மானிய 
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3-flash-preview (14s)
-attempt 1 gemini/gemini-3-flash-preview: 4 problems
+ok gemini/gemini-3.6-flash (33s)
+attempt 1 gemini/gemini-3.6-flash: 4 problems
   sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  hl1 (the first headline on screen) must name the place 'உலகம்பட்டி', e.g. 'உலகம்பட்டி: ...' or 'உலகம்பட்டி-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 66 ('கொள்ளை நடைபெற்ற பகுதியில் இருந்து சுமார் 2 கிலோ மீட்டர் சுற்'); 62 ('இவரது சகோதரர்கள் நாச்சியப்பன் (62), சிங்காரம் (58) ஆகியோரும்'); 58 ('இவரது சகோதரர்கள் நாச்சியப்பன் (62), சிங்காரம் (58) ஆகியோரும்')
+  numbers not found in the article: 72
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 848 ('கரூர், கரூர், புதுக்கோட்டை, பெரம்பலூர், அரியலூர், திருச்சி ம'); 5 ('இதனை தடுக்கும் வகையில் மாநிலம் முழுவதும் குடிமைப்பொருள் வழங்'); 313 ('இதனை தடுக்கும் வகையில் மாநிலம் முழுவதும் குடிமைப்பொருள் வழங்'); 319 ('மேலும் இந்த குற்றச்சம்பவங்களில் ஈடுபட்டதாக 319 பேரை போலீசார்'); 115,695 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் '); 14 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+ok gemini/gemini-3.6-flash (34s)
+attempt 2 gemini/gemini-3.6-flash: 2 problems
+  numbers not found in the article: 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 115,695 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (28s)
+attempt 3 gemini/gemini-3.6-flash: 4 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 6, 7
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 115,695 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் '); 16 ('மேலும் கடத்தலுக்கு பயன்படுத்தியதாக 68 வாகனங்கள் பறிமுதல் செய'); 22 ('இவர்களிடம் இருந்து 58.720 டன் ரேஷன் அரிசி, 38.115 டன் மானிய ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.6-flash for 10 min
+ok gemini/gemini-3.5-flash (47s)
+attempt 4 gemini/gemini-3.5-flash: 2 problems
+  reel_script has 97 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  not grounded: location 'நகரம்' is not in the article
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.5-flash for 10 min
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 169 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 115,695 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் '); 14 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் '); 175 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் '); 16 ('மேலும் கடத்தலுக்கு பயன்படுத்தியதாக 68 வாகனங்கள் பறிமுதல் செய'); 21 ('இவர்களிடம் இருந்து 21.820 டன் ரேஷன் அரிசி மற்றும் மானிய விலை'); 820 ('இவர்களிடம் இருந்து 21.820 டன் ரேஷன் அரிசி மற்றும் மானிய விலை')
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 99 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 62 ('இவரது சகோதரர்கள் நாச்சியப்பன் (62), சிங்காரம் (58) ஆகியோரும்'); 58 ('இவரது சகோதரர்கள் நாச்சியப்பன் (62), சிங்காரம் (58) ஆகியோரும்')
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  reel_script has 86 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  numbers not found in the article: 7
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 16 ('மேலும் கடத்தலுக்கு பயன்படுத்தியதாக 68 வாகனங்கள் பறிமுதல் செய')
 ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  reel_script has 82 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 115,695 ('இவர்களிடம் இருந்து 115,695 டன் ரேஷன் அரிசி, மானிய விலை உரம் '); 16 ('மேலும் கடத்தலுக்கு பயன்படுத்தியதாக 68 வாகனங்கள் பறிமுதல் செய'); 22 ('இவர்களிடம் இருந்து 58.720 டன் ரேஷன் அரிசி, 38.115 டன் மானிய ')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/openai/gpt-oss-120b (6s)
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (3s)
 proofread rejected (3 problems)
   missing key: reel_script
   missing key: caption
   missing key: scenes
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok groq/openai/gpt-oss-120b (3s)
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+ok groq/openai/gpt-oss-120b (2s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo used (1192x667, sharpness 76.2, The image consists of real camera photographs showing the ra): https://cf-images.assettype.com/maalai-malar%2F2026-11-20%2Ffc450t4i%2Fmadurairobbery.jpg?
-real photo used (1192x667, sharpness 76.2, The composite photograph directly shows the ransacked cupboa): https://cf-images.assettype.com/maalai-malar/2026-11-20/fc450t4i/madurairobbery.jpg?w=1200
-real photos used for 'Robbers steal 50 sovereigns of gold, 12 ' (Maalaimalar)
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261120-1331","first":"RN-146"}
+real photo: vision check unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:
+real photo not this news (It is a generic stock photograph of handcuffed hands used to represent an arrest): https://media.assettype.com/dailythanthi/2026-11-20/yssm2yih/Untitled-1.jpg?w=12
+image match: False The image is AI-generated and does not depict an actual news event or real photograph.
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match: True The image shows police officers standing beside seized sacks of grain (ration rice) and chemical containers (fertilizer)
+images made: 2 for '848 arrested across Karur, Trichy and 3 '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261120-1648","first":"RN-147"}
 posting job started at once
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.maalaimalar.com/news/tamilnadu/singampunari-near-home-robbery-police-inquiry
+manual link added: https://www.dailythanthi.com/news/tamilnadu/848-people-arrested-for-smuggling-ration-rice-and-subsidized-fertilizer-in-5-districts-including-trichy-and-karur
 candidate filter: collected=1
 to write: 1 Karur district candidates (max 1 stories)
 round: top 1 of 1 candidates
 candidates waiting: 1 Karur; time left 79 min
-try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/singampunari-near
-real photo from the source (Maalaimalar) for 'Robbers steal 50 sovereigns of gold, 12 '
-auto images: 1 of 1 stories ({})
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/848-people-arres
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
 posting job started at once
-candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 72 min
 filed: 1 Karur district stories (target 1), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":1,"updated":0} 
