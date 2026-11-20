@@ -1,49 +1,52 @@
-09:03:59 SKIP RN-12 stale: published 13 Nov, older than yesterday
-09:03:59 SKIP RN-28 stale: published 14 Nov, older than yesterday
-09:03:59 SKIP RN-34 stale: published 14 Nov, older than yesterday
-09:03:59 SKIP RN-39 stale: published 14 Nov, older than yesterday
-09:03:59 SKIP RN-43 stale: published 15 Nov, older than yesterday
-09:03:59 SKIP RN-49 stale: published 15 Nov, older than yesterday
-09:03:59 SKIP RN-70 held: fact-check problems - fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
-09:03:59 SKIP RN-71 held: fact-check problems - fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்),
-09:04:01 SKIP RN-80 held: fact-check problems - numbers not found in the article: 04324, 223555
-09:04:01 SKIP RN-81 held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is 
-09:04:02 SKIP RN-85 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
-09:04:03 SKIP RN-87 held: fact-check problems - fact-check: The article says the 'Ungalai Thedi Ungal Ooril' camp starts tomorrow and continues the day after tomorrow, but the caption says the camp 'நாளை முதல்' (from tomorrow) and the reel says 'நா
-09:04:03 SKIP RN-97 held: location is only the district - the town from the article is missing
-09:04:04 SKIP RN-119 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
-09:04:04 SKIP RN-122 held: fact-check problems - fact-check: The caption says 'நேற்று முன்தினம் (19 நவம்பர் 2026 அன்று வெளியான செய்தி)' which invents a specific date (19 November 2026) that is not in the article; fact-check: The caption body says th
-09:04:04 SKIP RN-128 held: fact-check problems - numbers not found in the article: 290000
+09:22:55 SKIP RN-12 stale: published 13 Nov, older than yesterday
+09:22:55 SKIP RN-28 stale: published 14 Nov, older than yesterday
+09:22:55 SKIP RN-34 stale: published 14 Nov, older than yesterday
+09:22:55 SKIP RN-39 stale: published 14 Nov, older than yesterday
+09:22:55 SKIP RN-43 stale: published 15 Nov, older than yesterday
+09:22:55 SKIP RN-49 stale: published 15 Nov, older than yesterday
+09:22:55 SKIP RN-70 held: fact-check problems - fact-check: slide 2 contains an invented detail ('திரளானோர் பங்கேற்று ஓடினர்') not mentioned in the article
+09:22:55 SKIP RN-71 held: fact-check problems - fact-check: The slide headline (hl2) and caption headline say the price range is ₹100 to ₹650 per kg, while the tamil_headline says ₹140 to ₹650. The article's range is ₹100 (கெண்டை) to ₹650 (விரால்),
+09:22:57 SKIP RN-80 held: fact-check problems - numbers not found in the article: 04324, 223555
+09:22:57 SKIP RN-81 held: fact-check problems - fact-check: The reel_script and slides_spec say the protest was held 'near Kulithalai' (குளித்தலை அருகே) and the article's headline/loc are fine, but the slide line 'பாலவிடுதி போலீஸ் ஸ்டேஷன் முன்' is 
+09:22:59 SKIP RN-85 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
+09:22:59 SKIP RN-87 held: fact-check problems - fact-check: The article says the 'Ungalai Thedi Ungal Ooril' camp starts tomorrow and continues the day after tomorrow, but the caption says the camp 'நாளை முதல்' (from tomorrow) and the reel says 'நா
+09:22:59 SKIP RN-97 held: location is only the district - the town from the article is missing
+09:23:00 SKIP RN-119 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
+09:23:00 SKIP RN-122 held: fact-check problems - fact-check: The caption says 'நேற்று முன்தினம் (19 நவம்பர் 2026 அன்று வெளியான செய்தி)' which invents a specific date (19 November 2026) that is not in the article; fact-check: The caption body says th
+09:23:00 SKIP RN-128 held: fact-check problems - numbers not found in the article: 290000
 ::warning title=Held from posting RN-128::held: fact-check problems - numbers not found in the article: 290000
-09:04:06 SKIP RN-133 held: fact-check problems - numbers not found in the article: 192928
+09:23:02 SKIP RN-133 held: fact-check problems - numbers not found in the article: 192928
 ::warning title=Held from posting RN-133::held: fact-check problems - numbers not found in the article: 192928
-09:04:06 SKIP RN-136 held: fact-check problems - fact-check: The caption adds a sentence 'அனுமதியின்றி சேவல் சண்டை, பந்தயம், சூதாட்டம் சட்டவிரோதம் என்பதை நினைவில் கொள்ளுங்கள்' (a public-awareness note saying such activities are illegal) that is not 
+09:23:02 SKIP RN-136 held: fact-check problems - fact-check: The caption adds a sentence 'அனுமதியின்றி சேவல் சண்டை, பந்தயம், சூதாட்டம் சட்டவிரோதம் என்பதை நினைவில் கொள்ளுங்கள்' (a public-awareness note saying such activities are illegal) that is not 
 ::warning title=Held from posting RN-136::held: fact-check problems - fact-check: The caption adds a sentence 'அனுமதியின்றி சேவல் சண்டை, பந்தயம், சூதாட்டம் சட்டவிரோதம் என்பதை நினைவில் கொள்ளுங்கள்' (a public-awareness note saying such activities are illegal) that is not 
-09:04:08 story catch-up karur: quota 17/50, 40 recent posts, 3 live stories, owner ids ['17841444626877594', '29966472656372622']
-09:04:08 23 stories in the queue, ready to post: 5
-09:04:08   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-09:04:08    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 156.8 ready= False set_started= True
-09:04:08    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 135.5 ready= False set_started= True
-09:04:08    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 131.5 ready= False set_started= True
-09:04:08    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 123.4 ready= False set_started= True
-09:04:08    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 119.0 ready= False set_started= True
-09:04:08    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 111.5 ready= False set_started= True
-09:04:08    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 86.5 ready= False set_started= True
-09:04:08    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 86.5 ready= False set_started= True
-09:04:08    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 72.8 ready= False set_started= True
-09:04:08    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 72.8 ready= False set_started= True
-09:04:08    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 70.3 ready= False set_started= True
-09:04:08    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 70.3 ready= False set_started= True
-09:04:08    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 49.7 ready= False set_started= True
-09:04:08    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 26.2 ready= False set_started= True
-09:04:08    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 24.3 ready= False set_started= True
-09:04:08    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 18.7 ready= False set_started= True
-09:04:08    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 4.5 ready= False set_started= True
-09:04:08    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 4.5 ready= False set_started= True
-09:04:08    RN-137 review= 'Auto' images= 195 spec= 685 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-09:04:08    RN-138 review= 'Auto' images= 195 spec= 605 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-09:04:08    RN-139 review= 'Auto' images= 98 spec= 830 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-09:04:08    RN-140 review= 'Auto' images= 195 spec= 684 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-09:04:08    RN-141 review= 'Auto' images= 195 spec= 695 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
-09:04:09 publishing quota karur: 17/50
-09:04:10 instagram duplicate check karur: 50 recent posts read
+09:23:02 SKIP RN-143 held: fact-check problems - fact-check: The article says the festival was in Nansei Pugalur Agraharam, but the draft's tamil_headline places it in 'கரூர் புகழூர் அக்ரஹாரம்' (Karur Pugalur), which conflates the place names; fact-
+::warning title=Held from posting RN-143::held: fact-check problems - fact-check: The article says the festival was in Nansei Pugalur Agraharam, but the draft's tamil_headline places it in 'கரூர் புகழூர் அக்ரஹாரம்' (Karur Pugalur), which conflates the place names; fact-
+09:23:02 SKIP RN-145 held: location is only the district - the town from the article is missing
+::warning title=Held from posting RN-145::held: location is only the district - the town from the article is missing
+09:23:04 story catch-up karur: quota 22/50, 40 recent posts, 4 live stories, owner ids ['17841444626877594', '29966472656372622']
+09:23:04 22 stories in the queue, ready to post: 2
+09:23:04   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+09:23:04    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 157.1 ready= False set_started= True
+09:23:04    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 135.8 ready= False set_started= True
+09:23:04    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 131.8 ready= False set_started= True
+09:23:04    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 123.7 ready= False set_started= True
+09:23:04    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 119.3 ready= False set_started= True
+09:23:04    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 111.8 ready= False set_started= True
+09:23:04    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 86.8 ready= False set_started= True
+09:23:04    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 86.8 ready= False set_started= True
+09:23:04    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 73.2 ready= False set_started= True
+09:23:04    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 73.1 ready= False set_started= True
+09:23:04    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 70.6 ready= False set_started= True
+09:23:04    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 70.6 ready= False set_started= True
+09:23:04    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 50.1 ready= False set_started= True
+09:23:04    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 26.5 ready= False set_started= True
+09:23:04    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 24.6 ready= False set_started= True
+09:23:04    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 19.0 ready= False set_started= True
+09:23:04    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 4.8 ready= False set_started= True
+09:23:04    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 4.8 ready= False set_started= True
+09:23:04    RN-142 review= 'Auto' images= 195 spec= 665 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
+09:23:04    RN-143 review= 'Auto' images= 195 spec= 899 pages= ['karur'] links= '' '' age_h= 0.1 ready= False set_started= True
+09:23:04    RN-144 review= 'Auto' images= 195 spec= 934 pages= ['karur'] links= '' '' age_h= 0.1 ready= True set_started= True
+09:23:04    RN-145 review= 'Auto' images= 195 spec= 891 pages= ['karur'] links= '' '' age_h= 0.1 ready= False set_started= True
+09:23:05 publishing quota karur: 22/50
+09:23:07 instagram duplicate check karur: 50 recent posts read
