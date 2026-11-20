@@ -24,5 +24,31 @@
     "Pallapatti, Tamil Nadu": 17
    }
   }
+ },
+ "2026-11-21": {
+  "karur": {
+   "reach": 61228,
+   "reach_by_follow_type": {
+    "FOLLOWER": 2288,
+    "NON_FOLLOWER": 59723
+   },
+   "follower_cities": {
+    "Karur, Tamil Nadu": 514,
+    "Kulittalai, Tamil Nadu": 368,
+    "Coimbatore, Tamil Nadu": 206,
+    "Chennai, Tamil Nadu": 153,
+    "Tiruchirappalli, Tamil Nadu": 120,
+    "Madurai, Tamil Nadu": 87,
+    "Palladam, Tamil Nadu": 61,
+    "Kulithalai, Tamil Nadu": 58,
+    "Tirupur, Tamil Nadu": 56,
+    "Perundurai, Tamil Nadu": 39,
+    "Namakkal, Tamil Nadu": 31,
+    "Vedasandur, Tamil Nadu": 24,
+    "Musiri, Tamil Nadu": 19,
+    "Manapparai, Tamil Nadu": 19,
+    "Kulattur, Tamil Nadu": 18
+   }
+  }
  }
 }
