@@ -1,77 +1,6 @@
 {
- "last_end": "2026-11-20T04:29:09.859960+05:30",
+ "last_end": "2026-11-20T08:56:12.689370+05:30",
  "pool": {
-  "C898f2a1": {
-   "id": "C898f2a1",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cpi-m-party-protest/4380313",
-   "title": "மா.கம்யூ., கட்சி ஆர்ப்பாட்டம்",
-   "summary": "கரூர்:கரூர் மாநகர மா.கம்யூ., கட்சி சார்பில், செயலாளர் தண்டபாணி தலைமையில், மாநகராட்சி அலுவலகம் முன், ஆர்ப்பாட்டம் நடந்தது. அதில், கரூர் லைட் ஹவுஸ் கார்னர் அமராவதி பாலத்தை, மீண்டும் நடைபயிற்சிக்கு திறக்க வேண்டும்.",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:43:00+05:30",
-   "category": "பொது",
-   "score": 7.66,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T08:42:57.832365+05:30",
-   "refused": "not filed: duplicate after write"
-  },
-  "C8c4af42": {
-   "id": "C8c4af42",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/election-awareness-contest-to-select-20-students-at-state-level/4380310",
-   "title": "தேர்தல் விழிப்புணர்வு போட்டி மாநில அளவில் 20 மாணவர் தேர்வு",
-   "summary": "கரூர்:கரூர் கலெக்டர் அலுவலகத்தில், தேர்தல் விழிப்புணர்வு கல்விக்குழு மாணவர்களுக்கான மாவட்ட அளவிலான கட்டுரை மற்றும் வினாடி- வினா போட்டி நடந்தது.",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:41:00+05:30",
-   "category": "பொது",
-   "score": 6.98,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30",
-   "picked_at": "2026-11-19T08:42:57.832367+05:30",
-   "refused": "not filed: bad draft: 'scenes'"
-  },
-  "Cb2938e7": {
-   "id": "Cb2938e7",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-memorial-day/4380312",
-   "title": "வ.உ.சி., நினைவு நாள்",
-   "summary": "கிருஷ்ணராயபுரம்:தாளியாம்பட்டி கிராமத்தில், வ.உ.சி., நினைவு நாளை முன்னிட்டு அவரது உருவ சிலைக்கு மாலை அணிவித்து மரியாதை செலுத்தப்பட்டது. கிருஷ்ணராயபுரம் அடுத்த தாளியம்பட்டி கிராமத்தில், நேற்று வீ த லீடர்ஸ் அமைப்பு சார்ப...",
-   "source": "தினமலர்",
-   "published": "2026-11-19T06:43:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-19T06:47:56.861053+05:30"
-  },
-  "C14f50dd": {
-   "id": "C14f50dd",
-   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/19/நிதிநிறுவன-அதிபா்-வீட்டில்-பணம்-நகைகள்-திருட்டு",
-   "title": "நிதிநிறுவன அதிபா் வீட்டில் பணம், நகைகள் திருட்டு",
-   "summary": "கரூா் அருகே நிதிநிறுவன அதிபா் வீட்டில் ரூ. 2.90 லட்சம் பணம், நகைகளை மா்ம நபா்கள் திருடிச் சென்றது வியாழக்கிழமை தெரியவந்தது..கரூரை அடுத்த கோவிந்தம்பாளையத்தைச் சோ்ந்தவா் ராமலிங்கம்.",
-   "source": "தினமணி + தினமலர்",
-   "published": "2026-11-19T21:23:35.885Z",
-   "category": "குற்றம்",
-   "score": 13.5,
-   "power_cut": false,
-   "alts": [
-    "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rs-290-lakh-jewellery-silver-stolen-from-financial-institution-principals-house/4381180"
-   ],
-   "listed_at": "2026-11-20T04:29:09.859960+05:30",
-   "picked_at": "2026-11-20T04:31:40.223064+05:30",
-   "posted": true
-  },
-  "Ce04d186": {
-   "id": "Ce04d186",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cockfighting-arrested-4-escapees/4381181",
-   "title": "சேவல் சண்டை நடத்தியவர் கைது: 4 பேர் தப்பியோட்டம்",
-   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சி அருகே, சேவல் சண்டை நடத்திய ஒருவர் கைது செய்யப்பட்டார். நான்கு பேர் தப்பி சென்றனர். 5 இரு சக்கர வாகனங்கள், 1 சேவல் பறிமுதல் செய்யப்பட்டது.",
-   "source": "தினமலர்",
-   "published": "2026-11-20T03:56:00+05:30",
-   "category": "குற்றம்",
-   "score": 12.5,
-   "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30",
-   "picked_at": "2026-11-20T04:31:40.223066+05:30",
-   "posted": true
-  },
   "Ccee5633": {
    "id": "Ccee5633",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rainwater-harvesting-awareness-rally/4381196",
@@ -87,62 +16,6 @@
    ],
    "listed_at": "2026-11-20T04:29:09.859960+05:30"
   },
-  "C2da5a48": {
-   "id": "C2da5a48",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/240-kg-hans-smuggled-in-luxury-car-seized/4381183",
-   "title": "சொகுசு காரில் கடத்தி வரப்பட்ட 240 கிலோ ஹான்ஸ் பறிமுதல்",
-   "summary": "கரூர்,:கரூர் அருகே சொகுசு காரில் கடத்தி வரப்பட்ட, 240 கிலோ ஹான்ஸ், பான்பராக் உள்பட புகையிலை பொருட்கள் பறிமுதல் செய்யப்பட்டன. கரூர் -- சேலம் தேசிய நெடுஞ்சாலையில் உள்ள தவுட்டுப்பாளையம் பகுதியில், தமிழக அரசால் தடை செய்யப...",
-   "source": "தினமலர்",
-   "published": "2026-11-20T03:57:00+05:30",
-   "category": "குற்றம்",
-   "score": 11.0,
-   "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30",
-   "picked_at": "2026-11-20T04:31:40.223069+05:30",
-   "posted": true
-  },
-  "C9ef8877": {
-   "id": "C9ef8877",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mentally-challenged-woman-rescued/4381199",
-   "title": "மனநலம் பாதித்த பெண் மீட்பு",
-   "summary": "குளித்தலை:குளித்தலை அரசு மாவட்ட தலைமை மருத்துவமனை முன்புறமும், சுங்ககேட் மற்றும் கடம்பன் துறை பகுதியிலும் சுற்றித்திரிந்த மனநலம் பாதிக்கப்பட்ட, 40 வயது மதிக்கத்தக்க பெண், பொது மக்கக்கும் பொக்குவரத்துகும் இடையூறு செய்த...",
-   "source": "தினமலர்",
-   "published": "2026-11-20T04:05:00+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30",
-   "picked_at": "2026-11-20T04:31:40.223070+05:30",
-   "posted": true
-  },
-  "Cc394270": {
-   "id": "Cc394270",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/inspector-in-charge/4381198",
-   "title": "இன்ஸ்பெக்டர் பொறுப்பேற்பு",
-   "summary": "குளித்தலை:குளித்தலை போலீஸ் ஸ்டேஷனில், இன்ஸ்பெக்டர் கலையரசி நேற்று பொறுப்பேற்று கொண்டார். இவர் கள்ளக்குறிச்சி மாவட்டம், வரஞ்ஜரம் ஸ்டேஷன் இன்ஸ்பெக்டராக இருந்து பணியிடம் மாற்றம் செய்யப்பட்டார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-20T04:05:00+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30",
-   "picked_at": "2026-11-20T04:31:40.223071+05:30",
-   "posted": true
-  },
-  "C3a7851b": {
-   "id": "C3a7851b",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-plant-charged-with-damage-to-crops-by-sewage/4381194",
-   "title": "கழிவுநீரால் விளை நிலங்கள் பாதிப்பு டி.என்.பி.எல்., ஆலை மீது குற்றச்சாட்டு",
-   "summary": "கரூர்:புகழூர் டி.என்.பி.எல்., ஆலையிலிருந்து சுத்திகரிப்பு செய்யாத கழிவுநீர் வெளியேற்றப்படுவதால், சாகுபடி பாதிக்கப்படுவதாக விவசாயிகள் புகார் தெரிவிக்கின்றனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-20T04:02:00+05:30",
-   "category": "பொது",
-   "score": 9.5,
-   "power_cut": false,
-   "listed_at": "2026-11-20T04:29:09.859960+05:30",
-   "picked_at": "2026-11-20T04:31:40.223067+05:30",
-   "posted": true
-  },
   "Ce4d6b3e": {
    "id": "Ce4d6b3e",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/disposal-of-garbage-dumped-along-the-road/4381182",
@@ -154,23 +27,6 @@
    "score": 8.54,
    "power_cut": false,
    "listed_at": "2026-11-20T04:29:09.859960+05:30"
-  },
-  "C16a9c19": {
-   "id": "C16a9c19",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/national-accept-the-integrity-day-pledge/4381192",
-   "title": "தேசிய ஒருமைப்பாடு தின உறுதிமொழி ஏற்பு",
-   "summary": "கரூர்:கரூர் மாவட்டம், புகழூர் தமிழ்நாடு செய்தித்தாள் காகித நிறுவனத்தில், முன்னாள் பிரதமர் இந்திரா பிறந்த நாளை முன்னிட்டு, தேசிய ஒருமைப்பாடு தின உறுதிமொழி ஏற்பு நிகழ்ச்சி நடந்தது.",
-   "source": "தினமலர்",
-   "published": "2026-11-20T04:01:00+05:30",
-   "category": "பொது",
-   "score": 7.94,
-   "power_cut": false,
-   "alts": [
-    "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/adopting-the-toilet-day-pledge-at-school/4381190"
-   ],
-   "listed_at": "2026-11-20T04:29:09.859960+05:30",
-   "picked_at": "2026-11-20T04:31:40.223072+05:30",
-   "posted": true
   },
   "Cd55246d": {
    "id": "Cd55246d",
@@ -282,31 +138,6 @@
   }
  },
  "rounds": {
-  "2026-11-16_05": {
-   "window": [
-    "2026-11-16T04:57:13.248773+05:30",
-    "2026-11-16T05:48:00.881596+05:30"
-   ],
-   "ids": [
-    "Cda18b9e",
-    "Cf2edb7c",
-    "Cfc1f4e2"
-   ],
-   "sent": false,
-   "deadline": "2026-11-16T06:48:00.881596+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 2 by insights",
-    "ids": [
-     "Cf2edb7c",
-     "Cfc1f4e2"
-    ],
-    "at": "2026-11-16T05:48:50.143854+05:30"
-   },
-   "written": [
-    "Cf2edb7c",
-    "Cfc1f4e2"
-   ]
-  },
   "2026-11-16_16": {
    "window": [
     "2026-11-16T05:48:00.881596+05:30",
@@ -974,6 +805,29 @@
     "Cc394270",
     "Ce04d186"
    ]
+  },
+  "2026-11-20_08": {
+   "window": [
+    "2026-11-20T04:29:09.859960+05:30",
+    "2026-11-20T08:56:12.689370+05:30"
+   ],
+   "ids": [
+    "Ccee5633",
+    "Ce4d6b3e",
+    "Cd55246d",
+    "C862a22a",
+    "C63b81af",
+    "C227a5f1",
+    "C7302ac3",
+    "C426bf76",
+    "C4430931",
+    "C106e665",
+    "C14b13dd"
+   ],
+   "sent": false,
+   "deadline": "2026-11-20T09:56:12.689370+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
