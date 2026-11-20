@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-20 | `98fc39e` | Daily rasipalan as a reel in the 360 gold-reel pattern (music only); carousel only if the reel fails |
+| 2026-11-20 | `ec1021f` | Reels without a picture: a designed background by news type, never the page logo |
+| 2026-11-20 | `9ea4285` | stories shared |
+| 2026-11-20 | `7e60ab4` | stories shared |
 | 2026-11-20 | `41a24fc` | Every news reel goes to the story again (stories_urgent_only false) |
 | 2026-11-20 | `72a4ca0` | powercut: notices written |
 | 2026-11-20 | `96b669a` | powercut: notices written |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `b1a425c` | pick: picked news saved |
 | 2026-11-20 | `a4dd826` | pick: picked news saved |
 | 2026-11-20 | `9262664` | pick: list sent |
-| 2026-11-20 | `8f91b59` | powercut: notices written |
-| 2026-11-20 | `cb4a4b0` | powercut: notices written |
-| 2026-11-20 | `869c4a3` | News reels: 360 clock branding layer (logo progress ring, opening ring, clock-hand picture change, end-card ring) |
-| 2026-11-20 | `039b14d` | goldrate posted |
 <!-- recent-changes:end -->
