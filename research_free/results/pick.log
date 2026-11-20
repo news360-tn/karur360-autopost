@@ -1,42 +1,9 @@
-09:17:03 round 2026-11-20_09: news published 20 Nov 08:56 -> 20 Nov 09:17 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-09:17:03 insights 2026-11-20T09:17+05:30 (118 reels): topic weights {'temple': 0.65, 'accident': 0.23, 'education': -0.07, 'power_cut': 1.5, 'poultry_agri': -0.21, 'politics': -0.09, 'civic': -0.44, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-09:17:14 33 links on the two papers' Karur pages
-09:17:37 skipped: already posted=13, published before this window=6, not Karur district=2, same event already posted=2
-09:17:37 list: 0 new + 6 earlier news not posted yet
-09:17:37    1. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-09:17:37    2. [பொது] கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க வேண்டும் (தினமணி) (earlier)
-09:17:37    3. [பொது] புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்பிக்கலாம் (தினமலர்) (earlier)
-09:17:37    4. [பொது] நெல் பயிர்களில் இலை சுருட்டுப்புழு கட்டுப்படுத்துவது குறித்து விழிப்பு (தினமலர்) (earlier)
-09:17:37    5. [பொது] சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம் (தினமலர்) (earlier)
-09:17:37    6. [பொது] குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம் (தினமலர்) (earlier)
-09:17:37 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-20_09
-09:17:38    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி
-09:17:38 round 2026-11-20_09 (at least 5, up to 3 more of well-watched topics): 5 news to choose from (5 from earlier rounds), ranked by this page's insights
-09:17:38   PICK   1.   2.5 [other +0.00 pattern] (earlier) கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க 
-09:17:38   PICK   2.   2.5 [other +0.00 pattern] (earlier) புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்ப
-09:17:38   PICK   3.   2.5 [other +0.00 pattern] (earlier) நெல் பயிர்களில் இலை சுருட்டுப்புழு கட்டுப்படுத்துவது குறித்த
-09:17:38   PICK   4.   2.5 [other +0.00 pattern] (earlier) சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம்
-09:17:38   PICK   5.   2.5 [other +0.00 pattern] (earlier) குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம்
-09:17:38 decided: automatic: top 5 of 5 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/19/கிராமப்புற-நூலகங்கள்-வாயிலாக-அறிவாா்ந்த-சமுதாயத்தை-உருவாக்க-வேண்டும் https://www.dinamalar.com/news/tamil-nadu-district-news-karur/one-can-apply-for-financial-assistance-for-buddhist-jain-and-sikh-pilgrimage/4381187 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-on-leafworm-control-in-paddy-crops/4381189 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sugarcane-cultivation-begins/4381188 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/devotees-pay-obeisance-on-guru-jayanti/4381197
-09:19:43 1 picked news refused by the writer - not offered again
-09:19:43 4 listed news now in the Sheet
-09:19:53 instagram duplicate check karur: 50 recent posts read
-09:19:53 verify 2026-11-20_09: 0 of 5 picked news posted, 3 skipped on purpose, 0 waiting for their posting start
-09:19:53    SKIPPED C14b13dd: skipped RN-143: held: fact-check problems - fact-check: The article says the festival was in Nansei Pugalur Agraharam, but the draft's tamil_headline places it  - குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம்
-09:19:53    SKIPPED C426bf76: skipped RN-145: held: location is only the district - the town from the article is missing - புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்ப
-09:19:53    SKIPPED C7302ac3: skipped: the writer refused it - not filed: duplicate after write - கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க 
-09:19:53    NOT POSTED C106e665: queued RN-142 (Queued) - சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம்
-09:19:53    NOT POSTED C4430931: queued RN-144 (Queued) - நெல் பயிர்களில் இலை சுருட்டுப்புழு கட்டுப்படுத்துவது குறித்த
-09:25:00 instagram duplicate check karur: 50 recent posts read
-09:25:00 verify 2026-11-20_09: 0 of 5 picked news posted, 3 skipped on purpose, 0 waiting for their posting start
-09:25:00    SKIPPED C14b13dd: skipped RN-143: held: fact-check problems - fact-check: The article says the festival was in Nansei Pugalur Agraharam, but the draft's tamil_headline places it  - குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம்
-09:25:00    SKIPPED C426bf76: skipped RN-145: held: location is only the district - the town from the article is missing - புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்ப
-09:25:00    SKIPPED C7302ac3: skipped: the writer refused it - not filed: duplicate after write - கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க 
-09:25:00    NOT POSTED C106e665: queued RN-142 (Queued) - சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம்
-09:25:00    NOT POSTED C4430931: queued RN-144 (Queued) - நெல் பயிர்களில் இலை சுருட்டுப்புழு கட்டுப்படுத்துவது குறித்த
-09:30:05 verify 2026-11-20_09: 2 of 5 picked news posted, 3 skipped on purpose, 0 waiting for their posting start
-09:30:05    SKIPPED C14b13dd: skipped RN-143: held: fact-check problems - fact-check: The article says the festival was in Nansei Pugalur Agraharam, but the draft's tamil_headline places it  - குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம்
-09:30:05    SKIPPED C426bf76: skipped RN-145: held: location is only the district - the town from the article is missing - புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்ப
-09:30:05    SKIPPED C7302ac3: skipped: the writer refused it - not filed: duplicate after write - கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க 
+13:26:13 round 2026-11-20_13: news published 20 Nov 09:17 -> 20 Nov 13:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+13:26:13 insights 2026-11-20T13:26+05:30 (126 reels): topic weights {'temple': 0.65, 'accident': 0.24, 'education': -0.14, 'power_cut': 1.5, 'poultry_agri': 0.17, 'politics': -0.06, 'civic': -0.4, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+13:27:00 41 links on the two papers' Karur pages
+13:27:46 skipped: already posted=17, not Karur district=8, published before this window=6, same event already posted=2, no title=1
+13:27:46 list: 1 new + 1 earlier news not posted yet
+13:27:46    1. [குற்றம்] சிங்கம்புணரி அருகே தொழிலதிபர் வீட்டில் 50 பவுன் நகை, 12 கிலோ வெள்ளி, ப (மாலைமலர்)
+13:27:46    2. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+13:27:46 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-20_13
