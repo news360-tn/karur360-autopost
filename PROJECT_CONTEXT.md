@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-20 | `9dc8700` | Posting loop: start the next posting run with 3 tries |
+| 2026-11-20 | `6548980` | pick: picked news saved |
+| 2026-11-20 | `dd2fe08` | pick: list sent |
 | 2026-11-20 | `23eb932` | Cloudinary clean-up every 6 hours; red run + e-mail when the login is refused, usage unreadable or 80% used |
 | 2026-11-20 | `c49b530` | pick: written and posted |
 | 2026-11-20 | `b1a425c` | pick: picked news saved |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `c445483` | 19 Nov owner changes: reel length / wording, source first comment, 360 gold reel, posting windows, rasipalan before 9 AM |
 | 2026-11-19 | `f4540e6` | powercut: notices written |
 | 2026-11-19 | `8bec0d6` | powercut: notices written |
-| 2026-11-19 | `2882571` | pick: written and posted |
-| 2026-11-19 | `ed936fa` | pick: picked news saved |
-| 2026-11-19 | `239d8c2` | pick: list sent |
 <!-- recent-changes:end -->
