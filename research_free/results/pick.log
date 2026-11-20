@@ -1,55 +1,13 @@
-08:56:12 round 2026-11-20_08: news published 20 Nov 04:29 -> 20 Nov 08:56 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-08:56:12 insights 2026-11-20T08:56+05:30 (118 reels): topic weights {'temple': 0.65, 'accident': 0.23, 'education': -0.07, 'power_cut': 1.5, 'poultry_agri': -0.21, 'politics': -0.09, 'civic': -0.44, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '👮 குளித்தலை போலீஸ் ஸ்டேஷனுக்கு புதிய இன்ஸ்பெக்டர் கலையரசி பொறுப்பேற்பு']
-08:56:38 37 links on the two papers' Karur pages
-08:56:56 skipped: already posted=8, published before this window=6, not Karur district=6, same event already posted=2
-08:56:57 list: 0 new + 11 earlier news not posted yet
-08:56:57    1. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-08:56:57    2. [சாலை] சாலையோரம் கொட்டப்பட்ட குப்பை அகற்றம் (தினமலர்) (earlier)
-08:56:57    3. [பொது] டி.என்.பி.எஸ்.சி., குரூப் -4 மாதிரி தேர்வு 1,000 மாணவர்களை பங்கேற்க அற (தினமலர்) (earlier)
-08:56:57    4. [பொது] விவசாயிகளுக்கு எருக்கன் இலை கரைசல் தயாரிப்பு செயல் விளக்கம் (தினமலர்) (earlier)
-08:56:57    5. [சாலை] பாலப்பட்டி சாலையில் தூய்மை பணி மும்முரம் (தினமலர்) (earlier)
-08:56:57    6. [சாலை] தோண்டப்பட்ட சாலை சீரமைக்கப்படாததால் அவதி (தினமலர்) (earlier)
-08:56:57    7. [பொது] கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க வேண்டும் (தினமணி) (earlier)
-08:56:57    8. [பொது] புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்பிக்கலாம் (தினமலர்) (earlier)
-08:56:57    9. [பொது] நெல் பயிர்களில் இலை சுருட்டுப்புழு கட்டுப்படுத்துவது குறித்து விழிப்பு (தினமலர்) (earlier)
-08:56:57   10. [பொது] சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம் (தினமலர்) (earlier)
-08:56:57   11. [பொது] குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம் (தினமலர்) (earlier)
-08:56:57 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-20_08
-08:56:58    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி
-08:56:58 round 2026-11-20_08 (at least 5, up to 3 more of well-watched topics): 10 news to choose from (10 from earlier rounds), ranked by this page's insights
-08:56:58   PICK   1.   6.7 [civic -0.44 page] (earlier) சாலையோரம் கொட்டப்பட்ட குப்பை அகற்றம்
-08:56:58   PICK   2.   6.2 [education -0.07 page] (earlier) டி.என்.பி.எஸ்.சி., குரூப் -4 மாதிரி தேர்வு 1,000 மாணவர்களை ப
-08:56:58   PICK   3.   5.0 [poultry_agri -0.21 page] (earlier) விவசாயிகளுக்கு எருக்கன் இலை கரைசல் தயாரிப்பு செயல் விளக்கம்
-08:56:58   PICK   4.   3.7 [civic -0.44 page] (earlier) பாலப்பட்டி சாலையில் தூய்மை பணி மும்முரம்
-08:56:58   PICK   5.   3.7 [civic -0.44 page] (earlier) தோண்டப்பட்ட சாலை சீரமைக்கப்படாததால் அவதி
-08:56:58          6.   2.5 [other +0.00 pattern] (earlier) கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க 
-08:56:58          7.   2.5 [other +0.00 pattern] (earlier) புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்ப
-08:56:58          8.   2.5 [other +0.00 pattern] (earlier) நெல் பயிர்களில் இலை சுருட்டுப்புழு கட்டுப்படுத்துவது குறித்த
-08:56:58          9.   2.5 [other +0.00 pattern] (earlier) சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம்
-08:56:58         10.   2.5 [other +0.00 pattern] (earlier) குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம்
-08:56:58 decided: automatic: top 5 of 10 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/disposal-of-garbage-dumped-along-the-road/4381182 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/instruction-for-1000-students-to-participate-in-the--group-4-sample-test/4381193 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/preparation-of-erukan-leaf-solution-explained-to-farmers/4381186 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cleaning-work-on-balapatti-road-in-full-swing/4381191 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/the-dug-up-road-has-not-been-repaired/4381195
-08:59:45 5 listed news now in the Sheet
-08:59:53 instagram duplicate check karur: 50 recent posts read
-08:59:53 verify 2026-11-20_08: 0 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:59:53    NOT POSTED C227a5f1: queued RN-137 (Queued) - தோண்டப்பட்ட சாலை சீரமைக்கப்படாததால் அவதி
-08:59:53    NOT POSTED C63b81af: queued RN-138 (Queued) - பாலப்பட்டி சாலையில் தூய்மை பணி மும்முரம்
-08:59:53    NOT POSTED C862a22a: queued RN-140 (Queued) - விவசாயிகளுக்கு எருக்கன் இலை கரைசல் தயாரிப்பு செயல் விளக்கம்
-08:59:53    NOT POSTED Cd55246d: queued RN-141 (Queued) - டி.என்.பி.எஸ்.சி., குரூப் -4 மாதிரி தேர்வு 1,000 மாணவர்களை ப
-08:59:53    NOT POSTED Ce4d6b3e: queued RN-139 (Queued) - சாலையோரம் கொட்டப்பட்ட குப்பை அகற்றம்
-09:04:58 instagram duplicate check karur: 50 recent posts read
-09:04:58 verify 2026-11-20_08: 0 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-09:04:58    NOT POSTED C227a5f1: queued RN-137 (Queued) - தோண்டப்பட்ட சாலை சீரமைக்கப்படாததால் அவதி
-09:04:58    NOT POSTED C63b81af: queued RN-138 (Queued) - பாலப்பட்டி சாலையில் தூய்மை பணி மும்முரம்
-09:04:58    NOT POSTED C862a22a: queued RN-140 (Queued) - விவசாயிகளுக்கு எருக்கன் இலை கரைசல் தயாரிப்பு செயல் விளக்கம்
-09:04:58    NOT POSTED Cd55246d: queued RN-141 (Queued) - டி.என்.பி.எஸ்.சி., குரூப் -4 மாதிரி தேர்வு 1,000 மாணவர்களை ப
-09:04:58    NOT POSTED Ce4d6b3e: queued RN-139 (Queued) - சாலையோரம் கொட்டப்பட்ட குப்பை அகற்றம்
-09:10:04 instagram duplicate check karur: 50 recent posts read
-09:10:04 verify 2026-11-20_08: 0 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-09:10:04    NOT POSTED C227a5f1: queued RN-137 (Queued) - தோண்டப்பட்ட சாலை சீரமைக்கப்படாததால் அவதி
-09:10:04    NOT POSTED C63b81af: queued RN-138 (Queued) - பாலப்பட்டி சாலையில் தூய்மை பணி மும்முரம்
-09:10:04    NOT POSTED C862a22a: queued RN-140 (Queued) - விவசாயிகளுக்கு எருக்கன் இலை கரைசல் தயாரிப்பு செயல் விளக்கம்
-09:10:04    NOT POSTED Cd55246d: queued RN-141 (Queued) - டி.என்.பி.எஸ்.சி., குரூப் -4 மாதிரி தேர்வு 1,000 மாணவர்களை ப
-09:10:04    NOT POSTED Ce4d6b3e: queued RN-139 (Queued) - சாலையோரம் கொட்டப்பட்ட குப்பை அகற்றம்
-09:15:09 verify 2026-11-20_08: 5 of 5 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+09:17:03 round 2026-11-20_09: news published 20 Nov 08:56 -> 20 Nov 09:17 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+09:17:03 insights 2026-11-20T09:17+05:30 (118 reels): topic weights {'temple': 0.65, 'accident': 0.23, 'education': -0.07, 'power_cut': 1.5, 'poultry_agri': -0.21, 'politics': -0.09, 'civic': -0.44, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+09:17:14 33 links on the two papers' Karur pages
+09:17:37 skipped: already posted=13, published before this window=6, not Karur district=2, same event already posted=2
+09:17:37 list: 0 new + 6 earlier news not posted yet
+09:17:37    1. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+09:17:37    2. [பொது] கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை உருவாக்க வேண்டும் (தினமணி) (earlier)
+09:17:37    3. [பொது] புத்த, சமண, சீக்கிய புனித பயணத்திற்கு நிதி உதவி பெற விண்ணப்பிக்கலாம் (தினமலர்) (earlier)
+09:17:37    4. [பொது] நெல் பயிர்களில் இலை சுருட்டுப்புழு கட்டுப்படுத்துவது குறித்து விழிப்பு (தினமலர்) (earlier)
+09:17:37    5. [பொது] சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம் (தினமலர்) (earlier)
+09:17:37    6. [பொது] குரு ஜெயந்தி விழா பக்தர்கள் தரிசனம் (தினமலர்) (earlier)
+09:17:37 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-20_09
