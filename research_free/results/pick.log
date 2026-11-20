@@ -1,17 +1,9 @@
-16:38:39 round 2026-11-20_16: news published 20 Nov 13:26 -> 20 Nov 16:38 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-16:38:39 insights 2026-11-20T16:38+05:30 (127 reels): topic weights {'temple': 0.69, 'accident': 0.27, 'education': -0.12, 'power_cut': 1.5, 'poultry_agri': 0.21, 'politics': -0.04, 'civic': -0.37, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-16:39:40 54 links on the two papers' Karur pages
-16:40:59 skipped: already posted=21, not Karur district=20, published before this window=6, same event already posted=2, no title=1, only a headline=1
-16:40:59 list: 1 new + 1 earlier news not posted yet
-16:40:59    1. [குற்றம்] திருச்சி, கரூர் உள்ளிட்ட 5 மாவட்டங்களில் ரேஷன் அரிசி, மானிய உரம் கடத்த (தினத்தந்தி)
-16:40:59    2. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-16:40:59 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-20_16
-16:41:00    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி
-16:41:00 round 2026-11-20_16 (at least 4, up to 3 more of well-watched topics): 1 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:41:00   PICK   1.  17.0 [crime +1.50 page] திருச்சி, கரூர் உள்ளிட்ட 5 மாவட்டங்களில் ரேஷன் அரிசி, மானிய 
-16:41:00 decided: automatic: top 4 of 1 by insights -> 1 news to write and post
-PICK_URLS=https://www.dailythanthi.com/news/tamilnadu/848-people-arrested-for-smuggling-ration-rice-and-subsidized-fertilizer-in-5-districts-including-trichy-and-karur
-16:49:04 1 listed news now in the Sheet
-16:49:12 verify 2026-11-20_16: 0 of 1 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-16:49:12    SKIPPED C9ad4928: skipped RN-147: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - திருச்சி, கரூர் உள்ளிட்ட 5 மாவட்டங்களில் ரேஷன் அரிசி, மானிய 
+18:59:58 round 2026-11-20_18: news published 20 Nov 16:38 -> 20 Nov 18:59 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+18:59:58 insights 2026-11-20T18:59+05:30 (127 reels): topic weights {'temple': 0.71, 'accident': 0.28, 'education': -0.13, 'power_cut': 1.5, 'poultry_agri': 0.21, 'politics': -0.05, 'civic': -0.39, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+19:00:39 41 links on the two papers' Karur pages
+19:01:17 skipped: already posted=21, not Karur district=9, published before this window=6, same event already posted=2
+19:01:17 list: 1 new + 1 earlier news not posted yet
+19:01:17    1. [பொது] கொளத்தூர் உட்பட 6 தொகுதிகளுக்கு ஜனவரி மாதம் இடைத்தேர்தல்? - பலப்பரீட்ச (தினத்தந்தி)
+19:01:17    2. [மழை / வானிலை] மழைநீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+19:01:17 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-20_18
