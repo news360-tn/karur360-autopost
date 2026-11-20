@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-20 | `d326122` | News reels: the design team's design (Tamil) with the 360 clock branding on every page |
+| 2026-11-20 | `d5ee374` | pick: written and posted |
+| 2026-11-20 | `490c55d` | pick: picked news saved |
+| 2026-11-20 | `f35f1cb` | goldrate posted |
 | 2026-11-20 | `9dc8700` | Posting loop: start the next posting run with 3 tries |
 | 2026-11-20 | `6548980` | pick: picked news saved |
 | 2026-11-20 | `dd2fe08` | pick: list sent |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `2e868fa` | pick: picked news saved |
 | 2026-11-19 | `ee85632` | pick: picked news saved |
 | 2026-11-19 | `696ddb8` | pick: list sent |
-| 2026-11-19 | `9176f78` | Posting time first: news posts 06:00-12:00 and 15:00-21:00 IST; collection fitted to it (04:00, 08:30, 13:00, 16:30, 18:30) |
-| 2026-11-19 | `c445483` | 19 Nov owner changes: reel length / wording, source first comment, 360 gold reel, posting windows, rasipalan before 9 AM |
-| 2026-11-19 | `f4540e6` | powercut: notices written |
-| 2026-11-19 | `8bec0d6` | powercut: notices written |
 <!-- recent-changes:end -->
