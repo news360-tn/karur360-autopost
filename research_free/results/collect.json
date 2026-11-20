@@ -3,391 +3,103 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/19/கிராமப்புற-நூலகங்கள்-வாயிலாக-அறிவாா்ந்த-சமுதாயத்தை-உருவாக்க-வேண்டும்",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/one-can-apply-for-financial-assistance-for-buddhist-jain-and-sikh-pilgrimage/4381187",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-on-leafworm-control-in-paddy-crops/4381189",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sugarcane-cultivation-begins/4381188",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/devotees-pay-obeisance-on-guru-jayanti/4381197",
-  "candidate filter: collected=5",
-  "to write: 5 Karur district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.maalaimalar.com/news/tamilnadu/singampunari-near-home-robbery-police-inquiry",
+  "candidate filter: collected=1",
+  "to write: 1 Karur district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Karur; time left 79 min",
+  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/singampunari-near",
+  "real photo from the source (Maalaimalar) for 'Robbers steal 50 sovereigns of gold, 12 '",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "NOT filed (N) கிராமப்புற நூலகங்கள் வாயிலாக அறிவாா்ந்த சமுதாயத்தை: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 77 min",
-  "filed: 4 Karur district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
+  "filed: 1 Karur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "கிருஷ்ணராயபுரத்தில் சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவக்கம்",
-   "english_headline": "Sweet potato cultivation work begins in Krishnarayapuram union; farmers give it importance as income is decent and cost is low",
-   "category": "Weather & Agriculture",
-   "location": "Krishnarayapuram union, Karur district",
-   "importance": "Medium",
+   "tamil_headline": "சிங்கம்புணரி அருகே தொழிலதிபர் வீட்டில் 50 பவுன் நகை, 12 கிலோ வெள்ளி, பணம் கொள்ளை",
+   "english_headline": "Robbers steal 50 sovereigns of gold, 12 kg silver and cash worth about Rs 75 lakh from a businessman's house near Singampunari",
+   "category": "Crime & Safety",
+   "location": "Ulagampatti, S. Pudur, Singampunari taluk, Sivaganga district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "கிருஷ்ணராயபுரம்",
-    "hl1": "கிருஷ்ணராயபுரத்தில் கிழங்கு சாகுபடி",
-    "hl2": "விவசாயிகளுக்கு ஓரளவு",
+    "cat": "கொள்ளை",
+    "loc": "உலகம்பட்டி, சிங்கம்புணரி",
+    "hl1": "சிங்கம்புணரி அருகே வீட்டில் பெரும்",
+    "hl2": "₹75 லட்சம் மதிப்பு நகை, பணம்",
     "slides": [
      {
-      "title": "எங்கே?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "கிருஷ்ணராயபுரம் ஒன்றியத்தில் சர்க்கரைவள்ளி கிழங்கு சாகுபடி",
-       "சேங்கல், வீரியபாளையம், சிவாயம் உள்ளிட்ட பகுதிகளில்",
-       "கொசூர், முத்தம்பட்டி பகுதிகளிலும் பரவலாக சாகுபடி"
+       "உலகம்பட்டி சேங்கை ஊரணி வீதியில் கொள்ளை",
+       "<b>50 சவரன்</b> தங்க நகைகள் திருட்டு",
+       "<b>12 கிலோ</b> வெள்ளிப் பொருட்கள், <b>ரூ.2 லட்சம்</b> பணம் திருட்டு"
       ]
      },
      {
-      "title": "எப்படி வளர்கிறது?",
+      "title": "எப்படி நடந்தது?",
       "lines": [
-       "கடந்த வாரம் உழவு செய்து நாற்று நடவு நடந்தது",
-       "தற்போது செடிகள் முளைத்து வளர்ச்சி கண்டுள்ளன",
-       "கிணற்று நீர் பாசன முறையில் தண்ணீர் பாய்ச்சப்படுகிறது"
+       "வீடு பெரும்பாலும் பூட்டியே கிடந்தது",
+       "நள்ளிரவு வீட்டுக் கதவுகளின் பூட்டுகள் உடைப்பு",
+       "அலமாரிகளை உடைத்து நகை, வெள்ளி, பணம் கொள்ளை"
       ]
      },
      {
-      "title": "விவசாயிகளுக்கு",
+      "title": "போலீசார் விசாரணை",
       "lines": [
-       "இந்த சாகுபடி மூலம் ஓரளவு வருமானம் கிடைக்கிறது",
-       "செலவு குறைவு என்பதால் விவசாயிகள் முக்கியத்துவம்"
+       "கைரேகை நிபுணர்கள் வரவழைத்து தடயங்கள் சேகரிப்பு",
+       "கண்காணிப்பு கேமரா பதிவுகளை ஆய்வு செய்கின்றனர்",
+       "தனிப்படை அமைத்து கொள்ளையர்களை தேடுகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கிருஷ்ணராயபுரம் ஒன்றியத்தில் சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவங்கியுள்ளது. சேங்கல், வீரியபாளையம், சிவாயம், பாப்பகாப்பட்டி, குழந்தைப்பட்டி, கோடங்கிப்பட்டி, வரகூர், மேட்டுப்பட்டி, மலையாண்டிப்பட்டி, கொசூர், முத்தம்பட்டி ஆகிய பகுதிகளில் பரவலாக இந்தக் கிழங்கு பயிரிடப்பட்டுள்ளது. கடந்த வாரம் நிலங்களில் உழவு செய்து சமன்படுத்தி, கிழங்கு செடி நாற்று நடவு நடைபெற்றது. தற்போது செடிகள் அனைத்தும் முளைத்து வளர்ச்சி கண்டுள்ளன. கிணற்று நீர் பாசன முறையில் தண்ணீர் பாய்ச்சப்படுகிறது. இந்த சாகுபடி மூலம் விவசாயிகளுக்கு ஓரளவு வருமானம் கிடைக்கிறது. செலவு குறைவு என்பதால் விவசாயிகள் சர்க்கரைவள்ளி கிழங்கு சாகுபடிக்கு முக்கியத்துவம் அளித்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌱 கிருஷ்ணராயபுரத்தில் சர்க்கரைவள்ளி கிழங்கு சாகுபடி தொடக்கம்\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் ஒன்றியத்தில் சர்க்கரைவள்ளி கிழங்கு சாகுபடி பணி துவங்கியுள்ளது. சேங்கல், வீரியபாளையம், சிவாயம், பாப்பகாப்பட்டி, குழந்தைப்பட்டி, கோடங்கிப்பட்டி, வரகூர், மேட்டுப்பட்டி, மலையாண்டிப்பட்டி, கொசூர், முத்தம்பட்டி ஆகிய பகுதிகளில் பரவலாக இந்தக் கிழங்கு பயிரிடப்பட்டுள்ளது. கடந்த வாரம் உழவு செய்து, நாற்று நடவு நடைபெற்றது. தற்போது செடிகள் முளைத்து வளர்ச்சி கண்டுள்ளன. கிணற்று நீர் பாசனத்தில் தண்ணீர் பாய்ச்சப்படுகிறது. இதன் மூலம் விவசாயிகளுக்கு ஓரளவு வருமானம் கிடைக்கிறது. செலவு குறைவு என்பதால் விவசாயிகள் இதற்கு முக்கியத்துவம் அளிக்கின்றனர்.\n\nSweet potato cultivation Krishnarayapuram | Karur news\n📍 கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #விவசாயம் #KarurNews",
-   "prompts": "A farmer in a veshti and shirt waters a young sweet potato field from a well in Krishnarayapuram union, Karur district, where freshly planted sweet potato vine seedlings have sprouted into low green leafy rows across the levelled, ploughed brown soil. The setting is a flat rural agricultural plot in the villages of Krishnarayapuram union, with a few other fields, scattered palm trees and a distant line of village houses at the edge. Two or three other farmers in shirts and veshtis work at the far end of the field, seen from behind and small in the frame, one holding a hoe over his shoulder. A simple well with a rope-and-pot or pipe irrigation setup stands at the edge of the plot, with water channels running between the raised beds. The time is mid-morning under clear daylight, with soft sunlight on the green plants and dry earth. Camera at eye level, 35 mm, wide enough to show the whole field and the village background. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of freshly planted sweet potato vine seedlings in a ploughed and levelled field in Krishnarayapuram union, Karur district, with the young green leaves and tender stems just sprouting from the moist soil. Water from a well is flowing along a narrow earthen channel between the raised rows, glistening on the dark wet soil, and a few of the plants are clearly lush and growing. The foreground shows the crisp row of plants and the furrows, while a farmer's bare feet and the edge of a veshti appear softly at the frame edge, seen from behind and out of focus. Daylight, clear weather, natural green and brown tones, camera at low-to-eye level, 35 mm, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sugarcane-cultivation-begins/4381188",
-   "published": "2026-11-20T04:00:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "சிவகங்கை மாவட்டம் சிங்கம்புணரி அருகே உலகம்பட்டியில் வீடு ஒன்றில் மொத்தம் சுமார் 75 லட்சம் ரூபாய் மதிப்புள்ள பொருட்கள் கொள்ளை போயுள்ளன. கரூரில் பர்னிச்சர் கடை நடத்தி வரும் 66 வயது நடராஜனின் வீட்டில் இந்தக் கொள்ளை நடந்துள்ளது. அவரது சகோதரர்கள் நாச்சியப்பன், 62 வயது, சிங்காரம், 58 வயது ஆகியோரும் வெளியூர்களில் தங்கி தொழில் செய்து வருகின்றனர். இதனால் உலகம்பட்டியில் உள்ள அந்த வீடு பெரும்பாலும் பூட்டியே கிடந்தது. சம்பவத்தன்று நள்ளிரவு மர்ம நபர்கள் வீட்டின் கதவுகளில் இருந்த பூட்டுகளை உடைத்து உள்ளே புகுந்தனர். பின்னர் தனி அறையில் இருந்த அலமாரிகளை உடைத்து, சுமார் 50 சவரன் தங்க நகைகள், 12 கிலோ வெள்ளிப் பொருட்கள், ரூ.2 லட்சம் ரொக்கப் பணம் ஆகியவற்றைக் கொள்ளையடித்துச் சென்றனர். அக்கம் பக்கத்தினர் வீட்டுக் கதவுகள் திறந்திருப்பதைப் பார்த்து நடராஜனுக்குத் தகவல் கொடுத்தனர். சொந்த ஊருக்கு வந்த அவர் கொள்ளை நடந்ததை உறுதி செய்தார். போலீசார் கைரேகை நிபுணர்களை வரவழைத்து தடயங்களைச் சேகரித்தனர். அப்பகுதியில் சுமார் 2 கிலோமீட்டர் சுற்றளவில் கண்காணிப்பு கேமராக்கள் இல்லாததால் குற்றவாளிகளைப் பிடிப்பது சவாலாக உள்ளது. திருப்பத்தூர் துணை கண்காணிப்பாளர் சண்முகம் சுந்தரம் தலைமையில் தனிப்படை அமைக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சிங்கம்புணரி அருகே வீட்டில் ₹75 லட்சம் மதிப்பு நகை, வெள்ளி, பணம் கொள்ளை\n\n📰 முழு விவரம்:\nசிவகங்கை மாவட்டம் சிங்கம்புணரி தாலுகா எஸ்.புதூர் அருகே உலகம்பட்டி சேங்கை ஊரணி வீதியில் உள்ள நடராஜன் (66 வயது) வீட்டில் கொள்ளை நடந்துள்ளது. கரூரில் பர்னிச்சர் கடை நடத்தி வரும் அவரது சகோதரர்கள் நாச்சியப்பன் (62 வயது), சிங்காரம் (58 வயது) ஆகியோரும் குடும்பத்துடன் வெளியூர்களில் தங்கி தொழில் செய்வதால் அந்த வீடு பெரும்பாலும் பூட்டியே கிடந்தது.\nசம்பவத்தன்று நள்ளிரவு மர்ம நபர்கள் வீட்டின் கதவுகளில் இருந்த பூட்டுகளை உடைத்து உள்ளே புகுந்தனர். தனி அறையில் இருந்த அலமாரிகளை உடைத்து சுமார் 50 சவரன் தங்க நகைகள், வெள்ளிப் பிள்ளையார் சிலை, வெள்ளி காமாட்சி விளக்கு உள்ளிட்ட சுமார் 12 கிலோ வெள்ளிப் பொருட்கள், ரூ.2 லட்சம் ரொக்கப் பணம் ஆகியவற்றைக் கொள்ளையடித்துச் சென்றனர்.\nவீட்டுக் கதவுகள் திறந்திருப்பதைக் கண்ட அக்கம் பக்கத்தினர் நடராஜனுக்குத் தகவல் தெரிவித்தனர். சொந்த ஊருக்கு வந்த அவர் பார்த்தபோது கொள்ளை நடந்தது தெரியவந்தது. உலகம்பட்டி காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது.\nபோலீசார் கைரேகை நிபுணர்களை வரவழைத்து தடயங்களைச் சேகரித்தனர். அப்பகுதியில் சுமார் 2 கிலோமீட்டர் சுற்றளவுக்கு கண்காணிப்பு கேமராக்கள் இல்லாததால் குற்றவாளிகளைப் பிடிப்பது சவாலாக உள்ளது. கேமரா பதிவுகளை ஆய்வு செய்கின்றனர். மாவட்ட காவல் கண்காணிப்பாளர் அபிஷேக் குப்தா உத்தரவின் பேரில் திருப்பத்தூர் துணை கண்காணிப்பாளர் சண்முகம் சுந்தரம் தலைமையில் தனிப்படை அமைக்கப்பட்டு தீவிர விசாரணை நடக்கிறது.\n\nSingampunari house robbery 50 sovereigns gold | Karur news\n📍 உலகம்பட்டி, சிங்கம்புணரி, சிவகங்கை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கொள்ளை #கரூர்",
+   "prompts": "A police officer in khaki stands beside an open front door of a modest village house, the broken lock and splintered door frame clearly showing a forced entry; the house is a single‑storey dwelling with a tiled roof and a small front garden typical of Ulagampatti, located on a quiet lane near Singampunari; behind the officer, the silhouette of two other uniformed officers can be seen, their backs to the camera, while a faint flashlight beam illuminates the dark interior; the broken door reveals a dark hallway and a partially opened wardrobe, hinting at the theft; it is night, the only light coming from the officer’s torch against the dark sky; shot from eye level with a 35 mm lens, wide enough to capture the house façade and the police presence. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a low wooden table inside the house shows a scattered pile of gleaming gold sovereigns, a silver deity statue and a polished silver lamp, alongside a bundle of cash notes, all laid out after being recovered by police; the table is in a modest interior room with plain walls, typical of a Karur‑area home; a blurred police officer’s hand in a khaki uniform rests on the edge of the table, holding a evidence bag, while another officer’s silhouette stands a few steps back; the items total about 50 gold pieces and 12 kg of silver, matching the reported loot; the scene is lit by a portable lamp, casting warm light on the metal objects; captured at eye level with a 35 mm lens, focusing tightly on the stolen goods. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.maalaimalar.com/news/tamilnadu/singampunari-near-home-robbery-police-inquiry",
+   "published": "2026-11-20T07:20:23Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146526/karur360/sxeiirlmn2naqwissepp.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146528/karur360/nu69sgtxgqmk1wgkgm6w.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூர் புகழூர் அக்ரஹாரத்தில் குரு ஜெயந்தி விழா: பக்தர்கள் சுவாமி தரிசனம்",
-   "english_headline": "Guru Jayanthi festival held at Pugalur Agraharam in Karur; devotees had darshan and free meals were served",
-   "category": "Temples & Events",
-   "location": "Nanjai Pugalur Agraharam, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் விழா",
-    "loc": "நன்செய் புகழூர்",
-    "hl1": "நன்செய் புகழூரில் குரு ஜெயந்தி விழா",
-    "hl2": "பக்தர்கள் சுவாமி தரிசனம்",
-    "slides": [
-     {
-      "title": "விழா தொடக்கம்",
-      "lines": [
-       "கரூர் மாவட்டம், நன்செய் புகழூர் அக்ரஹாரத்தில் குரு ஜெயந்தி",
-       "16ஆம் தேதி கணபதி ஹோமத்துடன் பூஜை தொடங்கியது",
-       "தேவதைகளுக்கு சிறப்பு அபிஷேகம் செய்யப்பட்டது"
-      ]
-     },
-     {
-      "title": "நிகழ்ச்சிகள்",
-      "lines": [
-       "அன்று மாலை வேதமுகம், உபநிடத சொற்பொழிவு நடந்தது",
-       "இரண்டாம் நாளான 17ஆம் தேதி சிறப்பு நட்சத்திர ஹோமம் நடந்தது",
-       "ஜாதக தோஷம் நீங்கவும், நீண்ட ஆரோக்கியம் வேண்டியும் பக்தர்கள்"
-      ]
-     },
-     {
-      "title": "மூன்றாம் நாள்",
-      "lines": [
-       "மூன்றாம் நாள் சம்பாவனை அளித்தல் நிகழ்ச்சி நடந்தது",
-       "நிறைவு நாளான நேற்று மதியம் 12 மணியளவில் சிறப்பு பூஜை நடந்தது",
-       "ஏராளமான பக்தர்கள் சுவாமி தரிசனம் செய்தனர்"
-      ]
-     },
-     {
-      "title": "அன்னதானம்",
-      "lines": [
-       "விழாவில் அனைவருக்கும் அன்னதானம் வழங்கப்பட்டது",
-       "குரு ஜெயந்தி விழா நிறைவு பெற்றது",
-       "நன்செய் புகழூர் பக்தர்களுக்கு நன்றி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "நன்செய் புகழூர் அக்ரஹாரத்தில் குரு ஜெயந்தி விழாவில் ஏராளமான பக்தர்கள் சுவாமி தரிசனம் செய்தனர். கரூர் மாவட்டம், நன்செய் புகழூர் அக்ரஹாரத்தில் குரு ஜெயந்தி விழா நடைபெற்றது. 16ஆம் தேதி கணபதி ஹோமத்துடன் பூஜை தொடங்கியது. தொடர்ந்து தேவதைகளுக்கு சிறப்பு அபிஷேகம் செய்யப்பட்டது. அன்று மாலை வேதமுகம் மற்றும் உபநிடத சொற்பொழிவு நடைபெற்றது. இரண்டாம் நாளான 17ஆம் தேதி, பக்தர்கள் ஜாதக தோஷம் நீங்கவும், நீண்ட ஆரோக்கியம் பெறவும் வேண்டி சிறப்பு நட்சத்திர ஹோமம் நடைபெற்றது. மூன்றாம் நாளில் சம்பாவனை அளித்தல் நிகழ்ச்சி நடைபெற்றது. நிறைவு நாளான நேற்று மதியம் 12 மணியளவில் சிறப்பு பூஜை நடைபெற்றது. இந்த பூஜையில் ஏராளமான பக்தர்கள் சுவாமி தரிசனம் செய்தனர். விழாவில் அனைவருக்கும் அன்னதானம் வழங்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 நன்செய் புகழூரில் குரு ஜெயந்தி விழா: ஏராளமான பக்தர்கள் சுவாமி தரிசனம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், நன்செய் புகழூர் அக்ரஹாரத்தில் குரு ஜெயந்தி விழா நடைபெற்றது. 16ஆம் தேதி கணபதி ஹோமத்துடன் பூஜை தொடங்கி, தேவதைகளுக்கு சிறப்பு அபிஷேகம் செய்யப்பட்டது. அன்று மாலை வேதமுகம், உபநிடத சொற்பொழிவு நடைபெற்றது.\nஇரண்டாம் நாளான 17ஆம் தேதி பக்தர்கள் ஜாதக தோஷம் நீங்கவும், நீண்ட ஆரோக்கியம் பெறவும் வேண்டி சிறப்பு நட்சத்திர ஹோமம் நடைபெற்றது. மூன்றாம் நாளில் சம்பாவனை அளித்தல் நிகழ்ச்சி நடைபெற்றது.\nநிறைவு நாளான நேற்று மதியம் 12 மணியளவில் சிறப்பு பூஜை நடைபெற்றது. ஏராளமான பக்தர்கள் சுவாமி தரிசனம் செய்தனர். அனைவருக்கும் அன்னதானம் வழங்கப்பட்டது.\n\n📍 இடம்: நன்செய் புகழூர் அக்ரஹாரம், கரூர் மாவட்டம்\n🕛 நேரம்: நிறைவு நாள் மதியம் 12 மணி சிறப்பு பூஜை\n\nGuru Jayanthi festival Pugalur Agraharam Karur | Karur news\n📍 நன்செய் புகழூர், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Pugalur #KarurNews #கரூர்",
-   "prompts": "A long line of devotees in traditional dress queues at the entrance of a temple on a traditional agraharam street in Nanjai Pugalur, Karur district, while the closing pooja of the Guru Jayanthi festival is conducted at midday. The street is lined with old tiled-roof houses with low whitewashed walls and a temple gopuram rising above the rooftops. Men in white veshti and bare upper bodies, and women in cotton and silk sarees, stand in the line, some with folded hands, seen from behind and from a distance. Brass kalasam pots and a decorated pandal with flower garlands and banana stems frame the temple entrance. Bright midday sunlight, clear sky. Camera at eye level, 35 mm, wide enough to show the street, the gopuram and the queue. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of banana leaves laid on the ground in front of a temple hall, with steel tumblers of water and small heaps of rice and sambar being served by volunteers in white shirts and dhotis, seen from behind. Brass kalasam pots with mango leaves and a garland of marigold flowers sit at the edge of the frame. Daylight, midday, soft shadows, a stone floor with a few devotees' sandals neatly placed at the side. Camera slightly high, 50 mm, shallow depth of field to focus on the leaves and food being served. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/devotees-pay-obeisance-on-guru-jayanti/4381197",
-   "published": "2026-11-20T04:04:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says the festival was in Nansei Pugalur Agraharam, but the draft's tamil_headline places it in 'கரூர் புகழூர் அக்ரஹாரம்' (Karur Pugalur), which conflates the place names; the article names 'நன்செய் புகழூர்'.; fact-check: The reel_script says the rituals were held for 'ஜாதக தோஷம் நீங்கவும்' (to remove horoscope dosha), while the article says devotees prayed to be freed from horoscope dosha; the draft's wording is acceptable, but the slides_spec line 'ஜாதக தோஷம் நீங்கவும், நீண்ட ஆரோக்கியம் வேண்டியும் பக்தர்கள்' is an incomplete sentence with no clear verb, so it is not grammatically meaningful.; fact-check: The slides_spec 'குரு ஜெயந்தி விழா நிறைவு பெற்றது' and 'நன்செய் புகழூர் பக்தர்களுக்கு நன்றி' contain an added thank-you message not present in the article.; fact-check: The slides_spec line 'மூன்றாம் நாள் சம்பாவனை அளித்தல் நிகழ்ச்சி நடந்தது' places the 'சம்பாவனை' event on the third day, while the article says it was on 'நேற்று முன்தினம' (the day before yesterday relative to the closing day); the day numbering is consistent, but the caption's 'மூன்றாம் நாளில்' is acceptable and the reel_script says 'மூன்றாம் நாளில்' — no error there.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 4 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146539/karur360/jvtbd9uquvv1ms6edaeu.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146542/karur360/f72vp2rzgu5ll0rjvrfv.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "நெல் பயிரில் இலை சுருட்டுப்புழு: கட்டுப்படுத்த விவசாயிகளுக்கு விழிப்புணர்வு",
-   "english_headline": "Karur farmers urged to control leaf roller in paddy crops with neem-based spray or chlorpyrifos when 10 of 100 leaves are affected",
-   "category": "Weather & Agriculture",
-   "location": "Krishnarayapuram, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேளாண்மை எச்சரிக்கை",
-    "loc": "கரூர் மாவட்டம்",
-    "hl1": "நெல் பயிரில் இலை சுருட்டுப்புழு",
-    "hl2": "விவசாயிகள் கவனத்திற்கு",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சனை?",
-      "lines": [
-       "சம்பா நெல் பயிரில் இலை சுருட்டுப்புழு தாக்குதல் தென்படுகிறது",
-       "கரூர் மாவட்ட வேளாண்மைத்துறை துணை இயக்குனர் அறிக்கை",
-       "பயிர் நடவு மற்றும் வளர்ச்சி பருவத்தில் உள்ளது"
-      ]
-     },
-     {
-      "title": "தாக்குதல் குறைவாக",
-      "lines": [
-       "<b>வேப்ப எண்ணெய்</b> அல்லது அசாடிராக்டின் மருந்து பயன்படுத்தலாம்",
-       "ஏக்கருக்கு <b>500 மி.லி.</b> மருந்துடன் ஷாம்பு <b>3",
-       "தாக்குதல் இல்லாவிட்டாலும் இந்த முறையில் தெளிக்கலாம்"
-      ]
-     },
-     {
-      "title": "தாக்குதல்",
-      "lines": [
-       "100 இலைகளில் <b>10 இலைகளுக்கு மேல்</b> பாதிப்பு இருந்தால்",
-       "குளோர்பைரிபாஸ் <b>25 மி.லி.</b> ஒட்டும் திரவம் <b>0.5",
-       "இதன் மூலம் புழு கட்டுப்படுத்தப்படும்"
-      ]
-     },
-     {
-      "title": "விவசாயிகளுக்கான",
-      "lines": [
-       "தேவையற்ற கூடுதல் செலவைக் குறைக்க முடியும்",
-       "பூச்சி தாக்குதல் குறைந்து மகசூல் எடுக்க முடியும்",
-       "விவசாயிகள் இதை பயன்படுத்திக் கொள்ளலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "நெல் பயிரில் இலை சுருட்டுப்புழு தாக்குதல் தென்படுவதாக கரூர் மாவட்ட வேளாண்மைத்துறை எச்சரித்துள்ளது. சம்பா நெல் சாகுபடி தற்போது நடவு மற்றும் வளர்ச்சி பருவத்தில் உள்ளது. துணை இயக்குனர் அரவிந்தன் இதுகுறித்த அறிக்கையை வெளியிட்டுள்ளார். தாக்குதல் குறைவாக இருந்தாலும், தாக்குதல் இல்லாவிட்டாலும், வேப்ப எண்ணெய் அல்லது அசாடிராக்டின் மருந்தை ஏக்கருக்கு 500 மி லி அளவில் ஷாம்பு 3 பாக்கெட்டுடன் கலந்து தெளிக்கலாம். 100 இலைகளில் 10 இலைகளுக்கு மேல் பாதிப்பு இருந்தால், குளோர்பைரிபாஸ் 25 மி லி மருந்துடன் ஒட்டும் திரவம் 0.5 மி லி கலந்து தெளிக்க வேண்டும். இதன் மூலம் புழுக்கள் கட்டுப்படுத்தப்படும். விவசாயிகளின் தேவையற்ற கூடுதல் செலவைக் குறைக்க முடியும். பூச்சித் தாக்குதல் குறைந்து மகசூல் எடுக்க முடியும் என அறிவுறுத்தப்படுகிறது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 நெல் பயிரில் இலை சுருட்டுப்புழு: விவசாயிகளுக்கு எச்சரிக்கை\n\n📰 முழு விவரம்:\nகரூர் மாவட்டத்தில் சம்பா நெல் சாகுபடி நடவு மற்றும் வளர்ச்சி பருவத்தில் உள்ளது. நெல் பயிரில் இலை சுருட்டுப்புழு தாக்குதல் தென்படுவதாக மாவட்ட வேளாண்மைத்துறை துணை இயக்குனர் அரவிந்தன் அறிக்கையில் தெரிவித்துள்ளார்.\n🌿 தாக்குதல் குறைவாக இருந்தாலும் அல்லது இல்லாவிட்டாலும், வேப்ப எண்ணெய் அல்லது அசாடிராக்டின் மருந்தை ஏக்கருக்கு 500 மி.லி. அளவில், ஷாம்பு 3 பாக்கெட்டுடன் கலந்து தெளிக்கலாம்.\n🧪 100 இலைகளில் 10 இலைகளுக்கு மேல் பாதிப்பு இருந்தால், குளோர்பைரிபாஸ் 25 மி.லி. மருந்துடன் ஒட்டும் திரவம் 0.5 மி.லி. கலந்து தெளிக்க வேண்டும்.\n💰 இதன் மூலம் புழுக்கள் கட்டுப்படுத்தப்படும்; விவசாயிகளின் தேவையற்ற கூடுதல் செலவைக் குறைக்க முடியும்; பூச்சித் தாக்குதல் குறைந்து மகசூல் எடுக்க முடியும்.\n\nKarur paddy leaf roller control advisory | Karur news\n📍 கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A farmer in a white shirt and veshti sprays neem-based pesticide over green paddy plants in a wide flooded field in Krishnarayapuram, Karur district. Behind him, rows of young samba paddy seedlings and transplanted plants stretch toward a line of banana trees and palm trees under a clear daylight sky. A second farmer stands at the field edge with a hand sprayer tank on his back, seen from behind and far away. The paddy leaves in the foreground show some curled, rolled leaves, hinting at the leaf roller pest. Shot at eye level with a 35 mm lens, wide enough to show the whole paddy field and the farmers, bright natural daylight, no readable text or labels. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of paddy plant leaves in a green samba paddy field in Krishnarayapuram, Karur district, with several leaves curled and rolled tightly by leaf roller larvae, the damage clearly visible against healthy green leaves. In the soft-focus background, a plastic pesticide sprayer tank rests on the muddy field bund beside a few spray containers. Shallow depth of field, natural daylight, a small farmer's hand partly visible holding a spray nozzle seen from behind, no faces, no readable labels or text on the containers, eye-level camera with a 35 mm lens. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-on-leafworm-control-in-paddy-crops/4381189",
-   "published": "2026-11-20T04:00:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146549/karur360/xszunpfns3ghy9w8dmms.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146552/karur360/oztlgjxj58m4pjeszsho.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "புத்த, சமண, சீக்கிய புனித பயணத்துக்கு நிதி உதவி: விண்ணப்பிக்கலாம்",
-   "english_headline": "Financial aid for Buddhist, Jain and Sikh pilgrimages: applications invited till 31 January 2027",
-   "category": "Government & Services",
-   "location": "Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு திட்டம்",
-    "loc": "கரூர் மாவட்டம்",
-    "hl1": "புனித பயணத்துக்கு நிதி உதவி விண்ணப்பம்",
-    "hl2": "கடைசி நாள் 31 ஜனவரி 2027",
-    "slides": [
-     {
-      "title": "யாருக்கு உதவி?",
-      "lines": [
-       "புத்த, சமண, சீக்கிய மதத்தினர் விண்ணப்பிக்கலாம்",
-       "ஒருவருக்கு <b>10 ஆயிரம் ரூபாய்</b> வழங்கப்படும்",
-       "மொத்தம் <b>120 பேருக்கு 12 லட்சம் ரூபாய்</b>"
-      ]
-     },
-     {
-      "title": "எங்கு செல்லலாம்?",
-      "lines": [
-       "இந்தியாவில் உள்ள அவரவர் மத புனித தலங்களுக்கு பயணம்",
-       "எடுத்துக்காட்டாக பீகார் புத்த கயா, அமிர்தசரஸ்",
-       "நேபாளத்தில் உள்ள லும்பினியும் அடங்கும்"
-      ]
-     },
-     {
-      "title": "விண்ணப்பிப்பது",
-      "lines": [
-       "கலெக்டர் அலுவலகத்தில் உள்ள மாவட்ட பிற்படுத்தப்பட்டோர் நல",
-       "இணையதளத்திலும் பதிவிறக்கம் செய்யலாம்",
-       "பூர்த்தி செய்து ஆவணங்களுடன் அனுப்ப வேண்டும்"
-      ]
-     },
-     {
-      "title": "கடைசி நாள்",
-      "lines": [
-       "<b>2027 ஜனவரி 31</b>க்குள் அனுப்ப வேண்டும்",
-       "சென்னை சேப்பாக்கம் சிறுபான்மையினர் நலத்துறை ஆணையருக்கு",
-       "நடப்பு நிதியாண்டில் பயணம் செய்பவர்களுக்கு மட்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "நிதி உதவியுடன் புனித பயணம் செல்ல விண்ணப்பிக்கலாம். புத்த, சமண, சீக்கிய மதத்தினர் இந்த உதவியைப் பெறலாம் என கலெக்டர் பிரசன்னா ராமசாமி தெரிவித்துள்ளார். தமிழ்நாட்டைச் சேர்ந்த 120 பேருக்கு, ஒருவருக்கு 10 ஆயிரம் ரூபாய் வீதம், மொத்தம் 12 லட்சம் ரூபாய் நிதி வழங்கப்படுகிறது. 50 புத்த மதத்தினர், 50 சமண மதத்தினர், 20 சீக்கிய மதத்தினர் இதில் பயனடைவர். இந்தியாவில் உள்ள அவரவர் மதத்தின் புனித தலங்களுக்குச் செல்லலாம். விண்ணப்ப படிவங்களை கலெக்டர் அலுவலகத்தில் உள்ள மாவட்ட பிற்படுத்தப்பட்டோர் மற்றும் சிறுபான்மையினர் நல அலுவலகத்தில் பெறலாம். இணையதளத்திலும் படிவத்தைப் பதிவிறக்கம் செய்யலாம். பூர்த்தி செய்த விண்ணப்பத்தை உரிய ஆவணங்களுடன் 2027 ஜனவரி 31ஆம் தேதிக்குள், சென்னை சேப்பாக்கம் சிறுபான்மையினர் நலத்துறை ஆணையருக்கு அனுப்ப வேண்டும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 புனித பயணத்துக்கு நிதி உதவி: 120 பேருக்கு 12 லட்சம் ரூபாய் – விண்ணப்பிக்கலாம்\n\n📰 முழு விவரம்:\nபுத்த, சமண, சீக்கிய மதத்தினர் இந்தியாவில் உள்ள தங்கள் மதத்தின் புனித தலங்களுக்குப் பயணம் செல்ல நிதி உதவி பெறலாம் என கலெக்டர் பிரசன்னா ராமசாமி தெரிவித்துள்ளார்.\nதமிழ்நாட்டைச் சேர்ந்த 50 புத்த மதத்தினர், 50 சமண மதத்தினர், 20 சீக்கிய மதத்தினர் என மொத்தம் 120 பேருக்கு உதவி வழங்கப்படுகிறது.\nஒருவருக்கு 10 ஆயிரம் ரூபாய் வீதம், மொத்தம் 12 லட்சம் ரூபாய் நிதி வழங்கப்படுகிறது.\nபுத்த கயா, சாரநாத், ராஜ்கிர், லும்பினி, சமண மத தலங்கள், பஞ்சாப் அமிர்தசரஸ் உள்ளிட்ட புனித தலங்களுக்குச் செல்லலாம்.\n🏢 நிதி உதவி விண்ணப்பப் படிவங்களை கலெக்டர் அலுவலகத்தில் உள்ள மாவட்ட பிற்படுத்தப்பட்டோர் மற்றும் சிறுபான்மையினர் நல அலுவலகத்தில் பெறலாம்.\n🌐 இணையதளத்தில் இருந்தும் படிவத்தைப் பதிவிறக்கம் செய்யலாம்.\n📅 பூர்த்தி செய்த விண்ணப்பத்தை உரிய ஆவணங்களுடன் 2027 ஜனவரி 31க்குள் அனுப்ப வேண்டும்.\n📮 முகவரி: ஆணையர், சிறுபான்மையினர் நலத்துறை, கலசமஹால் பாரம்பரிய கட்டடம், முதல் தளம், சேப்பாக்கம், சென்னை – 600 005.\n\nFinancial aid for Buddhist Jain Sikh pilgrimage, apply by 31 January 2027 | Karur news\n📍 கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #அரசுத்திட்டம்",
-   "prompts": "A group of elderly pilgrims, men in shirts and veshti and women in sarees, stand in a queue outside a government office building in Karur town, daytime, holding application papers in folders. Their backs are turned toward the camera, and a row of tiled-roof government office buildings and a concrete compound wall lines the street behind them. A few district welfare office staff in plain shirts sit at a wooden counter near an open doorway, handing over forms. Some people carry cloth bags and a rolled umbrella, and a parked two-wheeler and a town bus pass at a distance on the road. Bright morning light, slight haze, the civic atmosphere calm and orderly. Eye-level camera, 35 mm lens, wide enough to show the building entrance, the queue and the street. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a stack of blank pilgrimage application forms lying on a wooden government office table, next to a stamp pad, a pen and a neatly folded envelope, with a pair of hands in a shirt sleeve gently sorting the papers. Behind the table a slightly blurred wall with a tiled border suggests the Backward Classes and Minorities Welfare office in Karur. Soft daylight from a window falls across the forms, showing their printed blank boxes without any readable text. The focus is sharp on the forms, the envelope and the stamp pad, with the background softly out of focus, and the mood is quiet and official. Eye-level camera, 35 mm lens, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/one-can-apply-for-financial-assistance-for-buddhist-jain-and-sikh-pilgrimage/4381187",
-   "published": "2026-11-20T03:59:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 90 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146575/karur360/aydtmbhcoc0v4l6zqbkt.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795146578/karur360/k00qtws91fhs2tzzlcmz.jpg"
-   ]
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795161673/karur360/jaxzc9xez38fngfozqhl.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795161675/karur360/czp1fi0hozmbdk8wtjqd.jpg"
+   ],
+   "real_photo": "Maalaimalar"
   }
  ]
 }
