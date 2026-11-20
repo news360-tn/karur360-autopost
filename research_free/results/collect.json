@@ -3,12 +3,12 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/848-people-arrested-for-smuggling-ration-rice-and-subsidized-fertilizer-in-5-districts-including-trichy-and-karur",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-january-bypolls-6-constituencies",
   "candidate filter: collected=1",
   "to write: 1 Karur district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/848-people-arres",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-janua",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
   "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 72 min",
@@ -18,106 +18,98 @@
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (33s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (34s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (28s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "ok gemini/gemini-3.5-flash (47s)",
+  "ok gemini/gemini-3.6-flash (56s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3.6-flash (41s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (44s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (46s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/openai/gpt-oss-120b (2s)",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "திருச்சி, கரூர் உட்பட 5 மாவட்டங்களில் ரேஷன் அரிசி, உரம் கடத்திய 848 பேர் கைது: கரூரில் 321 பேர் சிக்கினர்",
-   "english_headline": "848 arrested across Karur, Trichy and 3 other districts for smuggling ration rice and subsidized fertilizer; 321 arrested in Karur",
-   "category": "Crime & Safety",
+   "tamil_headline": "கரூர் உட்பட 6 தொகுதிகளுக்கு ஜனவரியில் இடைத்தேர்தல்? - தேர்தல் ஆணையம் பரிசீலனை",
+   "english_headline": "EC considers conducting by-elections for 6 seats in Tamil Nadu including Karur and Kolathur in January",
+   "category": "Government & Services",
    "location": "Karur town, Karur district",
    "importance": "High",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரேஷன் கடத்தல்",
-    "loc": "கரூர் நகரம், கரூர்",
-    "hl1": "கரூரில் ரேஷன் அரிசி கடத்தல்",
-    "hl2": "321 பேர் அதிரடி கைது",
+    "cat": "இடைத்தேர்தல்",
+    "loc": "கரூர்",
+    "hl1": "கரூர் உட்பட 6 இடங்களில் இடைத்தேர்தல்?",
+    "hl2": "ஜனவரியில் நடக்க வாய்ப்பு",
     "slides": [
      {
-      "title": "கரூர் நடவடிக்கை",
+      "title": "6 காலியிடங்கள்",
       "lines": [
-       "கரூரில் <b>264 வழக்குகள்</b> பதிவு செய்யப்பட்டன",
-       "ரேஷன் கடத்தலில் ஈடுபட்ட <b>321 பேர்</b> கைது",
-       "<b>2 பேர்</b> குண்டர் சட்டத்தில் சிறையில் அடைப்பு"
+       "<b>கரூர்</b>, திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை",
+       "அம்பாசமுத்திரம், கொளத்தூர் ஆகிய <b>6 தொகுதிகள்</b>",
+       "ஜனவரியில் தேர்தல் நடத்த ஆணையம் பரிசீலனை"
       ]
      },
      {
-      "title": "பறிமுதல் விவரம்",
+      "title": "வேட்பாளர்கள்",
       "lines": [
-       "<b>58.720 டன்</b> ரேஷன் அரிசி பறிமுதல்",
-       "<b>38.115 டன்</b> மானிய உரம் பறிமுதல் செய்யப்பட்டது",
-       "கடத்தலுக்குப் பயன்படுத்திய <b>30 வாகனங்கள்</b> பறிமுதல்"
+       "கரூர் <b>எம்.ஆர்.விஜயபாஸ்கர்</b> உட்பட 4 பேர் போட்டி?",
+       "கொளத்தூரில் மு.க.ஸ்டாலின், அம்பாசமுத்திரத்தில் சீமான்?",
+       "பொங்கல் பண்டிகைக்குப் பின் வாக்குப்பதிவு சாத்தியம்"
       ]
      },
      {
-      "title": "சிலிண்டர் பதுக்கல்",
+      "title": "நீதிமன்ற உத்தரவு",
       "lines": [
-       "சிலிண்டர் பதுக்கியதாக <b>22 வழக்குகள்</b> பதிவு",
-       "<b>364 சமையல் எரிவாயு</b> உருளைகள் பறிமுதல்"
-      ]
-     },
-     {
-      "title": "5 மாவட்ட கணக்கு",
-      "lines": [
-       "கரூர், திருச்சி உட்பட 5 மாவட்டங்களில் தீவிர வேட்டை",
-       "மொத்தம் <b>848 பேர்</b> இதுவரை கைது"
+       "மரகதம் குமரவேல், சத்யபாமா தகுதிநீக்க மனு",
+       "<b>2 மாதங்களில்</b> முடிவெடுக்க சபாநாயகருக்கு உத்தரவு",
+       "அரசியல் கட்சிகள் தேர்தல் பணிகளில் தீவிரம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் ரேஷன் அரிசி உரம் கடத்திய 321 பேர் கைது. கரூர் மற்றும் சுற்றுவட்டார மாவட்டங்களில் குடிமைப்பொருள் வழங்கல் குற்றப்புலனாய்வுத் துறையினர் தீவிர சோதனை நடத்தினர். கரூரில் 264 வழக்குகள் பதிவு செய்யப்பட்டு 321 பேர் கைது செய்யப்பட்டுள்ளனர். கரூரில் 58.720 டன் ரேஷன் அரிசி மற்றும் 38.115 டன் மானிய உரம் பறிமுதல் செய்யப்பட்டன. மேலும் 30 வாகனங்கள் மற்றும் சமையல் எரிவாயு உருளைகள் பதுக்கியதாக 22 வழக்குகள் பதிவு செய்யப்பட்டு 364 உருளைகள் பறிமுதல் செய்யப்பட்டன. தொடர் குற்றங்களில் ஈடுபட்ட கரூரைச் சேர்ந்த 2 பேர் குண்டர் சட்டத்தில் சிறையில் அடைக்கப்பட்டனர். கரூர், திருச்சி, பெரம்பலூர், அரியலூர், புதுக்கோட்டை ஆகிய 5 மாவட்டங்களில் மொத்தம் 848 பேர் கைது செய்யப்பட்டுள்ளனர். ரேஷன் பொருட்கள் கடத்தலைத் தடுக்க காவல்துறையினர் தீவிர ரோந்து பணியில் ஈடுபட்டு வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கரூரில் ரேஷன் அரிசி, உரம் கடத்திய 321 பேர் கைது: 5 மாவட்டங்களில் 848 பேர் சிறையில் அடைப்பு\n\n📰 முழு விவரம்:\nகரூர், திருச்சி, பெரம்பலூர், அரியலூர், புதுக்கோட்டை ஆகிய 5 மாவட்டங்களில் குடிமைப்பொருள் வழங்கல் குற்றப்புலனாய்வு பிரிவு போலீசார் நடத்திய அதிரடி சோதனையில் 848 பேர் கைது செய்யப்பட்டுள்ளனர்.\nகரூரில் 264 வழக்குகள் பதிவு செய்யப்பட்டு 321 பேர் கைது செய்யப்பட்டனர். அவர்களிடம் இருந்து 58.720 டன் ரேஷன் அரிசி, 38.115 டன் மானிய உரம், 30 வாகனங்கள் பறிமுதல் செய்யப்பட்டன. மேலும் கியாஸ் சிலிண்டர்கள் பதுக்கியதாக 22 வழக்குகள் பதிவு செய்யப்பட்டு 364 சிலிண்டர்கள் பறிமுதல் செய்யப்பட்டன. தொடர் குற்றத்தில் ஈடுபட்ட கரூரில் 2 பேர் குண்டர் சட்டத்தில் அடைக்கப்பட்டனர்.\nதிருச்சியில் 313 வழக்குகள் பதியப்பட்டு 319 பேர் கைதாயினர்; 115,695 டன் அரிசி, 14.175 டன் உரம், 68 வாகனங்கள் பறிமுதல் செய்யப்பட்டன. திருச்சியில் 16 கியாஸ் வழக்குகளில் 177 சிலிண்டர்கள் பறிமுதல் செய்யப்பட்டு 4 பேர் குண்டர் சட்டத்தில் அடைக்கப்பட்டனர்.\nபெரம்பலூரில் 176 வழக்குகளில் 200 பேர் கைது, 21.820 டன் அரிசி-உரம், 18 வாகனங்கள் மற்றும் 12 கியாஸ் வழக்குகளில் 12 சிலிண்டர்கள் பறிமுதல் செய்யப்பட்டன.\nஅரியலூரில் 135 வழக்குகளில் 3 பேர் கைது, 5 டன் அரிசி, 4 இருசக்கர, 3 சரக்கு வாகனங்கள் பறிமுதல் செய்யப்பட்டன.\nபுதுக்கோட்டையில் 302 வழக்குகளில் 5 பேர் கைது செய்யப்பட்டு 35 டன் அரிசி பறிமுதல் செய்யப்பட்டது.\n\n📍 இடம்: கரூர் நகரம் மற்றும் சுற்றுவட்டார மாவட்டங்கள்\n🗓️ காலம்: நடப்பாண்டு (2026)\n👮 நடவடிக்கை: குடிமைப்பொருள் வழங்கல் குற்றப்புலனாய்வு காவல்துறை கைது\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்!\n\nKarur ration rice smuggling arrest | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #RationSmuggling",
-   "prompts": "A line of police officers in khaki escort dozens of arrested suspects away from a makeshift storage area while piles of rice sacks and urea bags are stacked on a metal table. PLACE: an open‑air storage yard on the outskirts of Karur town, with low concrete walls and a few parked trucks visible. PEOPLE: police in khaki uniforms, seen from behind, guiding a group of 321 arrested men and women in plain clothes; the suspects are turned away, hands bound, walking in single file. VEHICLES/OBJECTS: several seized vehicles (trucks and two‑wheelers) parked nearby; large burlap sacks marked “rice” and “urea” totalling 58.720 tonnes of rice and 38.115 tonnes of fertilizer, plus a stack of cooking‑gas cylinders. TIME+LIGHT+WEATHER: daylight, clear sky. CAMERA: eye‑level, 35 mm lens, wide enough to capture the storage yard and the procession. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of a heap of rice sacks, each tied with twine and bearing weight tags, piled beside a metal crate of white cooking‑gas cylinders. PLACE: the same storage yard in Karur, the ground dusty and the backdrop of a concrete wall. PEOPLE: only the blurred backs of two police officers in khaki can be seen as they stand guard, their hands resting on the sacks. VEHICLES/OBJECTS: the rice sacks represent the seized 58.720 tonnes of ration rice; a small pile of gas cylinders indicates the hoarded cooking‑gas stock; a nearby police‑marked vehicle is partially visible. TIME+LIGHT+WEATHER: bright daylight, no clouds. CAMERA: slightly high angle, 35 mm lens, tight framing to emphasize the seized goods. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/848-people-arrested-for-smuggling-ration-rice-and-subsidized-fertilizer-in-5-districts-including-trichy-and-karur",
-   "published": "2026-11-20T09:43:18Z",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: reel_script has 97 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); not grounded: location 'நகரம்' is not in the article",
-   "note": "free-model draft gemini/gemini-3.5-flash, 4 attempt(s), 2 validator problem(s)",
+   "reel_script": "கரூரில் ஜனவரியில் இடைத்தேர்தல் நடத்த தேர்தல் ஆணையம் பரிசீலித்து வருகிறது. தமிழகத்தில் கரூர், திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை, அம்பாசமுத்திரம் மற்றும் கொளத்தூர் ஆகிய 6 தொகுதிகள் காலியாக உள்ளன. கொளத்தூர் த வெ க சட்டமன்ற உறுப்பினர் வி எஸ் பாபு மறைந்ததை அடுத்து காலியான தொகுதிகள் 6 ஆக உயர்ந்தன. அ தி மு க விலிருந்து விலகி த வெ க வில் இணைந்த கரூர் எம் ஆர் விஜயபாஸ்கர் உட்பட 4 முன்னாள் சட்டமன்ற உறுப்பினர்க்களை மீண்டும் களமிறக்க த வெ க திட்டமிட்டுள்ளது. தாராபுரம், மதுராந்தகம் இடைத்தேர்தலில் வென்ற மரகதம் குமரவேல், சத்யபாமா உட்பட 6 பேரை தகுதிநீக்கம் செய்யக்கோரும் மனு மீது 2 மாதங்களில் முடிவெடுக்க சபாநாயகருக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது. ஜனவரியில் பொங்கல் பண்டிகைக்குப் பிறகு தேர்தல் அட்டவணை வெளியாகி வாக்குப்பதிவு நடைபெற வாய்ப்புள்ளது. கொளத்தூரில் மு க ஸ்டாலினும், அம்பாசமுத்திரத்தில் சீமானும் போட்டியிடலாம் என்ற எதிர்பார்ப்பு நிலவுகிறது. டிசம்பர் 10, 11-ல் மாநிலக் குழு கூட்டத்தில் பேசி முடிவெடுக்கப்படும் என மார்க்சிஸ்ட் கம்யூனிஸ்ட் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ கரூர் உட்பட 6 சட்டமன்ற தொகுதிகளுக்கு ஜனவரியில் இடைத்தேர்தல்? - தேர்தல் ஆணையம் பரிசீலனை\n\n📰 முழு விவரம்:\nதமிழகத்தில் கரூர், திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை, அம்பாசமுத்திரம் மற்றும் கொளத்தூர் ஆகிய 6 சட்டமன்ற தொகுதிகளுக்கு ஜனவரி மாதம் இடைத்தேர்தல் நடத்த இந்திய தேர்தல் ஆணையம் பரிசீலித்து வருகிறது. கொளத்தூர் தவெக எம்.எல்.ஏ. வி.எஸ்.பாபு மறைந்ததால் காலியிடங்கள் 6 ஆக உயர்ந்துள்ளன. அ.தி.மு.க.வில் இருந்து விலகி தவெகவில் இணைந்த கரூர் எம்.ஆர்.விஜயபாஸ்கர், விராலிமலை சி.விஜயபாஸ்கர், பெருந்துறை எஸ்.ஜெயக்குமார், அம்பாசமுத்திரம் இசக்கி சுப்பையா ஆகியோரை மீண்டும் களமிறக்க தவெக திட்டமிட்டுள்ளது.\nமேலும் தாராபுரம், மதுராந்தகம் இடைத்தேர்தலில் வென்ற மரகதம் குமரவேல், சத்யபாமா உட்பட 6 பேரை தகுதிநீக்கம் செய்யக்கோரும் மனு மீது 2 மாதங்களில் முடிவெடுக்க சபாநாயகருக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது. கொளத்தூரில் தி.மு.க. தலைவர் மு.க.ஸ்டாலினும், அம்பாசமுத்திரத்தில் சீமானும் போட்டியிட வாய்ப்புள்ளதாகக் கூறப்படுகிறது. தேர்தலை எதிர்கொள்ள தி.மு.க., தவெக, அ.தி.மு.க., நாம் தமிழர் மற்றும் கம்யூனிஸ்ட் கட்சிகள் தயாராகி வருகின்றன. மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி டிசம்பர் 10, 11 தேதிகளில் மாநிலக் குழுவில் விவாதித்து முடிவெடுக்க உள்ளது.\n\n🗓️ நாள்: ஜனவரி 2026 (எதிர்பார்ப்பு)\n🗳️ தொகுதிகள்: கரூர், திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை, அம்பாசமுத்திரம், கொளத்தூர்\nℹ️ மக்கள் கவனத்திற்கு: பொங்கல் பண்டிகைக்குப் பிறகு வாக்குப்பதிவு நடைபெற வாய்ப்புள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKarur assembly constituency by-election January 2026 update | Karur news\n📍 கரூர், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #ByElection",
+   "prompts": "Since the article describes a political decision and future election plans rather than a current physical event in Karur town, a literal news photograph of the 'event' is not possible based on the text. However, to illustrate the 'Government & Services' category regarding elections in Karur, the cover scene depicts a generic election-related civic setting. A wide shot of a government office exterior in Karur town, likely the district collectorate or a local administrative building, with a queue of citizens waiting. The building is a standard government structure with concrete pillars. People are seen from behind, standing in an orderly line on the pavement. Men wear shirts and trousers, women wear sarees. The atmosphere is calm and administrative. Daylight, clear weather. Camera at eye level, 35mm lens, showing the queue and the building facade. No readable text or signs are visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detail close-up of a ballot box or election-related equipment, as this is the central object of the news story about by-elections. A standard Indian election ballot box, typically made of metal or sturdy plastic, sits on a table. The box is closed and sealed. In the blurred background, the interior of a polling station or government hall is visible, with indistinct figures of officials or voters. The focus is sharp on the box, symbolizing the upcoming voting process. Daylight or indoor artificial light. Camera slightly high, 35mm lens, isolating the object to represent the election theme without showing any specific people's faces or readable text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-january-bypolls-6-constituencies",
+   "published": "2026-11-20T11:28:19Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('சென்னை,தமிழகத்தில் காலியாக உள்ள 6 சட்டமன்ற தொகுதிகளுக்கு ஜனவ'); 4 ('எம்.எல்.ஏ.க்களாக இருந்த கரூர் எம்.ஆர்.விஜயபாஸ்கர், விராலிமலை'); 4 ('சார்பில் போட்டியிட்டு மீண்டும் தேர்ந்தெடுக்கப்பட்ட எம்.எல்.ஏ')",
+   "note": "free-model draft gemini/gemini-3.6-flash, 4 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795173503/karur360/nl1xmkjiu2qhnfokmkf4.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795173535/karur360/ykbq3dewn9hnojdc9bpy.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795181846/karur360/z3jv6locfnuov8recj8s.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795181925/karur360/sf87b9kmfmhwqswwe7qg.jpg"
    ]
   }
  ]
