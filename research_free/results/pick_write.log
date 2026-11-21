@@ -1,0 +1,153 @@
+writing [N]: ‘வெண்ணைமலையில் கலவரத்தை தூண்ட திட்டமிடுவோர் மீது நடவடிக்கை த
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (24s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (25s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (49s)
+factcheck by gemini/gemini-3.6-flash: 1 problems
+  The caption invents the month and year 'நவம்பர் 2026' (November 2026), which is not mentioned in the article.
+attempt 2 gemini/gemini-3.6-flash: 1 problems
+  fact-check: The caption invents the month and year 'நவம்பர் 2026' (November 2026), which is not mentioned in the article.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (27s)
+attempt 3 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (26s)
+attempt 4 gemini/gemini-3.6-flash: 1 problems
+  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (30s)
+attempt 5 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (29s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (40s)
+factcheck by gemini/gemini-3.6-flash: 1 problems
+  The month 'November' (நவம்பர்) mentioned in the draft (reel_script, slides_spec, and caption) is not specified in the article, which only states '26th' and '27th'.
+attempt 6 gemini/gemini-3.6-flash: 1 problems
+  fact-check: The month 'November' (நவம்பர்) mentioned in the draft (reel_script, slides_spec, and caption) is not specified in the article, which only states '26th' and '27th'.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (22s)
+attempt 7 gemini/gemini-3-flash-preview: 1 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('‘வெண்ணைமலையில் கலவரத்தை தூண்ட திட்டமிடுவோர் மீது நடவடிக்கை தேவை’: தலைமை, உள்துறை செயலர்களுக்கு கடிதம்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (12s)
+attempt 8 gemini/gemini-3-flash-preview: 3 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 6
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (6s)
+attempt 9 groq/openai/gpt-oss-120b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script says the stone-throwing incident occurred 'கடந்த ஆண்டு' with the article's date garbled; the article gives the day as ': ம் தேதி' (corrupted), so the draft's 'last year' is an unsupported detail, though it is at least consistent with 'கடந்த ஆண்டு' in the article.
+  The reel_script and caption state that the letter's author is 'ராதாகிருஷ்ணன்' and that the stone-throwing targeted him, which the article supports only partially; the article names the letter's sender as the 'திருத்தொண்டர் சபை நிறுவனர் ராதாகிருஷ்ணன்' and says stones were thrown 'என் மீது' (at him), so this is consistent, but the caption's claim that 'ராதாகிருஷ்ணன் மீது கற்கள் வீசப்பட்ட சம்பவத்தில் உரிய நடவடிக்கை எடுக்கப்படவில்லை என குற்றம் சாட்டப்பட்டுள்ளது' is accurate; no clear error here.
+  The caption says the letter was sent to the Chief Secretary and Home Secretary asking for 'முன்னெச்சரிக்கை நடவடிக்கை', and additionally says the 27th hearing is 'தொடரப்பட்டுள்ளது' while the article says the contempt case was filed in the Madurai bench; the draft omits that the case was filed in the Madurai bench of the Madras High Court in the reel_script, which is a minor omission but the reel_script does mention 'சென்னை உயர் நீதிமன்ற மதுரை கிளை'.
+  The slide 'சம்பவம்' line 'கலவரத்தை தூண்ட சதித்திட்டம் உள்ளதாக கூறப்படுகிறது' and the reel_script's 'சதித்திட்டம் தீட்டி வருவதாக கடிதத்தில் குறிப்பிடப்பட்டுள்ளது' are supported, but the article says this is 'தெரிகிறது' (appears), so the draft's statement is accurate; no problem.
+  The slides_spec line 'கற்கள் வீசிய சம்பவத்தில் நடவடிக்கை இல்லை' states that no action was taken, while the article says 'உரிய நடவடிக்கை எடுக்கப்படவில்லை' – consistent.
+attempt 10 groq/qwen/qwen3.8-27b: 5 problems
+  fact-check: The reel_script says the stone-throwing incident occurred 'கடந்த ஆண்டு' with the article's date garbled; the article gives the day as ': ம் தேதி' (corrupted), so the draft's 'last year' is an unsupported detail, though it is at least consistent with 'கடந்த ஆண்டு' in the article.
+  fact-check: The reel_script and caption state that the letter's author is 'ராதாகிருஷ்ணன்' and that the stone-throwing targeted him, which the article supports only partially; the article names the letter's sender as the 'திருத்தொண்டர் சபை நிறுவனர் ராதாகிருஷ்ணன்' and says stones were thrown 'என் மீது' (at him), so this is consistent, but the caption's claim that 'ராதாகிருஷ்ணன் மீது கற்கள் வீசப்பட்ட சம்பவத்தில் உரிய நடவடிக்கை எடுக்கப்படவில்லை என குற்றம் சாட்டப்பட்டுள்ளது' is accurate; no clear error here.
+  fact-check: The caption says the letter was sent to the Chief Secretary and Home Secretary asking for 'முன்னெச்சரிக்கை நடவடிக்கை', and additionally says the 27th hearing is 'தொடரப்பட்டுள்ளது' while the article says the contempt case was filed in the Madurai bench; the draft omits that the case was filed in the Madurai bench of the Madras High Court in the reel_script, which is a minor omission but the reel_script does mention 'சென்னை உயர் நீதிமன்ற மதுரை கிளை'.
+  fact-check: The slide 'சம்பவம்' line 'கலவரத்தை தூண்ட சதித்திட்டம் உள்ளதாக கூறப்படுகிறது' and the reel_script's 'சதித்திட்டம் தீட்டி வருவதாக கடிதத்தில் குறிப்பிடப்பட்டுள்ளது' are supported, but the article says this is 'தெரிகிறது' (appears), so the draft's statement is accurate; no problem.
+  fact-check: The slides_spec line 'கற்கள் வீசிய சம்பவத்தில் நடவடிக்கை இல்லை' states that no action was taken, while the article says 'உரிய நடவடிக்கை எடுக்கப்படவில்லை' – consistent.
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  slide 2 line 2 is cut off mid-phrase ('றை செயலர் கார்த்திக்') - write a complete short phrase
+  known issue card_cut_mid_phrase: card cut off mid-phrase ('ள்துறை செயலர் கார்த்திக்') - rewrite so it does not happen again
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 55 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The draft gives the court hearing date as 27 நவம்பர் (27 November) in slides_spec and as 26 நவம்பர and 27 நவம்பர in the caption, but the article only says '27-ம் தேதி' without naming the month.
+  The draft gives the encroachment removal date as 26 நவம்பர in the caption, but the article only says '26-ம் தேதி' without naming the month.
+  The caption says the court hearing is 'இதற்கு முன்னதாக' (before this), and the reel_script says the removal is on the 26th and the hearing on the 27th; the article says the hearing is on the 27th, one day after the 26th removal, so the sequence is consistent, but the caption's wording 'இதற்கு முன்னதாக' reverses the article's 'இதற்கு ஒரு நாள் முன்னதாக' ordering relative to the hearing, which is a misstatement of the timeline.
+  The reel_script omits the article's key point that the letter came from the founder and asks for the Central Zone IG to lead the security arrangement? (It is included.) However, the caption's claim that Radhakrishnan 'குற்றம் சாட்டியுள்ளார்' (accused) of people plotting riots is presented as a direct accusation without the article's framing that the letter says these people are 'சதித்திட்டம் தீட்டி வருவதாக தெரிகிறது' (it appears they are plotting), which overstates certainty.
+  The reel_script says the petition was sent to the chief secretary and home secretary, but the article says the letter was addressed to them; this is consistent, yet the reel_script states the 'கலவரம் ஏற்படலாம் என அச்சம் எழுந்துள்ளது' as the cause of the request, which is a reasonable paraphrase, so no issue here beyond the above.
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The draft gives the court hearing date as 27 நவம்பர் (27 November) in slides_spec and as 26 நவம்பர and 27 நவம்பர in the caption, but the article only says '27-ம் தேதி' without naming the month.
+  fact-check: The draft gives the encroachment removal date as 26 நவம்பர in the caption, but the article only says '26-ம் தேதி' without naming the month.
+  fact-check: The caption says the court hearing is 'இதற்கு முன்னதாக' (before this), and the reel_script says the removal is on the 26th and the hearing on the 27th; the article says the hearing is on the 27th, one day after the 26th removal, so the sequence is consistent, but the caption's wording 'இதற்கு முன்னதாக' reverses the article's 'இதற்கு ஒரு நாள் முன்னதாக' ordering relative to the hearing, which is a misstatement of the timeline.
+  fact-check: The reel_script omits the article's key point that the letter came from the founder and asks for the Central Zone IG to lead the security arrangement? (It is included.) However, the caption's claim that Radhakrishnan 'குற்றம் சாட்டியுள்ளார்' (accused) of people plotting riots is presented as a direct accusation without the article's framing that the letter says these people are 'சதித்திட்டம் தீட்டி வருவதாக தெரிகிறது' (it appears they are plotting), which overstates certainty.
+  fact-check: The reel_script says the petition was sent to the chief secretary and home secretary, but the article says the letter was addressed to them; this is consistent, yet the reel_script states the 'கலவரம் ஏற்படலாம் என அச்சம் எழுந்துள்ளது' as the cause of the request, which is a reasonable paraphrase, so no issue here beyond the above.
+hl1 shortened at a natural break: 'வெண்ணைமலையில் கலவரம் தூண்டுவோர் மீது நடவடிக்கை கோரிக்கை' -> 'வெண்ணைமலையில் கலவரம் நடவடிக்கை கோரிக்கை'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/qwen/qwen3.8-27b (4s)
+proofread rejected (2 problems)
+  hl2 longer than 28 characters
+  slide 1 line 3 longer than 60 characters
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Action sought against those planning to '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-2320","first":"RN-157"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/action-needed-against-those-planning-riots-in-vennaimalai--letter-to-chief-home-secretaries/4382751
+candidate filter: collected=1
+to write: 1 Karur district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Karur; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/action-needed
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 72 min
+filed: 1 Karur district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
