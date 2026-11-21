@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `31ad80c` | Facebook: every news that is on Instagram also goes to Facebook |
+| 2026-11-21 | `5734baf` | powercut: notices written |
+| 2026-11-21 | `d051351` | powercut: notices written |
+| 2026-11-21 | `78836f8` | pick: written and posted |
+| 2026-11-21 | `c7b0351` | pick: list sent |
 | 2026-11-21 | `dba7b0c` | Posted report: one e-mail for all pages, 4 times a day |
 | 2026-11-21 | `bde0479` | pick: written and posted |
 | 2026-11-21 | `0b4a8df` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-21 | `d60d8a1` | Keep 20 of Instagram's 50 daily posts for news: stories stop at 30 (news was waiting at 48/50) |
 | 2026-11-21 | `dbb72dd` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
 | 2026-11-21 | `805e9ce` | stories shared |
-| 2026-11-21 | `6be86bd` | rasipalan posted |
-| 2026-11-20 | `7a24e3b` | pick: written and posted |
-| 2026-11-20 | `728fb3c` | pick: list sent |
-| 2026-11-20 | `894bfea` | powercut: notices written |
-| 2026-11-20 | `f97098a` | pick: written and posted |
 <!-- recent-changes:end -->
