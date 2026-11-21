@@ -3,113 +3,351 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-january-bypolls-6-constituencies",
-  "candidate filter: collected=1",
-  "to write: 1 Karur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-janua",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur--awareness/4382099",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sewage-flowing-into-river-motorists-suffer/4382100",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/20/marxist-communist-party-protests-demanding-the-relocation-of-a-liquor-shop",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/canteen-closures-at-karur-railway-station-passengers-suffer/4382096",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/627-bags-of-cotton-auctioned-at-regulator/4382097",
+  "candidate filter: collected=5",
+  "to write: 5 Karur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 72 min",
-  "filed: 1 Karur district stories (target 1), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "NOT filed (N) ஆறாக ஓடிய கழிவு நீர்: வாகன ஓட்டிகள் அவதி: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 77 min",
+  "filed: 4 Karur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (56s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (41s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (44s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (46s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (30s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூர் உட்பட 6 தொகுதிகளுக்கு ஜனவரியில் இடைத்தேர்தல்? - தேர்தல் ஆணையம் பரிசீலனை",
-   "english_headline": "EC considers conducting by-elections for 6 seats in Tamil Nadu including Karur and Kolathur in January",
-   "category": "Government & Services",
-   "location": "Karur town, Karur district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "கரூர் ரயில்வே ஸ்டேஷனில் கேன்டீன் அறை மூடல்: பயணிகள் நின்றுகொண்டே சாப்பிடும் அவதி",
+   "english_headline": "Karur Railway Station dining room closed and turned into CCTV room, passengers forced to stand and eat",
+   "category": "Civic Issues",
+   "location": "Karur Railway Station, Karur district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "இடைத்தேர்தல்",
-    "loc": "கரூர்",
-    "hl1": "கரூர் உட்பட 6 இடங்களில் இடைத்தேர்தல்?",
-    "hl2": "ஜனவரியில் நடக்க வாய்ப்பு",
+    "cat": "ரயில்வே அவதி",
+    "loc": "கரூர் ரயில்வே ஸ்டேஷன்",
+    "hl1": "கரூர் ரயில்வே ஸ்டேஷனில் கேன்டீன் மூடல்",
+    "hl2": "நின்றபடி சாப்பிடும் பயணிகள்",
     "slides": [
      {
-      "title": "6 காலியிடங்கள்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "<b>கரூர்</b>, திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை",
-       "அம்பாசமுத்திரம், கொளத்தூர் ஆகிய <b>6 தொகுதிகள்</b>",
-       "ஜனவரியில் தேர்தல் நடத்த ஆணையம் பரிசீலனை"
+       "கரூர் ரயில்வே ஸ்டேஷன் <b>1ஆம் பிளாட்பாரத்தில்</b> கேன்டீன்",
+       "உணவு வாங்கும் பயணிகள் நின்றுகொண்டே சாப்பிடும் அவல நிலை",
+       "முதியவர்கள் நீண்ட நேரம் நின்று சாப்பிடுவதால் சிரமம்"
       ]
      },
      {
-      "title": "வேட்பாளர்கள்",
+      "title": "காரணம் என்ன?",
       "lines": [
-       "கரூர் <b>எம்.ஆர்.விஜயபாஸ்கர்</b> உட்பட 4 பேர் போட்டி?",
-       "கொளத்தூரில் மு.க.ஸ்டாலின், அம்பாசமுத்திரத்தில் சீமான்?",
-       "பொங்கல் பண்டிகைக்குப் பின் வாக்குப்பதிவு சாத்தியம்"
+       "சேலம் கோட்ட வணிகப் பிரிவு அதிகாரிகள் அறையைத் திடீரென மூடினர்",
+       "கேன்டீன் அறையை <b>வீடியோ கண்காணிப்பு அறையாக</b> மாற்றினர்",
+       "அமர்ந்து சாப்பிட இடம் இல்லாமல் பயணிகள் தவிப்பு"
       ]
      },
      {
-      "title": "நீதிமன்ற உத்தரவு",
+      "title": "பயணிகள் கோரிக்கை",
       "lines": [
-       "மரகதம் குமரவேல், சத்யபாமா தகுதிநீக்க மனு",
-       "<b>2 மாதங்களில்</b> முடிவெடுக்க சபாநாயகருக்கு உத்தரவு",
-       "அரசியல் கட்சிகள் தேர்தல் பணிகளில் தீவிரம்"
+       "தினமும் <b>40க்கும் மேற்பட்ட ரயில்கள்</b> கரூர் வழியாக இயக்கம்",
+       "வந்தே பாரத் மற்றும் சிறப்பு ரயில்கள் 1ஆம் பிளாட்பாரத்தில்",
+       "மூடப்பட்ட கேன்டீன் அறையை மீண்டும் திறக்க பயணிகள் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் ஜனவரியில் இடைத்தேர்தல் நடத்த தேர்தல் ஆணையம் பரிசீலித்து வருகிறது. தமிழகத்தில் கரூர், திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை, அம்பாசமுத்திரம் மற்றும் கொளத்தூர் ஆகிய 6 தொகுதிகள் காலியாக உள்ளன. கொளத்தூர் த வெ க சட்டமன்ற உறுப்பினர் வி எஸ் பாபு மறைந்ததை அடுத்து காலியான தொகுதிகள் 6 ஆக உயர்ந்தன. அ தி மு க விலிருந்து விலகி த வெ க வில் இணைந்த கரூர் எம் ஆர் விஜயபாஸ்கர் உட்பட 4 முன்னாள் சட்டமன்ற உறுப்பினர்க்களை மீண்டும் களமிறக்க த வெ க திட்டமிட்டுள்ளது. தாராபுரம், மதுராந்தகம் இடைத்தேர்தலில் வென்ற மரகதம் குமரவேல், சத்யபாமா உட்பட 6 பேரை தகுதிநீக்கம் செய்யக்கோரும் மனு மீது 2 மாதங்களில் முடிவெடுக்க சபாநாயகருக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது. ஜனவரியில் பொங்கல் பண்டிகைக்குப் பிறகு தேர்தல் அட்டவணை வெளியாகி வாக்குப்பதிவு நடைபெற வாய்ப்புள்ளது. கொளத்தூரில் மு க ஸ்டாலினும், அம்பாசமுத்திரத்தில் சீமானும் போட்டியிடலாம் என்ற எதிர்பார்ப்பு நிலவுகிறது. டிசம்பர் 10, 11-ல் மாநிலக் குழு கூட்டத்தில் பேசி முடிவெடுக்கப்படும் என மார்க்சிஸ்ட் கம்யூனிஸ்ட் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ கரூர் உட்பட 6 சட்டமன்ற தொகுதிகளுக்கு ஜனவரியில் இடைத்தேர்தல்? - தேர்தல் ஆணையம் பரிசீலனை\n\n📰 முழு விவரம்:\nதமிழகத்தில் கரூர், திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை, அம்பாசமுத்திரம் மற்றும் கொளத்தூர் ஆகிய 6 சட்டமன்ற தொகுதிகளுக்கு ஜனவரி மாதம் இடைத்தேர்தல் நடத்த இந்திய தேர்தல் ஆணையம் பரிசீலித்து வருகிறது. கொளத்தூர் தவெக எம்.எல்.ஏ. வி.எஸ்.பாபு மறைந்ததால் காலியிடங்கள் 6 ஆக உயர்ந்துள்ளன. அ.தி.மு.க.வில் இருந்து விலகி தவெகவில் இணைந்த கரூர் எம்.ஆர்.விஜயபாஸ்கர், விராலிமலை சி.விஜயபாஸ்கர், பெருந்துறை எஸ்.ஜெயக்குமார், அம்பாசமுத்திரம் இசக்கி சுப்பையா ஆகியோரை மீண்டும் களமிறக்க தவெக திட்டமிட்டுள்ளது.\nமேலும் தாராபுரம், மதுராந்தகம் இடைத்தேர்தலில் வென்ற மரகதம் குமரவேல், சத்யபாமா உட்பட 6 பேரை தகுதிநீக்கம் செய்யக்கோரும் மனு மீது 2 மாதங்களில் முடிவெடுக்க சபாநாயகருக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது. கொளத்தூரில் தி.மு.க. தலைவர் மு.க.ஸ்டாலினும், அம்பாசமுத்திரத்தில் சீமானும் போட்டியிட வாய்ப்புள்ளதாகக் கூறப்படுகிறது. தேர்தலை எதிர்கொள்ள தி.மு.க., தவெக, அ.தி.மு.க., நாம் தமிழர் மற்றும் கம்யூனிஸ்ட் கட்சிகள் தயாராகி வருகின்றன. மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி டிசம்பர் 10, 11 தேதிகளில் மாநிலக் குழுவில் விவாதித்து முடிவெடுக்க உள்ளது.\n\n🗓️ நாள்: ஜனவரி 2026 (எதிர்பார்ப்பு)\n🗳️ தொகுதிகள்: கரூர், திருச்சி கிழக்கு, பெருந்துறை, விராலிமலை, அம்பாசமுத்திரம், கொளத்தூர்\nℹ️ மக்கள் கவனத்திற்கு: பொங்கல் பண்டிகைக்குப் பிறகு வாக்குப்பதிவு நடைபெற வாய்ப்புள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKarur assembly constituency by-election January 2026 update | Karur news\n📍 கரூர், கரூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #ByElection",
-   "prompts": "Since the article describes a political decision and future election plans rather than a current physical event in Karur town, a literal news photograph of the 'event' is not possible based on the text. However, to illustrate the 'Government & Services' category regarding elections in Karur, the cover scene depicts a generic election-related civic setting. A wide shot of a government office exterior in Karur town, likely the district collectorate or a local administrative building, with a queue of citizens waiting. The building is a standard government structure with concrete pillars. People are seen from behind, standing in an orderly line on the pavement. Men wear shirts and trousers, women wear sarees. The atmosphere is calm and administrative. Daylight, clear weather. Camera at eye level, 35mm lens, showing the queue and the building facade. No readable text or signs are visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detail close-up of a ballot box or election-related equipment, as this is the central object of the news story about by-elections. A standard Indian election ballot box, typically made of metal or sturdy plastic, sits on a table. The box is closed and sealed. In the blurred background, the interior of a polling station or government hall is visible, with indistinct figures of officials or voters. The focus is sharp on the box, symbolizing the upcoming voting process. Daylight or indoor artificial light. Camera slightly high, 35mm lens, isolating the object to represent the election theme without showing any specific people's faces or readable text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-january-bypolls-6-constituencies",
-   "published": "2026-11-20T11:28:19Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('சென்னை,தமிழகத்தில் காலியாக உள்ள 6 சட்டமன்ற தொகுதிகளுக்கு ஜனவ'); 4 ('எம்.எல்.ஏ.க்களாக இருந்த கரூர் எம்.ஆர்.விஜயபாஸ்கர், விராலிமலை'); 4 ('சார்பில் போட்டியிட்டு மீண்டும் தேர்ந்தெடுக்கப்பட்ட எம்.எல்.ஏ')",
-   "note": "free-model draft gemini/gemini-3.6-flash, 4 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூர் ரயில்வே ஸ்டேஷனில் கேன்டீன் அறை மூடப்பட்டதால் பயணிகள் நின்றுகொண்டே சாப்பிடும் நிலை ஏற்பட்டுள்ளது. கரூர் ரயில்வே ஸ்டேஷன் 1ஆம் பிளாட்பாரத்தில் பயணிகள் அமர்ந்து சாப்பிட தனியாக அறை இருந்தது. இந்த அறையைச் சேலம் ரயில்வே கோட்ட அதிகாரிகள் திடீரென மூடிவிட்டனர். அந்த இடத்தை வீடியோ கண்காணிப்பு அறையாக அதிகாரிகள் மாற்றியுள்ளனர். இதனால் கேன்டீனில் உணவு வாங்கும் பயணிகள் அமர இடமின்றி நின்றுகொண்டே சாப்பிடுகின்றனர். குறிப்பாக முதியவர்கள் நீண்ட நேரம் நின்று சாப்பிடுவதால் பெரிதும் அவதிப்படுகின்றனர். கரூர் வழியாக நாள்தோறும் வந்தே பாரத் உட்பட 40க்கும் மேற்பட்ட ரயில்கள் வந்து செல்கின்றன. தற்போது 1ஆம் பிளாட்பாரத்தில் சிறப்பு ரயில்களும் நிறுத்தப்படுகின்றன. எனவே பயணிகள் நலன் கருதி மூடப்பட்ட கேன்டீன் அறையை மீண்டும் திறக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 கரூர் ரயில்வே ஸ்டேஷனில் கேன்டீன் அறை மூடல்: பயணிகள் நின்றுகொண்டே சாப்பிடும் அவதி!\n\n📰 முழு விவரம்:\nகரூர் ரயில்வே ஸ்டேஷன் 1ஆம் பிளாட்பாரத்தில் பயணிகள் வசதிக்காகச் செயல்பட்டு வந்த கேன்டீன் சாப்பிடும் அறையைச் சேலம் ரயில்வே கோட்ட அதிகாரிகள் திடீரென மூடியுள்ளனர்.\n\nஅப்பகுதியை வீடியோ கண்காணிப்பு அறையாக அதிகாரிகள் மாற்றியுள்ளனர். இதனால் கேன்டீனில் உணவு வாங்கும் பயணிகள் அமர்ந்து சாப்பிட முடியாமல் நின்றுகொண்டே சாப்பிடும் சூழல் உருவாகியுள்ளது. குறிப்பாக முதியவர்கள் நீண்ட நேரம் நின்று சாப்பிட வேண்டி அவதிப்படுகின்றனர்.\n\nகரூர் வழியாக நாள்தோறும் வந்தே பாரத் உட்பட 40க்கும் மேற்பட்ட ரயில்கள் செல்கின்றன. எனவே பயணிகள் நலன் கருதி மூடப்பட்ட கேன்டீன் அறையை மீண்டும் திறக்க ரயில்வே அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் எனப் கோரிக்கை எழுந்துள்ளது.\n\n📍 இடம்: கரூர் ரயில்வே ஸ்டேஷன் (பிளாட்பாரம் 1)\n🚆 ரயில் விவரம்: தினமும் 40+ ரயில்கள் இயக்கம்\n⚠️ பிரச்சனை: கேன்டீன் அறை கண்காணிப்பு அறையாக மாற்றம்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nKarur railway station canteen seating room closed | Karur news\n📍 கரூர் ரயில்வே ஸ்டேஷன், கரூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurRailwayStation #KarurNews #கரூர்",
+   "prompts": "A crowd of passengers is forced to stand in the open area of the first platform while eating, because the station’s canteen has been shut and turned into a CCTV monitoring room. The scene is set on the first platform of Karur Railway Station, identifiable by the concrete platform edge, the overhead footbridge, and the signage for the south‑district entrance. Seen from behind, rows of passengers in typical khaki‑clad railway staff and civilian attire, many elderly, are holding food trays and standing in line, with no chairs or tables in sight. In the background, the former canteen space shows empty metal tables and chairs, while a wall mount holds a CCTV camera and a small monitor displaying static screens. Daylight illuminates the platform, sky clear, with no rain; the camera is positioned at eye level, using a 35 mm lens, framing the platform width to capture the standing crowd and the repurposed room. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on the CCTV setup inside the former canteen area on the first platform. The subject is a black dome‑type CCTV camera mounted on the wall where the dining counter once stood, angled toward the platform, with a small rectangular monitor beside it showing a live feed. The wall behind the camera is plain concrete, and a few empty metal chairs and a folded table are visible, indicating the space’s previous use as a dining hall. No people are in the frame, only the equipment and the remnants of the canteen. The lighting is bright daylight, casting soft shadows, and the shot is taken slightly high, using a 35 mm lens to capture the details of the camera, monitor, and empty furniture clearly. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/canteen-closures-at-karur-railway-station-passengers-suffer/4382096",
+   "published": "2026-11-21T04:34:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795181846/karur360/z3jv6locfnuov8recj8s.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795181925/karur360/sf87b9kmfmhwqswwe7qg.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231401/karur360/q1kxeboamnlt1syjep57.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231406/karur360/e8gq5nl0w3v9xrbjck5c.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மூலனூர் ஒழுங்குமுறை கூடத்தில் 627 மூட்டை பருத்தி ஏலம்",
+   "english_headline": "627 bags of cotton auctioned at Moolanur regulated market in Aravakurichi",
+   "category": "Business & Prices",
+   "location": "Moolanur, Aravakurichi, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பருத்தி ஏலம்",
+    "loc": "மூலனூர், அரவக்குறிச்சி",
+    "hl1": "மூலனூரில் 627 மூட்டை பருத்தி ஏலம்",
+    "hl2": "66 விவசாயிகள் கொண்டு வந்தனர்",
+    "slides": [
+     {
+      "title": "எங்கே நடந்தது?",
+      "lines": [
+       "அரவக்குறிச்சி அருகே உள்ள மூலனூர் ஒழுங்குமுறை விற்பனை கூடம்",
+       "மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் ஏலம்"
+      ]
+     },
+     {
+      "title": "எத்தனை பேர்?",
+      "lines": [
+       "<b>66</b> விவசாயிகள் பருத்தி கொண்டு வந்தனர்",
+       "<b>5</b> வியாபாரிகள் ஏலத்தில் பங்கேற்றனர்"
+      ]
+     },
+     {
+      "title": "எவ்வளவு பருத்தி?",
+      "lines": [
+       "மொத்தம் <b>627 மூட்டை</b> பருத்தி ஏலத்திற்கு வந்தது",
+       "தரம் வாரியாக விலை நிர்ணயம் செய்து விற்பனையானது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அரவக்குறிச்சி அருகே மூலனூர் ஒழுங்குமுறை விற்பனை கூடத்தில் 627 மூட்டை பருத்தி ஏலத்தில் விற்கப்பட்டது. மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் இந்த ஏலம் நடைபெற்றது. இந்த ஏலத்தில் 66 விவசாயிகள் தங்கள் பருத்தியை விற்பனைக்குக் கொண்டு வந்திருந்தனர். 5 வியாபாரிகள் ஏலத்தில் பங்கேற்றனர். ஏலத்திற்கு வந்த பருத்தி தரம் வாரியாக விலை நிர்ணயம் செய்து விற்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 மூலனூரில் 627 மூட்டை பருத்தி ஏலம்: 66 விவசாயிகள் பங்கேற்பு\n\n📰 முழு விவரம்:\nஅரவக்குறிச்சி அருகே உள்ள மூலனூர் ஒழுங்குமுறை விற்பனை கூடத்தில், மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் பருத்தி ஏலம் நடைபெற்றது.\n66 விவசாயிகள் தங்கள் பருத்தியை விற்பனைக்குக் கொண்டு வந்திருந்தனர்.\n5 வியாபாரிகள் ஏலத்தில் பங்கேற்றனர்.\nமொத்தம் 627 மூட்டை பருத்தி ஏலத்திற்கு வந்தது; தரம் வாரியாக விலை நிர்ணயம் செய்து விற்பனையானது.\n\nMoolanur cotton auction 627 bags | Karur news\n📍 மூலனூர், அரவக்குறிச்சி, கரூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
+   "prompts": "Farmers and traders gather at the Moolanur regulated market yard in Aravakurichi as cotton is auctioned, with rows of white cotton bags stacked on the open yard under a bright daylight sky. Dozens of farmers, dressed in shirts and veshti or trousers with towels on their shoulders, stand in clusters near the bags, while about five traders in shirts move among the piles, some with notebooks, bidding as the cotton is sold grade by grade. A few tractors and lorries loaded with cotton sacks are parked at the edge of the yard, and paddy and cotton fields stretch beyond the low compound wall. Shot in daylight at eye level from a slightly raised position with a 35 mm lens, wide enough to show the whole yard, the stacks of bags and the crowd of people seen mostly from behind or at a distance. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of heaped white cotton bags and loose raw cotton lint piled on the floor of the Moolanur regulated market yard in Aravakurichi, the sacks tied at the mouth and stacked in rows to represent the 627 bags on auction. A pair of hands in a farmer's sleeve rests on one bag while a trader's brass weighing scale and a stack of handwritten tally slips sit on a wooden table nearby, showing the grading and pricing at work. Soft daylight falls across the fluffy white fibres, with the blurred figures of farmers and traders in the background and a dusty concrete floor beneath. Shot in daylight at eye level with a 35 mm lens, shallow depth of field keeping the bags sharp and the people softly out of focus, with no readable text or labels visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/627-bags-of-cotton-auctioned-at-regulator/4382097",
+   "published": "2026-11-21T04:34:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 49 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231461/karur360/u6t4ukgquwcvm5uucbqq.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231468/karur360/sic9kb1ucb0wb8nrqyzi.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூரில் மதுக்கடையை மாற்றக்கோரி முற்றுகைப் போராட்டம்: மாணவிகள் அச்சப்படுவதாகப் புகார்",
+   "english_headline": "CPI(M) protest in Karur demanding relocation of TASMAC shop near Uzhavar Sandhai and Agricultural College",
+   "category": "Civic Issues",
+   "location": "Uzhavar Sandhai area, Karur city, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போராட்டம்",
+    "loc": "உழவர் சந்தை, கரூர்",
+    "hl1": "கரூரில் மதுக்கடையை மாற்றக்கோரி போராட்டம்",
+    "hl2": "உழவர் சந்தை பகுதியில்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கரூரில் அரசு மதுக்கடையை மாற்றக்கோரி போராட்டம்",
+       "மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சியினர் கடையை முற்றுகையிட்டனர்",
+       "வெள்ளிக்கிழமை இந்தப் பேரணி நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "காரணம் என்ன?",
+      "lines": [
+       "மதுக்கடை அருகே வேளாண் கல்லூரி உள்ளது",
+       "மது அருந்துபவர்களால் மாணவிகள் அச்சம்",
+       "கடையை மாற்றக்கோரி பலமுறை மனு அளித்தும் நடவடிக்கை இல்லை"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள் உறுதி",
+      "lines": [
+       "போலீசார் போராட்டக்காரர்களைத் தடுத்து நிறுத்தினர்",
+       "கடையை விரைவில் மாற்ற அதிகாரிகள் உறுதி அளித்தனர்",
+       "இதையடுத்து போராட்டம் தற்காலிகமாகக் கைவிடப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூரில் மதுக்கடையை மாற்றக்கோரி கம்யூனிஸ்ட் கட்சியினர் முற்றுகைப் போராட்டத்தில் ஈடுபட்டனர். கரூர் உழவர் சந்தை பகுதியில் அரசு மதுபானக் கடை ஒன்று செயல்பட்டு வருகிறது. இந்த மதுக்கடைக்கு அருகில் வேளாண் கல்லூரி ஒன்று உள்ளது. இங்கு மது அருந்துபவர்களால் கல்லூரி மாணவிகள் மிகுந்த அச்சமடைவதாகப் புகார்கள் எழுந்தன. கடையை இடமாற்றம் செய்யக்கோரி மாவட்ட ஆட்சியர் அலுவலகத்தில் ஏற்கனவே பலமுறை மனுக்கள் அளிக்கப்பட்டன. ஆனால் இதுவரை எந்த நடவடிக்கையும் எடுக்கப்படாததால் வெள்ளிக்கிழமை முற்றுகைப் போராட்டம் நடைபெற்றது. மாநகரச் செயலாளர் தண்டபாணி தலைமையில் கட்சியினர் கடையை நோக்கிப் பேரணியாகச் சென்றனர். பாதுகாப்புப் பணியில் இருந்த காவல் துணை கண்காணிப்பாளர் ராஜராஜன் தலைமையிலான போலீசார் அவர்களைத் தடுத்து நிறுத்தினர். பின்னர் கரூர் வட்டாட்சியர் சண்முகபிரகாஷ் மற்றும் டாஸ்மாக் மேலாளர் தங்கவேல் ஆகியோர் பேச்சுவார்த்தை நடத்தினர். மதுக்கடையை விரைவில் வேறு இடத்திற்கு மாற்றிவிடுவதாக அதிகாரிகள் உறுதி அளித்தனர். இதையடுத்து போராட்டத்தைக் கைவிட்டு கட்சியினர் கலைந்து சென்றனர். கடையை மாற்றாவிட்டால் பெரிய அளவில் போராட்டம் நடத்தப்படும் என்றும் அவர்கள் தெரிவித்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கரூரில் மதுக்கடையை மாற்றக்கோரி முற்றுகைப் போராட்டம் - வேளாண் கல்லூரி மாணவிகள் அச்சம்\n\n📰 முழு விவரம்:\nகரூர் உழவர் சந்தை பகுதியில் செயல்படும் அரசு மதுபானக் கடையை இடமாற்றம் செய்யக்கோரி மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சியினர் வெள்ளிக்கிழமை முற்றுகைப் போராட்டத்தில் ஈடுபட்டனர். இந்த மதுக்கடைக்கு அருகில் வேளாண் கல்லூரி இருப்பதால், மது அருந்துபவர்களால் மாணவிகள் அச்சமடைவதாகப் புகார் எழுந்துள்ளது. கடையை மாற்றக்கோரி ஏற்கனவே பலமுறை மனு அளித்தும் நடவடிக்கை எடுக்கப்படாததால் இந்தப் போராட்டம் நடைபெற்றது. பேரணியாகச் சென்றவர்களைக் காவல் துணை கண்காணிப்பாளர் ராஜராஜன் தலைமையிலான போலீசார் தடுத்து நிறுத்தினர். பின்னர் வட்டாட்சியர் சண்முகபிரகாஷ் மற்றும் டாஸ்மாக் மேலாளர் தங்கவேல் ஆகியோர் பேச்சுவார்த்தை நடத்தி, கடையை விரைவில் மாற்றுவதாக உறுதி அளித்தனர். இதையடுத்து போராட்டம் தற்காலிகமாகக் கைவிடப்பட்டது.\n\n📍 இடம்: உழவர் சந்தை பகுதி, கரூர்\n🗓️ நாள்: 20 நவம்பர் 2026\n👮 நடவடிக்கை: வட்டாட்சியர் மற்றும் டாஸ்மாக் மேலாளர் பேச்சுவார்த்தை\nℹ️ மக்கள் கவனத்திற்கு: கடையை விரைவில் மாற்ற அதிகாரிகள் உறுதி அளித்துள்ளனர்.\n\nCPIM protest in Karur demanding TASMAC shop relocation | Karur news\n📍 Karur city, Karur | 21 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurCity #போராட்டம் #KarurNews",
+   "prompts": "A crowd of CPI(M) party members, seen from behind, marches in a slow procession toward a government TASMAC liquor shop on a busy road beside the Uzhavar Sandhai farmers' market in Karur city, raising red party flags and placards in the air while Tamil Nadu police in khaki stand in a line across the road to stop them. The setting is a typical Karur town street in daylight on a Friday morning: the low concrete façade of the TASMAC outlet with its shutters half pulled down stands at the end of the road, with a few two-wheelers and an autorickshaw parked at the kerb and the market's roofed stalls and vendors' baskets of vegetables and banana bunches along one side. In the foreground, a few protesters in shirts and veshtis or sarees and salwars face the police line, some with hands raised in slogans, while a few onlookers and women students from the nearby agricultural college stand at a distance beside a boundary wall. Shot at eye level from slightly behind the crowd with a 35 mm lens, wide enough to show the shop, the police line and the market road together, under bright open daylight with a clear sky. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the shuttered front of the TASMAC liquor shop near the Uzhavar Sandhai in Karur city, with a rolled-up metal shutter and a cluster of cardboard cartons and crates of liquor bottles stacked just inside the entrance, lit by flat daylight. In front of the shop, a few protesters' red party flags are planted in a row on the pavement and a hand-held placard leans against a concrete pillar, their wording not readable from this distance. Beside the entrance, a low wall with a vegetable seller's empty plastic crates and a parked two-wheeler marks the everyday roadside life of the market area. Only the legs and shoes of two or three party members and a police khaki trouser are visible at the edge of the frame, all seen from behind. Shot at a slightly high angle with a 35 mm lens, sharp on the stacked bottle cartons and the flags, with the street softly blurred behind, under bright daylight. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/20/marxist-communist-party-protests-demanding-the-relocation-of-a-liquor-shop",
+   "published": "2026-11-20T23:04:31.448Z",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: not grounded: location 'உழவர்' is not in the article; not grounded: location 'சந்தை' is not in the article",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231474/karur360/lxwjxqpog5hpmnlt2fko.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231477/karur360/nrtzxnwy74bqoxeqhigy.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் அருகே எஸ்.பி. ரகுபதி பொதுமக்களுடன் சந்திப்பு: போக்குவரத்து விதி, வீடு பாதுகாப்பு குறித்து விழிப்புணர்வு",
+   "english_headline": "Karur SP Raghupathi meets public near Thirukkampuliyur roundabout on Coimbatore-Erode road, spreads awareness on traffic rules and house security",
+   "category": "Crime & Safety",
+   "location": "Thirukkampuliyur roundabout, Coimbatore and Erode road, near Karur, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "காவல் விழிப்புணர்வு",
+    "loc": "திருக்காம்புலியூர், கரூர்",
+    "hl1": "திருக்காம்புலியூரில் விழிப்புணர்வு",
+    "hl2": "வீட்டைப்",
+    "slides": [
+     {
+      "title": "எஸ்.பி. சந்திப்பு",
+      "lines": [
+       "கரூர் அருகே திருக்காம்புலியூர் ரவுண்டானா முதல் கோவை, ஈரோடு",
+       "எஸ்.பி. ரகுபதி நேற்று மாலை பொதுமக்களைச் சந்தித்தார்",
+       "போக்குவரத்து விதிகளைப் பின்பற்ற வேண்டும் என வலியுறுத்தினார்"
+      ]
+     },
+     {
+      "title": "வீட்டுப்",
+      "lines": [
+       "வெளியூர் செல்லும்போது வீட்டைப் பூட்டிவிட்டுச் செல்லுங்கள்",
+       "போலீஸ் ஸ்டேஷனுக்கு முறையான தகவல் அளியுங்கள்",
+       "தனியாக வசிக்கும் முதியோருக்குப் பாதுகாப்பு அளிக்க வேண்டும்"
+      ]
+     },
+     {
+      "title": "துண்டுப் பிரசுரம்",
+      "lines": [
+       "'மக்களுடன் காவல் துறை' என்ற தலைப்பில் துண்டுப் பிரசுரம்",
+       "போலீஸ் ஸ்டேஷன் தொடர்பு எண்ணுடன் வீடுகளில் ஒட்டப்பட்டது",
+       "கரூர் டவுன் டி.எஸ்.பி. ராஜராஜன் உடனிருந்தார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே திருக்காம்புலியூர் ரவுண்டானா முதல் கோவை, ஈரோடு சாலை வரை காவல்துறை விழிப்புணர்வு நடைபெற்றது. காவல் கண்காணிப்பாளர் ரகுபதி நேற்று மாலை பொதுமக்களைச் சந்தித்துப் பேசினார். போக்குவரத்து விதிகளைப் பின்பற்ற வேண்டும் என்று அவர் வலியுறுத்தினார். வெளியூர் செல்லும்போது வீட்டைப் பூட்டிவிட்டு, போலீஸ் ஸ்டேஷனுக்கு முறையான தகவல் அளிக்க வேண்டும் என்றும் கூறினார். தனியாக வசிக்கும் முதியோருக்குப் பாதுகாப்பு அளிப்பது குறித்தும் விளக்கினார். பின்னர் 'மக்களுடன் காவல் துறை' என்ற தலைப்பில் துண்டுப் பிரசுரம் வீடுகளில் ஒட்டப்பட்டது. அதில் போலீஸ் ஸ்டேஷன் தொடர்பு எண் இடம்பெற்றுள்ளது. கரூர் டவுன் காவல் துணை கண்காணிப்பாளர் ராஜராஜன், போலீஸ் இன்ஸ்பெக்டர் செந்தில் குமார் ஆகியோர் உடனிருந்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚔 திருக்காம்புலியூரில் எஸ்.பி. விழிப்புணர்வு: வீட்டைப் பூட்டிச் செல்லும்போது போலீசுக்குத் தகவல் தாருங்கள்\n\n📰 முழு விவரம்:\nகரூர் அருகே திருக்காம்புலியூர் ரவுண்டானா முதல் கோவை, ஈரோடு சாலை வரை எஸ்.பி. ரகுபதி நேற்று மாலை பொதுமக்களைச் சந்தித்தார்.\nபோக்குவரத்து விதிகளைப் பின்பற்றுதல், வெளியூர் செல்லும்போது வீட்டைப் பூட்டி போலீஸ் ஸ்டேஷனுக்கு முறையான தகவல் அளித்தல், தனியாக வசிக்கும் முதியோருக்குப் பாதுகாப்பு அளித்தல் குறித்து விழிப்புணர்வு ஏற்படுத்தப்பட்டது.\n'மக்களுடன் காவல் துறை' தலைப்பிலான துண்டுப் பிரசுரம் வீடுகளில் ஒட்டப்பட்டது. அதில் போலீஸ் ஸ்டேஷன் தொடர்பு எண் உள்ளது.\nகரூர் டவுன் டி.எஸ்.பி. ராஜராஜன், போலீஸ் இன்ஸ்பெக்டர் செந்தில் குமார் ஆகியோர் உடனிருந்தனர்.\n👮 மக்கள் கவனத்திற்கு: வெளியூர் செல்லும்போது வீட்டைப் பூட்டி, போலீஸ் ஸ்டேஷனுக்குத் தகவல் அளியுங்கள்.\n\nKarur SP awareness drive near Thirukkampuliyur | Karur news\n📍 திருக்காம்புலியூர், கரூர் | 21 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A Tamil Nadu police Superintendent of Police in khaki uniform stands among a small group of officers and local residents at a busy roundabout on the Coimbatore-Erode road near Karur city, addressing the public in the evening. Behind them, two-wheelers, cars and a town bus circle the roundabout under street lights as the dusk sky turns dark blue. The officers in khaki stand in a loose circle with the public, some men in shirts and veshti and women in sarees and salwar listening, all seen from behind or at a distance. Karur district's roundabout is wide, with a central island, painted road markings and concrete footpaths lined with shops. The scene is shot at eye level with a 35 mm lens, wide enough to show the roundabout, traffic and the gathered people clearly. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of folded awareness pamphlets titled 'Police with the People', printed in Tamil with a police helpline-style layout, resting on a table beside a police officer's khaki sleeve and cap. Next to the pamphlets sits a roll of adhesive and a row of small printed sheets ready to be pasted on house doors. In the soft background a residential street in Karur city shows concrete house gates and a closed wooden door. Early evening light falls across the paper, and the shallow depth of field keeps the pamphlet stack sharp. Shot at slightly high eye level with a 35 mm lens, with no readable text visible beyond the pamphlet layout. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur--awareness/4382099",
+   "published": "2026-11-21T04:35:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231484/karur360/yibr3j5g7wbo8e7letow.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795231487/karur360/f61bpbxfcq7fb1jf9hqx.jpg"
    ]
   }
  ]
