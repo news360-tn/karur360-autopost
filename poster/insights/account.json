@@ -50,5 +50,31 @@
     "Kulattur, Tamil Nadu": 18
    }
   }
+ },
+ "2026-11-22": {
+  "karur": {
+   "reach": 31575,
+   "reach_by_follow_type": {
+    "FOLLOWER": 1943,
+    "NON_FOLLOWER": 29838
+   },
+   "follower_cities": {
+    "Karur, Tamil Nadu": 850,
+    "Kulittalai, Tamil Nadu": 586,
+    "Chennai, Tamil Nadu": 195,
+    "Tiruchirappalli, Tamil Nadu": 148,
+    "Kulithalai, Tamil Nadu": 93,
+    "Coimbatore, Tamil Nadu": 87,
+    "Manapparai, Tamil Nadu": 58,
+    "Palladam, Tamil Nadu": 54,
+    "Tirupur, Tamil Nadu": 53,
+    "Namakkal, Tamil Nadu": 37,
+    "Tiruchengodu, Tamil Nadu": 36,
+    "Madurai, Tamil Nadu": 35,
+    "Madukkarai, Tamil Nadu": 35,
+    "Dindigul, Tamil Nadu": 34,
+    "Palani, Tamil Nadu": 29
+   }
+  }
  }
 }
