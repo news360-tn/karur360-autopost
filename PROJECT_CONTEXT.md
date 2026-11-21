@@ -83,6 +83,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `dbb72dd` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
+| 2026-11-21 | `805e9ce` | stories shared |
+| 2026-11-21 | `6be86bd` | rasipalan posted |
+| 2026-11-20 | `7a24e3b` | pick: written and posted |
+| 2026-11-20 | `728fb3c` | pick: list sent |
+| 2026-11-20 | `894bfea` | powercut: notices written |
+| 2026-11-20 | `f97098a` | pick: written and posted |
+| 2026-11-20 | `b4bdca0` | pick: picked news saved |
+| 2026-11-20 | `1e63bc1` | pick: list sent |
 | 2026-11-20 | `cdaa3a0` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
 | 2026-11-20 | `9b7691f` | pick: written and posted |
 | 2026-11-20 | `0de9f79` | pick: picked news saved |
@@ -104,13 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `e946b95` | pick: picked news saved |
 | 2026-11-20 | `b008f25` | pick: picked news saved |
 | 2026-11-20 | `cfd9037` | pick: list sent |
-| 2026-11-20 | `2f07e42` | News reels: one design on every page - the earlier, proven design with the source and date shown clearly |
-| 2026-11-20 | `f364392` | Writer: the opening headline (hl1) is always a complete phrase |
-| 2026-11-20 | `d326122` | News reels: the design team's design (Tamil) with the 360 clock branding on every page |
-| 2026-11-20 | `d5ee374` | pick: written and posted |
-| 2026-11-20 | `490c55d` | pick: picked news saved |
-| 2026-11-20 | `f35f1cb` | goldrate posted |
-| 2026-11-20 | `9dc8700` | Posting loop: start the next posting run with 3 tries |
-| 2026-11-20 | `6548980` | pick: picked news saved |
-| 2026-11-20 | `dd2fe08` | pick: list sent |
 <!-- recent-changes:end -->
