@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-21T08:50:09.126885+05:30",
+ "last_end": "2026-11-21T12:46:04.981846+05:30",
  "pool": {
-  "Cfe44052": {
-   "id": "Cfe44052",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur--awareness/4382099",
-   "title": "கரூர் எஸ்.பி., விழிப்புணர்வு",
-   "summary": "கரூர்:கரூர் அருகே, திருக்காம்புலியூர் ரவுண்டானா முதல், கோவை மற்றும் ஈரோடு சாலையில் எஸ்.பி., ரகுபதி, நேற்று மாலை பொதுமக்களை சந்தித்தார். அப்போது, போக்குவரத்து விதிகளை பின்பற்றுதல், வெளியூர் செல்லும்போது வீடுகளை பூட்டி ...",
-   "source": "தினமலர்",
-   "published": "2026-11-21T04:35:00+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-21T08:50:09.126885+05:30",
-   "picked_at": "2026-11-21T08:52:04.511317+05:30",
-   "posted": true
-  },
   "C758ae39": {
    "id": "C758ae39",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sewage-flowing-into-river-motorists-suffer/4382100",
@@ -28,48 +14,6 @@
    "listed_at": "2026-11-21T08:50:09.126885+05:30",
    "picked_at": "2026-11-21T08:52:04.511319+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "Ca6bd0ed": {
-   "id": "Ca6bd0ed",
-   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/20/marxist-communist-party-protests-demanding-the-relocation-of-a-liquor-shop",
-   "title": "மதுபானக் கடையை மாற்றக் கோரி மாா்க்சிஸ்ட் கம்யூ. கட்சி போராட்டம்",
-   "summary": "கரூா் உழவா்சந்தை பகுதியில் செயல்படும் அரசு மதுபானக் கடையை இடமாற்றம் செய்யக் கோரி மாா்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சியினா் வெள்ளிக்கிழமை கடையை முற்றுகையிட்டு போராட்டத்தில் ஈடுபட்டனா்..கரூா் உழவா்சந்தை பகுதியில் செயல்படும் அ...",
-   "source": "தினமணி",
-   "published": "2026-11-20T23:04:31.448Z",
-   "category": "பொது",
-   "score": 6.01,
-   "power_cut": false,
-   "listed_at": "2026-11-21T08:50:09.126885+05:30",
-   "picked_at": "2026-11-21T08:52:04.511320+05:30",
-   "posted": true
-  },
-  "C4c99e5c": {
-   "id": "C4c99e5c",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/canteen-closures-at-karur-railway-station-passengers-suffer/4382096",
-   "title": "கரூர் ரயில்வே ஸ்டேஷனில் கேன்டீன் அறை மூடல்: பயணிகள் அவதி",
-   "summary": "கரூர்'கரூர் ரயில்வே ஸ்டேஷனில், பல ஆண்டுகளாக செயல்பட்டு வந்த கேன்டீன் அறை மூடப்பட்டதால், பயணிகள் அமர்ந்து சாப்பிட முடியாமல் அவதிப்படுகின்றனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-21T04:34:00+05:30",
-   "category": "ரயில்",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-21T08:50:09.126885+05:30",
-   "picked_at": "2026-11-21T08:52:04.511322+05:30",
-   "posted": true
-  },
-  "C4f078d7": {
-   "id": "C4f078d7",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/627-bags-of-cotton-auctioned-at-regulator/4382097",
-   "title": "ஒழுங்குமுறை கூடத்தில் 627 மூட்டை பருத்தி ஏலம்",
-   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சி அருகே உள்ள மூலனுார் ஒழுங்குமுறை விற்பனை கூடத்தில், மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் பருத்தி ஏலம் நடந்தது.",
-   "source": "தினமலர்",
-   "published": "2026-11-21T04:34:00+05:30",
-   "category": "பொது",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-21T08:50:09.126885+05:30",
-   "picked_at": "2026-11-21T08:52:04.511323+05:30",
-   "posted": true
   },
   "Cb8e4093": {
    "id": "Cb8e4093",
@@ -109,42 +53,6 @@
   }
  },
  "rounds": {
-  "2026-11-18_17": {
-   "window": [
-    "2026-11-18T10:10:18.969068+05:30",
-    "2026-11-18T17:16:29.663726+05:30"
-   ],
-   "ids": [
-    "C978256c",
-    "Ceeea852",
-    "C94c2824",
-    "C458f15e",
-    "Ce7f9798",
-    "Cee7e56d"
-   ],
-   "sent": false,
-   "deadline": "2026-11-18T18:16:29.663726+05:30",
-   "decided": {
-    "how": "automatic: top 8 of 6 by insights",
-    "ids": [
-     "Ceeea852",
-     "C94c2824",
-     "C978256c",
-     "C458f15e",
-     "Ce7f9798",
-     "Cee7e56d"
-    ],
-    "at": "2026-11-18T17:19:08.740622+05:30"
-   },
-   "written": [
-    "C458f15e",
-    "C94c2824",
-    "C978256c",
-    "Ce7f9798",
-    "Cee7e56d",
-    "Ceeea852"
-   ]
-  },
   "2026-11-18_22": {
    "window": [
     "2026-11-18T17:16:29.663726+05:30",
@@ -684,6 +592,21 @@
    "refused": {
     "C758ae39": "not filed: all free models failed: no usable answer from the models"
    }
+  },
+  "2026-11-21_12": {
+   "window": [
+    "2026-11-21T08:50:09.126885+05:30",
+    "2026-11-21T12:46:04.981846+05:30"
+   ],
+   "ids": [
+    "Cb8e4093",
+    "C0137508",
+    "C6aa49ee"
+   ],
+   "sent": false,
+   "deadline": "2026-11-21T13:46:04.981846+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}

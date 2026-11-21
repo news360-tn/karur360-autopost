@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-21T08:50+05:30",
- "posts_measured": 129,
+ "updated": "2026-11-21T12:46+05:30",
+ "posts_measured": 133,
  "topic_weight": {
-  "temple": 0.68,
-  "accident": 0.21,
-  "education": 0.06,
+  "temple": 0.75,
+  "accident": 0.27,
+  "education": 0.12,
   "power_cut": 1.5,
-  "poultry_agri": 0.2,
-  "politics": 0.01,
-  "civic": -0.43,
+  "poultry_agri": -0.0,
+  "politics": 0.06,
+  "civic": -0.39,
   "crime": 1.5,
-  "weather": 0.08
+  "weather": 0.13
  },
  "topic_n": {
   "temple": 15,
@@ -18,10 +18,10 @@
   "education": 18,
   "jobs": 2,
   "power_cut": 3,
-  "poultry_agri": 9,
+  "poultry_agri": 11,
   "politics": 13,
   "civic": 18,
-  "crime": 14,
+  "crime": 15,
   "weather": 7,
   "sports_culture": 1
  },
@@ -37,7 +37,7 @@
   "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்",
   "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது"
  ],
- "avg_watch_s": 7.3,
+ "avg_watch_s": 7.2,
  "best_topics": [
   "power_cut",
   "crime",
@@ -45,6 +45,6 @@
  ],
  "weak_topics": [
   "civic",
-  "politics"
+  "poultry_agri"
  ]
 }
