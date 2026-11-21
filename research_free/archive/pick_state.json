@@ -25,7 +25,8 @@
    "category": "பொது",
    "score": 4.0,
    "power_cut": false,
-   "listed_at": "2026-11-21T23:11:33.757035+05:30"
+   "listed_at": "2026-11-21T23:11:33.757035+05:30",
+   "picked_at": "2026-11-21T23:12:47.948700+05:30"
   }
  },
  "rounds": {
@@ -541,8 +542,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-22T00:11:33.757035+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 1 by insights",
+    "ids": [
+     "Cd6a0cee"
+    ],
+    "at": "2026-11-21T23:12:47.948687+05:30"
+   },
+   "written": [
+    "Cd6a0cee"
+   ]
   }
  },
  "retry": {}
