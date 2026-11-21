@@ -3,290 +3,126 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/20/measures-to-store-water-in-the-karvazhi-dam-demand-raised-at-the-karur-district-farmers-grievance-redressal-meeting",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/megadathu-dam-issue-is-an-abhishekam-for-dheer-vinayaka-cauvery/4382098",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/lighting-of-the-lamp-at-deep-doon-permitted-hindu-front-celebration/4382101",
-  "candidate filter: collected=3",
-  "to write: 3 Karur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.dinakaran.com/news/for-heavy-rain-in-districts-of-tamil-nadu-on-nov-23-and-26/amp",
+  "candidate filter: collected=1",
+  "to write: 1 Karur district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinakaran.com/news/for-heavy-rain-in-districts-o",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
-  "filed: 3 Karur district stories (target 3), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 69 min",
+  "filed: 1 Karur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (52s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3.5-flash (46s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5"
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "மேகதாது அணை பிரச்னை தீர விநாயகருக்கு காவிரி அபிஷேகம்",
-   "english_headline": "Kaveri water abhishekam at Mahadhanapuram Vinayagar temple for resolution of Mekedatu dam issue",
-   "category": "Temples & Events",
-   "location": "Mahadhanapuram, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோயில் நிகழ்வு",
-    "loc": "மகாதானபுரம்",
-    "hl1": "மகாதானபுரத்தில் காவிரி அபிஷேகம்",
-    "hl2": "108 குடம் காவிரி நீர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "மகாதானபுரம் விநாயகர் கோவிலில் சிறப்பு பூஜை",
-       "<b>108 குடம்</b> காவிரி நீரால் அபிஷேகம்",
-       "விவசாயிகள் நலச்சங்கம் ஏற்பாடு செய்தது"
-      ]
-     },
-     {
-      "title": "எதற்காக?",
-      "lines": [
-       "மேகதாது அணை பிரச்னைக்கு நிரந்தர தீர்வு வேண்டி",
-       "தமிழக அரசின் முயற்சி வெற்றி பெற வேண்டும் என்று",
-       "பிரார்த்தனை செய்யப்பட்டது"
-      ]
-     },
-     {
-      "title": "பின்னணி",
-      "lines": [
-       "கர்நாடக அரசு மேகதாதில் புதிய அணை கட்ட முயற்சி",
-       "முதல்வர் விஜய் மத்திய அரசுக்கு கடிதம் எழுதியுள்ளார்",
-       "பொதுமக்களுக்குப் பிரசாதம் வழங்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மகாதானபுரம் விநாயகர் கோவிலில் 108 குடம் காவிரி நீரால் அபிஷேகம் நடைபெற்றது. காவிரி நீர்ப்பாசன விவசாயிகள் நலச்சங்கம் சார்பில் இந்தச் சிறப்பு பூஜை ஏற்பாடு செய்யப்பட்டது. கர்நாடக அரசு காவிரியாற்றின் குறுக்கே மேகதாது என்ற இடத்தில் புதிய அணை கட்ட முயற்சித்து வருகிறது. இந்தப் பிரச்னையில் தமிழக முதல்வர் விஜய் மத்திய அரசுக்கு கடிதம் எழுதியுள்ளார். தமிழக அரசின் முயற்சி வெற்றி பெற்று காவிரி பிரச்னைக்கு நிரந்தர தீர்வு கிடைக்க வேண்டும் என்று பிரார்த்தனை செய்யப்பட்டது. மூலவர் விநாயகருக்கு காவிரியாற்றிலிருந்து தீர்த்தம் கொண்டு செல்லப்பட்டு அபிஷேகம் நடைபெற்றது. பின்னர் பொதுமக்களுக்குப் பிரசாதம் வழங்கப்பட்டது. ஏற்பாடுகளை விவசாயிகள் நலச்சங்க மகாதானபுரம் ராஜாராம் உள்ளிட்ட நிர்வாகிகள் செய்திருந்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 மகாதானபுரம் விநாயகருக்கு 108 குடம் காவிரி நீர் அபிஷேகம்\n\n📰 முழு விவரம்:\nமேகதாது அணை பிரச்னையில் தமிழக அரசின் முயற்சி வெற்றி பெற வேண்டும் என்று, காவிரி நீர்ப்பாசன விவசாயிகள் நலச்சங்கம் சார்பில் மகாதானபுரம் விநாயகர் கோவிலில் சிறப்பு பூஜை நடைபெற்றது.\nகர்நாடக அரசு காவிரியாற்றின் குறுக்கே மேகதாது என்ற இடத்தில் புதிய அணை கட்ட முயற்சித்து வருகிறது. தமிழக முதல்வர் விஜய் மத்திய அரசுக்குக் கடிதம் எழுதியுள்ளார்.\n🛕 மூலவர் விநாயகருக்கு காவிரியாற்றிலிருந்து 108 குடம் தீர்த்தம் கொண்டு சென்று அபிஷேகம் செய்யப்பட்டது.\n🙏 காவிரிப் பிரச்னைக்கு நிரந்தர தீர்வு கிடைக்க வேண்டும் என்று பிரார்த்தனை செய்யப்பட்டது.\n🍛 பின்னர் பொதுமக்களுக்குப் பிரசாதம் வழங்கப்பட்டது.\n📍 இடம்: மகாதானபுரம், கரூர் மாவட்டம்\n\nMahadhanapuram Vinayagar Kaveri abhishekam | Karur news\n📍 மகாதானபுரம், கரூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "A village priest in white dhoti pours water from a brass kudam over the black stone idol of Vinayagar inside a small village temple in Mahadhanapuram, Karur district, as a line of more pots of Cauvery water is arranged on the floor in front of the sanctum. Behind him, farmers and villagers in shirts, veshti and sarees stand together with folded hands, seen from behind and at a distance. The sanctum is decorated with marigold and jasmine garlands, brass lamps glow, and a few stone pillars with painted borders frame the shrine. The water sprays and catches the lamplight. Daylight from the open entrance, soft and warm. Shot at eye level with a 35 mm lens, wide enough to show the shrine, the pots and the gathered devotees. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of 108 shining brass and copper kudams filled with clear river water, standing on a cement floor at the foot of the Vinayagar shrine in Mahadhanapuram temple. Marigold garlands and a few coconuts lie beside them, and water droplets run down the pot sides. Behind the pots, the blurred feet of devotees in sandals and a priest's white dhoti hem are visible. Daylight spills in from the temple entrance. Shot at slightly high angle with a 35 mm lens, focusing on the pots and garlands to show the Cauvery water offering. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/megadathu-dam-issue-is-an-abhishekam-for-dheer-vinayaka-cauvery/4382098",
-   "published": "2026-11-21T04:35:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795245617/karur360/ndu11e3y6urisufhpryt.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795245623/karur360/sklqoevvrtoltmxvgkhp.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் விவசாயிகள் குறைதீர்க்கும் கூட்டம்: கார்வழி அணையில் தண்ணீர் சேமிக்க ஆட்சியர் உத்தரவு",
-   "english_headline": "Karur farmers' grievance meeting: Collector orders checking TDS and storing Noyyal water in Karvalai dam",
+   "tamil_headline": "நவ. 23 முதல் 26 வரை தமிழகத்தில் பல மாவட்டங்களில் கனமழைக்கு வாய்ப்பு",
+   "english_headline": "Heavy rain likely in many Tamil Nadu districts from 23 to 26 November, including Karur, Trichy, Dindigul and Madurai",
    "category": "Weather & Agriculture",
-   "location": "Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "district",
+   "location": "Karur district, Tamil Nadu",
+   "importance": "High",
+   "scope": "",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயிகள் கூட்டம்",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் விவசாயிகள் குறைதீர்ப்பு",
-    "hl2": "கார்வழி அணை நீர் சேமிக்க ஆணை",
+    "cat": "மழை எச்சரிக்கை",
+    "loc": "கரூர் மாவட்டம்",
+    "hl1": "நவ. 26 கரூரில் கனமழைக்கு வாய்ப்பு",
+    "hl2": "நவ. 23 முதல் 26 வரை",
     "slides": [
      {
-      "title": "குறைதீர்ப்பு",
+      "title": "எந்தத் தேதி?",
       "lines": [
-       "ஆட்சியர் ச.பிரசன்னா ராமசாமி தலைமையில் நடைபெற்றது",
-       "விவசாயிகளின் பல்வேறு கோரிக்கைகள் குறித்து விவாதம்",
-       "வேளாண் மானிய திட்டக் கையேடு வெளியிடப்பட்டது"
+       "நவ. <b>23</b> முதல் <b>26</b> வரை கனமழைக்கு வாய்ப்பு",
+       "வானிலை ஆய்வு மையம் தெரிவித்துள்ளது",
+       "பல்வேறு மாவட்டங்களில் மழை பெய்யக்கூடும்"
       ]
      },
      {
-      "title": "கார்வழி அணை நீர்",
+      "title": "எந்த நாள்?",
       "lines": [
-       "நொய்யலாற்றில் <b>1,400 டிடிஎஸ்</b> உப்புத்தன்மை இருந்தது",
-       "டிடிஎஸ் <b>700</b>க்கும் கீழ் இருந்தால் நீர் சேமிக்க ஆணை",
-       "மதகுகளைச் சீரமைக்கவும் நிதி கோரப்பட்டுள்ளது"
+       "நவ. <b>23</b>: <b>8</b> மாவட்டங்களில் மழை",
+       "நவ. <b>24</b>: சென்னை உட்பட <b>18</b> மாவட்டங்களில் மழை",
+       "நவ. <b>25</b>: திண்டுக்கல், மதுரை, சிவகங்கை, தேனி"
       ]
      },
      {
-      "title": "அடங்கல் & இழப்பீடு",
+      "title": "கரூருக்கு என்ன?",
       "lines": [
-       "க.பரமத்தி மின்பாதை நில இழப்பீட்டை உயர்த்த ஆய்வு",
-       "கூட்டுறவு பயிர்க்கடன் பெற அடங்கல் வழங்க உத்தரவு",
-       "விவசாயி அடையாள அட்டைக்கு முகாம்களில் பெறலாம்"
-      ]
-     },
-     {
-      "title": "ஆலைக் கழிவு புகார்",
-      "lines": [
-       "மாயனூரில் ஆலைக்கழிவுகள் கொட்டுவோர் மீது நடவடிக்கை",
-       "சின்னரெட்டிப்பட்டியில் மயானப்பாதை சீரமைக்கப்படும்",
-       "மகளிர் குழு மூலம் மானியத்தில் வேளாண் கருவிகள்"
+       "நவ. <b>26</b>: கரூர், திருச்சி, திண்டுக்கல், மதுரையில் கனமழை",
+       "கரூர் மாவட்டத்தில் நவ. 26 அன்று மழை பெய்யக்கூடும்",
+       "மக்கள் எச்சரிக்கையாக இருங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் நடைபெற்ற விவசாயிகள் குறைதீர்க்கும் கூட்டத்தில், கார்வழி அணையில் தண்ணீர் சேமிக்க மாவட்ட ஆட்சியர் ச.பிரசன்னா ராமசாமி உத்தரவிட்டுள்ளார். ஆட்சியர் அலுவலகத்தில் நடைபெற்ற இக்கூட்டத்தில் விவசாயிகள் பல்வேறு கோரிக்கைகளை முன்வைத்தனர். இதன்போது, நொய்யல் ஆற்றில் 1,400 டிடிஎஸ் உப்புத்தன்மை இருந்ததால் கார்வழி அணையில் தண்ணீர் சேமிக்கப்படவில்லை என பொறியாளர் தெரிவித்தார். இதையடுத்து, சனிக்கிழமை தண்ணீரின் உப்புத்தன்மை 700-க்கும் குறைவாக இருந்தால் அணையில் தண்ணீரைச் சேமிக்க வேண்டும் என ஆட்சியர் உத்தரவிட்டார். மேலும், க.பரமத்தியில் மின்பாதை அமைத்ததால் பாதிக்கப்பட்ட விவசாயிகளுக்கு கூடுதல் இழப்பீடு வழங்க ஆய்வு செய்யப்படும் என்றார். கூட்டுறவு சங்கங்களில் கடன் பெற விவசாயிகளுக்கு அடங்கல் வழங்க அதிகாரிகளுக்கு உத்தரவிடப்பட்டுள்ளது. மாயனூரில் ஆலைக்கழிவுகளைக் கொட்டும் நிறுவனங்கள் மீது நடவடிக்கை எடுக்கப்படும் என்றும் ஆட்சியர் தெரிவித்தார். சின்னரெட்டிப்பட்டியில் மயானப்பாதையைச் சீரமைக்கவும், மகளிருக்கு மானியத்தில் வேளாண் கருவிகள் வழங்கவும் நடவடிக்கை எடுக்கப்படும். இந்நிலையில், வேளாண் துறை சார்பில் மானிய திட்டங்கள் குறித்த கையேடு வெளியிடப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 கரூரில் விவசாயிகள் குறைதீர்க்கும் கூட்டம்: கார்வழி அணையில் தண்ணீர் சேமிக்க ஆட்சியர் உத்தரவு\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட ஆட்சியர் ச.பிரசன்னா ராமசாமி தலைமையில் விவசாயிகள் குறைதீர்க்கும் கூட்டம் வெள்ளிக்கிழமை நடைபெற்றது. நொய்யல் ஆற்றில் 1,400 டிடிஎஸ் உப்புத்தன்மை இருந்ததால் கார்வழி அணையில் தண்ணீர் சேமிக்கப்படவில்லை என பொறியாளர் விளக்கமளித்தார். சனிக்கிழமை தண்ணீரைச் சோதித்து டிடிஎஸ் 700-க்கும் குறைவாக இருந்தால் அணையில் தண்ணீரைச் சேமிக்க ஆட்சியர் உத்தரவிட்டார். க.பரமத்தி பகுதியில் மின்பாதை அமைத்ததால் பாதிக்கப்பட்ட விவசாயிகளுக்குக் கூடுதல் இழப்பீடு வழங்குவது தொடர்பாக ஆய்வு செய்யப்படும் என்றார். மேலும் கூட்டுறவு கடன் பெற அடங்கல் வழங்க அதிகாரிகளுக்கு உத்தரவிடப்பட்டதுடன், மாயனூரில் ஆலைக்கழிவு கொட்டுபவர்கள் மீது நடவடிக்கை எடுக்கப்படும் என்றும் ஆட்சியர் உறுதியளித்தார்.\n\n📍 இடம்: ஆட்சியர் அலுவலகக் கூட்டரங்கம், கரூர்\n🗓️ நாள்: 20 நவம்பர் 2026 (வெள்ளிக்கிழமை)\n👤 தலைமை: மாவட்ட ஆட்சியர் ச.பிரசன்னா ராமசாமி\nℹ️ மக்கள் கவனத்திற்கு: வேளாண் துறை சார்பில் மானிய திட்டங்கள் குறித்த கையேடு கூட்டத்தில் வெளியிடப்பட்டது.\n\nவிவசாயிகளுக்குத் தேவையான தகவல்களுக்கு Share செய்யுங்கள்!\n\nKarur farmers grievance meeting Collectorate Noyyal dam TDS | Karur news\n📍 கரூர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "A group of Tamil farmers sits in rows inside the conference hall of the Karur district collectorate during a farmers' grievance meeting, while the District Collector, seated at a long front table with officials in formal dress, listens and gestures to the attendees. The hall is a plain government space with white walls, ceiling fans, and wooden chairs. The farmers, men in white shirts and veshti and women in cotton sarees, are shown from behind or far off, some holding papers and notebooks. Files and microphones sit on the table, and a tall tricolour stands in the corner. Bright daylight enters through tall windows on a Friday afternoon. Camera at eye level, 35 mm, wide enough to show the whole hall and the officials at the front. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a water sample in a clear glass beaker on a government office table, with a small digital TDS meter placed beside it, and a stack of official files and a pen nearby, representing the testing of Noyyal river water entering the check dam. Behind, out of focus, a grey concrete sluice gate with rusted metal shutters and flowing brownish river water at the Karvalai dam in the Karur countryside, with green banana and paddy fields along the bank under soft daylight. Camera slightly high, 35 mm, shallow depth of field to keep the beaker sharp and the dam softly visible behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/20/measures-to-store-water-in-the-karvazhi-dam-demand-raised-at-the-karur-district-farmers-grievance-redressal-meeting",
-   "published": "2026-11-20T23:05:57.134Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): தென்னிலை ('பரமத்தி: சின்னப்பனையூா் மற்றும் தென்னிலை பகுதிகளில் மின்பாதை'); தோகைமலை ('மேலும் ஆலை கழிவுகள் எங்கெல்லாம் கொட்டப்பட்டிருக்கிறது என்பதை'); தென்னிலை ('மேலும் வேளாண் கருவிகளும் மானியத்தில் வழங்க நடவடிக்கை எடுக்கப'); குளித்தலை ('முன்னதாக விவசாயிகளிடம் இருந்து கோரிக்கை மனுக்களை பெற்றுக்கொண')",
-   "note": "free-model draft gemini/gemini-3.6-flash + proofread groq/qwen/qwen3.8-27b, 1 attempt(s), 2 validator problem(s)",
+   "reel_script": "கரூர் மாவட்டத்தில் நவம்பர் 26ஆம் தேதி கனமழை பெய்யக்கூடும். இதனைத் தொடர்ந்து, நவம்பர் 23 முதல் 26ஆம் தேதி வரை தமிழகத்தின் பல்வேறு மாவட்டங்களில் கனமழைக்கு வாய்ப்புள்ளதாக வானிலை ஆய்வு மையம் தெரிவித்துள்ளது. மேலும், நவம்பர் 23ஆம் தேதி 8 மாவட்டங்களிலும், நவம்பர் 24ஆம் தேதி சென்னை உள்ளிட்ட 18 மாவட்டங்களிலும் மழை பெய்யக்கூடும். இதையடுத்து, நவம்பர் 25ஆம் தேதி திண்டுக்கல், மதுரை, சிவகங்கை, தேனி மாவட்டங்களில் மழை பெய்யக்கூடும். இந்நிலையில், நவம்பர் 26ஆம் தேதி கரூர், திருச்சி, திண்டுக்கல், மதுரை மாவட்டங்களில் கனமழை பெய்யக்கூடும் என அறிவிக்கப்பட்டுள்ளது. எனவே, பொதுமக்கள் வானிலை அறிவிப்புகளைக் கவனித்து எச்சரிக்கையாக இருங்கள். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌧️ நவ. 26 கரூர் மாவட்டத்தில் கனமழைக்கு வாய்ப்பு\n\n📰 முழு விவரம்:\nநவம்பர் 23 முதல் 26ஆம் தேதி வரை தமிழகத்தின் பல்வேறு மாவட்டங்களில் கனமழை பெய்ய வாய்ப்புள்ளதாக வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.\n🗓️ நவ. 23: 8 மாவட்டங்களில் கனமழை\n🗓️ நவ. 24: சென்னை உள்ளிட்ட 18 மாவட்டங்களில் கனமழை\n🗓️ நவ. 25: திண்டுக்கல், மதுரை, சிவகங்கை, தேனி மாவட்டங்களில் கனமழை\n🗓️ நவ. 26: கரூர், திருச்சி, திண்டுக்கல், மதுரை மாவட்டங்களில் கனமழை\nℹ️ மக்கள் கவனத்திற்கு: வானிலை அறிவிப்புகளைக் கவனித்து எச்சரிக்கையாக இருங்கள்.\n\nKarur heavy rain Nov 26 | Karur news\n📍 கரூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurRain #KarurNews #கரூர்",
+   "prompts": "A dark, overcast sky looms over a paddy field in Karur district as heavy rain begins to fall. The scene is set in the agricultural outskirts of Karur, where green rice plants sway under the weight of the downpour. No people are visible in the immediate foreground, emphasizing the scale of the weather event. The field is flat and expansive, typical of the Karur landscape, with water already beginning to pool in the low-lying areas. The light is dim and grey, characteristic of a pre-storm or active heavy rain environment. The camera is positioned at eye level, using a 35 mm lens to capture the wide expanse of the field and the threatening sky, ensuring the viewer understands the severity of the forecasted weather in this specific agricultural zone. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of water droplets accumulating on the broad, green leaves of a banana plant in a Karur farm. The rain is falling heavily, creating a misty atmosphere around the foliage. The focus is sharp on the water beading on the leaf surface, highlighting the intensity of the precipitation. In the blurred background, the dark green of the banana grove is visible, indicating a typical agricultural setting in the district. The lighting is soft and diffused due to the cloud cover. The camera is slightly high, looking down at the leaf, using a 35 mm lens to isolate the detail of the rain on the crop, symbolizing the impact of the heavy weather on local agriculture. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/for-heavy-rain-in-districts-of-tamil-nadu-on-nov-23-and-26/amp",
+   "published": "2026-11-21T13:05:09+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795245631/karur360/eop4ocm9anxfjrd3wjyv.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795245635/karur360/u1plifnasv4kvkuwvabo.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் திருப்பரங்குன்றம் தீப தூண் அனுமதியை வரவேற்று லட்டு வழங்கல்",
-   "english_headline": "Karur: Hindu Munnani distributes laddus welcoming permission to light lamp at Thiruparankundram Deepa Thoon",
-   "category": "Temples & Events",
-   "location": "Manoharan Corner area, Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோயில் நிகழ்வு",
-    "loc": "கரூர், மனோகரா கார்னர்",
-    "hl1": "கரூரில் தீப தூண் லட்டு வழங்கல்",
-    "hl2": "கார்த்திகை தீபம் நவ. 24",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கரூரில் ஹிந்து முன்னணியினர் லட்டு வழங்கினர்",
-       "திருப்பரங்குன்றம் தீப தூணில் விளக்கேற்ற அனுமதிக்கு வரவேற்பு",
-       "மனோகரா கார்னர் பகுதியில் பொதுமக்களுக்கு வழங்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "அனுமதி எப்போது?",
-      "lines": [
-       "உச்சநீதிமன்றம் நேற்று காலை உத்தரவிட்டது",
-       "கார்த்திகை தீப நாளான <b>24</b> அன்று விளக்கேற்ற அனுமதி",
-       "மதுரை மாவட்டம் திருப்பரங்குன்றம் மலையில் உள்ள தீப தூண்"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்றனர்?",
-      "lines": [
-       "மாவட்ட பொதுச்செயலாளர் சக்தி லட்டு வழங்கினார்",
-       "மாவட்ட செயலாளர் கணேஷ், பொருளாளர் ரமேஷ் குமார் உடனிருந்தனர்",
-       "நகர செயலாளர் கார்த்தி உள்ளிட்ட நிர்வாகிகள் பங்கேற்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் ஹிந்து முன்னணி நிர்வாகிகள் பொதுமக்களுக்கு லட்டு வழங்கி மகிழ்ச்சியைப் பகிர்ந்தனர். திருப்பரங்குன்றம் மலையில் உள்ள தீப தூணில் விளக்கேற்ற அனுமதி வழங்கி உச்சநீதிமன்றம் நேற்று காலை உத்தரவிட்டது. இந்த அனுமதியை வரவேற்று மாநிலம் முழுவதும் ஹிந்து முன்னணியினர் இனிப்புகளை வழங்கினர். கரூர் மனோகரா கார்னர் பகுதியில் மாவட்ட பொதுச்செயலாளர் சக்தி பொதுமக்களுக்கு லட்டு வழங்கினார். அப்போது மாவட்ட செயலாளர் கணேஷ், பொருளாளர் ரமேஷ் குமார், நகர செயலாளர் கார்த்தி உள்ளிட்ட நிர்வாகிகள் உடனிருந்தனர். கார்த்திகை தீப நாளான 24ஆம் தேதி விளக்கேற்ற இந்த அனுமதி வழங்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🪔 கரூரில் தீப தூண் அனுமதிக்கு ஹிந்து முன்னணியினர் லட்டு வழங்கல்\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றம் மலையில் உள்ள தீப தூணில் கார்த்திகை தீப நாளான நவம்பர் 24 அன்று விளக்கேற்ற உச்சநீதிமன்றம் நேற்று காலை அனுமதி வழங்கி உத்தரவிட்டது. இதை வரவேற்று கரூர் மனோகரா கார்னர் பகுதியில் ஹிந்து முன்னணி மாவட்ட பொதுச்செயலாளர் சக்தி பொதுமக்களுக்கு லட்டு வழங்கினார். மாவட்ட செயலாளர் கணேஷ், பொருளாளர் ரமேஷ் குமார், நகர செயலாளர் கார்த்தி உள்ளிட்ட நிர்வாகிகள் உடனிருந்தனர். மாநிலம் முழுவதும் நிர்வாகிகள் இனிப்புகளை வழங்கினர்.\n📍 இடம்: மனோகரா கார்னர், கரூர்\n🗓️ நாள்: நவம்பர் 24 (கார்த்திகை தீப நாள்)\n\nKarur Thiruparankundram Deepa Thoon lamp permission laddu | Karur news\n📍 கரூர், மனோகரா கார்னர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "Office-bearers of the Hindu Munnani at a busy street junction in Karur city hand out yellow laddus from a steel plate to a line of ordinary people at Manoharan Corner. A district general secretary in a white shirt and veshti stands at the centre, with three party functionaries in shirts and trousers beside him, one holding a cardboard box of sweets. Pedestrians include men in shirts and women in cotton sarees, some stretching out their hands to receive the laddus. Two-wheelers and an autorickshaw pass behind on the road, and the shopfronts of the junction line the background. It is bright daylight. Shot at eye level from about 10 metres, 35 mm, wide enough to show the junction and the crowd, with the people seen from the side or slightly from behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a steel plate piled with round yellow laddus held in the hands of a Hindu Munnani functionary in a white shirt, with a few hands of recipients from the public reaching in to take one. The plate sits on a cardboard box on a roadside table near the Manoharan Corner junction, with a two-wheeler and a passing autorickshaw blurred in the background and shop shutters in the far distance. Bright daylight, the sweets glossy and golden. Shot at waist height, 35 mm, shallow depth of field so the sweets are sharp and the background soft. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/lighting-of-the-lamp-at-deep-doon-permitted-hindu-front-celebration/4382101",
-   "published": "2026-11-21T04:36:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795245642/karur360/ig6xlj9y3cyuy7x5fn08.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795245676/karur360/afhpdwazyqtlivzknxwr.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795259549/karur360/ytzniq4f9hc7zp1jexhv.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795259611/karur360/mhmskqq9s4np3mtmfhrw.jpg"
    ]
   }
  ]
