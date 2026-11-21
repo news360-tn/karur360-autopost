@@ -25,7 +25,8 @@
    "category": "மழை / வானிலை",
    "score": 11.11,
    "power_cut": false,
-   "listed_at": "2026-11-21T16:30:55.890529+05:30"
+   "listed_at": "2026-11-21T16:30:55.890529+05:30",
+   "picked_at": "2026-11-21T16:33:08.655751+05:30"
   }
  },
  "rounds": {
@@ -576,8 +577,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-21T17:30:55.890529+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 1 by insights",
+    "ids": [
+     "C5a946ff"
+    ],
+    "at": "2026-11-21T16:33:08.655741+05:30"
+   },
+   "written": [
+    "C5a946ff"
+   ]
   }
  },
  "retry": {}
