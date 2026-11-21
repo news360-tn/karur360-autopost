@@ -3,148 +3,366 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/action-needed-against-those-planning-riots-in-vennaimalai--letter-to-chief-home-secretaries/4382751",
-  "candidate filter: collected=1",
-  "to write: 1 Karur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/action-needed",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/அனுமதியின்றி-வைக்கப்பட்டிருந்த15-யூனிட்-மணல்-பறிமுதல்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/young-mans-body-buried-by-the-light-of-mobile-phones",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/மேக்கேதாட்டு-விவகாரம்-அமைதி-காக்கும்-தவெக-அரசுக்கு-திமுக-செயற்குழுவில்-கண்டனம்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/கடவூா்-வெறிநாய்-கடித்ததில்-2-பெண்கள்-உள்பட-13-போ்-காயம்",
+  "candidate filter: collected=4",
+  "to write: 4 Karur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 72 min",
-  "filed: 1 Karur district stories (target 1), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
+  "filed: 4 Karur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (24s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (25s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (49s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (27s)",
+  "ok gemini/gemini-3.6-flash (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (29s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (40s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (22s)",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok gemini/gemini-3.6-flash (46s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (22s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "வெண்ணைமலை கோவில் அகற்றத்தின்போது கலவரம் தூண்டப்படுவதைத் தடுக்க நடவடிக்கை கோரிக்கை",
-   "english_headline": "Action sought against those planning to incite riots during Vennaimalai temple encroachment removal on 26 Nov",
-   "category": "Civic Issues",
-   "location": "Vennaimalai, Karur district",
-   "importance": "High",
-   "scope": "local",
+   "tamil_headline": "மேக்கேதாட்டு விவகாரம்: அமைதி காக்கும் அரசுக்கு திமுக கண்டனம்",
+   "english_headline": "DMK Karur district executive meeting condemns state government's silence on Mekedatu issue; resolutions for Udhayanidhi's birthday, sports and speech contests",
+   "category": "Government & Services",
+   "location": "Karur DMK office, Karur district",
+   "importance": "Medium",
+   "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கோவில் பாதுகாப்பு",
-    "loc": "வெண்ணைமலை, கரூர்",
-    "hl1": "வெண்ணைமலையில் கலவரம் நடவடிக்கை கோரிக்கை",
-    "hl2": "வரும் 26ஆம் தேதி அகற்றம்",
+    "cat": "அரசியல் தீர்மானம்",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் திமுக செயற்குழு தீர்மானம்",
+    "hl2": "மேக்கேதாட்டு: அமைதி",
     "slides": [
      {
-      "title": "என்ன கோரிக்கை?",
+      "title": "கூட்டம் எங்கே?",
       "lines": [
-       "கலவரத்தைத் தூண்ட திட்டமிடுவோர் மீது முன்னெச்சரிக்கை",
-       "திருத்தொண்டர் சபை நிறுவனர் ராதாகிருஷ்ணன் கடிதம் அனுப்பினார்",
-       "தலைமை செயலர் சாய்குமார், உள்துறை செயலர் கார்த்திக்குக்கு"
+       "கரூர் மாவட்ட திமுக செயற்குழுக் கூட்டம் சனிக்கிழமை நடைபெற்றது",
+       "கலைஞர் அறிவாலயத்தில் நடைபெற்றது",
+       "தலைமை: மாவட்ட அவைத்தலைவர் டி.ராஜேந்திரன்"
       ]
      },
      {
-      "title": "எப்போது?",
+      "title": "கண்டனத் தீர்மானம்",
       "lines": [
-       "வரும் <b>26ஆம் தேதி</b> ஆக்கிரமிப்புகள் அகற்றப்பட உள்ளன",
-       "நீதிமன்ற அவமதிப்பு வழக்கு <b>27ஆம் தேதி</b> விசாரணைக்கு வருகிறது",
-       "அதற்கு ஒரு நாள் முன்னதாக அகற்றம் நடைபெற உள்ளது"
+       "மேக்கேதாட்டு விவகாரத்தில் அமைதி காக்கும் தவெக அரசுக்கு",
+       "சிறப்புரை: வி.செந்தில்பாலாஜி"
       ]
      },
      {
-      "title": "ஏன் அச்சம்?",
+      "title": "பிற தீர்மானங்கள்",
       "lines": [
-       "கோவில் சொத்துகள் சட்டவிரோதமாக விற்கப்பட்டதாகக் கூறப்படுகிறது",
-       "மறியல், முற்றுகை, தீக்குளிப்பு போன்றவற்றைத் தூண்ட சதி என",
-       "கடந்த ஆண்டு அவர் மீது கற்கள் வீசப்பட்ட சம்பவத்தில்"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "மத்திய மண்டல ஐ.ஜி. தலைமையில் கோவில் சுற்றி பாதுகாப்பு",
-       "அசம்பாவிதங்களைத் தடுக்க முன்னெச்சரிக்கை நடவடிக்கை தேவை"
+       "நவ. <b>27</b>: உதயநிதி பிறந்தநாளில் ஏழைகளுக்கு நலத்திட்ட உதவிகள்",
+       "நவ. <b>28, 29</b>: கரூர் CSI மைதானத்தில் கபடி போட்டிகள்",
+       "டிச. <b>5, 6</b>: அட்லஸ் மைதானத்தில் கிரிக்கெட் போட்டிகள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வெண்ணைமலை பாலசுப்பிரமணிய சுவாமி கோவில் ஆக்கிரமிப்பு அகற்றத்தின்போது கலவரம் தூண்டப்படலாம் என்ற அச்சம் எழுந்துள்ளது. இதனால் முன்னெச்சரிக்கை நடவடிக்கை எடுக்குமாறு கோரிக்கை வைக்கப்பட்டுள்ளது. திருத்தொண்டர் சபை நிறுவனர் ராதாகிருஷ்ணன் இதற்கான கடிதத்தை தமிழக அரசின் தலைமை செயலர் சாய்குமார், உள்துறை செயலர் கார்த்திக் ஆகியோருக்கு அனுப்பியுள்ளார். வரும் 26ஆம் தேதி கரூர் அருகே வெண்ணைமலை கோவில் ஆக்கிரமிப்புகளை அகற்ற ஏற்பாடுகள் நடைபெற்று வருகின்றன. கோவில் சொத்துகளை சட்டவிரோதமாக விற்று ஆதாயம் அடைந்து வருபவர்கள், மறியல், முற்றுகை போராட்டம், தீக்குளிப்பு போன்ற செயல்களைத் தூண்டி கலவரம் ஏற்படுத்த சதித்திட்டம் தீட்டுவதாகத் தெரிகிறது. கோவில் சொத்து மீட்பு தொடர்பான நீதிமன்ற அவமதிப்பு வழக்கு 27ஆம் தேதி விசாரணைக்கு வருகிறது. கடந்த ஆண்டு கோவில் அலுவலக வளாகத்தில் போலீஸ் பாதுகாப்பு இருந்தபோதே அவர் மீது கற்கள் வீசப்பட்டது. அந்தச் சம்பவத்தில் உரிய நடவடிக்கை எடுக்கப்படவில்லை என அவர் குற்றம் சாட்டியுள்ளார். எனவே மத்திய மண்டல ஐ ஜி தலைமையில் கோவிலைச் சுற்றி பாதுகாப்பு ஏற்பாடு செய்ய வேண்டும் என்றும் கோரியுள்ளார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 வெண்ணைமலையில் கலவரம் தூண்டுவோர் மீது நடவடிக்கை கோரிக்கை\n\n📰 முழு விவரம்:\nகரூர் அருகே வெண்ணைமலை பாலசுப்பிரமணிய சுவாமி கோவில் ஆக்கிரமிப்புகளை வரும் 26ஆம் தேதி அகற்ற ஏற்பாடு நடைபெற்று வருகிறது. அப்போது கலவரத்தைத் தூண்ட திட்டமிடுவோர் மீது முன்னெச்சரிக்கை நடவடிக்கை எடுக்க வேண்டும் என திருத்தொண்டர் சபை நிறுவனர் ராதாகிருஷ்ணன் தமிழக அரசின் தலைமை செயலர் சாய்குமார், உள்துறை செயலர் கார்த்திக் ஆகியோருக்கு கடிதம் அனுப்பியுள்ளார்.\n⚖️ நீதிமன்ற அவமதிப்பு வழக்கு 27ஆம் தேதி விசாரணைக்கு வருகிறது.\n⚠️ கோவில் சொத்துகளை சட்டவிரோதமாக விற்று ஆதாயம் அடைபவர்கள் மறியல், முற்றுகை, தீக்குளிப்பு போன்றவற்றைத் தூண்டி கலவரம் ஏற்படுத்த சதி செய்வதாகத் தெரிகிறது என கடிதத்தில் கூறப்பட்டுள்ளது.\n👮 கடந்த ஆண்டு கோவில் அலுவலக வளாகத்தில் போலீஸ் பாதுகாப்பு இருந்தபோதே கற்கள் வீசப்பட்ட சம்பவத்தில் உரிய நடவடிக்கை எடுக்கப்படவில்லை என குற்றச்சாட்டு.\n🛡️ மத்திய மண்டல ஐ.ஜி. தலைமையில் கோவிலைச் சுற்றி பாதுகாப்பு ஏற்பாடு செய்ய வேண்டும் என கோரிக்கை.\n\nVennaimalai temple encroachment removal 26 Nov, action sought | Karur news\n📍 வெண்ணைமலை, கரூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A row of temple shops and stalls along the outer wall of the Vennaimalai Balasubramanya Swamy temple complex in Karur district is being cleared for encroachment removal. Two Tamil Nadu police constables in khaki stand near a barricade of bamboo and a parked police jeep, while a small group of local residents in shirts, veshti and sarees watches from a distance across an open lane. Behind them rises the temple gopuram under a clear daylight sky. A corporation tractor and a few workers in plain clothes stand near a pile of broken stall materials and wooden planks at the edge of the road. Seen from slightly high and far away at eye level, shot on a 35 mm lens wide enough to show the temple, the police line and the cleared land, with the people seen from behind and slightly blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden police barricade and a row of heavy stones and broken bricks placed on the edge of a temple compound wall in Vennaimalai, Karur. The stones are lying on the ground beside a black metal police barricade and a few discarded plastic chairs, suggesting the recent stone-pelting incident at the temple office compound. In the background, out of focus, two police constables in khaki stand beside the temple wall in the daytime. Bright daylight, neutral tones. Shot at low-eye level with a 35 mm lens, the stones and barricade in sharp focus, the police blurred behind, no readable signs or text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/action-needed-against-those-planning-riots-in-vennaimalai--letter-to-chief-home-secretaries/4382751",
-   "published": "2026-11-21T21:16:46+05:30",
+   "reel_script": "கரூரில் மேக்கேதாட்டு விவகாரத்தில் அரசு அமைதி காப்பதாக தி மு க கண்டனம். கரூர் மாவட்ட தி மு க செயற்குழுக் கூட்டம் கலைஞர் அறிவாலயத்தில் சனிக்கிழமை நடைபெற்றது. கூட்டத்துக்கு மாவட்ட அவைத்தலைவர் டி ராஜேந்திரன் தலைமை வகித்தார். மாவட்டச் செயலர் வி செந்தில்பாலாஜி சிறப்புரையாற்றினார். மேக்கேதாட்டு விவகாரத்தில் அமைதி காக்கும் த வெ க அரசைக் கண்டிக்கும் தீர்மானம் நிறைவேற்றப்பட்டது. எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலினின் 50-வது பிறந்தநாளை முன்னிட்டு நவம்பர் 27ஆம் தேதி மாவட்டம் முழுவதும் ஏழைகளுக்கு நலத்திட்ட உதவிகள் வழங்கப்படும். நவம்பர் 28, 29ஆம் தேதிகளில் கரூர் சிஎஸ்ஐ மைதானத்தில் மாவட்ட அளவில் கபடிப் போட்டிகள் நடைபெறும். டிசம்பர் 5, 6ஆம் தேதிகளில் அட்லஸ் விளையாட்டு மைதானத்தில் கிரிக்கெட் போட்டிகள் நடைபெறும். டிசம்பர் 12, 13ஆம் தேதிகளில் பள்ளி, கல்லூரி மாணவர்களுக்கு பேச்சுப்போட்டிகள் நடத்தப்படும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ மேக்கேதாட்டு விவகாரம்: அமைதி காக்கும் அரசுக்கு கரூரில் திமுக கண்டனம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட திமுக செயற்குழுக் கூட்டம் கலைஞர் அறிவாலயத்தில் சனிக்கிழமை நடைபெற்றது. மாவட்ட அவைத்தலைவர் டி.ராஜேந்திரன் தலைமை வகித்தார். மாவட்டச் செயலரும் முன்னாள் அமைச்சருமான வி.செந்தில்பாலாஜி சிறப்புரையாற்றினார்.\nமேக்கேதாட்டு விவகாரத்தில் அமைதி காக்கும் தவெக அரசுக்கு கண்டனம் தெரிவித்து தீர்மானம் நிறைவேற்றப்பட்டது.\nஉதயநிதி ஸ்டாலினின் 50-வது பிறந்தநாளை முன்னிட்டு நவ. 27ஆம் தேதி மாவட்டம் முழுவதும் ஏழைகளுக்கு நலத்திட்ட உதவிகள் வழங்கப்படும்.\n🏏 நவ. 28, 29: கரூர் சிஎஸ்ஐ மைதானத்தில் மாவட்ட அளவில் கபடிப் போட்டிகள்\n🏏 டிச. 5, 6: அட்லஸ் விளையாட்டு மைதானத்தில் கிரிக்கெட் போட்டிகள்\n🎤 டிச. 12, 13: பள்ளி, கல்லூரி மாணவ, மாணவிகளுக்கு பேச்சுப்போட்டிகள்\nகூட்டத்தில் சட்டப்பேரவை உறுப்பினர்கள் இளங்கோ, சூரியனூர் சந்திரன், மாவட்ட துணைச் செயலர் எம்.எஸ்.கே.கருணாநிதி, பகுதிச் செயலர்கள் சுப்ரமணியன், ஜோதிபாசு, ஆர்.எஸ்.ராஜா உள்ளிட்டோர் பங்கேற்றனர்.\n\nDMK Karur executive meet condemns state on Mekedatu | Karur news\n📍 கரூர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #Mekedatu",
+   "prompts": "A group of DMK party office-bearers sits in a row of chairs at a long table inside the Kalaignar Arivalayam party office hall in Karur city as the district executive committee meeting on Saturday passes resolutions condemning the state government's silence on the Mekedatu issue. Seen from the back of the hall at eye level, a dozen or more men in white shirts and veshti or trousers, some with DMK party scarves over their shoulders, face the long table where a presiding chairman sits with a microphone and a seated former minister gestures while speaking. Red and black party flags stand in a corner and framed party posters hang on the cream painted wall, with no readable letters. Plastic chairs and a few notebooks lie on the table in front of the officials. Bright indoor tube lights and the soft daylight from high windows fill the room. Shot with a 35 mm lens, wide enough to show the whole hall and the seated gathering, in a calm, official atmosphere. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a table in the DMK Karur party office hall after the district executive committee meeting: a stack of printed resolution papers, a steel water jug and tumblers, a red and black party flag folded beside a microphone, and a few ballpoint pens resting on a white cloth covering the table. Behind the table, a partly visible row of empty chairs and the edge of a party poster on the wall are seen softly out of focus. Indoor tube light gives a neutral white glow, with a hint of daylight from a window at the edge of the frame. Shot at a slightly high angle with a 35 mm lens, showing the paper resolutions and the party setting clearly, no faces visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/மேக்கேதாட்டு-விவகாரம்-அமைதி-காக்கும்-தவெக-அரசுக்கு-திமுக-செயற்குழுவில்-கண்டனம்",
+   "published": "2026-11-21T19:07:03.195Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 12,13 ('28, 29-ஆம்தேதிகளில் மாவட்ட அளவில் கபடி போட்டிகள் கரூா் சிஎஸ்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293698/karur360/lvhjhfkliretimsiuwes.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293714/karur360/pzzz7rlgqprwp6qqbxrw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கடவூர்: வெறிநாய் கடித்ததில் 13 பேர் காயம்",
+   "english_headline": "Kadavur: stray dog bites 13 people including 2 women, 5 still under treatment",
+   "category": "Health",
+   "location": "Tharagampatti, Kadavur, Karur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வெறிநாய் கடி",
+    "loc": "தரகம்பட்டி, கடவூர்",
+    "hl1": "கடவூர் அருகே வெறிநாய் 13 பேர் காயம்",
+    "hl2": "5 பேருக்கு தொடர் சிகிச்சை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கடவூர் அருகே சனிக்கிழமை வெறிநாய் கடித்தது",
+       "2 பெண்கள் உள்பட <b>13 பேர்</b> காயம்",
+       "தரகம்பட்டி கடைவீதி பகுதியில் சம்பவம்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "சனிக்கிழமை காலை குழந்தைகளை கடிக்க முயன்றது",
+       "நாயை விரட்ட முயன்ற பெண்களையும் கடித்தது",
+       "மொத்தம் 13 பேரை கடித்தது"
+      ]
+     },
+     {
+      "title": "சிகிச்சை நிலை",
+      "lines": [
+       "காயமடைந்த <b>13 பேரும்</b> மையலம்பட்டி அரசு மருத்துவமனையில் அனுமதி",
+       "இதில் <b>5 பேர்</b> தொடர் சிகிச்சை பெற்று வருகின்றனர்",
+       "ஊராட்சி பணியாளர்கள் வெறிநாயை பிடிக்கும் பணியில்"
+      ]
+     },
+     {
+      "title": "பொதுமக்கள்",
+      "lines": [
+       "தெருநாய்களை பிடித்து அப்புறப்படுத்த கோரிக்கை",
+       "மாவட்ட நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கடவூர் அருகே வெறிநாய் கடித்ததில் 13 பேர் காயமடைந்தனர். சனிக்கிழமை காலை, தரகம்பட்டியில் உள்ள கடைவீதி பகுதியில் ஒரு வெறிநாய் சுற்றித் திரிந்தது. அப்பகுதியில் விளையாடிக் கொண்டிருந்த குழந்தைகளைக் கடிக்க முயன்றது. நாயை விரட்ட முயன்ற இரண்டு பெண்கள் உள்பட 13 பேரை அது கடித்தது. காயமடைந்த 13 பேரும் மையலம்பட்டி அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டனர். அவர்களில் 5 பேர் தொடர் சிகிச்சை பெற்று வருகின்றனர். தரகம்பட்டி ஊராட்சி மன்றச் செயலர் அன்பழகன் உள்ளிட்ட ஊராட்சி மன்றப் பணியாளர்கள் வெறிநாயைப் பிடிக்கும் பணியில் ஈடுபட்டனர். தரகம்பட்டி பகுதியில் சுற்றித் திரியும் தெருநாய்கள் மனிதர்களையும் கால்நடைகளையும் தாக்குவதாக அப்பகுதியினர் தெரிவித்துள்ளனர். எனவே, நாய்களைப் பிடித்து அப்புறப்படுத்த மாவட்ட நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என அவர்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐕 கடவூர் அருகே வெறிநாய் கடித்து 13 பேர் காயம் | 5 பேருக்கு தொடர் சிகிச்சை\n\n📰 முழு விவரம்:\nகடவூர் அருகே தரகம்பட்டியில் உள்ள கடைவீதி பகுதியில் சனிக்கிழமை காலை ஒரு வெறிநாய் சுற்றித் திரிந்தது. அப்பகுதியில் விளையாடிக் கொண்டிருந்த குழந்தைகளைக் கடிக்க முயன்றது. நாயை விரட்ட முயன்ற 2 பெண்கள் உள்பட 13 பேரை அது கடித்தது.\nகாயமடைந்த 13 பேரும் மையலம்பட்டி அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டனர். அவர்களில் 5 பேர் தொடர் சிகிச்சை பெற்று வருகின்றனர்.\nதரகம்பட்டி ஊராட்சி மன்றச் செயலர் அன்பழகன் உள்ளிட்ட ஊராட்சி மன்றப் பணியாளர்கள் வெறிநாயைப் பிடிக்கும் பணியில் ஈடுபட்டனர்.\nதரகம்பட்டி பகுதியில் சுற்றித் திரியும் தெருநாய்கள் மனிதர்களையும் கால்நடைகளையும் தாக்குவதால், அவற்றைப் பிடித்து அப்புறப்படுத்த மாவட்ட நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதியினர் கோரிக்கை விடுத்துள்ளனர்.\n\nKadavur stray dog bites 13 people | Karur news\n📍 தரகம்பட்டி, கடவூர், கரூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kadavur #KarurNews #கரூர்",
+   "prompts": "A gram panchayat secretary and panchayat workers in shirts and trousers chase and try to catch a stray dog on a village shopping street in Tharagampatti, Kadavur, Karur district, on a Saturday morning. The street has small shops with shutters half-open, a few parked two-wheelers and an autorickshaw at the roadside, and dusty concrete buildings on both sides. Residents, including women in cotton sarees and men in veshti, stand at a safe distance on the pavement, some pointing toward the dog. A stray dog runs across the road in the middle of the frame. Bright morning daylight, warm dry-season light. Camera at eye level, 35 mm, wide enough to show the whole street, the people seen from behind or far away. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a long wooden stick and a rope loop held by a panchayat worker in khaki shirt and trousers, ready to catch a stray dog on a dusty village street in Tharagampatti, Karur district. Behind the worker, a row of small roadside shops with rolled-up shutters, a parked two-wheeler and a plastic water pot on the pavement. The lower part of the frame shows dusty tarmac and a stray dog's paws and tail moving away, blurred. Bright Saturday morning daylight, soft shadows on the road. Camera slightly high, 35 mm, shallow depth of field, no faces visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/கடவூா்-வெறிநாய்-கடித்ததில்-2-பெண்கள்-உள்பட-13-போ்-காயம்",
+   "published": "2026-11-21T19:12:45.204Z",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795283441/karur360/t4ae5oexxscudu1brir8.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795283443/karur360/afk5ikx5oxhyodfwoutf.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293720/karur360/pfsipdiyzuwxrmzghsiv.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293743/karur360/zs4silkprebjnwrmwgya.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் வெங்கமேடு மயானத்தில் மின்விளக்கு இல்லாமல் கைப்பேசி ஒளியில் சடலம் புதைப்பு",
+   "english_headline": "Body buried by mobile phone light at Venkamedu cremation ground in Karur; corporation installs power light at once",
+   "category": "Civic Issues",
+   "location": "Venkamedu NSK Nagar, Karur Corporation 10th ward, Karur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மயான வசதி",
+    "loc": "வெங்கமேடு, கரூர்",
+    "hl1": "வெங்கமேடு மயானத்தில் மின்விளக்கு இல்லை",
+    "hl2": "உடனே மின்விளக்கு பொருத்தம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "வெள்ளிக்கிழமை இரவு சடலம் புதைக்கப்பட்டது",
+       "மின்விளக்கு இல்லாததால் கைப்பேசி ஒளியில் புதைப்பு",
+       "வீடியோ சமூக வலைதளங்களில் வைரலானது"
+      ]
+     },
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "கரூர் வெங்கமேடு என்.எஸ்.கே. நகர் மயானம்",
+       "கரூர் மாநகராட்சி 10ஆவது வார்டு",
+       "மயானத்தில் மின்விளக்கு வசதி இல்லை"
+      ]
+     },
+     {
+      "title": "நடவடிக்கை",
+      "lines": [
+       "மாநகராட்சி ஆணையர் பிருத்விராஜ் உத்தரவு",
+       "மாநகராட்சி பணியாளர்கள் மூலம் உடனே மின்விளக்கு பொருத்தம்",
+       "இனி மயானத்தில் வெளிச்சம் கிடைக்கும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வெங்கமேடு மயானத்தில் மின்விளக்கு இல்லாததால் இளைஞரின் சடலம் கைப்பேசி ஒளியில் புதைக்கப்பட்டது. கரூர் மாநகராட்சிக்குள்பட்ட 10ஆவது வார்டு வெங்கமேடு என் எஸ் கே நகரில் உள்ள மயானத்தில் இந்த சம்பவம் நடந்தது. வெள்ளிக்கிழமை இரவு உயிரிழந்த இளைஞரின் சடலத்தை உறவினர்கள் புதைக்க எடுத்துச் சென்றனர். வெளிச்சம் இல்லாததால் அவர்கள் டார்ச் மற்றும் கைப்பேசி ஒளியைப் பயன்படுத்தி சடலத்தைப் புதைத்தனர். இந்த வீடியோ சனிக்கிழமை சமூக வலைதளங்களில் வைரலாகப் பரவியது. இதையறிந்த மாநகராட்சி ஆணையர் பிருத்விராஜ் உடனே மயானத்தில் மின்விளக்கு பொருத்த உத்தரவிட்டார். இதையடுத்து மாநகராட்சி பணியாளர்கள் மூலம் உடனே மின்விளக்கு பொருத்தப்பட்டது. இனி மயானத்தில் இரவிலும் வெளிச்சம் கிடைக்கும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🕯️ வெங்கமேடு மயானத்தில் மின்விளக்கு இல்லாமல் கைப்பேசி ஒளியில் சடலம் புதைப்பு\n\n📰 முழு விவரம்:\nகரூர் வெங்கமேடு என்.எஸ்.கே. நகரில் உள்ள மயானத்தில் மின்விளக்கு வசதி இல்லை. வெள்ளிக்கிழமை இரவு உயிரிழந்த இளைஞரின் சடலத்தை உறவினர்கள் புதைக்க எடுத்துச் சென்றனர். வெளிச்சம் இல்லாததால் டார்ச் மற்றும் கைப்பேசி ஒளியில் சடலம் புதைக்கப்பட்டது. இந்த வீடியோ சனிக்கிழமை சமூக வலைதளங்களில் வைரலானது. இதையறிந்த மாநகராட்சி ஆணையர் பிருத்விராஜ் உடனே மயானத்தில் மின்விளக்கு பொருத்த உத்தரவிட்டார். மாநகராட்சி பணியாளர்கள் மூலம் மின்விளக்கு பொருத்தப்பட்டது.\n📍 இடம்: வெங்கமேடு என்.எஸ்.கே. நகர், கரூர் மாநகராட்சி 10ஆவது வார்டு\n🗓️ நாள்: நவம்பர் 21, 2026 (வெள்ளிக்கிழமை இரவு சம்பவம்)\n👮 நடவடிக்கை: மாநகராட்சி ஆணையர் பிருத்விராஜ் உத்தரவின்படி மின்விளக்கு பொருத்தம்\n\nVenkamedu cremation ground Karur power light installed | Karur news\n📍 வெங்கமேடு, கரூர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "At night a small group of relatives in shirts and veshti carries a body wrapped in white cloth toward an open, unlit cremation ground at the edge of Venkamedu NSK Nagar in Karur city. Only the glow of two mobile phone screens and a single torch lights the scene, leaving the dark ground, scattered trees and a low boundary wall barely visible. The people are seen from behind and far away, faces hidden in shadow. Spades lean against the wall in the foreground. Surrounding houses are dark with no street lights on. Shot at night at eye level, 35 mm, wide enough to show the empty dark ground and the small group of mourners. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a mobile phone screen and a plain electric torch held in a man's hand in the dark cremation ground in Venkamedu, Karur city, providing the only light over a freshly dug grave mound and a spade stuck in loose soil. The cloth-covered edge of the body is just visible at the bottom of the frame, no face shown. Faint outline of a bare concrete pole without any light fixture stands in the background. Dark night, no moon, damp earth. Camera close, slightly above, 35 mm, shallow focus on the phone glow. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/young-mans-body-buried-by-the-light-of-mobile-phones",
+   "published": "2026-11-21T19:12:16.998Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('கைப்பேசி வெளிச்சத்தில் இளைஞரின் சடலம் புதைப்பு:\nமின்விளக்கை உடனே பொருத்தி மாநகராட்சி நடவடிக்கை!') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; not grounded: place word 'கரூர்' is not in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293760/karur360/u0t39bxxf1bortmesicp.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293763/karur360/ueojxombbdewz3i4ezji.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தளவாபாளையத்தில் அனுமதியின்றி குவித்து வைத்திருந்த 15 யூனிட் மணல் பறிமுதல்",
+   "english_headline": "15 units of illegally stored sand seized at Thalavapalayam, Karur district",
+   "category": "Crime & Safety",
+   "location": "Thalavapalayam, Pugalur taluk, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மணல் பறிமுதல்",
+    "loc": "தளவாபாளையம், புகழூர்",
+    "hl1": "தளவாபாளையத்தில் 15 யூனிட் மணல் பறிமுதல்",
+    "hl2": "அனுமதியின்றி குவித்து வைப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அனுமதியின்றி குவித்து வைத்திருந்த <b>15 யூனிட்</b> மணல் பறிமுதல்",
+       "கனிம வளத்துறை அதிகாரிகள் சனிக்கிழமை நடவடிக்கை எடுத்தனர்",
+       "கடத்துவதற்காக வைக்கப்பட்ட மணல் என தெரியவந்தது"
+      ]
+     },
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "தளவாபாளையம் பகுதியில் சேங்கல்மலை செல்லும் சாலை",
+       "காவிரி ஆற்றிலிருந்து இரவில் அள்ளி வந்து குவித்தனர்",
+       "பொதுமக்கள் அளித்த தகவலின் பேரில் சோதனை"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "மணல் கரூர் கனிம வளத்துறை அலுவலகத்திற்கு கொண்டு செல்லப்பட்டது",
+       "மணல் குவித்து வைத்திருந்தவர் மீது வேலாயுதம்பாளையம் போலீசில்",
+       "வழக்குப்பதிவு செய்து போலீசார் அவரைத் தேடி வருகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே அனுமதியின்றி குவித்து வைக்கப்பட்டிருந்த 15 யூனிட் மணல் பறிமுதல் செய்யப்பட்டது. தளவாபாளையம் பகுதியில் சேங்கல்மலை செல்லும் சாலையில் மணல் குவித்து வைக்கப்பட்டிருந்தது. பொதுமக்கள் அளித்த தகவலின் பேரில், சனிக்கிழமை கனிம வளத்துறை அதிகாரிகள் நிகழ்விடத்துக்குச் சென்று ஆய்வு செய்தனர். இரவு நேரத்தில் காவிரி ஆற்றிலிருந்து மணலை அள்ளி வந்து, லாரிகளில் கடத்துவதற்காக குவித்து வைத்திருந்தது தெரியவந்தது. மணல் இருந்த இடம் கரூர் பண்டுதகாரன்புதூரைச் சேர்ந்த முத்துக்குமார் என்பவருக்குச் சொந்தமானது. மணலைக் குவித்து வைத்திருந்தவர் மேட்டுப்பாளையத்தைச் சேர்ந்த மகேஷ்ரோகுல் ஆவார். 15 யூனிட் மணலும் லாரிகள் மூலம் கரூர் கனிம வளத்துறை அலுவலகத்திற்கு எடுத்துச் செல்லப்பட்டது. மகேஷ்ரோகுல் மீது வேலாயுதம்பாளையம் போலீசில் புகார் அளிக்கப்பட்டு, வழக்குப்பதிவு செய்து தேடப்பட்டு வருகிறார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚚 தளவாபாளையத்தில் அனுமதியின்றி குவித்து வைத்திருந்த 15 யூனிட் மணல் பறிமுதல்\n\n📰 முழு விவரம்:\nகரூர் அருகே தளவாபாளையம் பகுதியில் சேங்கல்மலை செல்லும் சாலையில் அனுமதியின்றி மணல் குவித்து வைக்கப்பட்டிருந்தது. பொதுமக்கள் அளித்த தகவலின் பேரில், சனிக்கிழமை கனிம வளத்துறை அதிகாரிகள் நிகழ்விடத்துக்குச் சென்று 15 யூனிட் மணலைப் பறிமுதல் செய்தனர்.\nஇரவு நேரத்தில் காவிரி ஆற்றிலிருந்து மணலை அள்ளி வந்து, லாரிகளில் கடத்துவதற்காக குவித்து வைத்திருந்தது தெரியவந்தது.\nமணல் இருந்த இடம் கரூர் பண்டுதகாரன்புதூரைச் சேர்ந்த முத்துக்குமார் என்பவருக்குச் சொந்தமானது. மணலைக் குவித்து வைத்திருந்தவர் மேட்டுப்பாளையத்தைச் சேர்ந்த மகேஷ்ரோகுல்.\nபறிமுதல் செய்த மணல் லாரிகள் மூலம் கரூர் கனிம வளத்துறை அலுவலகத்திற்கு எடுத்துச் செல்லப்பட்டது. மகேஷ்ரோகுல் மீது வேலாயுதம்பாளையம் போலீசில் புகார் அளிக்கப்பட்டு, வழக்குப்பதிவு செய்து போலீசார் தேடி வருகின்றனர்.\n\nKarur illegal sand seized Thalavapalayam | Karur news\n📍 தளவாபாளையம், புகழூர், கரூர் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A row of officials from the Karur district mineral resources department and Tamil Nadu police in khaki stand beside a large heap of river sand piled on open roadside land in Thalavapalayam, Pugalur taluk, Karur district, on a Saturday daylight. Seen from behind at a distance, a Deputy Superintendent in khaki and a village police inspector are inspecting the mound while a revenue inspector in shirt and trousers and a few local residents in shirts and veshti stand nearby. The place is a flat, dusty, unpaved roadside plot along a narrow rural road leading out of town, with a few paddy and banana fields and a distant line of trees behind. Two heavy tipper lorries are parked on the road edge, one with its tailgate open and a few remaining sand piles on the ground. Tamil Nadu morning light, clear sky, sand glowing pale brown. Camera at eye level, 35 mm, wide enough to show the sand heap, the lorries and the officials. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large, freshly dumped heap of coarse grey-brown river sand on bare ground at the roadside in Thalavapalayam, with the tread marks of a lorry in the soil and a few loose sand grains scattered on the tarmac edge. Beside the heap, a tipper lorry's rear body and open tailgate are visible, its metal sides dusty, and a pair of khaki trouser legs and black leather shoes of a police officer are partly seen at the edge of the frame, with a clipboard in a hand. Daylight, soft shadows, dry road surface. Camera slightly high, 35 mm, focused on the sand pile with the lorry and officer's feet in the background. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/21/அனுமதியின்றி-வைக்கப்பட்டிருந்த15-யூனிட்-மணல்-பறிமுதல்",
+   "published": "2026-11-21T19:01:17.403Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'தளவாபாளையம்' and the news itself, e.g. 'தளவாபாளையம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area; caption misses facts of the article (put every one in 📰 முழு விவரம்): அரவக்குறிச்சி ('கரூா் அருகே கடத்துவதற்காக அனுமதியின்றி குவித்து வைக்கப்பட்டி')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293768/karur360/taxgtx5po882ftrja9ed.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795293784/karur360/sxedznlkbreqmoxuzqdr.jpg"
    ]
   }
  ]
