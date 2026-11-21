@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `3caa70a` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
 | 2026-11-21 | `7da8341` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
 | 2026-11-21 | `f895508` | stories shared |
 | 2026-11-21 | `5e0e98b` | pick: written and posted |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `41a24fc` | Every news reel goes to the story again (stories_urgent_only false) |
 | 2026-11-20 | `72a4ca0` | powercut: notices written |
 | 2026-11-20 | `96b669a` | powercut: notices written |
-| 2026-11-20 | `c46de5c` | pick: written and posted |
 <!-- recent-changes:end -->
