@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-21T20:28+05:30",
+ "updated": "2026-11-21T23:11+05:30",
  "posts_measured": 137,
  "topic_weight": {
   "temple": 0.66,
-  "accident": 0.21,
-  "education": 0.06,
+  "accident": 0.18,
+  "education": -0.01,
   "power_cut": 1.5,
-  "poultry_agri": 0.03,
+  "poultry_agri": 0.15,
   "politics": 0.0,
   "civic": -0.43,
   "crime": 1.5,
@@ -37,7 +37,7 @@
   "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்",
   "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது"
  ],
- "avg_watch_s": 7.2,
+ "avg_watch_s": 7.3,
  "best_topics": [
   "power_cut",
   "crime",
@@ -45,6 +45,6 @@
  ],
  "weak_topics": [
   "civic",
-  "politics"
+  "education"
  ]
 }

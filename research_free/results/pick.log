@@ -1,10 +1,8 @@
-20:28:03 round 2026-11-21_20: news published 21 Nov 16:30 -> 21 Nov 20:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-20:28:03 insights 2026-11-21T20:28+05:30 (137 reels): topic weights {'temple': 0.66, 'accident': 0.21, 'education': 0.06, 'power_cut': 1.5, 'poultry_agri': 0.03, 'politics': 0.0, 'civic': -0.43, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-20:29:03 55 links on the two papers' Karur pages
-20:30:09 skipped: not Karur district=25, already posted=17, published before this window=10, same event already posted=2
-20:30:09 list: 0 new + 0 earlier news not posted yet
-20:30:09 no news in this window - no e-mail
-ROUND=2026-11-21_20
-20:30:11 no list this round - nothing to post
-PICK_URLS=
-20:30:11 verify: no decided round
+23:11:33 round 2026-11-21_23: news published 21 Nov 20:28 -> 21 Nov 23:11 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+23:11:33 insights 2026-11-21T23:11+05:30 (137 reels): topic weights {'temple': 0.66, 'accident': 0.18, 'education': -0.01, 'power_cut': 1.5, 'poultry_agri': 0.15, 'politics': 0.0, 'civic': -0.43, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+23:12:05 40 links on the two papers' Karur pages
+23:12:46 skipped: already posted=17, published before this window=10, not Karur district=9, same event already posted=2
+23:12:46 list: 1 new + 0 earlier news not posted yet
+23:12:46    1. [பொது] ‘வெண்ணைமலையில் கலவரத்தை தூண்ட திட்டமிடுவோர் மீது நடவடிக்கை தேவை’: தலைம (தினமலர்)
+23:12:46 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-21_23
