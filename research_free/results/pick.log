@@ -1,10 +1,15 @@
-04:33:07 round 2026-11-21_04: news published 21 Nov 02:29 -> 21 Nov 04:33 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-04:33:07 insights 2026-11-21T04:33+05:30 (128 reels): topic weights {'temple': 0.68, 'accident': 0.2, 'education': 0.05, 'power_cut': 1.5, 'poultry_agri': 0.19, 'politics': 0.01, 'civic': -0.43, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-04:33:21 34 links on the two papers' Karur pages
-04:33:59 skipped: already posted=21, published before this window=6, not Karur district=3, same event already posted=2
-04:33:59 list: 0 new + 0 earlier news not posted yet
-04:33:59 no news in this window - no e-mail
-ROUND=2026-11-21_04
-04:34:02 no list this round - nothing to post
-PICK_URLS=
-04:34:02 verify: no decided round
+08:50:09 round 2026-11-21_08: news published 21 Nov 04:33 -> 21 Nov 08:50 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+08:50:09 insights 2026-11-21T08:50+05:30 (129 reels): topic weights {'temple': 0.68, 'accident': 0.21, 'education': 0.06, 'power_cut': 1.5, 'poultry_agri': 0.2, 'politics': 0.01, 'civic': -0.43, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+08:51:02 41 links on the two papers' Karur pages
+08:52:02 skipped: published before this window=11, not Karur district=10, already posted=10, same event already posted=2
+08:52:02 list: 8 new + 0 earlier news not posted yet
+08:52:02    1. [பொது] கரூர் எஸ்.பி., விழிப்புணர்வு (தினமலர்)
+08:52:02    2. [பொது] ஆறாக ஓடிய கழிவு நீர்: வாகன ஓட்டிகள் அவதி (தினமலர்)
+08:52:02    3. [பொது] மதுபானக் கடையை மாற்றக் கோரி மாா்க்சிஸ்ட் கம்யூ. கட்சி போராட்டம் (தினமணி)
+08:52:02    4. [ரயில்] கரூர் ரயில்வே ஸ்டேஷனில் கேன்டீன் அறை மூடல்: பயணிகள் அவதி (தினமலர்)
+08:52:02    5. [பொது] ஒழுங்குமுறை கூடத்தில் 627 மூட்டை பருத்தி ஏலம் (தினமலர்)
+08:52:02    6. [பொது] காா்வழி அணையில் தண்ணீரை சேமிக்க நடவடிக்கை: கரூா் மாவட்ட விவசாயிகள் குற (தினமணி)
+08:52:02    7. [பொது] மேகதாது அணை பிரச்னை தீர விநாயகருக்கு காவிரி அபிஷேகம் (தினமலர்)
+08:52:02    8. [பொது] தீப தூணில் தீபம் ஏற்ற அனுமதி ஹிந்து முன்னணி கொண்டாட்டம் (தினமலர்)
+08:52:02 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-21_08

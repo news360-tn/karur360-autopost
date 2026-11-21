@@ -1,54 +1,104 @@
 {
- "last_end": "2026-11-21T04:33:07.436191+05:30",
- "pool": {},
- "rounds": {
-  "2026-11-18_10": {
-   "window": [
-    "2026-11-18T07:13:32.825597+05:30",
-    "2026-11-18T10:10:18.969068+05:30"
-   ],
-   "ids": [
-    "C6f4a3f0",
-    "C97202a2",
-    "Ccc4f38a",
-    "C11a8ebc",
-    "Ceeea852",
-    "C94c2824",
-    "C1e2cce7",
-    "C72cbe5c",
-    "C61c15e5",
-    "C458f15e",
-    "Ce7f9798",
-    "Cee7e56d"
-   ],
-   "sent": false,
-   "deadline": "2026-11-18T11:10:18.969068+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 12 by insights + 2 more well-watched",
-    "ids": [
-     "C6f4a3f0",
-     "C1e2cce7",
-     "C97202a2",
-     "Ccc4f38a",
-     "C11a8ebc",
-     "C72cbe5c",
-     "C61c15e5"
-    ],
-    "at": "2026-11-18T10:12:02.200678+05:30"
-   },
-   "written": [
-    "C11a8ebc",
-    "C1e2cce7",
-    "C61c15e5",
-    "C6f4a3f0",
-    "C72cbe5c",
-    "C97202a2",
-    "Ccc4f38a"
-   ],
-   "refused": {
-    "C11a8ebc": "not filed: bad draft: 'scenes'"
-   }
+ "last_end": "2026-11-21T08:50:09.126885+05:30",
+ "pool": {
+  "Cfe44052": {
+   "id": "Cfe44052",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur--awareness/4382099",
+   "title": "கரூர் எஸ்.பி., விழிப்புணர்வு",
+   "summary": "கரூர்:கரூர் அருகே, திருக்காம்புலியூர் ரவுண்டானா முதல், கோவை மற்றும் ஈரோடு சாலையில் எஸ்.பி., ரகுபதி, நேற்று மாலை பொதுமக்களை சந்தித்தார். அப்போது, போக்குவரத்து விதிகளை பின்பற்றுதல், வெளியூர் செல்லும்போது வீடுகளை பூட்டி ...",
+   "source": "தினமலர்",
+   "published": "2026-11-21T04:35:00+05:30",
+   "category": "பொது",
+   "score": 10.0,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
   },
+  "C758ae39": {
+   "id": "C758ae39",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sewage-flowing-into-river-motorists-suffer/4382100",
+   "title": "ஆறாக ஓடிய கழிவு நீர்: வாகன ஓட்டிகள் அவதி",
+   "summary": "கரூர்:கரூர் அருகே, சாலையில் கழிவு நீர் ஆறாக ஓடியதால், வாகன ஓட்டிகள் அவதிப்பட்டனர். கரூர் மாநகராட்சி, பெரிய குளத்துப்பாளையம் பகுதியில், அரசு பள்ளி, கோவில், படிப்பகம் குடியிருப்புகள் உள்ளன.",
+   "source": "தினமலர்",
+   "published": "2026-11-21T04:36:00+05:30",
+   "category": "பொது",
+   "score": 8.0,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
+  },
+  "Ca6bd0ed": {
+   "id": "Ca6bd0ed",
+   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/20/marxist-communist-party-protests-demanding-the-relocation-of-a-liquor-shop",
+   "title": "மதுபானக் கடையை மாற்றக் கோரி மாா்க்சிஸ்ட் கம்யூ. கட்சி போராட்டம்",
+   "summary": "கரூா் உழவா்சந்தை பகுதியில் செயல்படும் அரசு மதுபானக் கடையை இடமாற்றம் செய்யக் கோரி மாா்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சியினா் வெள்ளிக்கிழமை கடையை முற்றுகையிட்டு போராட்டத்தில் ஈடுபட்டனா்..கரூா் உழவா்சந்தை பகுதியில் செயல்படும் அ...",
+   "source": "தினமணி",
+   "published": "2026-11-20T23:04:31.448Z",
+   "category": "பொது",
+   "score": 6.01,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
+  },
+  "C4c99e5c": {
+   "id": "C4c99e5c",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/canteen-closures-at-karur-railway-station-passengers-suffer/4382096",
+   "title": "கரூர் ரயில்வே ஸ்டேஷனில் கேன்டீன் அறை மூடல்: பயணிகள் அவதி",
+   "summary": "கரூர்'கரூர் ரயில்வே ஸ்டேஷனில், பல ஆண்டுகளாக செயல்பட்டு வந்த கேன்டீன் அறை மூடப்பட்டதால், பயணிகள் அமர்ந்து சாப்பிட முடியாமல் அவதிப்படுகின்றனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-21T04:34:00+05:30",
+   "category": "ரயில்",
+   "score": 6.0,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
+  },
+  "C4f078d7": {
+   "id": "C4f078d7",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/627-bags-of-cotton-auctioned-at-regulator/4382097",
+   "title": "ஒழுங்குமுறை கூடத்தில் 627 மூட்டை பருத்தி ஏலம்",
+   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சி அருகே உள்ள மூலனுார் ஒழுங்குமுறை விற்பனை கூடத்தில், மின்னணு தேசிய வேளாண் சந்தை திட்டத்தின் கீழ் பருத்தி ஏலம் நடந்தது.",
+   "source": "தினமலர்",
+   "published": "2026-11-21T04:34:00+05:30",
+   "category": "பொது",
+   "score": 6.0,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
+  },
+  "Cb8e4093": {
+   "id": "Cb8e4093",
+   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/20/measures-to-store-water-in-the-karvazhi-dam-demand-raised-at-the-karur-district-farmers-grievance-redressal-meeting",
+   "title": "காா்வழி அணையில் தண்ணீரை சேமிக்க நடவடிக்கை: கரூா் மாவட்ட விவசாயிகள் குறைதீா் கூட்டத்தில் வலியுறுத்தல்",
+   "summary": "காா்வழி அணையில் உப்புத்தன்மை குறைவாக இருக்கும்போது நொய்யலாற்று தண்ணீரை சேமிக்க நடவடிக்கை எடுக்க வேண்டும் என விவசாயிகள் குறைதீா்க்கும் கூட்டத்தில் வலியுறுத்தப்பட்டது..கரூா் மாவட்ட ஆட்சியா் அலுவலக கூட்டரங்கில் விவசாயிகள...",
+   "source": "தினமணி",
+   "published": "2026-11-20T23:05:57.134Z",
+   "category": "பொது",
+   "score": 3.2,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
+  },
+  "C0137508": {
+   "id": "C0137508",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/megadathu-dam-issue-is-an-abhishekam-for-dheer-vinayaka-cauvery/4382098",
+   "title": "மேகதாது அணை பிரச்னை தீர விநாயகருக்கு காவிரி அபிஷேகம்",
+   "summary": "கரூர்:மேகதாது அணை பிரச்னையில், தமிழக அரசு எடுக்கும் முயற்சி வெற்றி பெற வேண்டும் என, காவிரி நீர்ப்பாசன விவசாயிகள் நலச்சங்கம் சார்பில், மகாதானபுரத்தில் விநாயகருக்கு, 108 குடம் காவிரிநீர் அபிஷேகம் நடந்தது.",
+   "source": "தினமலர்",
+   "published": "2026-11-21T04:35:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
+  },
+  "C6aa49ee": {
+   "id": "C6aa49ee",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/lighting-of-the-lamp-at-deep-doon-permitted-hindu-front-celebration/4382101",
+   "title": "தீப தூணில் தீபம் ஏற்ற அனுமதி ஹிந்து முன்னணி கொண்டாட்டம்",
+   "summary": "கரூர்:திருப்பரங்குன்றம் மலை தீப துாணில் விளக்கு ஏற்ற அனுமதி வழங்கியதை வரவேற்று, கரூரில் ஹிந்து முன்னணி நிர்வாகிகள், பொதுமக்களுக்கு நேற்று லட்டு வழங்கினர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-21T04:36:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-21T08:50:09.126885+05:30"
+  }
+ },
+ "rounds": {
   "2026-11-18_17": {
    "window": [
     "2026-11-18T10:10:18.969068+05:30",
@@ -583,6 +633,26 @@
    "ids": [],
    "sent": false,
    "deadline": "2026-11-21T05:33:07.436191+05:30",
+   "decided": null,
+   "written": []
+  },
+  "2026-11-21_08": {
+   "window": [
+    "2026-11-21T04:33:07.436191+05:30",
+    "2026-11-21T08:50:09.126885+05:30"
+   ],
+   "ids": [
+    "Cfe44052",
+    "C758ae39",
+    "Ca6bd0ed",
+    "C4c99e5c",
+    "C4f078d7",
+    "Cb8e4093",
+    "C0137508",
+    "C6aa49ee"
+   ],
+   "sent": false,
+   "deadline": "2026-11-21T09:50:09.126885+05:30",
    "decided": null,
    "written": []
   }
