@@ -1,54 +1,194 @@
 {
- "last_end": "2026-11-22T04:29:14.777696+05:30",
+ "last_end": "2026-11-22T07:56:46.640621+05:30",
  "pool": {
-  "C758ae39": {
-   "id": "C758ae39",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sewage-flowing-into-river-motorists-suffer/4382100",
-   "title": "ஆறாக ஓடிய கழிவு நீர்: வாகன ஓட்டிகள் அவதி",
-   "summary": "கரூர்:கரூர் அருகே, சாலையில் கழிவு நீர் ஆறாக ஓடியதால், வாகன ஓட்டிகள் அவதிப்பட்டனர். கரூர் மாநகராட்சி, பெரிய குளத்துப்பாளையம் பகுதியில், அரசு பள்ளி, கோவில், படிப்பகம் குடியிருப்புகள் உள்ளன.",
+  "C3daf6ad": {
+   "id": "C3daf6ad",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rainwater-harvesting-awareness-rally/4383032",
+   "title": "மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி",
+   "summary": "குளித்தலை:குளித்தலை அடுத்த இனுங்கூர் பஞ்., சார்பில் மழை நீர் சேகரிப்பு விழிப்புணர்வு பேரணி நடந்தது. குளித்தலை ஒன்றிய ஆணையரும், தனி அலுவலருமான ராஜேந்திரன் தலைமை வகித்து விழிப்புணர்வு பேரணியை தொடங்கி வைத்தார்.",
    "source": "தினமலர்",
-   "published": "2026-11-21T04:36:00+05:30",
-   "category": "பொது",
-   "score": 8.0,
+   "published": "2026-11-22T07:02:00+05:30",
+   "category": "மழை / வானிலை",
+   "score": 12.1,
    "power_cut": false,
-   "listed_at": "2026-11-21T08:50:09.126885+05:30",
-   "picked_at": "2026-11-21T08:52:04.511319+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
+   "alts": [
+    "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-pledge-for-rainwater-harvesting/4383022"
+   ],
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C180c565": {
+   "id": "C180c565",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/town-bandh-petition-to-tahsildar-seeking-removal-of-encroachments/4383034",
+   "title": "ஆக்கிரமிப்புகளை அகற்றி தரக்கோரி தாசில்தாரிடம் டவுன் பஞ்., மனு",
+   "summary": "ப.வேலுார்:ப.வேலுார் செயல் அலுவலர் பாலசுப்ரமணியன், ஆக்கிரமிப்புகளை அகற்றி தரக்கோரி, ப.வேலுார் தாசில்தாரிடம் புகார் மனு அளித்துள்ளார். அந்த மனுவில் தெரிவித்திருப்பதாவது: ப.வேலுார் டவுன் பஞ்.,க்குட்பட்ட பஞ்சமுக விநாயகர் ...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:03:00+05:30",
+   "category": "பொது",
+   "score": 11.0,
+   "power_cut": false,
+   "alts": [
+    "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/attempts-to-engage-in-a-sit-in-to-remove-encroachments/4383027"
+   ],
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C77df970": {
+   "id": "C77df970",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/maintenance-of-street-lights-in-vayalur/4383028",
+   "title": "வயலூரில் தெரு விளக்கு பராமரிப்பு பணி மும்முரம்",
+   "summary": "கிருஷ்ணராயபுரம்:வயலுாரில் உள்ள வார்டுகளில், தெரு விளக்கு பராமரிப்பு பணி நடந்தது. கிருஷ்ணராயபுரம் அடுத்த வயலுார் பஞ்சாயத்துக்கு உட்பட்ட சரவணபுரம், பாம்பன்பட்டி, நடுப்பட்டி, கணக்கம்பட்டி, கோடங்கிப்பட்டி, தேவசிங்கம்பட்டி...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:59:00+05:30",
+   "category": "பொது",
+   "score": 10.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C1203832": {
+   "id": "C1203832",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/southbound-near-mini-travel-bus-plunges-into-gorge/4383033",
+   "title": "தென்னிலை அருகே மினி டிராவல் பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து",
+   "summary": "அரவக்குறிச்சி:கரூரிலிருந்து திருப்பூர் நோக்கி சென்ற மினி டிராவல்ஸ் பஸ், கட்டுப்பாட்டை இழந்து சாலையோர பள்ளத்தில் கவிழ்ந்தது. இதில், ஓட்டுனர் சிறிய காயங்களுடன் உயிர் தப்பினார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:02:00+05:30",
+   "category": "விபத்து",
+   "score": 10.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C73041d9": {
+   "id": "C73041d9",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/request-to-repair-sewerage-canal/4383036",
+   "title": "சாக்கடை கால்வாயை சீரமைக்க கோரிக்கை",
+   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சி அருகே, சீத்தப்பட்டி பழைய காலனி பகுதியில் அமைந்துள்ள சாக்கடை கால்வாய், பல ஆண்டுகளாக சீரமைக்கப்படாமல் உள்ளதால், அப்பகுதி மக்களுக்கு தொற்று பரவும் அபாயம் ஏற்பட்டுள்ளது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:04:00+05:30",
+   "category": "பொது",
+   "score": 9.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C5214d17": {
+   "id": "C5214d17",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vegetable-farmers-go-on-strike/4383024",
+   "title": "காய்கறி நாற்று விற்பனை விவசாயிகள் மும்முரம்",
+   "summary": "கிருஷ்ணராயபுரம்,:சந்தையூர் வாரச்சந்தையில் காய்கறி நாற்று விற்பனை நடந்தது. கிருஷ்ணராயபுரம் அடுத்த சிவாயம் பஞ்சாயத்து, இரும்பூதிப்பட்டி சந்தையூர் வாரச்சந்தை சனிக்கிழமை தோறும் கூடுகிறது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:56:00+05:30",
+   "category": "பொது",
+   "score": 7.29,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C8969671": {
+   "id": "C8969671",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-abstract-correctional-camps-at-polling-stations/4383029",
+   "title": "ஓட்டுச்சாவடி மையங்களில் சிறப்பு சுருக்க திருத்த முகாம்",
+   "summary": "கரூர்:குளித்தலை, கிருஷ்ணராயபுரம் தொகுதிக்குட்பட்ட ஓட்டுச்சாவடி மையங்களில், சிறப்பு சுருக்க திருத்த முகாமை, கலெக்டர் பிரசன்னா ராமசாமி ஆய்வு மேற்கொண்டார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:00:00+05:30",
+   "category": "பொது",
+   "score": 7.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "Caf6d84a": {
+   "id": "Caf6d84a",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/1-lakh-fish-finger-cultivation-project-in-water-bodies/4383030",
+   "title": "நீர் நிலைகளில் 1 லட்சம் மீன் விரலி வளர்க்க திட்டம்",
+   "summary": "கரூர்:கரூர் மாவட்டம், தோகைமலை மந்தை குளத்தில் மீன்வளம் மற்றும் மீனவர் நலத்துறை சார்பில், மீன் விரலிகள் வளர்ப்பு திட்டத்தை, மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி தொடங்கி வைத்தார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:01:00+05:30",
+   "category": "பொது",
+   "score": 7.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "Cf63624a": {
+   "id": "Cf63624a",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/process-description-on-behalf-of-government-agricultural-college/4383031",
+   "title": "அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்",
+   "summary": "கரூர்:கரூர் அரசு வேளாண்மை கல்லுாரி சார்பில், கோனோ வீடர் குறித்த, செயல்முறை விளக்கம் ஜெகதாபி கிராமத்தில் நடந்தது. அதில், நெல் வயல்களில் வரிசையாக நடவு செய்யப்பட்ட பயிர்களைகளை எப்படி கட்டுப்படுத்துவது, களை எளிதாக அகற்றும...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:01:00+05:30",
+   "category": "கல்வி",
+   "score": 6.99,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "Cd15b759": {
+   "id": "Cd15b759",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/deepavali-festival-sale-of-earthen-lamps-in-full-swing/4383017",
+   "title": "தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்",
+   "summary": "கரூர்:கார்த்திகை தீப திருநாளையொட்டி, கரூரில் மண் விளக்குகள், விற்பனை நேற்று ஜோராக நடந்தது. தமிழகம் முழுவதும் நாளை மறுநாள், கார்த்திகை தீப திருநாள் கொண்டாடப்பட உள்ளது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:51:00+05:30",
+   "category": "பொது",
+   "score": 6.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C6b9c9fa": {
+   "id": "C6b9c9fa",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/white-line-on-the-road-without-cleaning-the-concretes/4383035",
+   "title": "கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு",
+   "summary": "அரவக்குறிச்சி:அரவக்குறிச்சி அருகே, தேசிய நெடுஞ்சாலையில் மண், கான்கிரீட் கழிவுகளை அகற்றாமல், அவற்றின் மீதே வெள்ளை கோடுகள் வரையப்பட்டதால், மக்கள் அதிர்ச்சியடைந்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:04:00+05:30",
+   "category": "சாலை",
+   "score": 5.63,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C30ebf97": {
+   "id": "C30ebf97",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/last-day-after-tomorrow-to-apply-for-the-southern-near-temporary-toll-toll-tender/4383026",
+   "title": "தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள் கடைசி",
+   "summary": "கரூர்:கோவை -- கரூர் தேசிய நெடுஞ்சாலையில், தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி அமைப்பதற்காக, இந்திய தேசிய நெடுஞ்சாலை ஆணையம் சார்பில், இ.டெண்டர் கோரியுள்ளது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:58:00+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C5914779": {
+   "id": "C5914779",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/gurupuja-ceremony-of-balasubrahmanya-swamiji-at-k-paramathi/4383023",
+   "title": "க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா",
+   "summary": "கரூர்:கரூர் சித்தர் ஆன்மிக சிவ ராஜயோக வள்ளல் பாலசுப்பிரமணிய சுவாமிகளின், 14வது குரு பூஜை விழா, க.பரமத்தி அருகே குமார கவுண்டன்புதுாரில் நடந்தது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:56:00+05:30",
+   "category": "பொது",
+   "score": 3.41,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "C18d35a3": {
+   "id": "C18d35a3",
+   "url": "https://www.hindutamil.in/news/tamilnadu/will-stalin-contest-in-kolathur",
+   "title": "கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறிவாலயத்தில் தீவிர ஆலோசனை",
+   "summary": "சென்னை: தவெக எம்எல்ஏ வி.எஸ்.பாபுமறைவைத் தொடர்ந்து காலியாகியுள்ள கொளத்தூர் தொகுதிஇடைத்தேர்தலில் திமுக தலைவர் மு.க.ஸ்டாலின் மீண்டும் போட்டியிடுவது தொடர்பாக அண்ணா அறிவாலயத்தில் நேற்று தீவிரமாக ஆலோசிக்கப்பட்டதாக தகவல் வெள...",
+   "source": "இந்து தமிழ்",
+   "published": "2026-11-22T01:31:15Z",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
+  },
+  "Cbbbda5c": {
+   "id": "Cbbbda5c",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fishing-net-equipment-outlet-inaugurated/4383037",
+   "title": "மீன் பிடி வலை, உபகரணங்கள் விற்பனை மையம் துவக்கம்",
+   "summary": "குளித்தலை:குளித்தலை, பாரதி நகர் பகுதியில் மத்திய அரசின் மீன்வளத் துறையின், நிதி உதவியுடன் குளித்தலை வட்ட உள்நாட்டு மீனவர் கூட்டுறவு சங்கம் சார்பில், மீன் வலை மற்றும் உபகரணங்கள் விற்பனை மையத்தை, திருச்சி மண்டல மீன்வளம்...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T07:05:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T07:56:46.640621+05:30"
   }
  },
  "rounds": {
-  "2026-11-19_14": {
-   "window": [
-    "2026-11-19T09:56:57.120591+05:30",
-    "2026-11-19T14:17:15.354094+05:30"
-   ],
-   "ids": [
-    "C852475a",
-    "Ca21bd87",
-    "C7cad38d",
-    "Cb2938e7"
-   ],
-   "sent": false,
-   "deadline": "2026-11-19T15:17:15.354094+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 3 by insights",
-    "ids": [
-     "C852475a",
-     "Ca21bd87",
-     "C7cad38d"
-    ],
-    "at": "2026-11-19T14:18:27.314726+05:30"
-   },
-   "written": [
-    "C7cad38d",
-    "C852475a",
-    "Ca21bd87"
-   ],
-   "refused": {
-    "C7cad38d": "not filed: duplicate after write",
-    "C852475a": "not filed: duplicate after write"
-   }
-  },
   "2026-11-19_18": {
    "window": [
     "2026-11-19T14:17:15.354094+05:30",
@@ -500,6 +640,33 @@
    "ids": [],
    "sent": false,
    "deadline": "2026-11-22T05:29:14.777696+05:30",
+   "decided": null,
+   "written": []
+  },
+  "2026-11-22_07": {
+   "window": [
+    "2026-11-22T04:29:14.777696+05:30",
+    "2026-11-22T07:56:46.640621+05:30"
+   ],
+   "ids": [
+    "C3daf6ad",
+    "C180c565",
+    "C77df970",
+    "C1203832",
+    "C73041d9",
+    "C5214d17",
+    "C8969671",
+    "Caf6d84a",
+    "Cf63624a",
+    "Cd15b759",
+    "C6b9c9fa",
+    "C30ebf97",
+    "C5914779",
+    "C18d35a3",
+    "Cbbbda5c"
+   ],
+   "sent": false,
+   "deadline": "2026-11-22T08:56:46.640621+05:30",
    "decided": null,
    "written": []
   }
