@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T23:44:17+00:00",
+ "updated": "2026-11-22T23:58:13+00:00",
  "day": "2026-11-23",
- "ready": 1,
+ "ready": 0,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -13,6 +13,13 @@
       "link": "https://www.instagram.com/reel/DgEABA2Ehnr/",
       "at": "2026-11-22T23:37:00+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-178",
+      "head": "தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவர்கள்: கரூரில் பள்ளி பாதுகாப்பு இயக்கக் கூட்டம்",
+      "link": "https://www.instagram.com/reel/DgEBoCWpcm8/",
+      "at": "2026-11-22T23:51:24+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -20,7 +27,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 0,
+    "waiting": 1,
     "share": [
      {
       "id": "RN-174",
