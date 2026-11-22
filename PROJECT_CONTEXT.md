@@ -83,6 +83,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `5d654f4` | Facebook share e-mail: news on Instagram but not on Facebook after 3 hours |
+| 2026-11-22 | `5da08e1` | stories shared / Instagram pause |
+| 2026-11-22 | `41f7c8d` | goldrate posted |
+| 2026-11-22 | `eb10ce9` | pick: written and posted |
+| 2026-11-22 | `c36bdb9` | facebook RN-168 |
+| 2026-11-22 | `b2e845c` | posted RN-168 |
+| 2026-11-22 | `0e16811` | facebook RN-165 |
+| 2026-11-22 | `2a8c0b9` | posted RN-165 |
+| 2026-11-22 | `c3fa233` | facebook RN-166 |
+| 2026-11-22 | `c262d93` | posted RN-166 |
+| 2026-11-22 | `c89c13e` | facebook RN-167 |
+| 2026-11-22 | `95a6ec1` | posted RN-167 |
 | 2026-11-22 | `6a93077` | Manual post e-mail: attach a 720p copy of the reel (the full reel was too large) |
 | 2026-11-22 | `abc0aa7` | stories shared / Instagram pause |
 | 2026-11-22 | `a439d44` | facebook RN-162 |
@@ -101,16 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `454727b` | facebook RN-161 |
 | 2026-11-22 | `3d256e2` | posted RN-161 |
 | 2026-11-21 | `8359c7c` | facebook RN-158 |
-| 2026-11-21 | `2f32070` | posted RN-158 |
-| 2026-11-21 | `a77e6bf` | facebook RN-160 |
-| 2026-11-21 | `b27f8a2` | posted RN-160 |
-| 2026-11-21 | `f890aad` | facebook RN-159 |
-| 2026-11-21 | `99d24c1` | posted RN-159 |
-| 2026-11-21 | `3df9581` | pick: written and posted |
-| 2026-11-21 | `e80753e` | pick: list sent |
-| 2026-11-21 | `35949da` | powercut: notices written |
-| 2026-11-21 | `6ab548e` | powercut: notices written |
-| 2026-11-21 | `ef52d15` | pick: written and posted |
-| 2026-11-21 | `7cca373` | pick: picked news saved |
-| 2026-11-21 | `2b989ef` | pick: picked news saved |
 <!-- recent-changes:end -->
