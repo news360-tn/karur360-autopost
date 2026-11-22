@@ -3,563 +3,393 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/town-bandh-petition-to-tahsildar-seeking-removal-of-encroachments/4383034",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/maintenance-of-street-lights-in-vayalur/4383028",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/southbound-near-mini-travel-bus-plunges-into-gorge/4383033",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/request-to-repair-sewerage-canal/4383036",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vegetable-farmers-go-on-strike/4383024",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-abstract-correctional-camps-at-polling-stations/4383029",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/1-lakh-fish-finger-cultivation-project-in-water-bodies/4383030",
-  "candidate filter: collected=7",
-  "to write: 7 Karur district candidates (max 7 stories)",
-  "round: top 7 of 7 candidates",
-  "candidates waiting: 7 Karur; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/process-description-on-behalf-of-government-agricultural-college/4383031",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/deepavali-festival-sale-of-earthen-lamps-in-full-swing/4383017",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/white-line-on-the-road-without-cleaning-the-concretes/4383035",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fishing-net-equipment-outlet-inaugurated/4383037",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/will-stalin-contest-in-kolathur",
+  "candidate filter: collected=5",
+  "to write: 5 Karur district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Karur; time left 79 min",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/will-stalin-contest",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "posting job not started (HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with ): the schedule posts it",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "posting job started at once",
+  "NOT filed (N) கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? -: not Karur district news (the story's first lines name another place and no Karur place)",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 13})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 15})",
-  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 76 min",
-  "filed: 7 Karur district stories (target 7), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "posting job not started (HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with ): the schedule posts it",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "posting job not started (HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with ): the schedule posts it",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "posting job not started (HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with ): the schedule posts it",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 75 min",
+  "filed: 4 Karur district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.6-flash (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கிருஷ்ணராயபுரத்தில் காய்கறி நாற்று விற்பனை மும்முரம்",
-   "english_headline": "Vegetable seedling sales brisk at Sandhaiyur weekly market in Krishnarayapuram",
-   "category": "Weather & Agriculture",
-   "location": "Sandhaiyur weekly market, Irumbuthipatti, Sivayam panchayat, Krishnarayapuram, Karur district",
+   "tamil_headline": "குளித்தலையில் மீன் வலை விற்பனை மையம் திறப்பு",
+   "english_headline": "Fishing net and equipment sales centre opened in Kulithalai",
+   "category": "Government & Services",
+   "location": "Bharathi Nagar, Kulithalai town, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "கிருஷ்ணராயபுரம்",
-    "hl1": "சந்தையூரில் நாற்று விற்பனை மும்முரம்",
-    "hl2": "கத்திரி நாற்று ரூ.50 முதல்",
+    "cat": "அரசு சேவை",
+    "loc": "குளித்தலை, பாரதி நகர்",
+    "hl1": "குளித்தலையில் மீன் வலை மையம் திறப்பு",
+    "hl2": "குறைந்த விலையில் வலைகள்",
     "slides": [
      {
-      "title": "எங்கே நடந்தது?",
+      "title": "என்ன திறப்பு?",
       "lines": [
-       "கிருஷ்ணராயபுரம் அருகே சிவாயம் பஞ்சாயத்து",
-       "இரும்பூதிப்பட்டி சந்தையூர் வாரச்சந்தை",
-       "சனிக்கிழமை தோறும் சந்தை கூடுகிறது"
+       "குளித்தலை, பாரதி நகரில் மீன் வலை மையம் திறப்பு",
+       "குளித்தலை வட்ட உள்நாட்டு மீனவர் கூட்டுறவு சங்கம் நடத்தியது",
+       "மத்திய அரசின் மீன்வளத் துறை நிதி உதவியுடன்"
       ]
      },
      {
-      "title": "என்ன விற்பனை?",
+      "title": "யார் திறந்தார்?",
       "lines": [
-       "காய்கறி சீசன் தொடக்கத்தால் நாற்று விற்பனை",
-       "சிறு விவசாயிகள் நாற்றுகளைக் கொண்டு வந்தனர்",
-       "குறைந்த விலையில் நாற்றுகள் விற்கப்பட்டன"
+       "திருச்சி மண்டல மீன்வளத் துறை துணை இயக்குனர் பிரபாவதி",
+       "ரிப்பன் வெட்டி மையத்தைத் திறந்து வைத்தார்",
+       "அதிகாரிகள் முன்னிலையில் நிகழ்ச்சி நடைபெற்றது"
       ]
      },
      {
-      "title": "விலை விவரம்",
+      "title": "யாருக்கு பயன்?",
       "lines": [
-       "கத்திரிக்காய் நாற்று கட்டு <b>ரூ.50</b>",
-       "தக்காளி நாற்று <b>ரூ.40</b>",
-       "மிளகாய் நாற்று <b>ரூ.200</b>"
+       "கட்டளை காவிரி ஆறு முதல் முக்கொம்பு வரை",
+       "ஆயிரத்துக்கு மேற்பட்ட உறுப்பினர்கள் உள்ள சங்கத்தினர்",
+       "<b>குறைந்த விலையில்</b> வலைகள், மீன்பிடி உபகரணங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கிருஷ்ணராயபுரம் அருகே சந்தையூர் வாரச்சந்தையில் காய்கறி நாற்று விற்பனை மும்முரமாக நடைபெற்றது. இரும்பூதிப்பட்டி சந்தையூர் வாரச்சந்தை சனிக்கிழமைதோறும் கூடுகிறது. காய்கறி சீசன் தொடங்கியுள்ளதால் சிறு விவசாயிகள் தாங்கள் உற்பத்தி செய்த நாற்றுகளை விற்பனைக்குக் கொண்டு வந்தனர். கத்திரிக்காய் நாற்று ஒரு கட்டு ரூ.50, தக்காளி நாற்று ரூ.40, மிளகாய் நாற்று ரூ.200 என்ற விலையில் விற்கப்பட்டது. குறைந்த பரப்பளவில் காய்கறி சாகுபடி செய்ய விரும்பும் விவசாயிகள் இந்த மலிவான நாற்றுகளை வாங்கிச் சென்று நடவுப் பணிகளில் ஈடுபட்டுள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌱 கிருஷ்ணராயபுரம் சந்தையூரில் காய்கறி நாற்று விற்பனை மும்முரம்\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அருகே சிவாயம் பஞ்சாயத்து இரும்பூதிப்பட்டி சந்தையூர் வாரச்சந்தையில் நேற்று காய்கறி நாற்று விற்பனை மும்முரமாக நடைபெற்றது. இந்தச் சந்தை சனிக்கிழமைதோறும் கூடுகிறது.\nகாய்கறி சீசன் தொடங்கியுள்ளதால், இரும்பூதிப்பட்டி சாலை அருகே சிறு விவசாயிகள் தாங்கள் உற்பத்தி செய்த நாற்றுகளைக் கொண்டு வந்தனர்.\n🍆 கத்திரிக்காய் நாற்று கட்டு ஒன்று ரூ.50\n🍅 தக்காளி நாற்று ரூ.40\n🌶️ மிளகாய் நாற்று ரூ.200\nகுறைந்த பரப்பளவில் காய்கறி சாகுபடி செய்ய விரும்பும் விவசாயிகள் மலிவான விலையில் நாற்றுகளை வாங்கிச் சென்று நடவுப் பணிகளில் ஈடுபட்டுள்ளனர்.\n\nVegetable seedlings sale Krishnarayapuram | Karur news\n📍 சந்தையூர், கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nவிவசாயிகளுக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
-   "prompts": "Small farmers sit behind neatly arranged bundles of green brinjal, tomato and chilli seedlings at the weekly market along the Irumbuthipatti road in Krishnarayapuram, Karur district, while buyers in shirts, veshti and sarees crouch and select seedlings. The stalls are open-air mats and tarpaulin spread on the road side, with a few two-wheelers parked at the edge and rural Karur district fields visible beyond. Dozens of tied bundles of seedlings in small plastic trays and woven baskets fill the foreground, bright leafy green against the dusty earth. Several buyers carry bundles away in their hands, showing they have just purchased them. It is a clear Saturday morning in daylight with soft sunlight. Shot at eye level, 35 mm, wide enough to show the market stalls, the farmers and the road. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of tied bundles of freshly raised vegetable seedlings laid out on a woven mat at the Sandhaiyur weekly market, Krishnarayapuram, Karur district. Thin green brinjal and tomato seedlings with roots wrapped in moist soil are bundled tightly with dried palm fibre and placed in small heaps, with a few green chilli seedlings in a separate pile. A farmer's hand, seen from behind and partly out of frame, rests on a bundle. Soil dust and dried leaves lie on the road beside the mat, and a bright Saturday morning daylight falls on the leaves. Shot close up at a low angle, 35 mm, with a shallow depth of field so the seedlings are sharp and the background stalls are softly blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/vegetable-farmers-go-on-strike/4383024",
-   "published": "2026-11-22T06:56:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'கிருஷ்ணராயபுரம்', e.g. 'கிருஷ்ணராயபுரம்: ...' or 'கிருஷ்ணராயபுரம்-இல் ...' - viewers share news of their own area",
+   "reel_script": "குளித்தலை, பாரதி நகரில் மீன் வலை மற்றும் உபகரணங்கள் விற்பனை மையம் திறக்கப்பட்டது. இதனை குளித்தலை வட்ட உள்நாட்டு மீனவர் கூட்டுறவு சங்கம் நடத்துகிறது. மத்திய அரசின் மீன்வளத் துறை நிதி உதவியுடன் இந்த மையம் அமைக்கப்பட்டுள்ளது. திருச்சி மண்டல மீன்வளத் துறை துணை இயக்குனர் பிரபாவதி ரிப்பன் வெட்டி மையத்தைத் திறந்து வைத்தார். திருச்சி மண்டல உதவி இயக்குனர் குமரேசன், கரூர் ஆய்வாளர் கர்ணன், மாயனூர் ஆய்வாளர் அஜய்குமார் ஆகியோர் முன்னிலை வகித்தனர். கட்டளை காவிரி ஆற்றிலிருந்து திருச்சி மாவட்டம் முக்கொம்பு வரை உள்ள ஆயிரத்துக்கு மேற்பட்ட உறுப்பினர்களைக் கொண்ட சங்கத்தினருக்கு குறைந்த விலையில் வலைகளும் மீன்பிடி உபகரணங்களும் வழங்கப்படும். விழாவில் சங்க முன்னாள் தலைவர் மதியழகன், முன்னாள் இயக்குனர் செல்வம் மற்றும் உறுப்பினர்கள் கலந்து கொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎣 குளித்தலையில் குறைந்த விலையில் மீன் வலை விற்பனை மையம் திறப்பு\n\n📰 முழு விவரம்:\nகுளித்தலை, பாரதி நகரில் குளித்தலை வட்ட உள்நாட்டு மீனவர் கூட்டுறவு சங்கம் சார்பில் மீன் வலை மற்றும் உபகரணங்கள் விற்பனை மையம் திறக்கப்பட்டது. மத்திய அரசின் மீன்வளத் துறை நிதி உதவியுடன் இந்த மையம் அமைக்கப்பட்டுள்ளது.\nதிருச்சி மண்டல மீன்வளத் துறை துணை இயக்குனர் பிரபாவதி ரிப்பன் வெட்டி மையத்தைத் திறந்து வைத்தார்.\nகட்டளை காவிரி ஆறு முதல் திருச்சி மாவட்டம் முக்கொம்பு வரை உள்ள ஆயிரத்துக்கு மேற்பட்ட உறுப்பினர்கள் கொண்ட சங்கத்தினருக்கு குறைந்த விலையில் வலைகள் மற்றும் மீன்பிடி உபகரணங்கள் வழங்கப்படும்.\n\n📍 இடம்: பாரதி நகர், குளித்தலை\n🗓️ நாள்: 22 நவம்பர் 2026\n\nKulithalai fishing net sales centre opened | Karur news\n📍 குளித்தலை, கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "A Deputy Director of fisheries cuts a red ribbon at the entrance of a newly opened fishing net and equipment sales centre in Bharathi Nagar, Kulithalai town, as a small group of officials and cooperative members in shirts, trousers and sarees applaud beside her. The shop is a single-storey concrete building with a shutter half raised, and the ribbon is stretched across its open doorway. Inside the glass counter and wall racks are stacked with rolled fishing nets, coils of nylon line and fishing gear. Several fishermen in shirts and veshti stand in the front, seen from behind. Daytime, bright natural light, a few two-wheelers parked on the narrow town street. Camera at eye level, 35 mm, wide enough to show the shop front and the people. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of rolled fishing nets, coils of nylon fishing line and hooks neatly stacked on wooden shelves inside a newly opened fishing equipment sales centre in Kulithalai town. The nets are bundled in tidy piles on a wooden counter, with a few hanging from a rack in the background. Soft daylight enters through the open shutter and falls across the gear. A blurred shadow of a fisherman in a shirt and veshti stands at the edge of the frame, seen from behind. Camera slightly high, 50 mm macro-style detail, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fishing-net-equipment-outlet-inaugurated/4383037",
+   "published": "2026-11-22T07:05:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): மாயனூர் ('திருச்சி மண்டல உதவி இயக்குனர் குமரேசன், கரூர் ஆய்வாளர் கர்ணன')",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331088/karur360/g173g3ofjmrccljbogc7.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331090/karur360/nk3oei0vrn5wrfqxbnny.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரவக்குறிச்சி அருகே கழிவுகளை அகற்றாமல் சாலையில் வெள்ளைக் கோடு",
+   "english_headline": "White road markings painted over soil and concrete waste without clearing them near Aravakurichi",
+   "category": "Roads & Transport",
+   "location": "Aravakurichi, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை பணி",
+    "loc": "அரவக்குறிச்சி",
+    "hl1": "கழிவுகளின் மேல் வெள்ளைக் கோடு",
+    "hl2": "அகற்றாமல் கோடு வரைகின்றனர்",
+    "slides": [
+     {
+      "title": "என்ன நடக்கிறது?",
+      "lines": [
+       "அரவக்குறிச்சி அருகே தேசிய நெடுஞ்சாலையில் வெள்ளைக் கோடுகள்",
+       "மண், கான்கிரீட் கழிவுகளை அகற்றாமலேயே கோடு வரைகின்றனர்",
+       "இதனால் மக்கள் அதிர்ச்சி அடைந்தனர்"
+      ]
+     },
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "கோர்ட் சாலையில் இருந்து தனியார் மருத்துவமனைக்கு செல்லும் வழி",
+       "தேசிய நெடுஞ்சாலையில் இணையும் பகுதி",
+       "சாலையோரத்தில் மண், கான்கிரீட் கலவை கொட்டப்பட்டுள்ளது"
+      ]
+     },
+     {
+      "title": "வாகன ஓட்டிகள்",
+      "lines": [
+       "சாலையோர மண், கழிவுகளை அகற்றிய பின் கோடு வரைய வேண்டும்",
+       "வெள்ளைக் கோடு வழிகாட்டத்தான், கழிவை மறைக்க அல்ல",
+       "தேசிய நெடுஞ்சாலைத் துறையினர் கவனிக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அரவக்குறிச்சி அருகே சாலையில் கழிவுகளின் மேல் வெள்ளைக் கோடுகள் வரையப்படுகின்றன. தேசிய நெடுஞ்சாலையில் கோர்ட் சாலையில் இருந்து தனியார் மருத்துவமனைக்கு செல்லும் வழி இணையும் பகுதியில் இந்தப் பணி நடைபெற்று வருகிறது. வெள்ளைக் கோடு வரைவதற்கு முன் சாலையோரத்தில் உள்ள மண், கான்கிரீட் கழிவுகள் மற்றும் சிதறிய பொருட்களை அகற்றி சுத்தம் செய்ய வேண்டும். ஆனால் பணியாளர்கள் அவற்றை அகற்றாமலேயே கோடு வரைகின்றனர். சாலையோர மண்ணின் மீதும், கான்கிரீட் கலவைகளுக்கு இடையில் கிடைத்த இடங்களிலும் வெள்ளைக் கோடுகள் வரையப்படுகின்றன. இதனால் மக்கள் அதிர்ச்சி அடைந்தனர். சாலைப் பாதுகாப்புக்காக வரையப்படும் கோடுகள் வாகன ஓட்டிகளுக்கு வழிகாட்ட வேண்டுமே தவிர, கழிவுகளை மறைக்கும் அலங்காரமாக மாறக்கூடாது. எனவே சாலையோர மண், கழிவுகளை அகற்றி சுத்தம் செய்த பின் கோடுகள் வரைய வேண்டும் என வாகன ஓட்டிகள் தேசிய நெடுஞ்சாலைத் துறையினரிடம் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛣️ அரவக்குறிச்சி அருகே கழிவுகளை அகற்றாமல் சாலையில் வெள்ளைக் கோடு\n\n📰 முழு விவரம்:\nஅரவக்குறிச்சி அருகே தேசிய நெடுஞ்சாலையில் வெள்ளைக் கோடுகள் வரையும் பணி நடைபெறுகிறது. கோர்ட் சாலையில் இருந்து தனியார் மருத்துவமனைக்கு செல்லும் வழி தேசிய நெடுஞ்சாலையில் இணையும் பகுதியில் இந்தப் பணி நடைபெறுகிறது.\nசாலையோரத்தில் உள்ள மண், கான்கிரீட் கழிவுகளை அகற்றாமலேயே அவற்றின் மீது கோடுகள் வரையப்பட்டுள்ளன. கான்கிரீட் கலவைகளுக்கு இடையில் கிடைத்த இடங்களில் மட்டும் கோடுகள் வரையப்பட்டுள்ளன. இதனால் மக்கள் அதிர்ச்சி அடைந்தனர்.\nசாலைப் பாதுகாப்புக்காக வரையப்படும் வெள்ளைக் கோடுகள் வழிகாட்டத்தான் வேண்டும், கழிவுகளை மறைப்பதற்கான அலங்காரமாக மாறக்கூடாது.\n📍 இடம்: அரவக்குறிச்சி அருகே தேசிய நெடுஞ்சாலை\n👷 கோரிக்கை: சாலையோர மண், கழிவுகளை அகற்றி சுத்தம் செய்த பின்னரே கோடுகள் வரைய வேண்டும் என வாகன ஓட்டிகள் கோரிக்கை\n🏛️ தொடர்புடைய துறை: தேசிய நெடுஞ்சாலைத் துறையினர்\n\nAravakurichi white road markings over waste | Karur news\n📍 அரவக்குறிச்சி, கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
+   "prompts": "A road-painting crew of two or three workers in shirts and trousers marks fresh white lines on the asphalt of a national highway near Aravakurichi, Karur district, while the roadside beside them is still piled with brown soil heaps and grey concrete waste that has not been cleared. The setting is the junction where a court road feeds onto the highway, with low shops, a few parked two-wheelers and a passing private bus or car on the tarmac. The workers, seen from behind and at a distance, carry paint tins and a brush, and the white stripes run straight over the dirt and broken concrete at the road edge. It is bright daylight with a clear sky. Camera at eye level, 35 mm, wide enough to show the road, the workers and the debris together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a fresh white road line painted over a roadside heap of loose brown soil and grey concrete waste, with scattered chunks of broken concrete and debris lying on the asphalt beside it. A paint tin and a brush rest on the edge of the tarmac, and the bold white stripe runs straight across the untreated mud and rubble instead of being cleared first. Shot in bright daylight, camera low and close to the ground, 50 mm, shallow depth of field so the paint line and the dirty roadside debris are the focus, with no readable signs or text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/white-line-on-the-road-without-cleaning-the-concretes/4383035",
+   "published": "2026-11-22T07:04:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'அரவக்குறிச்சி', e.g. 'அரவக்குறிச்சி: ...' or 'அரவக்குறிச்சி-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314604/karur360/vpy1l6urnzwmma3ew08q.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314618/karur360/yb8txtxkxbzq5kfydi2v.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331132/karur360/nrdff8d10regi2ciwhw6.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331135/karur360/asvthxvwfkvo8hfs6maw.jpg"
    ]
   },
   {
-   "tamil_headline": "நீர் நிலைகளில் 1 லட்சம் மீன் விரலி வளர்க்க திட்டம்",
-   "english_headline": "Plan to rear 1 lakh fish fingerlings in water bodies across Karur district",
-   "category": "Government & Services",
-   "location": "Thokaimalai pond, Thokaimalai, Karur district",
+   "tamil_headline": "ஜெகதாபியில் கோனோ வீடர் செயல்முறை விளக்கம்: களை அகற்றும் முறை கற்றுக்கொடுப்பு",
+   "english_headline": "Karur agricultural college demonstrates cono weeder at Jegathabi village, explaining weed removal in paddy fields",
+   "category": "Weather & Agriculture",
+   "location": "Jegathabi village, Karur district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மீன் வளர்ப்பு",
-    "loc": "தோகைமலை, கரூர்",
-    "hl1": "தோகைமலையில் மீன் திட்டம் தொடக்கம்",
-    "hl2": "1 லட்சம் மீன் விரலிகள்",
+    "cat": "வேளாண்மை",
+    "loc": "ஜெகதாபி, கரூர்",
+    "hl1": "ஜெகதாபியில் கோனோ வீடர் செயல்விளக்கம்",
+    "hl2": "விவசாயிகள் பங்கேற்பு",
     "slides": [
      {
-      "title": "என்ன திட்டம்?",
+      "title": "எங்கே, எப்போது?",
       "lines": [
-       "மீன்வளம் மற்றும் மீனவர் நலத்துறை சார்பில் மீன் விரலிகள்",
-       "கலெக்டர் <b>பிரசன்னா ராமசாமி</b> திட்டத்தைத் தொடங்கி வைத்தார்",
-       "தோகைமலை மந்தை குளத்தில் முதல்கட்டமாக <b>12,000</b> மீன் விரலிகள்"
+       "ஜெகதாபி கிராமத்தில் நடந்தது",
+       "கரூர் அரசு வேளாண்மை கல்லூரி சார்பில்",
+       "கோனோ வீடர் குறித்த செயல்முறை விளக்கம்"
       ]
      },
      {
-      "title": "எத்தனை குளங்கள்?",
+      "title": "என்ன",
       "lines": [
-       "ஊரக வளர்ச்சி மற்றும் உள்ளாட்சித் துறைக்குச் சொந்தமான",
-       "ஒரு ஹெக்டேருக்கு <b>2,000</b> மீன் விரலிகள் வீதம்",
-       "மொத்தம் <b>50</b> ஹெக்டேர் நீர்நிலைகளில் <b>1 லட்சம்</b> விரலிகள் திட்டம்"
+       "நெல் வயலில் வரிசை நடவுப் பயிர்களைக் கட்டுப்படுத்தும் முறை",
+       "களையை எளிதாக அகற்றும் முறைகள்",
+       "மண்ணில் காற்றோட்டத்தை அதிகரிக்கும் முறை"
       ]
      },
      {
-      "title": "அடுத்து என்ன?",
+      "title": "யார் விளக்கம்?",
       "lines": [
-       "அரசு மீன்குஞ்சு பண்ணையிலிருந்து விரலிகள் வழங்க நிதி ஒதுக்கி",
-       "நிகழ்ச்சியில் துணை இயக்குனர் <b>பிரபாவதி</b> உட்பட"
+       "வேளாண்மை கல்லூரி மாணவி பவிஷ்ணவி விளக்கினார்",
+       "மாணவியர் செய்முறை விளக்கமும் செய்து காட்டினர்",
+       "ஜெகதாபி விவசாயிகள் பங்கேற்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் மாவட்டத்தில் நீர்நிலைகளில் 1 லட்சம் மீன் விரலிகளை வளர்க்கத் திட்டமிடப்பட்டுள்ளது. தோகைமலை மந்தை குளத்தில் மீன்வளம் மற்றும் மீனவர் நலத்துறை சார்பில் மீன் விரலிகள் வளர்ப்புத் திட்டத்தை மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி தொடங்கி வைத்தார். இந்தத் திட்டத்தின் முதல்கட்டமாக தோகைமலை மந்தை குளத்தில் 12,000 மீன் விரலிகள் விட்டு வளர்க்கப்படுகின்றன. கரூர் மாவட்டத்தில் ஊரக வளர்ச்சி மற்றும் உள்ளாட்சித் துறைக்குச் சொந்தமான 6 குளங்களில் மீன் வளர்ப்புத் திட்டம் செயல்படுத்தப்படுகிறது. மாவட்டத்தில் ஒரு ஹெக்டேருக்கு 2,000 மீன் விரலிகள் வீதம், மொத்தம் 50 ஹெக்டேர் பரப்பளவிலான நீர்நிலைகளில் ஒரு லட்சம் மீன் விரலிகளை வளர்க்கத் திட்டமிடப்பட்டுள்ளது. இதற்காக அரசு மீன்குஞ்சுப் பண்ணையிலிருந்து விரலிகளை வழங்க நிதி ஒதுக்கி ஆணை வழங்கப்பட்டுள்ளது. நிகழ்ச்சியில் மீன்வளம் மற்றும் மீனவர் நலத்துறை துணை இயக்குனர் பிரபாவதி உள்ளிட்ட அரசு அலுவலர்கள் கலந்து கொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐟 தோகைமலையில் மீன் விரலி வளர்ப்புத் திட்டம் தொடக்கம்: 1 லட்சம் விரலிகள் திட்டம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், தோகைமலை மந்தை குளத்தில் மீன்வளம் மற்றும் மீனவர் நலத்துறை சார்பில் மீன் விரலிகள் வளர்ப்புத் திட்டத்தை மாவட்ட கலெக்டர் பிரசன்னா ராமசாமி தொடங்கி வைத்தார்.\nஊரக வளர்ச்சி மற்றும் உள்ளாட்சித் துறைக்குச் சொந்தமான 6 குளங்களில் மீன் வளர்ப்புத் திட்டம் செயல்படுத்தப்படுகிறது.\nமுதல்கட்டமாக தோகைமலை மந்தை குளத்தில் 12,000 மீன் விரலிகள் (குஞ்சுகள்) விட்டு வளர்க்கப்படுகின்றன.\nமாவட்டத்தில் ஒரு ஹெக்டேருக்கு 2,000 மீன் விரலிகள் வீதம், மொத்தம் 50 ஹெக்டேர் நீர்நிலைகளில் ஒரு லட்சம் மீன் விரலிகளை வளர்க்கத் திட்டமிடப்பட்டுள்ளது.\nஇதற்காக அரசு மீன்குஞ்சுப் பண்ணையிலிருந்து விரலிகளை வழங்க நிதி ஒதுக்கி ஆணை வழங்கப்பட்டுள்ளது.\nநிகழ்ச்சியில் மீன்வளம் மற்றும் மீனவர் நலத்துறை துணை இயக்குனர் பிரபாவதி உள்ளிட்ட அரசு அலுவலர்கள் கலந்து கொண்டனர்.\n\nFish fingerling rearing scheme Thokaimalai Karur | Karur news\n📍 தோகைமலை, கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A district collector and fisheries officials stand at the edge of Thokaimalai village pond as a fisheries worker pours fish fingerlings from a plastic bucket into the still water during a government launch ceremony. The pond is a rural village tank with earthen banks, a few palm and tamarind trees along the edge, and a cement step leading down to the water. Officials in formal shirts and trousers, one in a saree, stand in a loose group seen from behind and at a distance, with two or three villagers watching from the bund. Daylight, clear sky, soft morning sun on the water's surface. Camera at eye level, 35 mm, wide enough to show the whole pond and the banks. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a plastic bucket tipped at the edge of a village pond, releasing a stream of tiny silver fish fingerlings into dark green water with small ripples spreading outward. Wet earthen bank and a few green water plants in the foreground, the blurred legs of officials in trousers visible at the top edge of the frame. Daylight, clear weather, bright reflections on the water. Camera slightly high, 50 mm, shallow depth of field focusing on the fish and water. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/1-lakh-fish-finger-cultivation-project-in-water-bodies/4383030",
+   "reel_script": "ஜெகதாபி கிராமத்தில் கோனோ வீடர் குறித்த செயல்முறை விளக்கம் நடைபெற்றது. கரூர் அரசு வேளாண்மை கல்லூரி சார்பில் இந்த விளக்கம் நடத்தப்பட்டது. நெல் வயல்களில் வரிசையாக நடவு செய்யப்பட்ட பயிர்களைக் கட்டுப்படுத்துவது குறித்து விளக்கப்பட்டது. களையை எளிதாக அகற்றும் முறைகளும் விளக்கப்பட்டன. தொழிலாளர் தேவையைக் குறைப்பது, மண்ணில் காற்றோட்டத்தை அதிகரிப்பது, சாகுபடி செலவைக் குறைப்பது ஆகியவை குறித்தும் பேசப்பட்டது. வேளாண்மை கல்லூரி மாணவி பவிஷ்ணவி இதுகுறித்து விளக்கம் அளித்துப் பேசினார். மாணவியர் செய்முறை விளக்கமும் செய்து காட்டினர். ஜெகதாபி கிராமத்தைச் சேர்ந்த விவசாயிகள் இதில் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 ஜெகதாபியில் கோனோ வீடர் செயல்முறை விளக்கம்: விவசாயிகள் பங்கேற்பு\n\n📰 முழு விவரம்:\nகரூர் அரசு வேளாண்மை கல்லூரி சார்பில் ஜெகதாபி கிராமத்தில் கோனோ வீடர் குறித்த செயல்முறை விளக்கம் நடைபெற்றது.\nநெல் வயல்களில் வரிசையாக நடவு செய்யப்பட்ட பயிர்களைக் கட்டுப்படுத்துவது, களையை எளிதாக அகற்றும் முறைகள், தொழிலாளர் தேவையைக் குறைத்தல், மண்ணில் காற்றோட்டத்தை அதிகரித்தல், சாகுபடி செலவைக் குறைத்தல் குறித்து விளக்கப்பட்டது.\nவேளாண்மை கல்லூரி மாணவி பவிஷ்ணவி விளக்கம் அளித்தார். மாணவியர் செய்முறை விளக்கமும் செய்து காட்டினர். ஜெகதாபி விவசாயிகள் பங்கேற்றனர்.\n\nKaror cono weeder demo Jegathabi | Karur news\n📍 ஜெகதாபி, கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A female agricultural student operates a cono weeder machine between rows of paddy crops in a green field. The location is a flat paddy field in Jegathabi village, Karur district, with lush green rice plants visible in neat lines. Several local farmers stand at a safe distance, observing the machine's movement, while the student guides the equipment. The cono weeder is a small, wheeled agricultural tool designed to remove weeds from between crop rows. The scene is set in daylight with clear visibility of the green vegetation and brown soil. The camera is positioned at eye level, using a 35 mm lens to capture the interaction between the student, the machine, and the observing farmers, highlighting the practical demonstration of weed removal technology in a rural setting. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the cono weeder's tines churning the soil between two rows of young paddy plants. The focus is on the mechanical action of the weeder removing small weeds from the earth, showing the contrast between the green rice leaves and the dark, aerated soil. The machine's wheels are partially visible, pressing into the wet field. In the blurred background, the green expanse of the paddy field in Jegathabi village stretches out. The lighting is natural daylight, emphasizing the texture of the soil and the fresh green of the crops. The camera is slightly high, looking down at the point of action, using a 35 mm lens to isolate the specific agricultural task of weed control and soil aeration demonstrated by the college students. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/process-description-on-behalf-of-government-agricultural-college/4383031",
    "published": "2026-11-22T07:01:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331176/karur360/p5rywboeqhimhrqsozft.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331182/karur360/qjbyfunaklzwfujaufce.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூரில் தீப திருநாளுக்கு மண் விளக்கு விற்பனை ஜோர்",
+   "english_headline": "Brisk sale of clay lamps in Karur ahead of Karthigai Deepam festival",
+   "category": "Temples & Events",
+   "location": "Karur city, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "தீப திருநாள்",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் மண் விளக்கு விற்பனை ஜோர்",
+    "hl2": "ரூ.2 முதல் ரூ.100 வரை",
+    "slides": [
+     {
+      "title": "எங்கே விற்பனை?",
+      "lines": [
+       "கரூர் ஜவஹர் பஜார், கோவை சாலை",
+       "உழவர் சந்தை, காந்தி கிராமம்",
+       "தான்தோன்றிமலை, பசுபதிபாளையம், வெங்கமேடு"
+      ]
+     },
+     {
+      "title": "என்ன விற்பனை?",
+      "lines": [
+       "களிமண் விளக்குகள், பல வண்ணங்களில்",
+       "சிலிகான் விளக்குகளும் விற்பனை",
+       "நேற்று விற்பனை ஜோராக நடந்தது"
+      ]
+     },
+     {
+      "title": "விலை விவரம்",
+      "lines": [
+       "சிறிய விளக்கு <b>ரூ.2</b> முதல் <b>ரூ.5</b> வரை",
+       "பெரிய விளக்கு <b>ரூ.50</b> முதல் <b>ரூ.100</b> வரை",
+       "தீப திருநாள் நாளை மறுநாள் கொண்டாடப்படுகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூரில் கார்த்திகை தீப திருநாளுக்கான மண் விளக்கு விற்பனை ஜோராக நடைபெற்றது. நேற்று கரூர் ஜவஹர் பஜார், கோவை சாலை, உழவர் சந்தை, காந்தி கிராமம், தான்தோன்றிமலை, பசுபதிபாளையம், வெங்கமேடு உள்ளிட்ட பல்வேறு பகுதிகளில் விற்பனை நடைபெற்றது. தமிழகம் முழுவதும் நாளை மறுநாள் கார்த்திகை தீப திருநாள் கொண்டாடப்பட உள்ளது. அன்று மாலையில் வீடுகள், வணிக நிறுவனங்கள், கோவில்களில் மண் விளக்குகளில் தீபம் ஏற்றப்படுவது வழக்கம். இதனால் களிமண் விளக்குகள், பல வண்ணங்களில் உள்ள சிலிகான் விளக்குகள் ஆகியவை அதிகம் விற்பனையாகின. சிறிய விளக்கு ரூ.2 முதல் ரூ.5 வரையிலும், பெரிய விளக்கு ரூ.50 முதல் ரூ.100 வரையிலும் விற்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🪔 கரூரில் தீப திருநாளுக்கு மண் விளக்கு விற்பனை ஜோர்\n\n📰 முழு விவரம்:\nகார்த்திகை தீப திருநாளையொட்டி கரூரில் மண் விளக்குகள் விற்பனை நேற்று ஜோராக நடைபெற்றது.\nகரூர் ஜவஹர் பஜார், கோவை சாலை, உழவர் சந்தை, காந்தி கிராமம், தான்தோன்றிமலை, பசுபதிபாளையம், வெங்கமேடு உள்ளிட்ட பல்வேறு பகுதிகளில் களிமண் விளக்குகள், பல வண்ணங்களில் சிலிகான் விளக்குகள் விற்கப்பட்டன.\nதமிழகம் முழுவதும் நாளை மறுநாள் கார்த்திகை தீப திருநாள் கொண்டாடப்பட உள்ளது. அன்று மாலை வீடுகள், வணிக நிறுவனங்கள், கோவில்களில் மண் விளக்குகளில் தீபம் ஏற்றப்படுவது வழக்கம்.\n💰 விலை: சிறிய விளக்கு ரூ.2 முதல் ரூ.5 வரை; பெரிய விளக்கு ரூ.50 முதல் ரூ.100 வரை\n\nKarur clay lamps sale Karthigai Deepam | Karur news\n📍 கரூர், கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A street vendor at a busy market stall in Jawahar Bazaar, Karur city, arranges a large heap of clay lamps in many colours on a wooden table, with customers, men in shirts and women in sarees, bending over to pick lamps as Karthigai Deepam nears. The stall is lined with small clay diyas and bigger lamps priced on a rough board, shop fronts and two-wheelers parked along the narrow bazaar road behind them, with a few autorickshaws passing. Shoppers are seen from behind or at a distance, with their faces not visible. It is daylight with the bustle of a busy market day. Camera at eye level, 35 mm, wide enough to show the stall, the crowd and the shop lane. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a market stall table in Karur's Jawahar Bazaar piled with rows of small clay oil lamps (diyas) in red, orange and natural terracotta tones, alongside a few silicone lamps in bright colours. A vendor's hand, in a plain shirt sleeve, reaches in to pick out a lamp, and a stack of larger clay lamps stands beside the small ones. The background is softly blurred with other stalls and shoppers' legs passing by. Daylight from the side, shallow depth of field, camera slightly high, 50 mm, focusing on the lamps and the texture of the clay. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/deepavali-festival-sale-of-earthen-lamps-in-full-swing/4383017",
+   "published": "2026-11-22T06:51:00+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314635/karur360/tytcfmdpujongwct9xaj.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314639/karur360/jlehwebhvvimeylhf6cx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூர் மாவட்டத்தில் வாக்காளர் பட்டியல் சிறப்பு முகாம்",
-   "english_headline": "Special Voter List Correction Camp in Karur District",
-   "category": "Government & Services",
-   "location": "Kulithalai, Krishnarayapuram, Karur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வாக்காளர் பட்டியல்",
-    "loc": "குளித்தலை, கிருஷ்ணராயபுரம்",
-    "hl1": "கரூர் மாவட்டத்தில் சிறப்பு முகாம்",
-    "hl2": "ஜனவரி 1ம் தேதி வரை",
-    "slides": [
-     {
-      "title": "முகாம் விவரம்",
-      "lines": [
-       "குளித்தலை, கிருஷ்ணராயபுரம் தொகுதிகளில் முகாம் நடத்தப்பட்டது",
-       "கலெக்டர் பிரசன்னா ராமசாமி ஆய்வு மேற்கொண்டார்",
-       "தாசில்தார்கள் மதிவாணன், கலைமதி உடனிருந்தனர்"
-      ]
-     },
-     {
-      "title": "விண்ணப்ப விதிகள்",
-      "lines": [
-       "ஜனவரி 1ம் தேதி 18 வயது நிறைவு பெறுபவர்கள் விண்ணப்பிக்கலாம்",
-       "17 வயது முடிவுற்றவர்களும் விண்ணப்பிக்கலாம்",
-       "வாக்காளர் இணையதளம் அல்லது மொபைல் செயலி மூலம்"
-      ]
-     },
-     {
-      "title": "முக்கிய தேதிகள்",
-      "lines": [
-       "ஜனவரி 4ல் இறுதி வாக்காளர் பட்டியல் வெளியிடப்படும்",
-       "பெயர் இல்லாதவர்கள் சிறப்பு முகாமில் பதிவு செய்யலாம்",
-       "குடும்பத்தாரின் பெயரும் பட்டியலில் உள்ளதா உறுதி செய்யுங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் மாவட்டத்தில் வாக்காளர் பட்டியலுக்கான சிறப்பு முகாம் நடத்தப்பட்டது. குளித்தலை மற்றும் கிருஷ்ணராயபுரம் தொகுதிகளில் இந்த முகாம் நடைபெற்றது. கலெக்டர் பிரசன்னா ராமசாமி இந்த முகாம்களை ஆய்வு செய்தார். ஜனவரி 1ம் தேதியை தகுதி நாளாக கொண்டு விண்ணப்பிக்கலாம். 18 வயது நிறைவு பெறுபவர்கள் விண்ணப்பிக்கலாம். 17 வயது முடிவுற்றவர்களும் விண்ணப்பிக்கலாம். வாக்காளர் இணையதளம் மூலம் விண்ணப்பிக்கலாம். மொபைல் செயலி மூலமும் விண்ணப்பிக்கலாம். ஜனவரி 4ல் இறுதி வாக்காளர் பட்டியல் வெளியிடப்படும். வாக்காளர் பட்டியலில் பெயர் இல்லாதவர்கள் முகாமில் பதிவு செய்யலாம். புலம் பெயர்ந்த வாக்காளர்களும் பதிவு செய்யலாம். தங்கள் குடும்பத்தாரின் பெயரும் பட்டியலில் உள்ளதா உறுதி செய்ய வேண்டும். குளித்தலை தாசில்தார் மதிவாணன் ஆய்வில் உடனிருந்தார். கிருஷ்ணராயபுரம் தாசில்தார் கலைமதி ஆய்வில் உடனிருந்தார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ கரூர் மாவட்டத்தில் வாக்காளர் பட்டியல் சிறப்பு முகாம் - ஜனவரி 1ம் தேதி வரை விண்ணப்பிக்கலாம்\n\n📰 முழு விவரம்:\nகுளித்தலை மற்றும் கிருஷ்ணராயபுரம் தொகுதிகளில் வாக்காளர் பட்டியல் சிறப்பு முகாம் நடத்தப்பட்டது. கலெக்டர் பிரசன்னா ராமசாமி இந்த முகாம்களை ஆய்வு செய்தார். ஜனவரி 1ம் தேதியை தகுதி நாளாக கொண்டு 18 வயது நிறைவு பெறுபவர்கள் விண்ணப்பிக்கலாம். 17 வயது முடிவுற்றவர்களும் விண்ணப்பிக்கலாம். வாக்காளர் இணையதளம் அல்லது மொபைல் செயலி மூலம் விண்ணப்பிக்கலாம். ஜனவரி 4ல் இறுதி வாக்காளர் பட்டியல் வெளியிடப்படும். வாக்காளர் பட்டியலில் பெயர் இல்லாதவர்கள், புலம் பெயர்ந்த வாக்காளர்கள் சிறப்பு முகாமில் பதிவு செய்யலாம். தங்கள் குடும்பத்தாரின் பெயரும் பட்டியலில் உள்ளதா உறுதி செய்ய வேண்டும். குளித்தலை தாசில்தார் மதிவாணன், கிருஷ்ணராயபுரம் தாசில்தார் கலைமதி ஆய்வில் உடனிருந்தனர்.\n\n📍 இடம்: குளித்தலை, கிருஷ்ணராயபுரம் தொகுதிகள், கரூர் மாவட்டம்\n🗓️ தகுதி நாள்: ஜனவரி 1ம் தேதி\n📅 இறுதி பட்டியல்: ஜனவரி 4ல்\nℹ️ மக்கள் கவனத்திற்கு: வாக்காளர் பட்டியலில் பெயர் இல்லாதவர்கள் சிறப்பு முகாமில் பதிவு செய்யலாம். குடும்பத்தாரின் பெயரும் பட்டியலில் உள்ளதா உறுதி செய்யுங்கள்.\n\nSpecial voter list correction camp in Karur district | Karur news\n📍 Kulithalai, Krishnarayapuram, Karur | 22 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "Inside a government polling station hall in Kulithalai, Karur district, a District Collector in a formal shirt stands with two Tahsildars, one in a shirt and one in a saree, inspecting a special voter list correction camp. Seated at a long wooden table covered with thick voter list registers and stacks of application forms, election officials in shirts and sarees review papers, while a line of voters, including young first-time voters in shirts and salwar and a few migrant workers in lungis, waits in orderly rows along the wall. The room has tube lights, white plastic chairs, and a plain painted wall with a notice board covered in printed sheets. Daylight enters through open windows, indicating a daytime government office setting. The camera is at eye level, 35 mm, wide enough to show the full hall, with people seen from behind or at a distance and no readable text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a government camp table in a polling station hall in Krishnarayapuram, Karur district: a thick voter list register lies open beside a neat stack of blank voter application forms, a ballpoint pen resting across them, and a mobile phone propped up showing an online registration page with its screen blurred. Beside the papers, the hand of a Tahsildar in a saree rests on the register while the sleeve of a young voter in a shirt is partly visible. Soft daylight from a window falls across the wooden table. The camera is slightly high, 35 mm, with a shallow depth of field, and no legible text or faces are shown. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-abstract-correctional-camps-at-polling-stations/4383029",
-   "published": "2026-11-22T07:00:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'குளித்தலை', e.g. 'குளித்தலை: ...' or 'குளித்தலை-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314645/karur360/cvfh30mqjdjnplrnxuiw.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314648/karur360/izchnvsqdmcnd4dt1lgw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தென்னிலை அருகே மினி டிராவல் பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து",
-   "english_headline": "Mini travels bus overturns into roadside ditch near Thennilai; driver survives with minor injuries",
-   "category": "Roads & Transport",
-   "location": "Karaipalayam bus stop area, Thennilai, Aravakurichi taluk, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "தென்னிலை, அரவக்குறிச்சி",
-    "hl1": "தென்னிலை அருகே பஸ் பள்ளத்தில் கவிழ்ந்தது",
-    "hl2": "ஓட்டுனர் சிறு காயங்களுடன்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கரூரிலிருந்து திருப்பூர் நோக்கி சென்ற மினி டிராவல்ஸ் பஸ்",
-       "காலை <b>11:30</b> மணியளவில் விபத்து",
-       "கரைப்பாளையம் பஸ் நிறுத்தம் அருகே சாலையோரப் பள்ளத்தில்"
-      ]
-     },
-     {
-      "title": "எப்படி நடந்தது?",
-      "lines": [
-       "கோவை சாலையில் சென்றபோது ஒரு கார்",
-       "பஸ்ஸை கட்டுப்படுத்த முடியாமல் போனது",
-       "ஓட்டுனர் அரவிந்த், <b>26</b> வயது, சிறு காயங்களுடன் உயிர் தப்பினார்"
-      ]
-     },
-     {
-      "title": "போலீசார் நடவடிக்கை",
-      "lines": [
-       "தென்னிலை போலீசார் சம்பவ இடத்திற்கு சென்றனர்",
-       "சாலையில் போக்குவரத்து இடையூறு இல்லாமல் பார்த்துக்கொண்டனர்",
-       "பள்ளத்தில் கவிழ்ந்த பஸ்ஸை மீட்டனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தென்னிலை அருகே மினி டிராவல்ஸ் பஸ் சாலையோரப் பள்ளத்தில் கவிழ்ந்தது. ஓட்டுனர் சிறு காயங்களுடன் உயிர் தப்பினார். கரூரிலிருந்து திருப்பூர் நோக்கி சென்ற பஸ், காலை 11:30 மணியளவில் கரைப்பாளையம் பஸ் நிறுத்தம் அருகே விபத்துக்குள்ளானது. திருப்பூரைச் சேர்ந்த 26 வயது ஓட்டுனர் அரவிந்த் பஸ்ஸை ஓட்டிச் சென்றார். கோவை சாலையில் சென்றபோது ஒரு கார் திடீரெனத் திரும்பியதாகக் கூறப்படுகிறது. இதனால் பஸ்ஸை கட்டுப்படுத்த முடியாமல் போனது. பஸ் சாலையோரப் பள்ளத்தில் கவிழ்ந்தது. அரவிந்த் சிறு காயங்களுடன் உயிர் தப்பினார். தென்னிலை போலீசார் சம்பவ இடத்திற்கு சென்று, சாலையில் போக்குவரத்து இடையூறு ஏற்படாத வகையில் நடவடிக்கை எடுத்தனர். பள்ளத்தில் கவிழ்ந்த பஸ்ஸையும் மீட்டனர். அப்பகுதியில் சிறிது நேரம் பரபரப்பு ஏற்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 தென்னிலை அருகே மினி டிராவல்ஸ் பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து\n\n📰 முழு விவரம்:\nகரூரிலிருந்து திருப்பூர் நோக்கி சென்ற மினி டிராவல்ஸ் பஸ், காலை 11:30 மணியளவில் கரைப்பாளையம் பஸ் நிறுத்தம் அருகே கட்டுப்பாட்டை இழந்து சாலையோரப் பள்ளத்தில் கவிழ்ந்தது.\nதிருப்பூரைச் சேர்ந்த 26 வயது ஓட்டுனர் அரவிந்த் பஸ்ஸை ஓட்டிச் சென்றார். கோவை சாலையில் சென்றபோது ஒரு கார் திடீரெனத் திரும்பியதாகக் கூறப்படுகிறது. இதனால் பஸ்ஸை கட்டுப்படுத்த முடியாமல் போனது.\nவிபத்தில் அரவிந்த் சிறு காயங்களுடன் உயிர் தப்பினார்.\n👮 நடவடிக்கை: தென்னிலை போலீசார் சம்பவ இடத்திற்கு சென்று, சாலையில் போக்குவரத்து இடையூறு ஏற்படாத வகையில் நடவடிக்கை எடுத்தனர். பள்ளத்தில் கவிழ்ந்த பஸ்ஸை மீட்டனர்.\n\nMini travels bus overturns near Thennilai, Karur | Karur news\n📍 தென்னிலை, அரவக்குறிச்சி, கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
-   "prompts": "A white mini travels bus lies on its side in a roadside ditch beside a tar road near Karaipalayam bus stop in Thennilai, Karur district, its wheels in the air and the body half sunk into the earth. It is late morning under bright daylight. Behind the bus stands the bus stop shelter and a few parked two-wheelers. Two Tamil Nadu police constables in khaki stand on the road edge, one pointing toward passing traffic, while a few onlookers in shirts and sarees watch from a distance, seen from behind. Other vehicles, including a private bus, an autorickshaw and two-wheelers, slow down to pass on the single lane kept open. Dry roadside grass, a concrete drain edge and telephone poles line the scene. Camera at eye level, 35 mm, wide enough to show the road, the ditch and the overturned bus together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the overturned mini travels bus's side and undercarriage tipped into the roadside ditch, with its door and window frames pressed into dry mud and broken roadside grass. A rope or chain from a recovery vehicle is looped around the bus frame, and a yellow police barricade or cone stands on the tar road edge beside it. The ditch wall is cracked concrete and loose soil, with a few scattered plastic bottles and dust. Daylight, late morning, dusty heat. Camera low and close, 50 mm, shallow depth of field, focusing on the tilted bus body and the ditch, with the road blurred behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/southbound-near-mini-travel-bus-plunges-into-gorge/4383033",
-   "published": "2026-11-22T07:02:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314678/karur360/gzqqcxsjdfd69wxpidjx.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314682/karur360/l14gmspucnxoajzgujvp.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அரவக்குறிச்சி அருகே சாக்கடை கால்வாய் சீரமைக்க மக்கள் கோரிக்கை",
-   "english_headline": "Residents of Seethapatti Old Colony near Aravakurichi demand repair of broken sewage canal",
-   "category": "Civic Issues",
-   "location": "Seethapatti Old Colony, Aravakurichi, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாக்கடை கோரிக்கை",
-    "loc": "சீத்தப்பட்டி, அரவக்குறிச்சி",
-    "hl1": "சீத்தப்பட்டியில் சீரமைப்பு கோரிக்கை",
-    "hl2": "500-க்கும் மேற்பட்ட",
-    "slides": [
-     {
-      "title": "என்ன பிரச்னை?",
-      "lines": [
-       "அரவக்குறிச்சி அருகே சீத்தப்பட்டி பழைய காலனியில் சாக்கடை",
-       "தொற்று பரவும் அபாயம் ஏற்பட்டுள்ளது"
-      ]
-     },
-     {
-      "title": "ஏன் தேங்குகிறது?",
-      "lines": [
-       "சில ஆண்டுகளுக்கு முன் கால்வாயின் ஒரு பகுதி இடிக்கப்பட்டது",
-       "இடித்த பகுதி மீண்டும் கட்டி முடிக்கப்படவில்லை",
-       "சாக்கடை நீர் தேங்கி வழிகிறது"
-      ]
-     },
-     {
-      "title": "மக்கள் பாதிப்பு",
-      "lines": [
-       "<b>500-க்கும் மேற்பட்ட</b> குடும்பங்களின் கழிவுநீர் வெளியேற",
-       "கடுமையான துர்நாற்றம் வீசுகிறது",
-       "மழைக் காலத்தில் சாக்கடை நீர் வீடுகளுக்குள் புகுகிறது"
-      ]
-     },
-     {
-      "title": "மக்களின் கோரிக்கை",
-      "lines": [
-       "மாவட்ட கலெக்டர் அலுவலகத்தில் பலமுறை மனு அளித்தும் நடவடிக்கை",
-       "அருகிலுள்ள அரசு நூலகத்துக்கு செல்வோர் துர்நாற்றத்தால் அவதி",
-       "கால்வாயை முழுமையாக சீரமைத்து பாதுகாப்பு மூடி அல்லது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அரவக்குறிச்சி அருகே சாக்கடை கால்வாய் பழுதால் 500-க்கும் மேற்பட்ட குடும்பங்கள் அவதி. சீத்தப்பட்டி பழைய காலனி பகுதியில் உள்ள சாக்கடை கால்வாய் பல ஆண்டுகளாக சீரமைக்கப்படவில்லை. சில ஆண்டுகளுக்கு முன் நீரோட்டத்தை சீராக்க கால்வாயின் ஒரு பகுதி இடிக்கப்பட்டது. ஆனால் இடித்த பகுதி மீண்டும் கட்டி முடிக்கப்படாமல் விடப்பட்டதால், சாக்கடை நீர் முறையாக செல்லாமல் தேங்கி வழிகிறது. கழிவுநீர் வெளியேற முடியாமல் கால்வாயில் தேங்கி நிற்பதுடன், கடுமையான துர்நாற்றமும் வீசுகிறது. மழைக் காலங்களில் சாக்கடை நீர் வீடுகளின் முன்புறம் மற்றும் குடியிருப்பு பகுதிக்குள் புகுந்து விடுகிறது. இது குறித்து மக்கள் பலமுறை மாவட்ட கலெக்டர் அலுவலகத்தில் மனு அளித்தும் எந்த நடவடிக்கையும் எடுக்கப்படவில்லை. அருகிலுள்ள அரசு நூலகத்துக்கு செல்லும் மாணவர்களும் வாசகர்களும் துர்நாற்றத்தால் தவிக்கின்றனர். அதிகாரிகள் உடனடியாக நேரில் ஆய்வு செய்து, இடிக்கப்பட்ட கால்வாயை முழுமையாக சீரமைத்து, பாதுகாப்பு மூடி அல்லது தடுப்புச் சுவர் அமைத்து நிரந்தர தீர்வு காண வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 அரவக்குறிச்சி அருகே சீத்தப்பட்டியில் சாக்கடை கால்வாய் சீரமைக்க மக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nஅரவக்குறிச்சி அருகே சீத்தப்பட்டி பழைய காலனியில் உள்ள சாக்கடை கால்வாய் பல ஆண்டுகளாக சீரமைக்கப்படவில்லை. சில ஆண்டுகளுக்கு முன் நீரோட்டத்தை சீராக்க கால்வாயின் ஒரு பகுதி இடிக்கப்பட்டது. ஆனால் இடித்த பகுதி மீண்டும் கட்டி முடிக்கப்படாததால் சாக்கடை நீர் தேங்கி வழிகிறது. 500-க்கும் மேற்பட்ட குடும்பங்களின் கழிவுநீர் வெளியேற முடியாமல் தேங்குகிறது. மழைக் காலங்களில் சாக்கடை நீர் வீடுகளுக்குள் புகுகிறது. மாவட்ட கலெக்டர் அலுவலகத்தில் பலமுறை மனு அளித்தும் நடவடிக்கை எடுக்கப்படவில்லை. அருகிலுள்ள அரசு நூலகத்துக்கு செல்வோர் துர்நாற்றத்தால் தவிக்கின்றனர்.\n📍 இடம்: சீத்தப்பட்டி பழைய காலனி, அரவக்குறிச்சி\nℹ️ மக்கள் கோரிக்கை: அதிகாரிகள் நேரில் ஆய்வு செய்து கால்வாயை முழுமையாக சீரமைத்து, பாதுகாப்பு மூடி அல்லது தடுப்புச் சுவர் அமைக்க வேண்டும்\n\nAravakurichi sewage canal repair demand | Karur news\n📍 அரவக்குறிச்சி, கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
-   "prompts": "A stagnant, overflowing sewage canal runs along the edge of a narrow residential lane in Seethapatti Old Colony near Aravakurichi, Karur district, Tamil Nadu. Dark, dirty grey-brown sewage pools in a broken section of the concrete drain where a portion has been demolished and left as an open gap with exposed bricks and rubble. Sewage spills over the edge onto the mud-and-concrete street in front of modest, single-storey tiled-roof houses with low compound walls and plastered fronts. A few residents, seen from behind and far away, stand at a doorway while a woman in a cotton saree and a man in a shirt and veshti walk along the lane. A Tamil Nadu village road, bare-patched and wet, leads toward a simple government building in the background. Bright daylight, slightly humid, with a few plastic bags and litter caught in the stagnant water. Camera at eye level, 35 mm, wide enough to show the colony lane and the broken canal. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the demolished section of a sewage canal in Seethapatti Old Colony, Aravakurichi, Karur district. Broken concrete slabs and loose bricks lie around an open gap where the drain wall has been removed and never rebuilt. Dirty, dark sewage stagnates in the gap, forming a sludgy film with floating litter, while thick grime coats the cracked edges and the mud path beside it. In the blurred background, a residential house wall and a dusty lane are visible, with a single resident's sandal or water pot left near the edge. Daylight, overcast Tamil Nadu sky, stillness of stagnant water. Camera at low, close angle, 35 mm, shallow depth of field, focus on the broken drain edge and stagnant sewage. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/request-to-repair-sewerage-canal/4383036",
-   "published": "2026-11-22T07:04:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314690/karur360/c9ov9mgkgoqlnjvxq97z.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314694/karur360/zs6uqmgubtr14axwxsk6.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வயலூரில் தெரு விளக்கு பராமரிப்பு பணி மும்முரம்",
-   "english_headline": "Street light repair work in full swing in Vayalur after rain damage",
-   "category": "Civic Issues",
-   "location": "Vayalur, Krishnarayapuram taluk, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "தெரு விளக்கு",
-    "loc": "வயலூர், கிருஷ்ணராயபுரம்",
-    "hl1": "வயலூரில் தெரு விளக்கு பணி மும்முரம்",
-    "hl2": "பழுதான விளக்குகள் மாற்றம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "வயலூர் பஞ்சாயத்தில் தெரு விளக்கு பராமரிப்பு பணி நடந்தது",
-       "கனமழையால் பல விளக்குகளில் பழுது ஏற்பட்டது",
-       "இரவில் விளக்குகள் எரியாததால் மக்கள் அச்சத்துடன் சென்றனர்"
-      ]
-     },
-     {
-      "title": "எந்தெந்த வீதிகள்?",
-      "lines": [
-       "சரவணபுரம், பாம்பன்பட்டி, நடுப்பட்டி",
-       "கணக்கம்பட்டி, கோடங்கிப்பட்டி, தேவசிங்கம்பட்டி",
-       "வயலூர் ஆகிய வீதிகளில் பணி நடைபெற்றது"
-      ]
-     },
-     {
-      "title": "என்ன மாற்றம்?",
-      "lines": [
-       "பழுதடைந்த தெரு விளக்குகள் அனைத்தும் மாற்றப்பட்டன",
-       "புதிய தெரு விளக்குகள் அமைக்கப்பட்டன",
-       "பஞ்சாயத்து தொழிலாளர்கள் பணியில் ஈடுபட்டனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வயலூரில் பழுதான தெரு விளக்குகள் அனைத்தும் மாற்றப்பட்டு, புதிய விளக்குகள் அமைக்கப்பட்டுள்ளன. கனமழைக்குப் பின் பல தெரு விளக்குகளில் பழுது ஏற்பட்டதால், இரவு நேரங்களில் விளக்குகள் எரியாமல் இருந்தன. இதனால் மக்கள் அச்சத்துடன் சாலையில் சென்று வந்தனர். கிருஷ்ணராயபுரம் அடுத்த வயலூர் பஞ்சாயத்துக்கு உட்பட்ட சரவணபுரம், பாம்பன்பட்டி, நடுப்பட்டி, கணக்கம்பட்டி, கோடங்கிப்பட்டி, தேவசிங்கம்பட்டி, வயலூர் ஆகிய வீதிகளில் இந்தப் பணி நடைபெற்றது. பஞ்சாயத்து நிர்வாகம் சார்பில் இந்தப் பணியை மேற்கொண்டனர். பஞ்சாயத்தில் உள்ள தொழிலாளர்கள் பணியில் மும்முரமாக ஈடுபட்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💡 வயலூரில் பழுதான தெரு விளக்குகள் மாற்றம், புதிய விளக்குகள் அமைப்பு\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த வயலூர் பஞ்சாயத்துக்கு உட்பட்ட வீதிகளில் தெரு விளக்கு பராமரிப்பு பணி நடைபெற்றது.\nகனமழையால் பல தெரு விளக்குகளில் பழுது ஏற்பட்டு, இரவு நேரங்களில் விளக்குகள் எரியாமல் இருந்தன.\nபஞ்சாயத்து நிர்வாகம் சார்பில் பழுதடைந்த விளக்குகள் அனைத்தும் மாற்றப்பட்டு, புதிய தெரு விளக்குகள் அமைக்கப்பட்டன.\nஇந்தப் பணிகளில் பஞ்சாயத்து தொழிலாளர்கள் மும்முரமாக ஈடுபட்டனர்.\n\n📍 இடம்: சரவணபுரம், பாம்பன்பட்டி, நடுப்பட்டி, கணக்கம்பட்டி, கோடங்கிப்பட்டி, தேவசிங்கம்பட்டி, வயலூர்\n👮 நடவடிக்கை: பஞ்சாயத்து நிர்வாகம் சார்பில் பழுதான விளக்குகள் மாற்றம்\n\nஉள்ளூர் செய்திகளுக்கு நண்பர்களுடன் Share செய்யுங்கள்.\n\nVayalur street light repair work in Krishnarayapuram, Karur | Karur news\n📍 வயலூர், கிருஷ்ணராயபுரம், கரூர் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #Krishnarayapuram",
-   "prompts": "Two panchayat workers in plain shirts and veshti stand on a bamboo ladder beside a concrete street light pole on a narrow village street in Vayalur, Krishnarayapuram taluk, Karur district, replacing a damaged street light fitting with a new one. Along the roadside are small single-storey houses with tiled roofs and a few tall electric poles lining the lane. A tool bag and a coil of wire lie on the damp ground near the pole, and a dull patch of rainwater shows on the road after recent heavy rain. Daylight, slightly overcast sky with soft light. Camera at eye level, 35 mm, wide enough to show the street and houses, workers seen from behind or at a distance, no readable text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a new LED street light fitting being fixed onto the top of a concrete pole, with a pair of worn hands in the frame gripping the bracket and a pair of pliers and a screwdriver resting on a damp cement base. Next to it lies a discarded, broken old street light fitting on wet ground with rainwater puddles and a few fallen leaves. Behind is a blurred village lane lined with houses and palm trees under daylight. Camera slightly high, 35 mm, shallow depth of field, no faces visible, no readable text or logos. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/maintenance-of-street-lights-in-vayalur/4383028",
-   "published": "2026-11-22T06:59:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314699/karur360/htrquvro2rg0gvjxxh8q.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314703/karur360/qo38fb8djrceiqd09moc.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ப.வேலூரில் ஆக்கிரமிப்புகளை அகற்ற தாசில்தாரிடம் டவுன் பஞ்சாயத்து மனு",
-   "english_headline": "Town panchayat petitions Paramathi Velur tahsildar to remove encroachments blocking drains and highway road",
-   "category": "Civic Issues",
-   "location": "Paramathi Velur town, Namakkal district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ஆக்கிரமிப்பு",
-    "loc": "ப.வேலூர்",
-    "hl1": "ப.வேலூரில் ஆக்கிரமிப்பு அகற்ற மனு",
-    "hl2": "டவுன் பஞ்சாயத்து",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "ப.வேலூர் டவுன் பஞ்சாயத்து செயல் அலுவலர் பாலசுப்ரமணியன் மனு",
-       "ஆக்கிரமிப்புகளை அகற்றி தரக் கோரி தாசில்தாரிடம் மனு",
-       "பஞ்சமுக விநாயகர் கோவில் எதிரே உள்ள பகுதி"
-      ]
-     },
-     {
-      "title": "எங்கே",
-      "lines": [
-       "மழைநீர், கழிவுநீர் வடிகால்கள் மீது கட்டடங்கள்",
-       "நெடுஞ்சாலைத் துறை தார்சாலையும் ஆக்கிரமிப்பு",
-       "தனியார் வங்கி, ஏராளமான வணிக நிறுவனங்கள் உள்ளன"
-      ]
-     },
-     {
-      "title": "பாதிப்பு என்ன?",
-      "lines": [
-       "வாடிக்கையாளர்கள் சாலையிலேயே வாகனம் நிறுத்துகின்றனர்",
-       "கடுமையான போக்குவரத்து நெரிசல் ஏற்படுகிறது",
-       "பொதுமக்களுக்குத் தொடர்ந்து இடையூறு"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "ஆக்கிரமிப்பாளர்களுக்கு இரண்டு முறை நோட்டீஸ் வழங்கப்பட்டது",
-       "இதுவரை எவரும் ஆக்கிரமிப்பை அகற்றவில்லை",
-       "சர்வேயர் மூலம் அளவீடு செய்ய மனுவில் கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ப வேலூரில் வடிகால்கள் மற்றும் சாலையை ஆக்கிரமித்த கட்டடங்களை அகற்றக் கோரி மனு அளிக்கப்பட்டுள்ளது. ப வேலூர் டவுன் பஞ்சாயத்து செயல் அலுவலர் பாலசுப்ரமணியன், தாசில்தாரிடம் இந்த மனுவை அளித்தார். பஞ்சமுக விநாயகர் கோவில் எதிரே உள்ள பகுதியில் தனியார் வங்கி மற்றும் ஏராளமான வணிக நிறுவனங்கள் செயல்படுகின்றன. மழைநீர் மற்றும் கழிவுநீர் வடிகால்கள் மீதும், நெடுஞ்சாலைத் துறைக்குச் சொந்தமான தார்சாலையை ஆக்கிரமித்தும் வணிகக் கட்டடங்கள் கட்டப்பட்டுள்ளன. கடைகளுக்கு வரும் வாடிக்கையாளர்கள் வாகனங்களை சாலையிலேயே நிறுத்துவதால் கடுமையான போக்குவரத்து நெரிசல் ஏற்படுகிறது. பொதுமக்களுக்கும் தொடர்ந்து இடையூறு ஏற்படுகிறது. இது குறித்து பொதுமக்கள் தொடர்ந்து புகார் அளித்துள்ளனர். ஆக்கிரமிப்புகளைத் தாங்களாகவே அகற்றுமாறு டவுன் பஞ்சாயத்து சார்பில் இரண்டு முறை நோட்டீஸ் வழங்கப்பட்டது. ஆனால் ஆக்கிரமிப்பாளர்கள் இதுவரை அகற்றவில்லை. எனவே சர்வேயர் மூலம் அளவீடு செய்து தர வேண்டும் என மனுவில் கோரப்பட்டுள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 ப.வேலூரில் வடிகால், சாலை ஆக்கிரமிப்பு: அகற்றக் கோரி தாசில்தாரிடம் மனு\n\n📰 முழு விவரம்:\nப.வேலூர் டவுன் பஞ்சாயத்து செயல் அலுவலர் பாலசுப்ரமணியன், பஞ்சமுக விநாயகர் கோவில் எதிரே உள்ள பகுதியில் வடிகால்கள் மற்றும் நெடுஞ்சாலைத் துறை தார்சாலையை ஆக்கிரமித்துக் கட்டப்பட்ட வணிகக் கட்டடங்களை அகற்றக் கோரி தாசில்தாரிடம் மனு அளித்தார். தனியார் வங்கி மற்றும் ஏராளமான வணிக நிறுவனங்கள் அங்கு செயல்படுகின்றன.\nவாடிக்கையாளர்கள் சாலையிலேயே வாகனங்களை நிறுத்துவதால் கடுமையான போக்குவரத்து நெரிசல் ஏற்பட்டு பொதுமக்களுக்கு தொடர்ந்து இடையூறு ஏற்படுவதாக புகார்கள் வந்துள்ளன.\nஆக்கிரமிப்புகளை அகற்றுமாறு இரண்டு முறை நோட்டீஸ் வழங்கப்பட்டும் இதுவரை அகற்றப்படவில்லை. சர்வேயர் மூலம் அளவீடு செய்து தருமாறு மனுவில் கோரப்பட்டுள்ளது.\n\nParamathi Velur encroachment drain road petition | Karur news\n📍 ப.வேலூர், நாமக்கல் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #ப.வேலூர் #கரூர்",
-   "prompts": "A town road in Paramathi Velur, Namakkal district, is crowded with parked two-wheelers and a few cars pulled up on the tar road in front of shop buildings, causing a traffic jam. A private bank and a row of commercial establishments line the road opposite the Panchamuga Vinayagar temple. The shop fronts extend out over an open concrete drain running along the edge of the road. Customers stand near the shop entrances, seen from behind or at a distance, while a few pedestrians walk past on the narrowed road. A town panchayat official in a shirt and trousers stands at the roadside, observing the encroachment from a distance. The scene is in daylight under a clear sky. Camera: eye level, 35 mm, wide enough to show the full stretch of road, the drain, and the buildings. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an open concrete drain at the roadside, partly covered by a shop's extended front wall and a parked two-wheeler's tyres on the edge of the tar road. Stagnant grey sewage water sits in the drain, and the cracked edge of the highway tar road is visible beside it. A pedestrian's bare feet or sandals step past the edge of the drain, seen from behind. Daylight, neutral overcast light. Camera: low angle, 50 mm, shallow depth of field, focused on the drain and the encroaching wall. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/town-bandh-petition-to-tahsildar-seeking-removal-of-encroachments/4383034",
-   "published": "2026-11-22T07:03:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314721/karur360/uuxgvvizx6b4slevetmz.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795314738/karur360/pii9wsgntenktmwfyowq.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331222/karur360/ofzs10vxovsjffwjr0rc.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795331228/karur360/tahr2emnwxzwaqgqvssm.jpg"
    ]
   }
  ]
