@@ -1081,10 +1081,6 @@
  },
  "retried": {},
  "refused": {
-  "C7302ac3": {
-   "why": "not filed: duplicate after write",
-   "at": "2026-11-20T12:54:37.318916+05:30"
-  },
   "C758ae39": {
    "why": "not filed: all free models failed: no usable answer from the models",
    "at": "2026-11-21T12:47:49.546698+05:30"
