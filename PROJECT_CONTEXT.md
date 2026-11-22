@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-22 | `5a7bf3a` | Website: each posted story goes to the shared 7-district site with its district (only when the WEBSITE_INGEST_KEY secret is set; posting is not affected) |
-| 2026-11-22 | `1bae491` | stories shared / Instagram pause |
-| 2026-11-22 | `3f0cd84` | Dashboard status file for the owner's private dashboard |
-| 2026-11-22 | `29b67df` | stories shared / Instagram pause |
-| 2026-11-22 | `01632ae` | Facebook check: list the last 20 Facebook posts (was 10) |
-| 2026-11-22 | `a9d6226` | stories shared / Instagram pause |
-| 2026-11-22 | `82bc394` | Facebook check: list each page's latest Facebook posts (read only) |
-| 2026-11-22 | `5d654f4` | Facebook share e-mail: news on Instagram but not on Facebook after 3 hours |
-| 2026-11-22 | `5da08e1` | stories shared / Instagram pause |
-| 2026-11-22 | `41f7c8d` | goldrate posted |
-| 2026-11-22 | `eb10ce9` | pick: written and posted |
-| 2026-11-22 | `c36bdb9` | facebook RN-168 |
-| 2026-11-22 | `b2e845c` | posted RN-168 |
-| 2026-11-22 | `0e16811` | facebook RN-165 |
-| 2026-11-22 | `2a8c0b9` | posted RN-165 |
-| 2026-11-22 | `c3fa233` | facebook RN-166 |
-| 2026-11-22 | `c262d93` | posted RN-166 |
-| 2026-11-22 | `c89c13e` | facebook RN-167 |
-| 2026-11-22 | `95a6ec1` | posted RN-167 |
-| 2026-11-22 | `6a93077` | Manual post e-mail: attach a 720p copy of the reel (the full reel was too large) |
-| 2026-11-22 | `abc0aa7` | stories shared / Instagram pause |
-| 2026-11-22 | `a439d44` | facebook RN-162 |
-| 2026-11-22 | `212ab17` | posted RN-162 |
-| 2026-11-22 | `7e5d188` | Manual post e-mail: news a page cannot post goes to the owner, one by one |
-| 2026-11-22 | `4d6c4df` | facebook RN-163 |
-| 2026-11-22 | `dd48143` | posted RN-163 |
-| 2026-11-22 | `ba229d4` | facebook RN-164 |
-| 2026-11-22 | `0c5b4e3` | posted RN-164 |
-| 2026-11-22 | `326be37` | pick: picked news saved |
-| 2026-11-22 | `0282ea5` | pick: picked news saved |
+| 2026-11-22 | `b64c3b3` | Same-day news only, 15-35 a day: every news published today is written (max 35), yesterday's news is never posted, 22:00 round added; Namakkal writer split fix |
+| 2026-11-22 | `705684d` | stories shared / Instagram pause |
+| 2026-11-22 | `e5d670f` | stories shared / Instagram pause |
+| 2026-11-22 | `7078d42` | stories shared / Instagram pause |
+| 2026-11-22 | `d6e60cc` | stories shared / Instagram pause |
+| 2026-11-22 | `6dd69b8` | stories shared / Instagram pause |
+| 2026-11-22 | `65f5f9a` | pick: written and posted |
+| 2026-11-22 | `a68fa4a` | pick: picked news saved |
+| 2026-11-22 | `dd8d5d7` | pick: picked news saved |
+| 2026-11-22 | `4366e2b` | pick: list sent |
+| 2026-11-22 | `ede2bc7` | stories shared / Instagram pause |
+| 2026-11-22 | `289a786` | stories shared / Instagram pause |
+| 2026-11-22 | `a20a850` | stories shared / Instagram pause |
+| 2026-11-22 | `40ef2ed` | stories shared / Instagram pause |
+| 2026-11-22 | `8318db5` | stories shared / Instagram pause |
+| 2026-11-22 | `2f05a26` | stories shared / Instagram pause |
+| 2026-11-22 | `62488ca` | stories shared / Instagram pause |
+| 2026-11-22 | `dc0de80` | stories shared / Instagram pause |
+| 2026-11-22 | `71531bd` | stories shared / Instagram pause |
+| 2026-11-22 | `47310e0` | stories shared / Instagram pause |
+| 2026-11-22 | `af61ca9` | stories shared / Instagram pause |
+| 2026-11-22 | `68fe413` | stories shared / Instagram pause |
+| 2026-11-22 | `54a88f3` | stories shared / Instagram pause |
+| 2026-11-22 | `6376638` | stories shared / Instagram pause |
+| 2026-11-22 | `8598a88` | stories shared / Instagram pause |
+| 2026-11-22 | `a167d57` | stories shared / Instagram pause |
+| 2026-11-22 | `10a9342` | pick: written and posted |
+| 2026-11-22 | `9cd38da` | facebook RN-172 |
+| 2026-11-22 | `5de27e1` | posted RN-172 |
+| 2026-11-22 | `4bb0366` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
