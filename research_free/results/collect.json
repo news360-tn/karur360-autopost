@@ -3,109 +3,109 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://pukaarpetti.dailythanthi.com/electricity/news-68835",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/fewer-than-10-students-in-3027-primary-schools-across-tamil-nadu",
   "candidate filter: collected=1",
   "to write: 1 Karur district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/electricity/news-68835",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "real photo from the source (Dinamani) for '3,027 primary schools in TN have fewer t'",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
   "filed: 1 Karur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (18s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (22s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (48s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (25s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 49 column 3 (char 1582)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (2s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பாதிரிப்புலியூர் அருகே ஆபத்தான மின்மாற்றி: உடைந்து விழும் அபாயம்",
-   "english_headline": "Dangerously weakened transformer near Thiruppathirippuliyur school may collapse any time",
-   "category": "Civic Issues",
-   "location": "Vandipalayam Road, Thiruppathirippuliyur, Karur district",
+   "tamil_headline": "தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவர்கள்: கரூரில் பள்ளி பாதுகாப்பு இயக்கக் கூட்டம்",
+   "english_headline": "3,027 primary schools in TN have fewer than 10 students: School Education Protection Movement holds meeting in Karur",
+   "category": "Education",
+   "location": "Karur city, Karur district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ஆபத்தான மின்கம்பம்",
-    "loc": "திருப்பாதிரிப்புலியூர்",
-    "hl1": "பள்ளி அருகே ஆபத்தான மின்மாற்றி",
-    "hl2": "எப்போது வேண்டுமானாலும்",
+    "cat": "கல்விச் செய்தி",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் அரசுப் பள்ளி பாதுகாப்பு கூட்டம்",
+    "hl2": "3,027 பள்ளிகளில் <10",
     "slides": [
      {
-      "title": "எங்கே?",
+      "title": "ஆலோசனைக் கூட்டம்",
       "lines": [
-       "திருப்பாதிரிப்புலியூர் அருகே வண்டிப்பாளையம் சாலை",
-       "மாநகராட்சி தொடக்கப்பள்ளி எதிரே உள்ள மின்மாற்றி",
-       "மின்மாற்றியைத் தாங்கும் கம்பம் பலத்த சேதம்"
+       "கரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளியில் கூட்டம்",
+       "பள்ளி பாதுகாப்பு இயக்கம் சார்பில் ஆலோசனை",
+       "மாநில ஒருங்கிணைப்பாளர் ஜே.கிருஷ்ணமூர்த்தி தலைமை"
       ]
      },
      {
-      "title": "என்ன ஆபத்து?",
+      "title": "பள்ளிகளின் நிலை",
       "lines": [
-       "சிமெண்டு காரைகள் பெயர்ந்து இரும்புக் கம்பிகள் தெரிகின்றன",
-       "மின்மாற்றி மிகவும் பலவீனமடைந்துள்ளது",
-       "எப்போது வேண்டுமானாலும் உடைந்து விழும் அபாயம்"
+       "தமிழகத்தில் <b>246</b> அரசுத் தொடக்கப் பள்ளிகள் மூடல்",
+       "<b>3,027</b> பள்ளிகளில் 10-க்கும் குறைவான மாணவர்கள்",
+       "<b>14,829</b> பள்ளிகளில் 30-க்கும் குறைவான மாணவர்கள்"
       ]
      },
      {
-      "title": "மக்கள் கோரிக்கை",
+      "title": "கையொப்ப இயக்கம்",
       "lines": [
-       "அருகே தொடக்கப்பள்ளி இருப்பதால் அபாய நிலை",
-       "அசம்பாவிதம் நிகழும் முன் நடவடிக்கை தேவை",
-       "மின்வாரியத்துறை அதிகாரிகள் உரிய நடவடிக்கை எடுக்க வேண்டும்"
+       "<b>21வது</b> மாவட்டமாக கரூரில் கையொப்ப இயக்கம்",
+       "<b>2027 ஜனவரி 21-31</b>ல் கன்னியாகுமரி - சென்னை பிரச்சாரம்",
+       "கையொப்பங்கள் முதலமைச்சரிடம் அளிக்க நடவடிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பள்ளி அருகே மின்மாற்றி உடைந்து விழும் அபாயத்தில் உள்ளது. திருப்பாதிரிப்புலியூர் அருகே வண்டிப்பாளையம் சாலையில் மாநகராட்சி தொடக்கப்பள்ளி உள்ளது. இதன் எதிரே உள்ள மின்மாற்றியைத் தாங்கி நிற்கும் கம்பம் பலத்த சேதமடைந்துள்ளது. அதன் சிமெண்டு காரைகள் பெயர்ந்து இரும்புக் கம்பிகள் வெளியே தெரிகின்றன. மின்மாற்றி மிகவும் பலவீனமடைந்து எப்போது வேண்டுமானாலும் உடைந்து விழும் நிலையில் உள்ளது. அருகே தொடக்கப்பள்ளி இருப்பதால் பெரும் அசம்பாவிதம் நிகழும் அபாயம் உள்ளது. எனவே, ஏதேனும் அசம்பாவிதம் நிகழும் முன் மின்வாரியத்துறை அதிகாரிகள் உரிய நடவடிக்கை எடுக்க வேண்டும் என கிராம மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚠️ திருப்பாதிரிப்புலியூர் அருகே பள்ளி எதிரே ஆபத்தான மின்மாற்றி\n\n📰 முழு விவரம்:\nதிருப்பாதிரிப்புலியூர் அருகே வண்டிப்பாளையம் சாலையில் மாநகராட்சி தொடக்கப்பள்ளி உள்ளது. இதன் எதிரே உள்ள மின்மாற்றியைத் தாங்கி நிற்கும் கம்பம் பலத்த சேதமடைந்துள்ளது. சிமெண்டு காரைகள் பெயர்ந்து இரும்புக் கம்பிகள் வெளியே தெரிகின்றன. மின்மாற்றி மிகவும் பலவீனமடைந்து எப்போது வேண்டுமானாலும் உடைந்து விழும் அபாயம் உள்ளது.\n📍 இடம்: வண்டிப்பாளையம் சாலை, திருப்பாதிரிப்புலியூர் அருகே\n🏫 அருகில்: மாநகராட்சி தொடக்கப்பள்ளி\nℹ️ மக்கள் கோரிக்கை: அசம்பாவிதம் நிகழும் முன் மின்வாரியத்துறை அதிகாரிகள் உரிய நடவடிக்கை எடுக்க வேண்டும்.\n\nDangerous transformer near school Thiruppathirippuliyur | Karur news\n📍 திருப்பாதிரிப்புலியூர் அருகே, கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A severely damaged concrete utility pole stands on the roadside, its cement surface cracked and peeled away to reveal rusted iron reinforcement bars, supporting a TNEB transformer that appears unstable. The location is Vandipalayam Road in Thiruppathirippuliyur, Karur district, situated directly opposite a small municipality primary school building with a simple facade. A small group of local villagers, seen from behind at a distance, stand on the road looking up at the structure, emphasizing the danger. The pole is the central focus, showing the specific damage where the concrete has fallen off. Daylight illuminates the scene, highlighting the texture of the broken cement and the metal bars. The camera is positioned at eye level, 35 mm lens, wide enough to capture the pole, the transformer, and the school building in the background to establish the context of the risk. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the damaged concrete pole section where the transformer is mounted, showing the exposed iron bars and the missing cement chunks. The detail shot focuses on the structural weakness, with the rusted metal rods clearly visible against the rough, broken surface of the pole. The TNEB transformer is partially visible at the top of the frame, hanging precariously. The background is slightly blurred, showing the greenery and the edge of the school compound. Daylight provides clear visibility of the damage details. The camera is slightly high, looking down at the pole's mid-section, 35 mm lens, ensuring the specific hazard of the exposed reinforcement bars is the primary subject of the photograph. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/electricity/news-68835",
-   "published": "2026-11-22T23:02:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருப்பாதிரிப்புலியூர்', e.g. 'திருப்பாதிரிப்புலியூர்: ...' or 'திருப்பாதிரிப்புலியூர்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூரில் அரசுப் பள்ளிகளை மீட்க கையொப்ப இயக்கம் நடைபெற்றது. கரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளியில் பள்ளி பாதுகாப்பு இயக்க ஆலோசனைக் கூட்டம் ஞாயிற்றுக்கிழமை காலை நடந்தது. கூட்டத்திற்கு மாநில ஒருங்கிணைப்பாளர் ஜே கிருஷ்ணமூர்த்தி தலைமை வகித்தார். தமிழகத்தில் 24,349 அரசு தொடக்கப் பள்ளிகளில் 246 பள்ளிகள் மாணவர்கள் சேர்க்கை இன்றி மூடப்பட்டுள்ளன. 3,027 பள்ளிகளில் 10 மாணவர்களுக்கும் குறைவாகவும், 6,635 பள்ளிகளில் 20 மாணவர்களுக்கும் குறைவாகவும் பயில்கின்றனர். 5,167 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாக கல்வி பயிலும் நிலை உள்ளது. மொத்தம் 14,829 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாகவே மாணவர்கள் படிக்கின்றனர். அரசுப் பள்ளிகளை மீட்கத் தமிழகம் முழுவதும் கையொப்ப இயக்கம் நடத்தப்பட்டு வருகிறது. 21ஆவது மாவட்டமாக கரூரில் ஆசிரியர்கள் மற்றும் பொதுமக்களிடம் கையொப்பங்கள் பெறப்பட்டன. 2027ஆம் ஆண்டு ஜனவரி 21 முதல் 31 வரை கன்னியாகுமரி முதல் சென்னை வரை விழிப்புணர்வுப் பயணம் நடத்தப்பட உள்ளது. பெறப்பட்ட கையொப்பங்கள் மற்றும் கோரிக்கை மனுக்களை முதலமைச்சரிடம் வழங்கி அரசுப் பள்ளிகளை மேம்படுத்த நடவடிக்கை எடுக்கப்படும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏫 கரூரில் அரசுப் பள்ளிகளைப் பாதுகாக்க விழிப்புணர்வு கையொப்ப இயக்கம்\n\n📰 முழு விவரம்:\nகரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளியில் பள்ளி பாதுகாப்பு இயக்க ஆலோசனைக் கூட்டம் ஞாயிற்றுக்கிழமை காலை நடைபெற்றது. கூட்டத்திற்கு மாநில ஒருங்கிணைப்பாளர் ஜே.கிருஷ்ணமூர்த்தி தலைமை வகித்தார். தமிழகத்தில் உள்ள 24,349 அரசு தொடக்கப் பள்ளிகளில் 246 பள்ளிகள் மாணவர்கள் சேர்க்கையின்றி ஏற்கனவே மூடப்பட்டுவிட்டன. 3,027 பள்ளிகளில் 10 மாணவர்களுக்கும் குறைவாகவும், 6,635 பள்ளிகளில் 20 மாணவர்களுக்கும் குறைவாகவும், 5,167 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாகவும் படிக்கின்றனர். மொத்தம் 14,829 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாக கல்வி பயிலும் நிலை உள்ளது. அரசுப் பள்ளிகளைப் பாதுகாக்கவும், விழிப்புணர்வு ஏற்படுத்தவும் கையொப்ப இயக்கம் நடத்தப்படுகிறது. 21ஆவது மாவட்டமாக கரூரில் அரசு மற்றும் அரசு உதவிபெறும் பள்ளிகளில் கையொப்பங்கள் பெறப்பட்டன. 2027ஆம் ஆண்டு ஜனவரி 21 முதல் 31 வரை கன்னியாகுமரி முதல் சென்னை வரை பிரச்சார பயணம் நடைபெறவுள்ளது. பெறப்பட்ட கையொப்பங்கள் மற்றும் மனுக்கள் முதலமைச்சரிடம் வழங்கப்பட உள்ளன.\n\n📍 இடம்: கரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளி\n🗓️ நாள்: 22 நவம்பர் 2026 (ஞாயிற்றுக்கிழமை)\n👤 தலைமை: மாநில ஒருங்கிணைப்பாளர் ஜே.கிருஷ்ணமூர்த்தி\nℹ️ மக்கள் கவனத்திற்கு: அரசுப் பள்ளிகளை பாதுகாப்பது ஒவ்வொரு குடிமகனின் கடமையாகும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nSave government schools campaign meeting in Karur | Karur news\n📍 கரூர் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurCity #Education #கரூர்",
+   "prompts": "A group of teachers, volunteers and movement coordinators gather for a meeting of the School Education Protection Movement. The venue is the main hall of Karur CSI Men’s Higher Secondary School, a modest brick building with high windows and a tiled floor typical of Karur’s educational institutions. Seen from behind, dozens of participants in plain Tamil attire sit on rows of chairs while a few stand near the front; J. Krishnamurthi stands at a podium addressing the crowd. No vehicles are visible. The scene is bathed in natural daylight of a Sunday morning, clear sky. The camera is at eye level with a 35 mm lens, framing the hall wide enough to capture the speaker, audience and the school’s interior. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a wooden table set up in the school hall, holding a neat stack of signed pledge sheets and a few pens. Hands – blurred and from behind – place a signature on the top sheet, emphasizing the collective signing effort. The sheets are plain white, the signatures unreadable, and a simple name‑plate reads “School Education Protection Movement” without showing any logos. The background shows a portion of the hall’s wall with plaster and a muted colour, confirming the school setting. The lighting is soft daylight spilling from the hall’s windows, and the camera is positioned slightly above eye level with a short‑focus lens to capture the documents and pens in sharp detail. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/fewer-than-10-students-in-3027-primary-schools-across-tamil-nadu",
+   "published": "2026-11-22T21:32:00.000Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: reel_script writes ages as newspaper shorthand (குறைவாகவும், 6,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795370523/karur360/oglltnpgnz9aoi9snup1.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795370527/karur360/nk3xjhzs58nxhdwu4ujr.jpg"
-   ]
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795385259/karur360/yba9s9ymkh1uwbr6oevt.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795385260/karur360/a3b2gf8whuoq0xi6wyhf.jpg"
+   ],
+   "real_photo": "Dinamani"
   }
  ]
 }

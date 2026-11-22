@@ -1,0 +1,96 @@
+writing [N]: தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவ
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (22s)
+attempt 1 gemini/gemini-3.6-flash: 6 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவா்கள்: பள்ளிக் கல்வி பாதுகாப்பு இயக்க ஒருங்கிணைப்பாளா் தகவல்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 3000
+  not grounded: location 'நகரம்' is not in the article
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கரூர் நகரம்' and the news itself, e.g. 'கரூர் நகரம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6,635 ('கூட்டத்துக்கு மாநில ஒருங்கிணைப்பாளா் ஜே.கிருஷ்ணமூா்த்தி தலைம'); 20 ('கூட்டத்துக்கு மாநில ஒருங்கிணைப்பாளா் ஜே.கிருஷ்ணமூா்த்தி தலைம'); 5,167 ('கூட்டத்துக்கு மாநில ஒருங்கிணைப்பாளா் ஜே.கிருஷ்ணமூா்த்தி தலைம')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (25s)
+attempt 2 gemini/gemini-3.6-flash: 1 problems
+  reel_script writes ages as newspaper shorthand (குறைவாகவும், 6,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 49 column 3 (char 1582)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (14s)
+attempt 3 gemini/gemini-3-flash-preview: 4 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவா்கள்: பள்ளிக் கல்வி பாதுகாப்பு இயக்க ஒருங்கிணைப்பாளா் தகவல்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  numbers not found in the article: 3000
+  hl1 (the first headline on screen) must name the place 'கரூர்', e.g. 'கரூர்: ...' or 'கரூர்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 24,349 ('கூட்டத்துக்கு மாநில ஒருங்கிணைப்பாளா் ஜே.கிருஷ்ணமூா்த்தி தலைம'); 6,635 ('கூட்டத்துக்கு மாநில ஒருங்கிணைப்பாளா் ஜே.கிருஷ்ணமூா்த்தி தலைம'); 20 ('கூட்டத்துக்கு மாநில ஒருங்கிணைப்பாளா் ஜே.கிருஷ்ணமூா்த்தி தலைம'); 5,167 ('கூட்டத்துக்கு மாநில ஒருங்கிணைப்பாளா் ஜே.கிருஷ்ணமூா்த்தி தலைம'); 24,349 ('அதாவது, மொத்தம் உள்ள 24,349 பள்ளிகளில் 14,829 பள்ளிகளில் 30 ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  hl1 is 56 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script writes ages as newspaper shorthand (குறைவானவர்களும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவா்கள்: பள்ளிக் கல்வி பாதுகாப்பு இயக்க ஒருங்கிணைப்பாளா் தகவல்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  hl1 (the first headline on screen) must name the place 'கரூர்', e.g. 'கரூர்: ...' or 'கரூர்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 14,829 ('அதாவது, மொத்தம் உள்ள 24,349 பள்ளிகளில் 14,829 பள்ளிகளில் 30 ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  hl1 is 49 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script writes ages as newspaper shorthand (மாணவர்களுக்கும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவா்கள்: பள்ளிக் கல்வி பாதுகாப்பு இயக்க ஒருங்கிணைப்பாளா் தகவல்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கரூர்' and the news itself, e.g. 'கரூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 6 problems
+  hl1 is 41 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script writes ages as newspaper shorthand (மாணவர்களும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவா்கள்: பள்ளிக் கல்வி பாதுகாப்பு இயக்க ஒருங்கிணைப்பாளா் தகவல்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  sentence 1 (one-line story) has 19 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'கரூர்', e.g. 'கரூர்: ...' or 'கரூர்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 14,829 ('அதாவது, மொத்தம் உள்ள 24,349 பள்ளிகளில் 14,829 பள்ளிகளில் 30 ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/openai/gpt-oss-120b (5s)
+proofread rejected (5 problems)
+  slide 3 line 2 longer than 60 characters
+  reel_script writes ages as newspaper shorthand (மூடப்பட்டுள்ளன, 3,, குறைவாகவும், 6,, குறைவாகவும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  caption must contain the exact follow line
+  caption has no "📰 முழு விவரம்:" block - put the whole story (every fact) in the caption
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 21 ('கரூரில் உள்ள அரசு மற்றும் அரசு உதவிபெறும் பள்ளிகளில் கையொப்ப'); 31 ('கரூரில் உள்ள அரசு மற்றும் அரசு உதவிபெறும் பள்ளிகளில் கையொப்ப')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/openai/gpt-oss-120b (2s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo used (1152x865, sharpness 71.9, The photo shows members of the School Education Protection M): https://media.dinamani.com/dinamani/2026-11-22/swdvaf9n/kur22_elementry_school_1_2211chn_1
+real photos used for '3,027 primary schools in TN have fewer t' (Dinamani)
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261123-0337","first":"RN-178"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/fewer-than-10-students-in-3027-primary-schools-across-tamil-nadu
+candidate filter: collected=1
+to write: 1 Karur district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Karur; time left 79 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2
+real photo from the source (Dinamani) for '3,027 primary schools in TN have fewer t'
+auto images: 1 of 1 stories ({})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min
+filed: 1 Karur district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
