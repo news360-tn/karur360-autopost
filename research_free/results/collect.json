@@ -3,16 +3,15 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/fewer-than-10-students-in-3027-primary-schools-across-tamil-nadu",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/வாக்காளா்-பட்டியல்-சிறப்பு-திருத்த-முகாம்-கரூா்-மாவட்டத்தில்-2-நாள்களில்-3347-மனுக்கள்-அளிப்பு",
   "candidate filter: collected=1",
   "to write: 1 Karur district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "real photo from the source (Dinamani) for '3,027 primary schools in TN have fewer t'",
-  "auto images: 1 of 1 stories ({})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
   "filed: 1 Karur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
@@ -20,92 +19,113 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (22s)",
+  "ok gemini/gemini-3.6-flash (24s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (25s)",
+  "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 49 column 3 (char 1582)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (14s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (5s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (2s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவர்கள்: கரூரில் பள்ளி பாதுகாப்பு இயக்கக் கூட்டம்",
-   "english_headline": "3,027 primary schools in TN have fewer than 10 students: School Education Protection Movement holds meeting in Karur",
-   "category": "Education",
-   "location": "Karur city, Karur district",
-   "importance": "Medium",
+   "tamil_headline": "கரூர் மாவட்டத்தில் வாக்காளர் பட்டியல் திருத்த முகாம்: 2 நாட்களில் 3,347 மனுக்கள் பெறப்பட்டன",
+   "english_headline": "3,347 petitions received during two-day special voter list revision camp in Karur district",
+   "category": "Government & Services",
+   "location": "Karur Corporation, Karur district",
+   "importance": "High",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்விச் செய்தி",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் அரசுப் பள்ளி பாதுகாப்பு கூட்டம்",
-    "hl2": "3,027 பள்ளிகளில் <10",
+    "cat": "வாக்காளர் பட்டியல்",
+    "loc": "கரூர் மாநகராட்சி",
+    "hl1": "கரூரில் வாக்காளர் சிறப்பு முகாம்",
+    "hl2": "2 நாட்களில் 3,347 மனுக்கள்",
     "slides": [
      {
-      "title": "ஆலோசனைக் கூட்டம்",
+      "title": "முகாம் விவரம்",
       "lines": [
-       "கரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளியில் கூட்டம்",
-       "பள்ளி பாதுகாப்பு இயக்கம் சார்பில் ஆலோசனை",
-       "மாநில ஒருங்கிணைப்பாளர் ஜே.கிருஷ்ணமூர்த்தி தலைமை"
+       "கரூர் மாவட்டத்தில் <b>4</b> சட்டப்பேரவைத் தொகுதிகள்",
+       "<b>654</b> இடங்களில் <b>1,115</b> வாக்குச்சாவடிகள்",
+       "சனி, ஞாயிறு ஆகிய 2 நாட்கள் முகாம் நடந்தது"
       ]
      },
      {
-      "title": "பள்ளிகளின் நிலை",
+      "title": "முதல் நாள் (சனி)",
       "lines": [
-       "தமிழகத்தில் <b>246</b> அரசுத் தொடக்கப் பள்ளிகள் மூடல்",
-       "<b>3,027</b> பள்ளிகளில் 10-க்கும் குறைவான மாணவர்கள்",
-       "<b>14,829</b> பள்ளிகளில் 30-க்கும் குறைவான மாணவர்கள்"
+       "புதிதாக பெயர் சேர்க்க <b>496</b> மனுக்கள்",
+       "உயிரிழந்தவர், இரட்டை பெயர் நீக்க <b>110</b> மனுக்கள்",
+       "திருத்தம், முகவரி மாற்றத்திற்கு <b>602</b> மனுக்கள்"
       ]
      },
      {
-      "title": "கையொப்ப இயக்கம்",
+      "title": "இரண்டாம் நாள்",
       "lines": [
-       "<b>21வது</b> மாவட்டமாக கரூரில் கையொப்ப இயக்கம்",
-       "<b>2027 ஜனவரி 21-31</b>ல் கன்னியாகுமரி - சென்னை பிரச்சாரம்",
-       "கையொப்பங்கள் முதலமைச்சரிடம் அளிக்க நடவடிக்கை"
+       "புதிதாக பெயர் சேர்க்க <b>879</b> மனுக்கள்",
+       "பெயர் நீக்க <b>153</b> மனுக்கள் பெறப்பட்டன",
+       "திருத்தம், முகவரி மாற்றத்திற்கு <b>1,107</b> மனுக்கள்"
+      ]
+     },
+     {
+      "title": "ஆய்வு",
+      "lines": [
+       "2 நாட்களில் மொத்தம் <b>3,347</b> மனுக்கள் குவிந்தன",
+       "கரூர் மாநகராட்சி <b>48</b> வார்டுகளில் ஆய்வு",
+       "மாநகராட்சி ஆணையர் எம். பிருத்விராஜ் ஆய்வு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் அரசுப் பள்ளிகளை மீட்க கையொப்ப இயக்கம் நடைபெற்றது. கரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளியில் பள்ளி பாதுகாப்பு இயக்க ஆலோசனைக் கூட்டம் ஞாயிற்றுக்கிழமை காலை நடந்தது. கூட்டத்திற்கு மாநில ஒருங்கிணைப்பாளர் ஜே கிருஷ்ணமூர்த்தி தலைமை வகித்தார். தமிழகத்தில் 24,349 அரசு தொடக்கப் பள்ளிகளில் 246 பள்ளிகள் மாணவர்கள் சேர்க்கை இன்றி மூடப்பட்டுள்ளன. 3,027 பள்ளிகளில் 10 மாணவர்களுக்கும் குறைவாகவும், 6,635 பள்ளிகளில் 20 மாணவர்களுக்கும் குறைவாகவும் பயில்கின்றனர். 5,167 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாக கல்வி பயிலும் நிலை உள்ளது. மொத்தம் 14,829 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாகவே மாணவர்கள் படிக்கின்றனர். அரசுப் பள்ளிகளை மீட்கத் தமிழகம் முழுவதும் கையொப்ப இயக்கம் நடத்தப்பட்டு வருகிறது. 21ஆவது மாவட்டமாக கரூரில் ஆசிரியர்கள் மற்றும் பொதுமக்களிடம் கையொப்பங்கள் பெறப்பட்டன. 2027ஆம் ஆண்டு ஜனவரி 21 முதல் 31 வரை கன்னியாகுமரி முதல் சென்னை வரை விழிப்புணர்வுப் பயணம் நடத்தப்பட உள்ளது. பெறப்பட்ட கையொப்பங்கள் மற்றும் கோரிக்கை மனுக்களை முதலமைச்சரிடம் வழங்கி அரசுப் பள்ளிகளை மேம்படுத்த நடவடிக்கை எடுக்கப்படும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏫 கரூரில் அரசுப் பள்ளிகளைப் பாதுகாக்க விழிப்புணர்வு கையொப்ப இயக்கம்\n\n📰 முழு விவரம்:\nகரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளியில் பள்ளி பாதுகாப்பு இயக்க ஆலோசனைக் கூட்டம் ஞாயிற்றுக்கிழமை காலை நடைபெற்றது. கூட்டத்திற்கு மாநில ஒருங்கிணைப்பாளர் ஜே.கிருஷ்ணமூர்த்தி தலைமை வகித்தார். தமிழகத்தில் உள்ள 24,349 அரசு தொடக்கப் பள்ளிகளில் 246 பள்ளிகள் மாணவர்கள் சேர்க்கையின்றி ஏற்கனவே மூடப்பட்டுவிட்டன. 3,027 பள்ளிகளில் 10 மாணவர்களுக்கும் குறைவாகவும், 6,635 பள்ளிகளில் 20 மாணவர்களுக்கும் குறைவாகவும், 5,167 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாகவும் படிக்கின்றனர். மொத்தம் 14,829 பள்ளிகளில் 30 மாணவர்களுக்கும் குறைவாக கல்வி பயிலும் நிலை உள்ளது. அரசுப் பள்ளிகளைப் பாதுகாக்கவும், விழிப்புணர்வு ஏற்படுத்தவும் கையொப்ப இயக்கம் நடத்தப்படுகிறது. 21ஆவது மாவட்டமாக கரூரில் அரசு மற்றும் அரசு உதவிபெறும் பள்ளிகளில் கையொப்பங்கள் பெறப்பட்டன. 2027ஆம் ஆண்டு ஜனவரி 21 முதல் 31 வரை கன்னியாகுமரி முதல் சென்னை வரை பிரச்சார பயணம் நடைபெறவுள்ளது. பெறப்பட்ட கையொப்பங்கள் மற்றும் மனுக்கள் முதலமைச்சரிடம் வழங்கப்பட உள்ளன.\n\n📍 இடம்: கரூர் சிஎஸ்ஐ ஆண்கள் மேல்நிலைப் பள்ளி\n🗓️ நாள்: 22 நவம்பர் 2026 (ஞாயிற்றுக்கிழமை)\n👤 தலைமை: மாநில ஒருங்கிணைப்பாளர் ஜே.கிருஷ்ணமூர்த்தி\nℹ️ மக்கள் கவனத்திற்கு: அரசுப் பள்ளிகளை பாதுகாப்பது ஒவ்வொரு குடிமகனின் கடமையாகும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nSave government schools campaign meeting in Karur | Karur news\n📍 கரூர் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurCity #Education #கரூர்",
-   "prompts": "A group of teachers, volunteers and movement coordinators gather for a meeting of the School Education Protection Movement. The venue is the main hall of Karur CSI Men’s Higher Secondary School, a modest brick building with high windows and a tiled floor typical of Karur’s educational institutions. Seen from behind, dozens of participants in plain Tamil attire sit on rows of chairs while a few stand near the front; J. Krishnamurthi stands at a podium addressing the crowd. No vehicles are visible. The scene is bathed in natural daylight of a Sunday morning, clear sky. The camera is at eye level with a 35 mm lens, framing the hall wide enough to capture the speaker, audience and the school’s interior. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a wooden table set up in the school hall, holding a neat stack of signed pledge sheets and a few pens. Hands – blurred and from behind – place a signature on the top sheet, emphasizing the collective signing effort. The sheets are plain white, the signatures unreadable, and a simple name‑plate reads “School Education Protection Movement” without showing any logos. The background shows a portion of the hall’s wall with plaster and a muted colour, confirming the school setting. The lighting is soft daylight spilling from the hall’s windows, and the camera is positioned slightly above eye level with a short‑focus lens to capture the documents and pens in sharp detail. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/fewer-than-10-students-in-3027-primary-schools-across-tamil-nadu",
-   "published": "2026-11-22T21:32:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: reel_script writes ages as newspaper shorthand (குறைவாகவும், 6,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'",
+   "reel_script": "கரூர் மாவட்டத்தில் வாக்காளர் பட்டியல் சிறப்பு முகாமில் 2 நாட்களில் 3,347 மனுக்கள் பெறப்பட்டுள்ளன. மாவட்டத்தின் 4 சட்டப்பேரவைத் தொகுதிகளில் உள்ள 654 மையங்களில் இந்த முகாம் சனிக்கிழமை மற்றும் ஞாயிற்றுக்கிழமை நடைபெற்றது. மொத்தம் உள்ள 1,115 வாக்குச்சாவடிகளிலும் வாக்காளர் பட்டியல் திருத்தப் பணிகள் நடைபெற்றன. முதல் நாளான சனிக்கிழமை புதிதாக பெயர் சேர்க்க 496 மனுக்கள் பெறப்பட்டன. பெயர் நீக்க 110 மனுக்களும், திருத்தம் மற்றும் முகவரி மாற்றத்திற்கு 602 மனுக்களும் அளிக்கப்பட்டன. இரண்டாம் நாளான ஞாயிற்றுக்கிழமை புதிய சேர்க்கைக்கு 879 மனுக்கள் வந்தன. பெயர் நீக்க 153 மனுக்களும், திருத்தத்திற்கு 1,107 மனுக்களும் சமர்ப்பிக்கப்பட்டன. கரூர் மாநகராட்சியின் 48 வார்டுகளில் நடைபெற்ற முகாம்களை மாநகராட்சி ஆணையர் நாடாளுமன்ற உறுப்பினர்ருத்விராஜ் பார்வையிட்டு ஆய்வு செய்தார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ கரூர் மாவட்டத்தில் 2 நாள் வாக்காளர் திருத்த முகாம்: 3,347 மனுக்கள் பெறப்பட்டன\n\n📰 முழு விவரம்:\nகரூர் மாவட்டத்தில் 4 சட்டப்பேரவைத் தொகுதிகளில் உள்ள 1,115 வாக்குச்சாவடிகள் அமைந்துள்ள 654 வாக்குச்சாவடி மையங்களில் வாக்காளர் பட்டியல் சிறப்பு சுருக்க திருத்த முகாம் சனிக்கிழமை மற்றும் ஞாயிற்றுக்கிழமை ஆகிய இரு நாட்கள் நடைபெற்றது.\n\nசனிக்கிழமை நடைபெற்ற முதல் நாள் முகாமில் புதிதாக பெயர் சேர்க்க 496 மனுக்களும், உயிரிழந்தவர் மற்றும் இரட்டை பெயர் நீக்க 110 மனுக்களும், பெயர் மாற்றம், முகவரி மாற்றம், திருத்தம் மற்றும் மாற்றுத்திறனாளி பதிவுக்கு 602 மனுக்களும் பெறப்பட்டன.\n\nஞாயிற்றுக்கிழமை நடைபெற்ற இரண்டாம் நாள் முகாமில் புதிய சேர்க்கைக்கு 879 மனுக்களும், பெயர் நீக்க 153 மனுக்களும், திருத்தங்கள் மற்றும் முகவரி மாற்றத்திற்கு 1,107 மனுக்களும் பெறப்பட்டு, இரண்டு நாட்களில் மொத்தம் 3,347 மனுக்கள் (துவக்கத்தில் 3,345 மனுக்கள்) பெறப்பட்டன.\n\nகரூர் மாநகராட்சிக்கு உட்பட்ட 48 வார்டுகளில் ஞாயிற்றுக்கிழமை நடைபெற்ற வாக்காளர் பட்டியல் முகாம்களை மாநகராட்சி ஆணையர் எம். பிருத்விராஜ் நேரில் பார்வையிட்டு ஆய்வு செய்தார்.\n\n📍 இடம்: கரூர் மாவட்டம் (4 தொகுதிகள், 654 மையங்கள்)\n🗓️ நாள்: சனிக்கிழமை & ஞாயிற்றுக்கிழமை\n👮 நடவடிக்கை: மாநகராட்சி ஆணையர் எம். பிருத்விராஜ் 48 வார்டுகளில் நேரில் ஆய்வு\n\nKarur voters list revision camp 3,347 applications received | Karur news\n📍 கரூர் மாநகராட்சி, கரூர் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurCity #Government #KarurNews",
+   "prompts": "A crowd of citizens files into a modest government hall in Karur city, each person holding a petition form to be submitted at a special voter‑list revision camp. The hall has plain white walls, a tiled floor, and a low ceiling typical of municipal offices, with a wooden desk at the front. From behind, men in shirts and veshti and women in sarees line up, while two election officials in khaki stand near the desk, gesturing toward the submission box. Stacked petition papers sit on the desk and a wooden box sits ready to receive them. Daylight streams through high windows, casting even light; the shot is taken at eye level with a 35 mm lens, wide enough to capture the hall’s interior and the queue. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows a hand placing a petition form into a wooden submission box on a table inside the same hall. The box is plain, with a metal latch, and a few other petition sheets are already inside, hinting at the large volume received. The hand belongs to a citizen in a saree, fingers visible but face turned away. The table surface shows scattered pens and a small stack of blank forms, emphasizing the paperwork nature of the event. The lighting is soft daylight, highlighting the textures of paper and wood. The camera is slightly above eye level, using a 35 mm lens to focus tightly on the box and hand while keeping the hall’s background blurred. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/வாக்காளா்-பட்டியல்-சிறப்பு-திருத்த-முகாம்-கரூா்-மாவட்டத்தில்-2-நாள்களில்-3347-மனுக்கள்-அளிப்பு",
+   "published": "2026-11-22T22:05:00.000Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: not grounded: place word 'கரூர்' is not in the article",
    "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795385259/karur360/yba9s9ymkh1uwbr6oevt.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795385260/karur360/a3b2gf8whuoq0xi6wyhf.jpg"
-   ],
-   "real_photo": "Dinamani"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795388566/karur360/uckwc99zhkgzsi5pikxa.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795388572/karur360/xkuma1ygr0ktahsztazc.jpg"
+   ]
   }
  ]
 }
