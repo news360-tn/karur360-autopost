@@ -76,5 +76,31 @@
     "Palani, Tamil Nadu": 29
    }
   }
+ },
+ "2026-11-23": {
+  "karur": {
+   "reach": 37342,
+   "reach_by_follow_type": {
+    "NON_FOLLOWER": 35486,
+    "FOLLOWER": 2049
+   },
+   "follower_cities": {
+    "Karur, Tamil Nadu": 874,
+    "Kulittalai, Tamil Nadu": 666,
+    "Chennai, Tamil Nadu": 212,
+    "Tiruchirappalli, Tamil Nadu": 161,
+    "Kulithalai, Tamil Nadu": 101,
+    "Coimbatore, Tamil Nadu": 92,
+    "Manapparai, Tamil Nadu": 74,
+    "Tirupur, Tamil Nadu": 52,
+    "Palladam, Tamil Nadu": 47,
+    "Tiruchengodu, Tamil Nadu": 46,
+    "Namakkal, Tamil Nadu": 41,
+    "Palani, Tamil Nadu": 38,
+    "Madurai, Tamil Nadu": 34,
+    "Dindigul, Tamil Nadu": 34,
+    "Madukkarai, Tamil Nadu": 34
+   }
+  }
  }
 }
