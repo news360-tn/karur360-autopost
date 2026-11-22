@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T18:04:39+00:00",
+ "updated": "2026-11-22T18:17:31+00:00",
  "day": "2026-11-22",
- "ready": 1,
+ "ready": 0,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -139,6 +139,13 @@
       "link": "https://www.instagram.com/reel/DgDJ_Q2jqN6/",
       "at": "2026-11-22T15:45:14+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-177",
+      "head": "திருப்பாதிரிப்புலியூர் அருகே ஆபத்தான மின்மாற்றி: உடைந்து விழும் அபாயம்",
+      "link": "https://www.instagram.com/reel/DgDaqLCHbEb/",
+      "at": "2026-11-22T18:10:36+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -159,6 +166,12 @@
       "head": "🚯 சுக்காலியூர் அமராவதி பாலம் அருகே குவிந்துள்ள குப்பைகள்: அகற்ற மக்கள் கோரிக்கை",
       "link": "https://www.instagram.com/reel/DgDGpSrjofa/",
       "emailed": "2026-11-22T15:35:24+00:00"
+     },
+     {
+      "id": "RN-177",
+      "head": "⚠️ திருப்பாதிரிப்புலியூர் அருகே பள்ளி எதிரே ஆபத்தான மின்மாற்றி",
+      "link": "https://www.instagram.com/reel/DgDaqLCHbEb/",
+      "emailed": "2026-11-22T18:17:28+00:00"
      },
      {
       "id": "RN-176",
