@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T15:35:27+00:00",
+ "updated": "2026-11-22T15:52:03+00:00",
  "day": "2026-11-22",
- "ready": 1,
+ "ready": 0,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -132,6 +132,13 @@
       "link": "https://www.instagram.com/reel/DgDIH-Ajesi/",
       "at": "2026-11-22T15:28:38+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-176",
+      "head": "புகளூர் தவிட்டுப்பாளையம் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தம்: விபத்து அபாயம்",
+      "link": "https://www.instagram.com/reel/DgDJ_Q2jqN6/",
+      "at": "2026-11-22T15:45:14+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -139,7 +146,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 0,
+    "waiting": 1,
     "share": [
      {
       "id": "RN-175",
