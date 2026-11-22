@@ -1,34 +1,11 @@
-03:26:30 round 2026-11-23_03: news published 23 Nov 02:17 -> 23 Nov 03:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-03:26:30 insights 2026-11-23T03:26+05:30 (160 reels): topic weights {'temple': 0.86, 'accident': 0.38, 'education': -0.12, 'power_cut': 1.5, 'poultry_agri': 0.25, 'politics': 0.05, 'civic': -0.33, 'crime': 1.5, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-03:34:25 from_google dinamalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google dinamani.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google dinamalar.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google dinamani.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google dinamalar.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google dinamani.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google tamil.oneindia.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google dinakaran.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google dailythanthi.com 'கரூர்' failed: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?
-03:34:25 from_google maalaimalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google hindutamil.in 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 from_google polimernews.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:34:25 34 links on the two papers' Karur pages
-03:34:57 skipped: already posted=21, published before this window=5, not Karur district=3, same event already posted=1
-03:34:57 list: 1 new + 3 earlier news not posted yet
-03:34:57    1. [கல்வி] தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவா்கள்: பள் (தினமணி)
-03:34:57    2. [மழை / வானிலை] மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-03:34:57    3. [பொது] தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள் (தினமலர்) (earlier)
-03:34:57    4. [பொது] க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா (தினமலர்) (earlier)
-03:34:57 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-23_03
-03:34:58    not picked automatically (ceremony / award / awareness event (low views)): மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி
-03:34:58    not picked automatically (ceremony / shopping feature - only when the owner ticks it): க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா
-03:34:58    not picked automatically (ceremony / award / awareness event (low views)): தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள்
-03:34:58 round 2026-11-23_03 (at least 3, up to 3 more of well-watched topics): 1 news to choose from (0 from earlier rounds), ranked by this page's insights
-03:34:58   PICK   1.   6.5 [education -0.12 page] தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவ
-03:34:58 decided: automatic: top 3 of 1 by insights -> 1 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/22/fewer-than-10-students-in-3027-primary-schools-across-tamil-nadu
-03:37:47 1 listed news now in the Sheet
-03:37:55 instagram duplicate check karur: 50 recent posts read
-03:37:55 verify 2026-11-23_03: 0 of 1 picked news posted, 0 skipped on purpose, 1 waiting for their posting start
-03:37:55    WAITING C0b09164: waiting RN-178: night: nothing is posted 00:00-05:00 IST (owner 21 Nov) - தமிழகத்தில் 3,027 தொடக்கப் பள்ளிகளில் 10-க்கும் குறைவான மாணவ
+04:28:13 round 2026-11-23_04: news published 23 Nov 03:26 -> 23 Nov 04:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+04:28:13 insights 2026-11-23T04:28+05:30 (160 reels): topic weights {'temple': 0.86, 'accident': 0.38, 'education': -0.12, 'power_cut': 1.5, 'poultry_agri': 0.25, 'politics': 0.07, 'civic': -0.32, 'crime': 1.5, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+04:28:25 35 links on the two papers' Karur pages
+04:29:10 skipped: already posted=20, published before this window=5, not Karur district=4, same event already posted=1
+04:29:10 list: 1 new + 3 earlier news not posted yet
+04:29:10    1. [பொது] வாக்காளா் பட்டியல் சிறப்பு திருத்த முகாம்: கரூா் மாவட்டத்தில் 2 நாள்கள (தினமணி)
+04:29:10    2. [மழை / வானிலை] மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+04:29:10    3. [பொது] தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள் (தினமலர்) (earlier)
+04:29:10    4. [பொது] க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா (தினமலர்) (earlier)
+04:29:10 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-23_04
