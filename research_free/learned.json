@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-22T04:29+05:30",
- "posts_measured": 138,
+ "updated": "2026-11-22T06:10+05:30",
+ "posts_measured": 142,
  "topic_weight": {
-  "temple": 0.36,
-  "accident": 0.18,
-  "education": -0.01,
+  "temple": 0.34,
+  "accident": -0.01,
+  "education": -0.03,
   "power_cut": 1.5,
-  "poultry_agri": 0.2,
-  "politics": -0.0,
-  "civic": -0.44,
+  "poultry_agri": 0.27,
+  "politics": 0.05,
+  "civic": -0.39,
   "crime": 1.5,
-  "weather": 0.1
+  "weather": 0.09
  },
  "topic_n": {
   "temple": 18,
-  "accident": 10,
+  "accident": 11,
   "education": 18,
   "jobs": 2,
   "power_cut": 3,
-  "poultry_agri": 11,
-  "politics": 13,
+  "poultry_agri": 12,
+  "politics": 14,
   "civic": 18,
   "crime": 15,
   "weather": 8,
@@ -33,11 +33,11 @@
  ],
  "top_openings": [
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
+  "🚚 தளவாபாளையத்தில் அனுமதியின்றி குவித்து வைத்திருந்த 15 யூனிட் மணல் பறிமுதல்",
   "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப",
-  "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்",
-  "🚨 கரூர் திருக்காம்புலியூரில் சட்டவிரோத மது விற்ற பெண் கைது"
+  "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்"
  ],
- "avg_watch_s": 7.3,
+ "avg_watch_s": 7.2,
  "best_topics": [
   "power_cut",
   "crime",
