@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-22T07:56+05:30",
- "posts_measured": 143,
+ "updated": "2026-11-22T12:32+05:30",
+ "posts_measured": 151,
  "topic_weight": {
-  "temple": 0.41,
-  "accident": 0.0,
-  "education": -0.01,
+  "temple": 0.44,
+  "accident": 0.28,
+  "education": 0.01,
   "power_cut": 1.5,
-  "poultry_agri": 0.29,
-  "politics": -0.09,
-  "civic": -0.37,
+  "poultry_agri": 0.22,
+  "politics": -0.04,
+  "civic": -0.36,
   "crime": 1.5,
-  "weather": 0.1
+  "weather": 0.11
  },
  "topic_n": {
-  "temple": 18,
-  "accident": 11,
+  "temple": 20,
+  "accident": 12,
   "education": 18,
   "jobs": 2,
   "power_cut": 3,
-  "poultry_agri": 12,
+  "poultry_agri": 13,
   "politics": 14,
-  "civic": 18,
+  "civic": 20,
   "crime": 15,
-  "weather": 8,
+  "weather": 9,
   "sports_culture": 1
  },
  "best_hours_ist": [
@@ -34,10 +34,10 @@
  "top_openings": [
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
   "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப",
-  "🚚 தளவாபாளையத்தில் அனுமதியின்றி குவித்து வைத்திருந்த 15 யூனிட் மணல் பறிமுதல்",
-  "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்"
+  "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்",
+  "🚚 தளவாபாளையத்தில் அனுமதியின்றி குவித்து வைத்திருந்த 15 யூனிட் மணல் பறிமுதல்"
  ],
- "avg_watch_s": 7.2,
+ "avg_watch_s": 7.1,
  "best_topics": [
   "power_cut",
   "crime",
