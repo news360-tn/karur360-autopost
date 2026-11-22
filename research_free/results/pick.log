@@ -1,81 +1,11 @@
-12:32:06 round 2026-11-22_12: news published 22 Nov 07:56 -> 22 Nov 12:32 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-12:32:06 insights 2026-11-22T12:32+05:30 (151 reels): topic weights {'temple': 0.44, 'accident': 0.28, 'education': 0.01, 'power_cut': 1.5, 'poultry_agri': 0.22, 'politics': -0.04, 'civic': -0.36, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-12:32:54 47 links on the two papers' Karur pages
-12:33:27 skipped: not Karur district=15, already posted=12, published before this window=6, same event already posted=2
-12:33:27 list: 0 new + 8 earlier news not posted yet
-12:33:27    1. [மழை / வானிலை] மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-12:33:27    2. [கல்வி] அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம் (தினமலர்) (earlier)
-12:33:27    3. [பொது] தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர் (தினமலர்) (earlier)
-12:33:27    4. [சாலை] கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு (தினமலர்) (earlier)
-12:33:27    5. [பொது] தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள் (தினமலர்) (earlier)
-12:33:27    6. [பொது] க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா (தினமலர்) (earlier)
-12:33:27    7. [பொது] கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறிவாலயத்தில் (இந்து தமிழ்) (earlier)
-12:33:27    8. [பொது] மீன் பிடி வலை, உபகரணங்கள் விற்பனை மையம் துவக்கம் (தினமலர்) (earlier)
-12:33:27 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-22_12
-12:33:29 a round time was skipped by GitHub since the last round - this round writes 9 (its own 6 + the skipped round's)
-12:33:29    not picked automatically (ceremony / award / awareness event (low views)): மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி
-12:33:29    not picked automatically (ceremony / award / awareness event (low views)): தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள்
-12:33:29    not picked automatically (ceremony / shopping feature - only when the owner ticks it): க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா
-12:33:29 round 2026-11-22_12 (at least 9, up to 3 more of well-watched topics): 5 news to choose from (5 from earlier rounds), ranked by this page's insights
-12:33:29   PICK   1.   6.5 [education +0.01 page] (earlier) அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-12:33:29   PICK   2.   5.5 [other +0.00 pattern] (earlier) தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-12:33:29   PICK   3.   4.0 [civic -0.36 page] (earlier) கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு
-12:33:29   PICK   4.   2.5 [other +0.00 pattern] (earlier) மீன் பிடி வலை, உபகரணங்கள் விற்பனை மையம் துவக்கம்
-12:33:29   PICK   5.   1.9 [sports_culture -0.20 pattern] (earlier) கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-12:33:29 decided: automatic: top 9 of 5 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/process-description-on-behalf-of-government-agricultural-college/4383031 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/deepavali-festival-sale-of-earthen-lamps-in-full-swing/4383017 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/white-line-on-the-road-without-cleaning-the-concretes/4383035 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/fishing-net-equipment-outlet-inaugurated/4383037 https://www.hindutamil.in/news/tamilnadu/will-stalin-contest-in-kolathur
-12:37:45 1 picked news refused by the writer - not offered again
-12:37:45 4 listed news now in the Sheet
-12:40:13 instagram duplicate check karur: 50 recent posts read
-12:40:13 verify 2026-11-22_12: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-12:40:13    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-12:40:13    NOT POSTED C6b9c9fa: queued RN-170 (Queued) - கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு
-12:40:13    NOT POSTED Cbbbda5c: queued RN-169 (Queued) - மீன் பிடி வலை, உபகரணங்கள் விற்பனை மையம் துவக்கம்
-12:40:13    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-12:40:13    NOT POSTED Cf63624a: queued RN-171 (Queued) - அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-12:45:20 instagram duplicate check karur: 50 recent posts read
-12:45:20 verify 2026-11-22_12: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-12:45:20    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-12:45:20    NOT POSTED C6b9c9fa: queued RN-170 (Queued) - கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு
-12:45:20    NOT POSTED Cbbbda5c: queued RN-169 (Queued) - மீன் பிடி வலை, உபகரணங்கள் விற்பனை மையம் துவக்கம்
-12:45:20    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-12:45:20    NOT POSTED Cf63624a: queued RN-171 (Queued) - அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-12:50:27 instagram duplicate check karur: 50 recent posts read
-12:50:27 verify 2026-11-22_12: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-12:50:27    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-12:50:27    NOT POSTED C6b9c9fa: queued RN-170 (Queued) - கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு
-12:50:27    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-12:50:27    NOT POSTED Cf63624a: queued RN-171 (Queued) - அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-12:55:34 instagram duplicate check karur: 50 recent posts read
-12:55:34 verify 2026-11-22_12: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-12:55:34    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-12:55:34    NOT POSTED C6b9c9fa: queued RN-170 (Queued) - கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு
-12:55:34    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-12:55:34    NOT POSTED Cf63624a: queued RN-171 (Queued) - அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-13:00:40 instagram duplicate check karur: 50 recent posts read
-13:00:40 verify 2026-11-22_12: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-13:00:40    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-13:00:40    NOT POSTED C6b9c9fa: queued RN-170 (Queued) - கான்கிரீட்களை சுத்தம் செய்யாமல் சாலையில் வெள்ளைக்கோடு
-13:00:40    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-13:00:40    NOT POSTED Cf63624a: queued RN-171 (Queued) - அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-13:05:47 instagram duplicate check karur: 50 recent posts read
-13:05:47 verify 2026-11-22_12: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-13:05:47    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-13:05:47    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-13:05:47    NOT POSTED Cf63624a: queued RN-171 (Queued) - அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-13:10:53 instagram duplicate check karur: 50 recent posts read
-13:10:53 verify 2026-11-22_12: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-13:10:53    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-13:10:53    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-13:10:53    NOT POSTED Cf63624a: queued RN-171 (Queued) - அரசு வேளாண்மை கல்லூரி சார்பில் செயல்முறை விளக்கம்
-13:16:00 instagram duplicate check karur: 50 recent posts read
-13:16:00 verify 2026-11-22_12: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-13:16:00    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-13:16:00    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-13:21:07 instagram duplicate check karur: 50 recent posts read
-13:21:07 verify 2026-11-22_12: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-13:21:07    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
-13:21:07    NOT POSTED Cd15b759: queued RN-172 (Queued) - தீப திருநாள் விழா: மண் விளக்கு விற்பனை ஜோர்
-13:26:12 verify 2026-11-22_12: 4 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-13:26:12    SKIPPED C18d35a3: skipped: the writer refused it - not filed: not Karur district news (the story's first lines name another place and no Karur place) - கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறி
+15:30:48 round 2026-11-22_15: news published 22 Nov 12:32 -> 22 Nov 15:30 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+15:30:48 insights 2026-11-22T15:30+05:30 (155 reels): topic weights {'temple': 0.72, 'accident': 0.38, 'education': 0.01, 'power_cut': 1.5, 'poultry_agri': 0.17, 'politics': 0.0, 'civic': -0.41, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+15:32:22 46 links on the two papers' Karur pages
+15:33:03 skipped: already posted=18, not Karur district=13, published before this window=6, same event already posted=2
+15:33:03 list: 1 new + 3 earlier news not posted yet
+15:33:03    1. [பொது] கொளத்தூர் தொகுதி காலியானதாக அறிவிப்பு; மொத்த எண்ணிக்கை 6 ஆக அதிகரிப்பு (தினமலர்)
+15:33:03    2. [மழை / வானிலை] மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+15:33:03    3. [பொது] தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள் (தினமலர்) (earlier)
+15:33:03    4. [பொது] க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா (தினமலர்) (earlier)
+15:33:03 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-22_15
