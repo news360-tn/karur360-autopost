@@ -83,6 +83,20 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `3ac6276` | Facebook: one post every 60 minutes, at most 15 a day per page, most important news first; after the 15 the rest goes to the owner's e-mail at once (share from Instagram) |
+| 2026-11-22 | `7630382` | facebook RN-174 |
+| 2026-11-22 | `3a5789e` | posted RN-174 |
+| 2026-11-22 | `c32cb7f` | powercut: notices written |
+| 2026-11-22 | `361432c` | stories shared / Instagram pause |
+| 2026-11-22 | `b654ef5` | facebook RN-175 |
+| 2026-11-22 | `7931046` | posted RN-175 |
+| 2026-11-22 | `d4567d0` | stories shared / Instagram pause |
+| 2026-11-22 | `b6a15ff` | facebook RN-173 |
+| 2026-11-22 | `68624a0` | posted RN-173 |
+| 2026-11-22 | `84addaf` | pick: picked news saved |
+| 2026-11-22 | `69fdd44` | stories shared / Instagram pause |
+| 2026-11-22 | `4cd8225` | pick: picked news saved |
+| 2026-11-22 | `7446a0d` | pick: list sent |
 | 2026-11-22 | `f9f6191` | Daily plan: 30 of today's published news + yesterday's pending news + urgent news after the 30; news older than yesterday never posted |
 | 2026-11-22 | `6a16799` | stories shared / Instagram pause |
 | 2026-11-22 | `867e4cb` | stories shared / Instagram pause |
@@ -99,18 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `8d23d98` | stories shared / Instagram pause |
 | 2026-11-22 | `dfaa4a4` | stories shared / Instagram pause |
 | 2026-11-22 | `8084258` | stories shared / Instagram pause |
-| 2026-11-22 | `42440d0` | stories shared / Instagram pause |
-| 2026-11-22 | `d3ab89c` | stories shared / Instagram pause |
-| 2026-11-22 | `f280d94` | stories shared / Instagram pause |
-| 2026-11-22 | `254116d` | stories shared / Instagram pause |
-| 2026-11-22 | `50ebe7e` | stories shared / Instagram pause |
-| 2026-11-22 | `7c54a94` | stories shared / Instagram pause |
-| 2026-11-22 | `03c43ce` | stories shared / Instagram pause |
-| 2026-11-22 | `c969e9e` | stories shared / Instagram pause |
-| 2026-11-22 | `cdd2012` | stories shared / Instagram pause |
-| 2026-11-22 | `afa64bd` | stories shared / Instagram pause |
-| 2026-11-22 | `d0fd2c0` | stories shared / Instagram pause |
-| 2026-11-22 | `f5227f2` | stories shared / Instagram pause |
-| 2026-11-22 | `8f3c19a` | goldrate posted |
-| 2026-11-22 | `ba808d0` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
