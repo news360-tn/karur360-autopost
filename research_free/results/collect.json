@@ -3,37 +3,353 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/kolathur-constituency-declared-vacant-total-number-increased-to-6/4383053",
-  "candidate filter: collected=1",
-  "to write: 1 Karur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/kolathur-cons",
-  "NOT filed (N) கொளத்தூர் தொகுதி காலியானதாக அறிவிப்பு; மொத்த எண்ணி: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 77 min",
-  "filed: 0 Karur district stories (target 1), reels only",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68775",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68776",
+  "manual link added: https://pukaarpetti.dailythanthi.com/garbage/news-68774",
+  "manual link added: https://pukaarpetti.dailythanthi.com/road/news-68773",
+  "candidate filter: collected=4",
+  "to write: 4 Karur district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Karur; time left 79 min",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/road/news-68773",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/news-68774",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "posting job started at once",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 73 min",
+  "filed: 4 Karur district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (41s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (36s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (41s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (40s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (15s)",
+  "ok gemini/gemini-3.5-flash (39s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3.5-flash (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (22s)",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (4s)",
+  "ok gemini/gemini-3-flash-preview (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (36s)"
+  "ok gemini/gemini-3-flash-preview (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (5s)",
+  "ok gemini/gemini-3-flash-preview (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "ok gemini/gemini-3-flash-preview (34s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (2s)"
  ],
- "stories": []
+ "stories": [
+  {
+   "tamil_headline": "புகளூரில் அதிக பாரத்துடன் செல்லும் கரும்பு டிராக்டர்கள்: விபத்து அபாயத்தால் வாகன ஓட்டிகள் அச்சம்",
+   "english_headline": "Overloaded sugarcane tractors cause accident risk near sugar mill in Pugalur Sembadapalayam; residents demand action",
+   "category": "Roads & Transport",
+   "location": "Sembadapalayam, Pugalur taluk, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விபத்து அபாயம்",
+    "loc": "செம்படாபாளையம், புகளூர்",
+    "hl1": "புகளூரில் அதிக பார கரும்பு டிராக்டர்கள்",
+    "hl2": "விபத்து அபாயத்தால் அச்சம்",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "புகளூர் செம்படாபாளையம் தனியார் சர்க்கரை ஆலை",
+       "2 டிப்பர்களில் <b>அதிக அளவு கரும்பு பாரம்</b>",
+       "அதிவேகமாக செல்லும் டிராக்டர்கள்"
+      ]
+     },
+     {
+      "title": "விபத்து அபாயம்",
+      "lines": [
+       "அதிக பாரத்தால் உடனடியாக நிறுத்த முடிவதில்லை",
+       "முன்னால் செல்லும் வாகனங்கள் மீது மோதி விபத்து",
+       "சாலையோரம் செல்வோர் மீதும் மோதும் அபாயம்"
+      ]
+     },
+     {
+      "title": "மக்கள் கோரிக்கை",
+      "lines": [
+       "டிப்பர்களில் இருந்து <b>கரும்புகள் சரிந்து விழுதல்</b>",
+       "உயிரிழப்பு ஏற்படும் அபாயம் உள்ளது",
+       "அதிகாரிகள் கடும் நடவடிக்கை எடுக்க கோரிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "புகளூர் செம்படாபாளையத்தில் அதிக பார கரும்பு டிராக்டர்களால் விபத்து அபாயம் ஏற்பட்டுள்ளது. இங்குள்ள தனியார் சர்க்கரை ஆலைக்கு கரும்புகளை ஏற்றிச் செல்லும் டிராக்டர்களில் 2 டிப்பர்களை இணைத்து அதிக அளவு பாரம் ஏற்றிச் செல்கின்றனர். அதிக பாரத்துடன் அதிவேகமாகச் செல்லும் இந்த டிராக்டர்களை ஓட்டுநர்களால் உடனடியாக நிறுத்த முடிவதில்லை. இதனால் முன்னால் செல்லும் வாகனங்கள், இருசக்கர வாகனங்கள் மற்றும் சாலையோரம் செல்வோர் மீது மோதி விபத்துகள் ஏற்படுகின்றன. மேலும் டிப்பர்களில் இருந்து கரும்புகள் கீழே சரிந்து விழுவதால் உயிரிழப்பு ஏற்படும் அபாயமும் நிலவுகிறது. எனவே சம்பந்தப்பட்ட அதிகாரிகள் அதிக பாரம் ஏற்றிச் செல்லும் டிராக்டர் ஓட்டுநர்கள் மீது கடும் நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 புகளூர் செம்படாபாளையத்தில் அதிக பார கரும்பு டிராக்டர்களால் விபத்து அபாயம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் புகளூர் செம்படாபாளையத்தில் உள்ள தனியார் சர்க்கரை ஆலைக்கு கரும்பு ஏற்றிச் செல்லும் டிராக்டர்கள் 2 டிப்பர்களில் அதிக அளவு பாரம் ஏற்றி அதிவேகமாகச் செல்கின்றன. இதனால் வாகனங்களை உடனடியாக நிறுத்த முடியாமல், முன்னால் செல்லும் வாகனங்கள், இருசக்கர வாகனங்கள் மற்றும் சாலையோரம் செல்வோர் மீது மோதி விபத்துகள் ஏற்படுகின்றன. டிப்பர்களில் இருந்து கரும்புகள் சரிந்து விழுவதால் உயிரிழப்பு ஏற்படும் அபாயமும் நிலவுகிறது. அதிக பாரம் ஏற்றிச் செல்லும் டிராக்டர் ஓட்டுநர்கள் மீது அதிகாரிகள் கடும் நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் வலியுறுத்தியுள்ளனர்.\n\n📍 இடம்: புகளூர் செம்படாபாளையம், கரூர் மாவட்டம்\n⚠️ பிரச்சனை: கரும்பு டிராக்டர்களில் அதிக பாரம் மற்றும் அதிவேகம்\n🚨 ஆபத்து: கரும்புகள் சரிந்து விழுந்து விபத்து ஏற்படும் அபாயம்\n👮 கோரிக்கை: அதிக பார டிராக்டர்கள் மீது அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்\n\nவாகன ஓட்டிகள் கவனத்திற்கு Share செய்யுங்கள்.\n\nSugarcane overloaded tractor accident risk in Pugalur Sembadapalayam | Karur news\n📍 புகளூர் செம்படாபாளையம், கரூர் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Pugalur #KarurNews #கரூர்",
+   "prompts": "An overloaded red tractor pulling two tipper trailers piled dangerously high with freshly harvested sugarcane moves along a rural asphalt road near Sembadapalayam in Pugalur, Karur. The sugarcane stalks overhang heavily off the sides of both tippers. In the background, the industrial structure and chimneys of the local private sugar mill stand near lush green banana fields. Two-wheeler riders and pedestrians wearing shirts and veshtis stand at a safe distance on the dirt shoulder, watching the vehicle pass. The scene is lit by bright natural daytime light. The camera angle is eye-level, using a 35mm lens wide enough to capture the entire tractor, its double trailers, and the surrounding road environment. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail shot of the rear tipper trailer piled high with sugarcane stalks overflowing off the wooden sideboards onto the asphalt road near Pugalur Sembadapalayam. Several loose sugarcane stalks lie fallen on the edge of the tar road, showing the immediate safety hazard. In the background, the blurred tires of a passing two-wheeler and the roadside soil under bright daylight emphasize the rural Karur transport setting. Captured from a slightly low eye-level perspective using a 35mm lens focusing sharply on the spilled sugarcane load. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68776",
+   "published": "2026-11-22T20:09:16+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359230/karur360/zjcgcezv3erj560upess.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359235/karur360/tbfirvvg4flads2foa62.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தோரணக்கல்பட்டியில் பள்ளி சாலை சேதம்: மாணவர்கள் தடுமாறி விழுந்து காயமடையும் அபாயம்",
+   "english_headline": "Pothole-ridden road to high school in Thoranakkalpatti causes injuries to cycling students; residents demand repairs",
+   "category": "Civic Issues",
+   "location": "Thoranakkalpatti, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை கோரிக்கை",
+    "loc": "தோரணக்கல்பட்டி",
+    "hl1": "தோரணக்கல்பட்டியில் பள்ளி சாலை சேதம்",
+    "hl2": "மாணவர்கள் விழும் அபாயம்",
+    "slides": [
+     {
+      "title": "எங்கு என்ன?",
+      "lines": [
+       "தோரணக்கல்பட்டி உயர்நிலைப்பள்ளி சாலை சேதம்",
+       "சாலை <b>குண்டும் குழியுமாக</b> உள்ளது",
+       "பள்ளி முன்பு பெரிய பள்ளம் உள்ளது"
+      ]
+     },
+     {
+      "title": "என்ன பாதிப்பு?",
+      "lines": [
+       "சைக்கிளில் வரும் <b>மாணவர்கள்</b> தடுமாறி விழுகின்றனர்",
+       "மாணவர்கள் காயமடையும் சூழல் நிலவுகிறது",
+       "வாகனங்களும் கடும் சிரமத்துடன் செல்கின்றன"
+      ]
+     },
+     {
+      "title": "என்ன கோரிக்கை?",
+      "lines": [
+       "சேதமடைந்த சாலையை <b>சீரமைக்க</b> வேண்டும்",
+       "மாணவர்களின் பாதுகாப்பை அதிகாரிகள் உறுதி செய்ய வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தோரணக்கல்பட்டியில் பள்ளிக்குச் செல்லும் சாலை சேதமடைந்துள்ளதால் மாணவர்கள் விழுந்து காயமடையும் அபாயம் ஏற்பட்டுள்ளது. கரூர் மாவட்டம் தோரணக்கல்பட்டியில் உள்ள உயர்நிலைப்பள்ளிக்குச் செல்லும் சாலை குண்டும் குழியுமாக சேதமடைந்துள்ளது. குறிப்பாக பள்ளி நுழைவுவாயில் முன்பாகப் பெரிய பள்ளம் காணப்படுகிறது. இதனால் சைக்கிளில் பள்ளிக்கு வரும் மாணவர்கள் அடிக்கடி தடுமாறி விழுந்து காயமடைந்து வருகின்றனர். மேலும் அந்த வழியாகச் செல்லும் பிற வாகனங்களும் கடும் சிரமத்துடனேயே கடந்து செல்கின்றன. எனவே, மாணவர்களின் பாதுகாப்பைக் கருத்தில் கொண்டு இந்தச் சாலையை விரைந்து சீரமைக்க சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்றும் கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ தோரணக்கல்பட்டி பள்ளி சாலை சேதம்: மாணவர்கள் கீழே விழுந்து காயமடையும் அபாயம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் தோரணக்கல்பட்டியில் உள்ள உயர்நிலைப்பள்ளிக்குச் செல்லும் சாலை குண்டும் குழியுமாக சேதமடைந்துள்ளது.\nகுறிப்பாக பள்ளி நுழைவுவாயில் முன்பாகப் பெரிய பள்ளம் ஏற்பட்டுள்ளது. இதனால் சைக்கிளில் பள்ளிக்கு வரும் மாணவர்கள் தடுமாறி கீழே விழுந்து காயமடைந்து வருகின்றனர். மேலும் அந்த வழியாகச் செல்லும் வாகனங்களும் கடும் சிரமத்துடனே கடந்து செல்கின்றன. மாணவர்களின் பாதுகாப்பைக் கருத்தில் கொண்டு இந்தச் சாலையை உடனடியாகச் சீரமைக்கச் சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என வலியுறுத்தப்பட்டுள்ளது.\n\n📍 இடம்: தோரணக்கல்பட்டி, கரூர் மாவட்டம்\n🏫 பகுதி: உயர்நிலைப்பள்ளி செல்லும் சாலை\n⚠️ பிரச்சினை: பெரிய பள்ளத்தால் சைக்கிள் மாணவர்கள் கீழே விழுந்து காயம்\n🙋‍♂️ கோரிக்கை: சாலையைச் சீரமைத்து மாணவர் பாதுகாப்பை உறுதி செய்ய வேண்டும்\n\nமாணவர்கள் நலன் கருதி Share செய்யுங்கள்.\n\nThoranakkalpatti school road pothole repair Karur news\n📍 தோரணக்கல்பட்டி, கரூர் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Thoranakkalpatti #KarurNews #கரூர்",
+   "prompts": "A group of students on bicycles carefully navigate around a large, deep pothole on a broken asphalt road in Thoranakkalpatti. The scene is set in front of a high school building with a simple compound wall and a gate typical of Karur district schools. Three students in Tamil Nadu government school uniforms are seen from behind, balancing their bicycles as they steer through the damaged section of the road. The road surface is severely eroded with loose gravel and multiple smaller pits surrounding the main crater. It is a clear day with bright sunlight casting sharp shadows on the dusty ground. The camera is at eye level, using a 35mm lens to capture the wide context of the school entrance and the hazardous road conditions. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on a large, jagged pothole in the middle of the Thoranakkalpatti school road, showing the depth and the broken layers of asphalt. In the background, the blurred wheels of a bicycle and the lower legs of a student in uniform are seen passing by the edge of the pit. The pothole is filled with loose stones and some dry silt, highlighting the lack of maintenance. The surrounding road surface is cracked and uneven, typical of neglected rural-urban link roads in Karur. The lighting is bright midday sun, emphasizing the texture of the broken road. The camera is positioned at a low angle to emphasize the size and danger of the pothole. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/road/news-68773",
+   "published": "2026-11-22T20:05:29+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash + proofread gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash + proofread gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359264/karur360/togb9lofldijluiycxff.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359267/karur360/ohys2okfygmob5grzsqj.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சுக்காலியூர் அமராவதி பாலம் அருகே குவிந்துள்ள குப்பைகள்: அகற்ற அதிகாரிகள் நடவடிக்கை எடுக்க பொதுமக்கள் கோரிக்கை",
+   "english_headline": "Garbage dumped along Madurai National Highway near Sukkaliyur Amaravathi bridge in Karur; residents urge authorities to clean up",
+   "category": "Civic Issues",
+   "location": "Sukkaliyur, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சுகாதாரம்",
+    "loc": "சுக்காலியூர், கரூர்",
+    "hl1": "சுக்காலியூர் அருகே குவிந்த குப்பைகள்",
+    "hl2": "துர்நாற்றத்தால் மக்கள் அவதி",
+    "slides": [
+     {
+      "title": "எங்கே பிரச்சனை?",
+      "lines": [
+       "கரூர் மாவட்டம் சுக்காலியூர்",
+       "அமராவதி ஆற்றுப்பாலம் அருகே",
+       "மதுரை தேசிய நெடுஞ்சாலையோரம்"
+      ]
+     },
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பிளாஸ்டிக் பைகள் குவிக்கப்பட்டுள்ளன",
+       "கழிவுப்பொருட்கள் <b>மூட்டைகளாக</b> கொட்டப்பட்டுள்ளன",
+       "ஈரப்பதம் காரணமாக துர்நாற்றம் வீசுகிறது"
+      ]
+     },
+     {
+      "title": "மக்கள் அவதி",
+      "lines": [
+       "பொதுமக்கள் மூக்கைப் பிடித்தபடி செல்கின்றனர்",
+       "சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க கோரிக்கை",
+       "குப்பைகளை உடனடியாக அகற்ற வலியுறுத்தல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சுக்காலியூர் அமராவதி பாலத்தின் அருகே தேசிய நெடுஞ்சாலையோரம் குப்பைகள் குவிக்கப்பட்டுள்ளன. கரூர் மாவட்டம் சுக்காலியூர் அமராவதி ஆற்றுப்பாலம் அருகே மதுரை தேசிய நெடுஞ்சாலையோரம் இந்த அவலம் ஏற்பட்டுள்ளது. அங்கு பிளாஸ்டிக் பைகள் மற்றும் கழிவுப்பொருட்கள் பெருமளவில் மூட்டைகளாகக் குவிக்கப்பட்டுள்ளன. ஈரப்பதம் காரணமாகக் குப்பைகளில் இருந்து கடுமையான துர்நாற்றம் வீசி வருகிறது. இதன் காரணமாக அவ்வழியாகச் செல்லும் பொதுமக்கள் அனைவரும் மூக்கைப் பிடித்துக்கொண்டு செல்லும் நிலை ஏற்பட்டுள்ளது. துர்நாற்றம் அதிகமாக இருப்பதால் வாகன ஓட்டிகளும் பாதசாரிகளும் கடும் அவதிக்குள்ளாகி வருகின்றனர். எனவே சாலையோரம் குவிந்துள்ள குப்பைகளை உடனடியாக அகற்ற சம்பந்தப்பட்ட அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க வேண்டும். குப்பைகளை அகற்றி அந்தப் பகுதியைச் சுத்தப்படுத்த வேண்டும் என்பதே பொதுமக்களின் கோரிக்கையாக உள்ளது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚯 சுக்காலியூர் அமராவதி பாலம் அருகே குவிந்துள்ள குப்பைகள்: அகற்ற மக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், சுக்காலியூர் அமராவதி ஆற்றுப்பாலம் அருகே மதுரை தேசிய நெடுஞ்சாலையோரம் பிளாஸ்டிக் பைகள் மற்றும் கழிவுப்பொருட்கள் மூட்டைகளாகக் குவிக்கப்பட்டுள்ளன. ஈரப்பதம் காரணமாக அவற்றில் இருந்து துர்நாற்றம் வீசுவதால், அவ்வழியாகச் செல்லும் பொதுமக்கள் மூக்கைப் பிடித்துக்கொண்டு செல்கின்றனர். எனவே, சாலையோரம் குவிந்துள்ள குப்பைகளை அகற்ற சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் வலியுறுத்தியுள்ளனர்.\n\n📍 இடம்: சுக்காலியூர் அமராவதி ஆற்றுப்பாலம் அருகே, கரூர்\n⚠️ நிலைமை: நெடுஞ்சாலையோரம் பிளாஸ்டிக் கழிவுகள் மூட்டைகளாக தேக்கம்\n👮 நடவடிக்கை கோரிக்கை: குப்பைகளை உடனடியாக அகற்ற அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்!\n\nGarbage dumped near Sukkaliyur Madurai highway bridge | Karur news\n📍 சுக்காலியூர், கரூர் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Sukkaliyur #CivicIssues #கரூர்",
+   "prompts": "A large heap of discarded plastic bags and sacks filled with waste lies abandoned on the shoulder of the Madurai National Highway near Sukkaliyur. The scene is set near the concrete railings of the Amaravathi bridge in Karur, with the wide asphalt road stretching into the distance. A few local residents, seen from behind, walk past the garbage while covering their noses with their hands to avoid the smell. In the background, a two-wheeler and a TNSTC bus are visible driving along the highway. The lighting is bright daylight under a slightly overcast sky, highlighting the dampness of the waste. The camera is at eye level, using a 35mm lens to capture the scale of the dumping site against the highway infrastructure. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the pile of torn white and colored plastic sacks and household waste scattered on the dirt shoulder of the Madurai National Highway. The ground around the sacks appears dark and damp, indicating the moisture mentioned in the report. The texture of the plastic debris and the rough road edge are clearly visible, illustrating the civic issue. No people are in this frame, emphasizing the neglected state of the roadside. The concrete base of a highway marker or bridge pillar is partially visible in the corner. The shot is taken from a slightly high angle in clear daylight, providing a detailed view of the waste materials that need removal. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/garbage/news-68774",
+   "published": "2026-11-22T20:06:31+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359277/karur360/ew7pjnyzkgxz31rt6g9w.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359280/karur360/xfjzkarjrsotvmoqj3kr.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புகளூர் தவிட்டுப்பாளையம் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தம்: விபத்து அபாயம்",
+   "english_headline": "Parking on Salem-Karur NH service road in Thavittupalayam causes accident risk",
+   "category": "Roads & Transport",
+   "location": "Thavittupalayam, Pugalur taluk, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை பாதுகாப்பு",
+    "loc": "தவிட்டுப்பாளையம், புகளூர்",
+    "hl1": "தவிட்டுப்பாளையம் சாலையில் விபத்து அபாயம்",
+    "hl2": "சர்வீஸ் சாலையில் வாகனங்கள்",
+    "slides": [
+     {
+      "title": "எங்கே பிரச்சனை?",
+      "lines": [
+       "சேலம் - கரூர் தேசிய நெடுஞ்சாலை",
+       "நன்செய் புகளூர் <b>தவிட்டுப்பாளையம்</b>",
+       "சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தம்"
+      ]
+     },
+     {
+      "title": "என்ன பாதிப்பு?",
+      "lines": [
+       "சாலையின் நடுவே வாகனங்கள் நிறுத்தப்படுகின்றன",
+       "பஸ்கள், பள்ளி, கல்லூரி வாகனங்கள் செல்ல சிரமம்",
+       "விபத்து ஏற்படும் அபாயம் அதிகரிப்பு"
+      ]
+     },
+     {
+      "title": "மக்கள் கோரிக்கை",
+      "lines": [
+       "சாலையைக் கடக்கும் பொதுமக்கள் பாதிப்பு",
+       "விதிமீறும் வாகனங்களுக்கு அபராதம் விதிக்க கோரிக்கை",
+       "அதிகாரிகள் நடவடிக்கை எடுக்க வலியுறுத்தல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "புகளூர் தவிட்டுப்பாளையம் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தப்படுவதால் விபத்து ஏற்படும் அபாயம் ஏற்பட்டுள்ளது. கரூர் மாவட்டம் புகளூர் தாலுகா நன்செய் புகளூர் தவிட்டுப்பாளையம் பகுதியில் இந்த பாதிப்பு நிலவுகிறது. இங்குள்ள சேலம் - கரூர் தேசிய நெடுஞ்சாலையின் சர்வீஸ் சாலையில் வாகனங்கள் சாலையின் நடுவே நிறுத்தப்படுகின்றன. இந்தப் பாதையில் பேருந்துகள், பள்ளி மற்றும் கல்லூரி வாகனங்கள் என ஏராளமான வாகனங்கள் தினமும் செல்கின்றன. சர்வீஸ் சாலையின் நடுவே வாகனங்கள் நிறுத்தப்படுவதால் மற்ற வாகனங்கள் செல்ல இடமில்லாமல் விபத்துகள் ஏற்படும் சூழல் உள்ளது. குறிப்பாக சாலையைக் கடக்கும் பொதுமக்கள் மற்றும் வாகன ஓட்டிகள் இதனால் கடும் சிரமத்திற்கு உள்ளாகின்றனர். எனவே சம்பந்தப்பட்ட அதிகாரிகள் சர்வீஸ் சாலையில் வாகனங்களை நிறுத்துவதைத் தடுத்து நிறுத்த வேண்டும். விதிமீறி வாகனங்களை நிறுத்துவோருக்கு அபராதம் விதித்து உரிய நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 புகளூர் தவிட்டுப்பாளையம் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தம்: விபத்து ஏற்படும் அபாயம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் புகளூர் தாலுகா நன்செய் புகளூர் தவிட்டுப்பாளையம் பகுதியில் சேலம் - கரூர் தேசிய நெடுஞ்சாலையின் சர்வீஸ் சாலையில் வாகனங்கள் சாலையின் நடுவே நிறுத்தப்படுகின்றன. இதனால் பேருந்துகள், பள்ளி, கல்லூரி வாகனங்கள் செல்வதில் சிக்கல் ஏற்பட்டுள்ளது. சாலையைக் கடக்கும் பொதுமக்கள் மற்றும் வாகன ஓட்டிகள் விபத்து அச்சத்தில் உள்ளனர். விதிமீறி வாகனங்களை நிறுத்துவோர் மீது அபராதம் விதித்து நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: தவிட்டுப்பாளையம், புகளூர்\n🗓️ நாள்: 22 நவம்பர் 2026\n👮 நடவடிக்கை: அபராதம் விதிக்க கோரிக்கை\nℹ️ மக்கள் கவனத்திற்கு: இப்பகுதியில் வாகனங்களை ஓட்டும்போது எச்சரிக்கையாக இருக்கவும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nPugalur Thavittupalayam service road parking issue | Karur news\n📍 Thavittupalayam, Karur | 22 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Pugalur #RoadSafety #கரூர்",
+   "prompts": "A line of buses, school vans and other vehicles are halted in the centre of the service road, blocking the lane and creating a clear accident risk. The scene is set on the Salem‑Karur National Highway service road at Thavittupalayam, a narrow paved stretch flanked by low fences and distant paddy fields typical of Karur’s outskirts. From behind, a few pedestrians and drivers in khaki‑clad uniforms and civilian clothing can be seen walking or gesturing, indicating difficulty in passing. The parked vehicles – a yellow city bus, a white school van and a dark‑coloured college car – dominate the frame, each straddling the road’s centre line. The light is bright daylight with clear sky, no rain. The camera is positioned at eye level, using a 35 mm lens, wide enough to capture the road, the parked fleet and the struggling commuters. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on a single yellow city bus stopped squarely on the centre of the service road, its rear wheels jutting into the opposite lane. The bus is parked on the paved surface of the Salem‑Karur National Highway service road at Thavittupalayam, with the road’s white line and gravel shoulders visible on either side. In the background, a blurred figure of a driver in a khaki police shirt can be seen from behind, gesturing toward the bus, while a distant cyclist rides past the obstruction. The daylight is bright, casting sharp shadows on the asphalt. The shot is taken slightly above eye level with a 35 mm lens, framing the bus as the unmistakable object that creates the accident risk. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68775",
+   "published": "2026-11-22T20:07:29+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 8 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359428/karur360/fjjmk8uz3zvtfbv6sxqc.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795359432/karur360/by9f1g0cz6gfgjb1tvzs.jpg"
+   ]
+  }
+ ]
 }
