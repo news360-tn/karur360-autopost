@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T15:23:15+00:00",
+ "updated": "2026-11-22T15:35:27+00:00",
  "day": "2026-11-22",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -125,6 +125,13 @@
       "link": "https://www.instagram.com/reel/DgDGpSrjofa/",
       "at": "2026-11-22T15:16:04+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-174",
+      "head": "தோரணக்கல்பட்டியில் பள்ளி சாலை சேதம்: மாணவர்கள் தடுமாறி விழுந்து காயமடையும் அபாயம்",
+      "link": "https://www.instagram.com/reel/DgDIH-Ajesi/",
+      "at": "2026-11-22T15:28:38+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -132,8 +139,21 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 1,
-    "share": [],
+    "waiting": 0,
+    "share": [
+     {
+      "id": "RN-175",
+      "head": "🚯 சுக்காலியூர் அமராவதி பாலம் அருகே குவிந்துள்ள குப்பைகள்: அகற்ற மக்கள் கோரிக்கை",
+      "link": "https://www.instagram.com/reel/DgDGpSrjofa/",
+      "emailed": "2026-11-22T15:35:24+00:00"
+     },
+     {
+      "id": "RN-174",
+      "head": "⚠️ தோரணக்கல்பட்டி பள்ளி சாலை சேதம்: மாணவர்கள் கீழே விழுந்து காயமடையும் அபாயம்",
+      "link": "https://www.instagram.com/reel/DgDIH-Ajesi/",
+      "emailed": "2026-11-22T15:35:24+00:00"
+     }
+    ],
     "paused": ""
    },
    "manual_post": [],
