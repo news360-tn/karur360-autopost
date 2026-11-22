@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-22T16:29+05:30",
+ "updated": "2026-11-22T20:17+05:30",
  "posts_measured": 155,
  "topic_weight": {
-  "temple": 0.7,
-  "accident": 0.36,
-  "education": -0.01,
+  "temple": 0.74,
+  "accident": 0.42,
+  "education": -0.02,
   "power_cut": 1.5,
-  "poultry_agri": 0.2,
-  "politics": 0.0,
-  "civic": -0.38,
+  "poultry_agri": 0.22,
+  "politics": 0.01,
+  "civic": -0.36,
   "crime": 1.5,
-  "weather": 0.1
+  "weather": 0.11
  },
  "topic_n": {
   "temple": 20,
@@ -29,7 +29,7 @@
   11,
   16,
   0,
-  19
+  12
  ],
  "top_openings": [
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",

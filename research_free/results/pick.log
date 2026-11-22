@@ -1,17 +1,14 @@
-16:29:48 round 2026-11-22_16: news published 22 Nov 15:30 -> 22 Nov 16:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-16:29:48 insights 2026-11-22T16:29+05:30 (155 reels): topic weights {'temple': 0.7, 'accident': 0.36, 'education': -0.01, 'power_cut': 1.5, 'poultry_agri': 0.2, 'politics': 0.0, 'civic': -0.38, 'crime': 1.5, 'weather': 0.1}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
-16:30:00 35 links on the two papers' Karur pages
-16:30:36 skipped: already posted=22, published before this window=6, not Karur district=3, same event already posted=2
-16:30:36 list: 0 new + 3 earlier news not posted yet
-16:30:36    1. [மழை / வானிலை] மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-16:30:36    2. [பொது] தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள் (தினமலர்) (earlier)
-16:30:36    3. [பொது] க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா (தினமலர்) (earlier)
-16:30:36 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-22_16
-16:30:37    not picked automatically (ceremony / award / awareness event (low views)): மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி
-16:30:37    not picked automatically (ceremony / shopping feature - only when the owner ticks it): க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா
-16:30:37    not picked automatically (ceremony / award / awareness event (low views)): தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள்
-16:30:37 round 2026-11-22_16 (at least 6, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:30:37 decided: automatic: top 6 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-16:30:43 verify 2026-11-22_16: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+20:17:08 round 2026-11-22_20: news published 22 Nov 16:29 -> 22 Nov 20:17 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+20:17:08 insights 2026-11-22T20:17+05:30 (155 reels): topic weights {'temple': 0.74, 'accident': 0.42, 'education': -0.02, 'power_cut': 1.5, 'poultry_agri': 0.22, 'politics': 0.01, 'civic': -0.36, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது', '🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப']
+20:19:05 79 links on the two papers' Karur pages
+20:20:49 skipped: not Karur district=41, already posted=22, published before this window=6, same event already posted=3, no title=1
+20:20:49 list: 4 new + 3 earlier news not posted yet
+20:20:49    1. [விபத்து] விபத்து ஏற்படும் அபாயம் (தினத்தந்தி)
+20:20:49    2. [பொது] விபத்தில் சிக்கும் வாகன ஓட்டிகள் (தினத்தந்தி)
+20:20:49    3. [சாலை] சாலையோரம் தேங்கியுள்ள குப்பைகள் (தினத்தந்தி)
+20:20:49    4. [சாலை] குண்டும், குழியுமான சாலை (தினத்தந்தி)
+20:20:49    5. [மழை / வானிலை] மழை நீர் சேமிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+20:20:49    6. [பொது] தென்னிலை அருகே தற்காலிக சுங்கச்சாவடி டெண்டர் விண்ணப்பிக்க நாளை மறுநாள் (தினமலர்) (earlier)
+20:20:49    7. [பொது] க.பரமத்தியில் பாலசுப்பிரமணிய சுவாமிகளின் குருபூஜை விழா (தினமலர்) (earlier)
+20:20:49 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-22_20
