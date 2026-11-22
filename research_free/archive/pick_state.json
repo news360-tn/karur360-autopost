@@ -65,7 +65,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-22T15:30:48.513271+05:30",
-   "picked_at": "2026-11-22T15:33:05.201244+05:30"
+   "picked_at": "2026-11-22T15:33:05.201244+05:30",
+   "refused": "not filed: duplicate after write"
   }
  },
  "rounds": {
@@ -592,7 +593,10 @@
    },
    "written": [
     "C7c7d4ab"
-   ]
+   ],
+   "refused": {
+    "C7c7d4ab": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
