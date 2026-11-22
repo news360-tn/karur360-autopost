@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-21 | `64bc351` | YouTube: news reels uploaded automatically as Shorts (only with the page's keys) |
-| 2026-11-21 | `e4e90a0` | pick: picked news saved |
-| 2026-11-21 | `815b9ad` | pick: picked news saved |
-| 2026-11-21 | `c36dbc8` | pick: list sent |
-| 2026-11-21 | `31ad80c` | Facebook: every news that is on Instagram also goes to Facebook |
-| 2026-11-21 | `5734baf` | powercut: notices written |
-| 2026-11-21 | `d051351` | powercut: notices written |
-| 2026-11-21 | `78836f8` | pick: written and posted |
-| 2026-11-21 | `c7b0351` | pick: list sent |
-| 2026-11-21 | `dba7b0c` | Posted report: one e-mail for all pages, 4 times a day |
-| 2026-11-21 | `bde0479` | pick: written and posted |
-| 2026-11-21 | `0b4a8df` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
-| 2026-11-21 | `36a2c59` | goldrate posted |
-| 2026-11-21 | `63ff44e` | pick: picked news saved |
-| 2026-11-21 | `e4e724e` | pick: picked news saved |
-| 2026-11-21 | `8f2f74c` | pick: list sent |
-| 2026-11-21 | `72c65f8` | pick: written and posted |
-| 2026-11-21 | `44f3bbe` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
-| 2026-11-21 | `f5808cd` | powercut: notices written |
-| 2026-11-21 | `2d4a02f` | pick: picked news saved |
-| 2026-11-21 | `e016d63` | powercut: notices written |
-| 2026-11-21 | `e77e412` | pick: picked news saved |
-| 2026-11-21 | `96e4eac` | pick: list sent |
-| 2026-11-21 | `3caa70a` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
-| 2026-11-21 | `7da8341` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
-| 2026-11-21 | `f895508` | stories shared |
-| 2026-11-21 | `5e0e98b` | pick: written and posted |
-| 2026-11-21 | `e73867f` | goldrate posted |
-| 2026-11-21 | `390662a` | pick: picked news saved |
-| 2026-11-21 | `3284b6b` | pick: picked news saved |
+| 2026-11-22 | `7e5d188` | Manual post e-mail: news a page cannot post goes to the owner, one by one |
+| 2026-11-22 | `4d6c4df` | facebook RN-163 |
+| 2026-11-22 | `dd48143` | posted RN-163 |
+| 2026-11-22 | `ba229d4` | facebook RN-164 |
+| 2026-11-22 | `0c5b4e3` | posted RN-164 |
+| 2026-11-22 | `326be37` | pick: picked news saved |
+| 2026-11-22 | `0282ea5` | pick: picked news saved |
+| 2026-11-22 | `47e0c16` | pick: list sent |
+| 2026-11-22 | `859adea` | rasipalan posted |
+| 2026-11-22 | `676f8ec` | stories shared / Instagram pause |
+| 2026-11-22 | `84d4816` | stories shared / Instagram pause |
+| 2026-11-22 | `454727b` | facebook RN-161 |
+| 2026-11-22 | `3d256e2` | posted RN-161 |
+| 2026-11-21 | `8359c7c` | facebook RN-158 |
+| 2026-11-21 | `2f32070` | posted RN-158 |
+| 2026-11-21 | `a77e6bf` | facebook RN-160 |
+| 2026-11-21 | `b27f8a2` | posted RN-160 |
+| 2026-11-21 | `f890aad` | facebook RN-159 |
+| 2026-11-21 | `99d24c1` | posted RN-159 |
+| 2026-11-21 | `3df9581` | pick: written and posted |
+| 2026-11-21 | `e80753e` | pick: list sent |
+| 2026-11-21 | `35949da` | powercut: notices written |
+| 2026-11-21 | `6ab548e` | powercut: notices written |
+| 2026-11-21 | `ef52d15` | pick: written and posted |
+| 2026-11-21 | `7cca373` | pick: picked news saved |
+| 2026-11-21 | `2b989ef` | pick: picked news saved |
+| 2026-11-21 | `b6836d5` | pick: list sent |
+| 2026-11-21 | `cd46002` | pick: written and posted |
+| 2026-11-21 | `edc70e3` | facebook RN-157 |
+| 2026-11-21 | `97e5656` | posted RN-157 |
 <!-- recent-changes:end -->
