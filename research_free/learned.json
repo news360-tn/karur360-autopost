@@ -1,33 +1,33 @@
 {
- "updated": "2026-11-23T08:27+05:30",
- "posts_measured": 163,
+ "updated": "2026-11-23T12:28+05:30",
+ "posts_measured": 176,
  "topic_weight": {
-  "temple": 0.94,
-  "accident": 0.45,
-  "education": -0.13,
+  "temple": 0.9,
+  "accident": 0.41,
+  "education": -0.17,
   "power_cut": 1.5,
-  "poultry_agri": 0.32,
-  "politics": 0.13,
-  "civic": -0.28,
+  "poultry_agri": 0.2,
+  "politics": 0.09,
+  "civic": -0.38,
   "crime": 1.5,
-  "weather": 0.21
+  "weather": 0.19
  },
  "topic_n": {
-  "temple": 20,
+  "temple": 22,
   "accident": 13,
-  "education": 21,
+  "education": 23,
   "jobs": 2,
   "power_cut": 3,
-  "poultry_agri": 15,
+  "poultry_agri": 17,
   "politics": 14,
-  "civic": 24,
-  "crime": 15,
-  "weather": 9,
+  "civic": 28,
+  "crime": 16,
+  "weather": 10,
   "sports_culture": 1
  },
  "best_hours_ist": [
-  11,
   16,
+  11,
   0,
   12
  ],
@@ -37,7 +37,7 @@
   "🚨 குளித்தலை அருகே கல்லூரி மாணவி மாயம்: தந்தை போலீசில் புகார்",
   "🚚 தளவாபாளையத்தில் அனுமதியின்றி குவித்து வைத்திருந்த 15 யூனிட் மணல் பறிமுதல்"
  ],
- "avg_watch_s": 7.1,
+ "avg_watch_s": 7.0,
  "best_topics": [
   "power_cut",
   "crime",
