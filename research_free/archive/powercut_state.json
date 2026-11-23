@@ -937,7 +937,7 @@
    "title": "கரூர் மாவட்டத்தில் நாளை (24-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 24, 2026, செவ்வாய்க்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை"
   },
   "https://tamil.abplive.com/news/tamil-nadu/karur-power-cut-24-11-2026-know-timings-areas-affected-by-power-shutdown-280375#district-section": {
-   "at": "2026-11-24T01:47:14.396027+05:30",
+   "at": "2026-11-24T02:36:23.637014+05:30",
    "power_cut": true,
    "why": "",
    "title": "கரூர் மாவட்டத்தில் நாளை (24-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 24, 2026, செவ்வாய்க்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை"
@@ -947,6 +947,36 @@
    "power_cut": false,
    "why": "not this district",
    "title": "coimbatore power cut: கோவையில் நாளை (24-11-2026) எத்தனை இடங்களில் மின் தடை? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
+  },
+  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/23/கரூா்-ஆட்சியரக-வளாகத்தில்இளம்பெண்-தீக்குளிக்க-முயற்சி": {
+   "at": "2026-11-24T02:36:23.637014+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "கரூா் ஆட்சியரக வளாகத்தில் இளம்பெண் தீக்குளிக்க முயற்சி"
+  },
+  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/23/திருப்பரங்குன்றம்-விவகாரத்தில்தமிழக-முதல்வருக்கு-தயக்கம்-ஏன்": {
+   "at": "2026-11-24T02:36:23.637014+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "திருப்பரங்குன்றம் விவகாரத்தில் தமிழக முதல்வருக்கு தயக்கம் ஏன்?"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-theni/power-outage-by-low-capacity-wires-at-veterinary-college/4380541": {
+   "at": "2026-11-24T02:36:23.637014+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "கால்நடை மருத்துவ கல்லூரியில் குறைந்த திறன் ஒயர்களால் மின்தடை"
+  },
+  "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-17-11-2026-vellore-karur-kovai-power-cut-areas-affected-279880#district-section": {
+   "at": "2026-11-24T02:36:23.637014+05:30",
+   "power_cut": true,
+   "why": "cut day 2026-11-17 has passed",
+   "title": "கரூர் மாவட்டத்தில் நாளை (17-11-2026) மின்தடை: தாந்தோணிமலை, சுங்ககேட், மணவாடி, காந்திகிராமம்"
+  },
+  "https://tamil.abplive.com/news/tamil-nadu/tamilnadu-power-shutdown-20-12-2026-kovai-thanjavur-power-cut-areas-affected-280133#district-section": {
+   "at": "2026-11-24T02:36:23.637014+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "Tamilnadu Power Cut: தமிழகத்தில் நாளை (20-11-2026) எங்கெல்லாம் பவர் கட் ? - மின் வாரியம் வெளியிட்ட லிஸ்ட்"
   }
  },
  "done": {
