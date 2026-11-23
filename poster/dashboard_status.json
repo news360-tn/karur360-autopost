@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T04:52:49+00:00",
+ "updated": "2026-11-23T05:04:50+00:00",
  "day": "2026-11-23",
- "ready": 5,
+ "ready": 4,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -69,6 +69,13 @@
       "link": "https://www.instagram.com/reel/DgEjW9kFB_d/",
       "at": "2026-11-23T04:45:54+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-188",
+      "head": "சோமூரில் சின்டெக்ஸ் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் தண்ணீர் பிடிக்க சிரமம்",
+      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
+      "at": "2026-11-23T04:57:56+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -76,7 +83,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 5,
+    "waiting": 6,
     "share": [
      {
       "id": "RN-179",
