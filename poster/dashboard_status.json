@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T03:45:22+00:00",
+ "updated": "2026-11-23T03:58:05+00:00",
  "day": "2026-11-23",
- "ready": 10,
+ "ready": 9,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -34,6 +34,13 @@
       "link": "https://www.instagram.com/reel/DgEbYS9mfeN/",
       "at": "2026-11-23T03:36:25+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-180",
+      "head": "கோயம்பள்ளியில் பராமரிப்பின்றி பாழடைந்த பொது கழிப்பிடம்: பொதுமக்கள் பெரும் அவதி",
+      "link": "https://www.instagram.com/reel/DgEdHRvEw8a/",
+      "at": "2026-11-23T03:51:10+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -41,7 +48,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 0,
+    "waiting": 1,
     "share": [
      {
       "id": "RN-179",
