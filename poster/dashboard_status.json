@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T05:37:26+00:00",
+ "updated": "2026-11-23T05:50:18+00:00",
  "day": "2026-11-23",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -90,6 +90,13 @@
       "link": "https://www.instagram.com/reel/DgEocXMCOOc/",
       "at": "2026-11-23T05:30:32+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-190",
+      "head": "அரவக்குறிச்சி பள்ளப்பட்டியில் மழையால் சேதமான சாலைகள் சீரமைப்பு",
+      "link": "https://www.instagram.com/reel/DgEp-RAEThr/",
+      "at": "2026-11-23T05:43:30+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -97,7 +104,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 7,
+    "waiting": 8,
     "share": [
      {
       "id": "RN-178",
