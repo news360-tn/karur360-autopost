@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-23 | `1c98e44` | Reels only: no Instagram or Facebook stories; wait 5 minutes after an error |
+| 2026-11-23 | `b2cae2b` | stories shared / Instagram pause |
+| 2026-11-23 | `a992dcc` | stories shared / Instagram pause |
+| 2026-11-23 | `252a966` | stories shared / Instagram pause |
 | 2026-11-23 | `363cb1d` | stories shared / Instagram pause |
 | 2026-11-23 | `67bc1c4` | Posting: next reel about 5 minutes after the last (5-minute gap kept); a temporary Instagram error waits 10 minutes, then posts (no manual e-mail for it) |
 | 2026-11-23 | `bb16533` | stories shared / Instagram pause |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `736b6a5` | posted RN-191 |
 | 2026-11-23 | `20022d1` | stories shared / Instagram pause |
 | 2026-11-23 | `a34690f` | stories shared / Instagram pause |
-| 2026-11-23 | `2b27ae7` | Yesterday's pending news (held only by the daily maximum) is offered again; common place words (நகரம், ரோடு, நிலையம் ...) no longer hold a news; Indian number grouping (29,86,950) is understood |
-| 2026-11-23 | `47a33d6` | stories shared / Instagram pause |
-| 2026-11-23 | `a78fae1` | stories shared / Instagram pause |
-| 2026-11-23 | `853d900` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
