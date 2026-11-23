@@ -1,13 +1,9 @@
-16:29:56 round 2026-11-23_16: news published 23 Nov 16:27 -> 23 Nov 16:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-16:29:56 insights 2026-11-23T16:29+05:30 (177 reels): topic weights {'temple': 0.94, 'accident': 0.43, 'education': -0.13, 'power_cut': 1.5, 'poultry_agri': 0.31, 'politics': 0.11, 'civic': -0.36, 'crime': 1.5, 'weather': 0.19}; best openings ['🧣 கரூரில் குளிர் தொடக்கம்: ஸ்வெட்டர், குல்லா விற்பனை ஜோர்', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-16:30:05 34 links on the two papers' Karur pages
-16:30:31 skipped: already posted=23, published before this window=5, not Karur district=2, state-wide / other district=2, shop offer / advertisement=1
-16:30:31 list: 0 new + 1 earlier news not posted yet
-16:30:31    1. [சாலை] இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர் (தினமலர்) (earlier)
-16:30:31 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-23_16
-16:30:33    not picked automatically (ceremony / award / awareness event (low views)): இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர்
-16:30:33 round 2026-11-23_16 (at least 6, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:30:33 decided: automatic: top 6 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-16:30:39 verify 2026-11-23_16: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+20:26:02 round 2026-11-23_20: news published 23 Nov 16:29 -> 23 Nov 20:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+20:26:02 insights 2026-11-23T20:26+05:30 (177 reels): topic weights {'temple': 1.13, 'accident': 0.43, 'education': -0.13, 'power_cut': 1.5, 'poultry_agri': 0.31, 'politics': 0.12, 'civic': -0.29, 'crime': 1.5, 'weather': 0.19}; best openings ['🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+20:27:24 57 links on the two papers' Karur pages
+20:28:39 skipped: already posted=23, not Karur district=22, published before this window=5, state-wide / other district=3, shop offer / advertisement=1, no title=1
+20:28:39 list: 1 new + 1 earlier news not posted yet
+20:28:39    1. [விபத்து] கரூரில் பைக்கில் சென்ற பள்ளி மாணவர்கள் மீது கார் மோதியதில் 2 பேர் பலி (தினகரன்)
+20:28:39    2. [சாலை] இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர் (தினமலர்) (earlier)
+20:28:39 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-23_20
