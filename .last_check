@@ -1,48 +1,48 @@
-05:36:05 SKIP RN-12 stale: published 13 Nov, older than yesterday
-05:36:05 SKIP RN-28 stale: published 14 Nov, older than yesterday
-05:36:05 SKIP RN-34 stale: published 14 Nov, older than yesterday
-05:36:05 SKIP RN-39 stale: published 14 Nov, older than yesterday
-05:36:05 SKIP RN-43 stale: published 15 Nov, older than yesterday
-05:36:05 SKIP RN-49 stale: published 15 Nov, older than yesterday
-05:36:05 SKIP RN-70 stale: published 16 Nov, older than yesterday
-05:36:05 SKIP RN-71 stale: published 16 Nov, older than yesterday
-05:36:05 SKIP RN-80 stale: published 17 Nov, older than yesterday
-05:36:05 SKIP RN-81 stale: published 17 Nov, older than yesterday
-05:36:05 SKIP RN-85 stale: published 17 Nov, older than yesterday
-05:36:05 SKIP RN-87 stale: published 17 Nov, older than yesterday
-05:36:05 SKIP RN-97 stale: published 18 Nov, older than yesterday
-05:36:05 SKIP RN-119 stale: published 19 Nov, older than yesterday
-05:36:05 SKIP RN-122 stale: published 19 Nov, older than yesterday
-05:36:05 SKIP RN-128 stale: published 19 Nov, older than yesterday
-05:36:05 SKIP RN-133 stale: published 20 Nov, older than yesterday
-05:36:05 SKIP RN-136 stale: published 20 Nov, older than yesterday
-05:36:05 SKIP RN-143 stale: published 20 Nov, older than yesterday
-05:36:05 SKIP RN-145 stale: published 20 Nov, older than yesterday
-05:36:05 SKIP RN-147 stale: published 20 Nov, older than yesterday
-05:36:06 SKIP RN-151 held: fact-check problems - not grounded: location 'உழவர்' is not in the article; not grounded: location 'சந்தை' is not in the article
-05:36:08 story catch-up karur: quota 23/50, 40 recent posts, 2 live stories, owner ids ['17841444626877594', '29966472656372622']
-05:36:08 Facebook catch-up karur: RN-178 still waits (Facebook top-news limit 15 a day reached)
-05:36:08 22 stories in the queue, ready to post: 0
-05:36:08   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-05:36:08    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 225.3 ready= False set_started= True
-05:36:08    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 204.1 ready= False set_started= True
-05:36:08    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 200.0 ready= False set_started= True
-05:36:08    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 192.0 ready= False set_started= True
-05:36:08    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 187.6 ready= False set_started= True
-05:36:08    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 180.0 ready= False set_started= True
-05:36:08    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 155.0 ready= False set_started= True
-05:36:08    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 155.0 ready= False set_started= True
-05:36:08    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 141.4 ready= False set_started= True
-05:36:08    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 141.4 ready= False set_started= True
-05:36:08    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 138.8 ready= False set_started= True
-05:36:08    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 138.8 ready= False set_started= True
-05:36:08    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 118.3 ready= False set_started= True
-05:36:08    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 94.7 ready= False set_started= True
-05:36:08    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 92.8 ready= False set_started= True
-05:36:08    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 87.2 ready= False set_started= True
-05:36:08    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 73.0 ready= False set_started= True
-05:36:08    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 73.0 ready= False set_started= True
-05:36:08    RN-143 review= 'Auto' images= 195 spec= 899 pages= ['karur'] links= '' '' age_h= 68.3 ready= False set_started= True
-05:36:08    RN-145 review= 'Auto' images= 195 spec= 891 pages= ['karur'] links= '' '' age_h= 68.3 ready= False set_started= True
-05:36:08    RN-147 review= 'Auto' images= 195 spec= 793 pages= ['karur'] links= '' '' age_h= 60.8 ready= False set_started= True
-05:36:08    RN-151 review= 'Auto' images= 195 spec= 705 pages= ['karur'] links= '' '' age_h= 44.7 ready= False set_started= True
+05:43:57 SKIP RN-12 stale: published 13 Nov, older than yesterday
+05:43:57 SKIP RN-28 stale: published 14 Nov, older than yesterday
+05:43:57 SKIP RN-34 stale: published 14 Nov, older than yesterday
+05:43:57 SKIP RN-39 stale: published 14 Nov, older than yesterday
+05:43:57 SKIP RN-43 stale: published 15 Nov, older than yesterday
+05:43:57 SKIP RN-49 stale: published 15 Nov, older than yesterday
+05:43:57 SKIP RN-70 stale: published 16 Nov, older than yesterday
+05:43:57 SKIP RN-71 stale: published 16 Nov, older than yesterday
+05:43:57 SKIP RN-80 stale: published 17 Nov, older than yesterday
+05:43:57 SKIP RN-81 stale: published 17 Nov, older than yesterday
+05:43:57 SKIP RN-85 stale: published 17 Nov, older than yesterday
+05:43:57 SKIP RN-87 stale: published 17 Nov, older than yesterday
+05:43:57 SKIP RN-97 stale: published 18 Nov, older than yesterday
+05:43:57 SKIP RN-119 stale: published 19 Nov, older than yesterday
+05:43:57 SKIP RN-122 stale: published 19 Nov, older than yesterday
+05:43:57 SKIP RN-128 stale: published 19 Nov, older than yesterday
+05:43:57 SKIP RN-133 stale: published 20 Nov, older than yesterday
+05:43:57 SKIP RN-136 stale: published 20 Nov, older than yesterday
+05:43:57 SKIP RN-143 stale: published 20 Nov, older than yesterday
+05:43:57 SKIP RN-145 stale: published 20 Nov, older than yesterday
+05:43:57 SKIP RN-147 stale: published 20 Nov, older than yesterday
+05:43:57 SKIP RN-151 held: fact-check problems - not grounded: location 'உழவர்' is not in the article; not grounded: location 'சந்தை' is not in the article
+05:44:00 story catch-up karur: quota 22/50, 40 recent posts, 2 live stories, owner ids ['17841444626877594', '29966472656372622']
+05:44:00 Facebook catch-up karur: RN-178 still waits (Facebook top-news limit 15 a day reached)
+05:44:00 22 stories in the queue, ready to post: 0
+05:44:00   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+05:44:00    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 225.4 ready= False set_started= True
+05:44:00    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 204.2 ready= False set_started= True
+05:44:00    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 200.2 ready= False set_started= True
+05:44:00    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 192.1 ready= False set_started= True
+05:44:00    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 187.7 ready= False set_started= True
+05:44:00    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 180.1 ready= False set_started= True
+05:44:00    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 155.2 ready= False set_started= True
+05:44:00    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 155.2 ready= False set_started= True
+05:44:00    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 141.5 ready= False set_started= True
+05:44:00    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 141.5 ready= False set_started= True
+05:44:00    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 139.0 ready= False set_started= True
+05:44:00    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 139.0 ready= False set_started= True
+05:44:00    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 118.4 ready= False set_started= True
+05:44:00    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 94.9 ready= False set_started= True
+05:44:00    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 93.0 ready= False set_started= True
+05:44:00    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 87.4 ready= False set_started= True
+05:44:00    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 73.2 ready= False set_started= True
+05:44:00    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 73.2 ready= False set_started= True
+05:44:00    RN-143 review= 'Auto' images= 195 spec= 899 pages= ['karur'] links= '' '' age_h= 68.4 ready= False set_started= True
+05:44:00    RN-145 review= 'Auto' images= 195 spec= 891 pages= ['karur'] links= '' '' age_h= 68.4 ready= False set_started= True
+05:44:00    RN-147 review= 'Auto' images= 195 spec= 793 pages= ['karur'] links= '' '' age_h= 60.9 ready= False set_started= True
+05:44:00    RN-151 review= 'Auto' images= 195 spec= 705 pages= ['karur'] links= '' '' age_h= 44.8 ready= False set_started= True
