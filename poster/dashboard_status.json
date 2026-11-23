@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T04:24:24+00:00",
+ "updated": "2026-11-23T04:38:21+00:00",
  "day": "2026-11-23",
- "ready": 7,
+ "ready": 6,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -55,6 +55,13 @@
       "link": "https://www.instagram.com/reel/DgEgH-PJbqG/",
       "at": "2026-11-23T04:17:29+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-185",
+      "head": "ராஜபுரம் பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கப்படுமா",
+      "link": "https://www.instagram.com/reel/DgEhtuXjV3O/",
+      "at": "2026-11-23T04:31:22+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -62,19 +69,19 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 3,
+    "waiting": 4,
     "share": [
+     {
+      "id": "RN-179",
+      "head": "🗳️ கரூர் மாவட்டத்தில் 2 நாள் வாக்காளர் திருத்த முகாம்: 3,347 மனுக்கள் பெறப்பட்டன",
+      "link": "https://www.instagram.com/reel/DgEABA2Ehnr/",
+      "emailed": "2026-11-22T23:44:14+00:00"
+     },
      {
       "id": "RN-178",
       "head": "🏫 கரூரில் அரசுப் பள்ளிகளைப் பாதுகாக்க விழிப்புணர்வுக் கையொப்ப இயக்கம்",
       "link": "https://www.instagram.com/reel/DgEBoCWpcm8/",
       "emailed": "2026-11-23T00:45:22+00:00"
-     },
-     {
-      "id": "RN-174",
-      "head": "⚠️ தோரணக்கல்பட்டி பள்ளி சாலை சேதம்: மாணவர்கள் கீழே விழுந்து காயமடையும் அபாயம்",
-      "link": "https://www.instagram.com/reel/DgDIH-Ajesi/",
-      "emailed": "2026-11-22T15:35:24+00:00"
      },
      {
       "id": "RN-175",
@@ -83,22 +90,22 @@
       "emailed": "2026-11-22T15:35:24+00:00"
      },
      {
-      "id": "RN-177",
-      "head": "⚠️ திருப்பாதிரிப்புலியூர் அருகே பள்ளி எதிரே ஆபத்தான மின்மாற்றி",
-      "link": "https://www.instagram.com/reel/DgDaqLCHbEb/",
-      "emailed": "2026-11-22T18:17:28+00:00"
-     },
-     {
       "id": "RN-176",
       "head": "🚨 புகளூர் தவிட்டுப்பாளையம் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தம்: விபத்து ஏற்படும் அபாயம்",
       "link": "https://www.instagram.com/reel/DgDJ_Q2jqN6/",
       "emailed": "2026-11-22T16:38:45+00:00"
      },
      {
-      "id": "RN-179",
-      "head": "🗳️ கரூர் மாவட்டத்தில் 2 நாள் வாக்காளர் திருத்த முகாம்: 3,347 மனுக்கள் பெறப்பட்டன",
-      "link": "https://www.instagram.com/reel/DgEABA2Ehnr/",
-      "emailed": "2026-11-22T23:44:14+00:00"
+      "id": "RN-177",
+      "head": "⚠️ திருப்பாதிரிப்புலியூர் அருகே பள்ளி எதிரே ஆபத்தான மின்மாற்றி",
+      "link": "https://www.instagram.com/reel/DgDaqLCHbEb/",
+      "emailed": "2026-11-22T18:17:28+00:00"
+     },
+     {
+      "id": "RN-174",
+      "head": "⚠️ தோரணக்கல்பட்டி பள்ளி சாலை சேதம்: மாணவர்கள் கீழே விழுந்து காயமடையும் அபாயம்",
+      "link": "https://www.instagram.com/reel/DgDIH-Ajesi/",
+      "emailed": "2026-11-22T15:35:24+00:00"
      }
     ],
     "paused": ""
