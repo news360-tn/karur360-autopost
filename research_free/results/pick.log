@@ -1,14 +1,9 @@
-03:37:53 round 2026-11-24_03: news published 24 Nov 00:05 -> 24 Nov 03:37 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி - Karur)
-03:37:53 insights 2026-11-24T03:37+05:30 (178 reels): topic weights {'temple': 1.05, 'accident': 0.62, 'education': -0.19, 'power_cut': 1.5, 'poultry_agri': 0.24, 'politics': 0.06, 'civic': -0.31, 'crime': 1.5, 'weather': 0.13}; best openings ['🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-03:38:19 open search 'கரூர்' (from_google): 2 links from our outlets
-03:38:19 39 links on the two papers' Karur pages
-03:39:00 skipped: already posted=20, not Karur district=9, published before this window=5, state-wide / other district=2, shop offer / advertisement=1, same event already posted=1
-03:39:00 list: 0 new + 1 earlier news not posted yet
-03:39:00    1. [சாலை] இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர் (தினமலர்) (earlier)
-03:39:00 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-24_03
-03:39:02    not picked automatically (ceremony / award / awareness event (low views)): இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர்
-03:39:02 round 2026-11-24_03 (at least 3, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-03:39:02 decided: automatic: top 3 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-03:39:08 verify 2026-11-24_03: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+04:28:43 round 2026-11-24_04: news published 24 Nov 03:37 -> 24 Nov 04:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி - Karur)
+04:28:43 insights 2026-11-24T04:28+05:30 (178 reels): topic weights {'temple': 1.05, 'accident': 0.62, 'education': -0.19, 'power_cut': 1.5, 'poultry_agri': 0.24, 'politics': 0.06, 'civic': -0.32, 'crime': 1.5, 'weather': 0.13}; best openings ['🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+04:29:02 open search 'கரூர்' (from_google): 0 links from our outlets
+04:29:02 38 links on the two papers' Karur pages
+04:30:05 skipped: already posted=20, not Karur district=8, published before this window=5, state-wide / other district=2, shop offer / advertisement=1, same event already posted=1
+04:30:05 list: 0 new + 1 earlier news not posted yet
+04:30:05    1. [சாலை] இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர் (தினமலர்) (earlier)
+04:30:05 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-24_04
