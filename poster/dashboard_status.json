@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T04:12:29+00:00",
+ "updated": "2026-11-23T04:24:24+00:00",
  "day": "2026-11-23",
- "ready": 8,
+ "ready": 7,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -48,6 +48,13 @@
       "link": "https://www.instagram.com/reel/DgEevhxmcl7/",
       "at": "2026-11-23T04:05:36+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-186",
+      "head": "கிருஷ்ணராயபுரம்: ரஸ்தாளி வாழைத்தார் ரூ.350க்கு விற்பனை",
+      "link": "https://www.instagram.com/reel/DgEgH-PJbqG/",
+      "at": "2026-11-23T04:17:29+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -55,7 +62,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 2,
+    "waiting": 3,
     "share": [
      {
       "id": "RN-178",
@@ -99,8 +106,8 @@
    "manual_post": [],
    "daily": {
     "gold": {
-     "posted": false,
-     "link": ""
+     "posted": true,
+     "link": "https://www.instagram.com/reel/DgEfrljmdmN/"
     },
     "rasipalan": {
      "posted": true,
