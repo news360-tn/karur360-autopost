@@ -37,7 +37,8 @@
    "category": "விபத்து",
    "score": 10.43,
    "power_cut": false,
-   "listed_at": "2026-11-23T20:26:02.196765+05:30"
+   "listed_at": "2026-11-23T20:26:02.196765+05:30",
+   "picked_at": "2026-11-23T20:28:41.943348+05:30"
   }
  },
  "rounds": {
@@ -552,8 +553,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-23T21:26:02.196765+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 1 by insights",
+    "ids": [
+     "C72d800f"
+    ],
+    "at": "2026-11-23T20:28:41.943338+05:30"
+   },
+   "written": [
+    "C72d800f"
+   ]
   }
  },
  "retry": {}
