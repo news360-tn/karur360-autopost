@@ -1,13 +1,8 @@
-16:27:21 round 2026-11-23_16: news published 23 Nov 12:28 -> 23 Nov 16:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
-16:27:21 insights 2026-11-23T16:27+05:30 (177 reels): topic weights {'temple': 0.94, 'accident': 0.43, 'education': -0.13, 'power_cut': 1.5, 'poultry_agri': 0.31, 'politics': 0.11, 'civic': -0.36, 'crime': 1.5, 'weather': 0.19}; best openings ['🧣 கரூரில் குளிர் தொடக்கம்: ஸ்வெட்டர், குல்லா விற்பனை ஜோர்', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-16:28:12 48 links on the two papers' Karur pages
-16:29:06 skipped: already posted=23, not Karur district=14, published before this window=5, state-wide / other district=3, shop offer / advertisement=1, no title=1
-16:29:06 list: 0 new + 1 earlier news not posted yet
-16:29:06    1. [சாலை] இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர் (தினமலர்) (earlier)
-16:29:06 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+16:29:56 round 2026-11-23_16: news published 23 Nov 16:27 -> 23 Nov 16:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Karur)
+16:29:56 insights 2026-11-23T16:29+05:30 (177 reels): topic weights {'temple': 0.94, 'accident': 0.43, 'education': -0.13, 'power_cut': 1.5, 'poultry_agri': 0.31, 'politics': 0.11, 'civic': -0.36, 'crime': 1.5, 'weather': 0.19}; best openings ['🧣 கரூரில் குளிர் தொடக்கம்: ஸ்வெட்டர், குல்லா விற்பனை ஜோர்', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+16:30:05 34 links on the two papers' Karur pages
+16:30:31 skipped: already posted=23, published before this window=5, not Karur district=2, state-wide / other district=2, shop offer / advertisement=1
+16:30:31 list: 0 new + 1 earlier news not posted yet
+16:30:31    1. [சாலை] இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர் (தினமலர்) (earlier)
+16:30:31 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-23_16
-16:29:08    not picked automatically (ceremony / award / awareness event (low views)): இடைத்தேர்தல் ஜாக்பாட் ரூ.7.46 கோடியில் அணுகுசாலை அமைக்க டெண்டர்
-16:29:08 round 2026-11-23_16 (at least 6, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:29:08 decided: automatic: top 6 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-16:29:15 verify 2026-11-23_16: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
