@@ -83,6 +83,23 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-23 | `4a9bfac` | YouTube: daily cap 30 (uploads have their own 100-a-day allowance) |
+| 2026-11-23 | `72ad9cf` | goldrate posted |
+| 2026-11-23 | `2f0c0c7` | stories shared / Instagram pause |
+| 2026-11-23 | `77a425c` | stories shared / Instagram pause |
+| 2026-11-23 | `bd6f465` | pick: written and posted |
+| 2026-11-23 | `fd928c7` | pick: picked news saved |
+| 2026-11-23 | `7360329` | pick: list sent |
+| 2026-11-23 | `b434c99` | pick: written and posted |
+| 2026-11-23 | `e786407` | pick: picked news saved |
+| 2026-11-23 | `886ad35` | pick: list sent |
+| 2026-11-23 | `96ed36e` | stories shared / Instagram pause |
+| 2026-11-23 | `9028816` | stories shared / Instagram pause |
+| 2026-11-23 | `1d45fb1` | stories shared / Instagram pause |
+| 2026-11-23 | `c1512cf` | facebook RN-191 |
+| 2026-11-23 | `736b6a5` | posted RN-191 |
+| 2026-11-23 | `20022d1` | stories shared / Instagram pause |
+| 2026-11-23 | `a34690f` | stories shared / Instagram pause |
 | 2026-11-23 | `2b27ae7` | Yesterday's pending news (held only by the daily maximum) is offered again; common place words (நகரம், ரோடு, நிலையம் ...) no longer hold a news; Indian number grouping (29,86,950) is understood |
 | 2026-11-23 | `47a33d6` | stories shared / Instagram pause |
 | 2026-11-23 | `a78fae1` | stories shared / Instagram pause |
@@ -96,21 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `f8f6247` | stories shared / Instagram pause |
 | 2026-11-23 | `d1c4393` | stories shared / Instagram pause |
 | 2026-11-23 | `4c506fa` | stories shared / Instagram pause |
-| 2026-11-23 | `910dda8` | stories shared / Instagram pause |
-| 2026-11-23 | `66e7423` | stories shared / Instagram pause |
-| 2026-11-23 | `4d9a00d` | stories shared / Instagram pause |
-| 2026-11-23 | `6a67671` | powercut: notices written |
-| 2026-11-23 | `44a44ba` | stories shared / Instagram pause |
-| 2026-11-23 | `ba74eef` | stories shared / Instagram pause |
-| 2026-11-23 | `37fa24e` | stories shared / Instagram pause |
-| 2026-11-23 | `95fa197` | stories shared / Instagram pause |
-| 2026-11-23 | `fb859ad` | powercut: notices written |
-| 2026-11-23 | `7144da3` | stories shared / Instagram pause |
-| 2026-11-23 | `042c4e1` | stories shared / Instagram pause |
-| 2026-11-23 | `4004526` | stories shared / Instagram pause |
-| 2026-11-23 | `6801246` | stories shared / Instagram pause |
-| 2026-11-23 | `905d2d2` | Facebook 15 a day counts today's news only (not the last 24 h, not rasipalan / gold); picking rejects state-wide news; Thiruparankundram is outside |
-| 2026-11-23 | `ac10908` | stories shared / Instagram pause |
-| 2026-11-23 | `a22fe6f` | pick: written and posted |
-| 2026-11-23 | `59bfc2c` | pick: picked news saved |
 <!-- recent-changes:end -->
