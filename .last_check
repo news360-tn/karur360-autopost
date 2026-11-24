@@ -1,55 +1,53 @@
-07:06:49 bridge get 'recent' failed (try 1): HTTP 500
-07:09:09 bridge get 'recent' failed (try 2): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-07:09:51 SKIP RN-12 stale: published 13 Nov, older than yesterday
-07:09:51 SKIP RN-28 stale: published 14 Nov, older than yesterday
-07:09:51 SKIP RN-34 stale: published 14 Nov, older than yesterday
-07:09:51 SKIP RN-39 stale: published 14 Nov, older than yesterday
-07:09:52 SKIP RN-43 stale: published 15 Nov, older than yesterday
-07:09:52 SKIP RN-49 stale: published 15 Nov, older than yesterday
-07:09:52 SKIP RN-70 stale: published 16 Nov, older than yesterday
-07:09:52 SKIP RN-71 stale: published 16 Nov, older than yesterday
-07:09:52 SKIP RN-80 stale: published 17 Nov, older than yesterday
-07:09:52 SKIP RN-81 stale: published 17 Nov, older than yesterday
-07:09:52 SKIP RN-85 stale: published 17 Nov, older than yesterday
-07:09:52 SKIP RN-87 stale: published 17 Nov, older than yesterday
-07:09:52 SKIP RN-97 stale: published 18 Nov, older than yesterday
-07:09:52 SKIP RN-119 stale: published 19 Nov, older than yesterday
-07:09:52 SKIP RN-122 stale: published 19 Nov, older than yesterday
-07:09:52 SKIP RN-128 stale: published 19 Nov, older than yesterday
-07:09:52 SKIP RN-133 stale: published 20 Nov, older than yesterday
-07:09:52 SKIP RN-136 stale: published 20 Nov, older than yesterday
-07:09:52 SKIP RN-143 stale: published 20 Nov, older than yesterday
-07:09:52 SKIP RN-145 stale: published 20 Nov, older than yesterday
-07:09:52 SKIP RN-147 stale: published 20 Nov, older than yesterday
-07:09:52 SKIP RN-151 stale: published 21 Nov, older than yesterday
-07:09:53 SKIP RN-184 held: fact-check problems - numbers not found in the article: 7
+07:17:38 SKIP RN-12 stale: published 13 Nov, older than yesterday
+07:17:38 SKIP RN-28 stale: published 14 Nov, older than yesterday
+07:17:38 SKIP RN-34 stale: published 14 Nov, older than yesterday
+07:17:38 SKIP RN-39 stale: published 14 Nov, older than yesterday
+07:17:38 SKIP RN-43 stale: published 15 Nov, older than yesterday
+07:17:38 SKIP RN-49 stale: published 15 Nov, older than yesterday
+07:17:38 SKIP RN-70 stale: published 16 Nov, older than yesterday
+07:17:38 SKIP RN-71 stale: published 16 Nov, older than yesterday
+07:17:38 SKIP RN-80 stale: published 17 Nov, older than yesterday
+07:17:38 SKIP RN-81 stale: published 17 Nov, older than yesterday
+07:17:38 SKIP RN-85 stale: published 17 Nov, older than yesterday
+07:17:38 SKIP RN-87 stale: published 17 Nov, older than yesterday
+07:17:38 SKIP RN-97 stale: published 18 Nov, older than yesterday
+07:17:38 SKIP RN-119 stale: published 19 Nov, older than yesterday
+07:17:38 SKIP RN-122 stale: published 19 Nov, older than yesterday
+07:17:38 SKIP RN-128 stale: published 19 Nov, older than yesterday
+07:17:38 SKIP RN-133 stale: published 20 Nov, older than yesterday
+07:17:38 SKIP RN-136 stale: published 20 Nov, older than yesterday
+07:17:38 SKIP RN-143 stale: published 20 Nov, older than yesterday
+07:17:38 SKIP RN-145 stale: published 20 Nov, older than yesterday
+07:17:38 SKIP RN-147 stale: published 20 Nov, older than yesterday
+07:17:38 SKIP RN-151 stale: published 21 Nov, older than yesterday
+07:17:40 SKIP RN-184 held: fact-check problems - numbers not found in the article: 7
 ::warning title=Held from posting RN-184::held: fact-check problems - numbers not found in the article: 7
-07:09:53 SKIP RN-192 held: fact-check problems - fact-check: Caption states the date as 'நேற்று (நவம்பர் 22)' (yesterday, November 22), but the article gives no date for the event; the date is an invented detail.; fact-check: Reel script says the Ay
+07:17:40 SKIP RN-192 held: fact-check problems - fact-check: Caption states the date as 'நேற்று (நவம்பர் 22)' (yesterday, November 22), but the article gives no date for the event; the date is an invented detail.; fact-check: Reel script says the Ay
 ::warning title=Held from posting RN-192::held: fact-check problems - fact-check: Caption states the date as 'நேற்று (நவம்பர் 22)' (yesterday, November 22), but the article gives no date for the event; the date is an invented detail.; fact-check: Reel script says the Ay
-07:09:53 story catch-up off (test run or post_stories false)
-07:09:53 24 stories in the queue, ready to post: 0
-07:09:53   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-07:09:53    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 250.8 ready= False set_started= True
-07:09:53    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 229.6 ready= False set_started= True
-07:09:53    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 225.6 ready= False set_started= True
-07:09:53    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 217.5 ready= False set_started= True
-07:09:53    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 213.1 ready= False set_started= True
-07:09:53    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 205.5 ready= False set_started= True
-07:09:53    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 180.6 ready= False set_started= True
-07:09:53    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 180.6 ready= False set_started= True
-07:09:53    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 166.9 ready= False set_started= True
-07:09:53    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 166.9 ready= False set_started= True
-07:09:53    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 164.4 ready= False set_started= True
-07:09:53    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 164.4 ready= False set_started= True
-07:09:53    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 143.8 ready= False set_started= True
-07:09:53    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 120.3 ready= False set_started= True
-07:09:53    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 118.4 ready= False set_started= True
-07:09:53    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 112.8 ready= False set_started= True
-07:09:53    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 98.6 ready= False set_started= True
-07:09:53    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 98.6 ready= False set_started= True
-07:09:53    RN-143 review= 'Auto' images= 195 spec= 899 pages= ['karur'] links= '' '' age_h= 93.8 ready= False set_started= True
-07:09:53    RN-145 review= 'Auto' images= 195 spec= 891 pages= ['karur'] links= '' '' age_h= 93.8 ready= False set_started= True
-07:09:53    RN-147 review= 'Auto' images= 195 spec= 793 pages= ['karur'] links= '' '' age_h= 86.4 ready= False set_started= True
-07:09:53    RN-151 review= 'Auto' images= 195 spec= 705 pages= ['karur'] links= '' '' age_h= 70.3 ready= False set_started= True
-07:09:53    RN-184 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 22.6 ready= False set_started= True
-07:09:53    RN-192 review= 'Auto' images= 195 spec= 752 pages= ['karur'] links= '' '' age_h= 22.6 ready= False set_started= True
+07:17:40 story catch-up off (test run or post_stories false)
+07:17:40 24 stories in the queue, ready to post: 0
+07:17:40   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+07:17:40    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 251.0 ready= False set_started= True
+07:17:40    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 229.7 ready= False set_started= True
+07:17:40    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 225.7 ready= False set_started= True
+07:17:40    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 217.6 ready= False set_started= True
+07:17:40    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 213.2 ready= False set_started= True
+07:17:40    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 205.7 ready= False set_started= True
+07:17:40    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 180.7 ready= False set_started= True
+07:17:40    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 180.7 ready= False set_started= True
+07:17:40    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 167.1 ready= False set_started= True
+07:17:40    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 167.0 ready= False set_started= True
+07:17:40    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 164.5 ready= False set_started= True
+07:17:40    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 164.5 ready= False set_started= True
+07:17:40    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 144.0 ready= False set_started= True
+07:17:40    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 120.4 ready= False set_started= True
+07:17:40    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 118.5 ready= False set_started= True
+07:17:40    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 112.9 ready= False set_started= True
+07:17:40    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 98.7 ready= False set_started= True
+07:17:40    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 98.7 ready= False set_started= True
+07:17:40    RN-143 review= 'Auto' images= 195 spec= 899 pages= ['karur'] links= '' '' age_h= 94.0 ready= False set_started= True
+07:17:40    RN-145 review= 'Auto' images= 195 spec= 891 pages= ['karur'] links= '' '' age_h= 94.0 ready= False set_started= True
+07:17:40    RN-147 review= 'Auto' images= 195 spec= 793 pages= ['karur'] links= '' '' age_h= 86.5 ready= False set_started= True
+07:17:40    RN-151 review= 'Auto' images= 195 spec= 705 pages= ['karur'] links= '' '' age_h= 70.4 ready= False set_started= True
+07:17:40    RN-184 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 22.7 ready= False set_started= True
+07:17:40    RN-192 review= 'Auto' images= 195 spec= 752 pages= ['karur'] links= '' '' age_h= 22.7 ready= False set_started= True
