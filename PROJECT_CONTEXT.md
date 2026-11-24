@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `0b039fc` | Collection: a news listed late (Dinamalar dates it at print time) is offered once if it is from the last 24 h - it was always 'published before this window' and never posted |
+| 2026-11-24 | `c8c8bc1` | stories shared / Instagram pause |
 | 2026-11-24 | `ddc5a89` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
 | 2026-11-24 | `718e4c9` | stories shared / Instagram pause |
 | 2026-11-24 | `ef89f89` | stories shared / Instagram pause |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `1c21e77` | pick: list sent |
 | 2026-11-24 | `3c4c2c3` | stories shared / Instagram pause |
 | 2026-11-24 | `ccaab60` | Auto-fix: busy AI writers do not use up a news's tries; each page runs at its own minutes; try counts reset |
-| 2026-11-24 | `485f03d` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
-| 2026-11-24 | `d566063` | autofix: corrected held news |
 <!-- recent-changes:end -->
