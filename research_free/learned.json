@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-24T10:01+05:30",
- "posts_measured": 189,
+ "updated": "2026-11-24T10:28+05:30",
+ "posts_measured": 191,
  "topic_weight": {
-  "temple": 0.9,
-  "accident": 0.53,
-  "education": -0.25,
+  "temple": 0.93,
+  "accident": 0.56,
+  "education": -0.23,
   "jobs": 1.5,
   "power_cut": 1.5,
-  "poultry_agri": 0.17,
-  "politics": -0.01,
-  "civic": -0.31,
+  "poultry_agri": 0.2,
+  "politics": 0.01,
+  "civic": -0.29,
   "crime": 1.5,
-  "weather": 0.04
+  "weather": 0.06
  },
  "topic_n": {
   "temple": 23,
@@ -19,7 +19,7 @@
   "education": 23,
   "jobs": 3,
   "power_cut": 5,
-  "poultry_agri": 17,
+  "poultry_agri": 19,
   "politics": 14,
   "civic": 29,
   "crime": 17,
@@ -38,7 +38,7 @@
   "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப",
   "🚨 லாலாபேட்டை அருகே சோகம்: கார் மோதி 2 பள்ளி மாணவர்கள் உயிரிழப்பு"
  ],
- "avg_watch_s": 7.1,
+ "avg_watch_s": 7.2,
  "best_topics": [
   "jobs",
   "power_cut",
