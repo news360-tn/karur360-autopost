@@ -83,6 +83,13 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `5834501` | E-mail for every posted news again (posted_email each) |
+| 2026-11-24 | `ac0879b` | stories shared / Instagram pause |
+| 2026-11-24 | `a956133` | facebook RN-196 |
+| 2026-11-24 | `faff332` | posted RN-196 |
+| 2026-11-24 | `f7ab727` | facebook RN-197 |
+| 2026-11-24 | `4cf3d53` | posted RN-197 |
+| 2026-11-24 | `d7553a0` | stories shared / Instagram pause |
 | 2026-11-24 | `2b7fcce` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
 | 2026-11-24 | `58a233f` | facebook RN-201 |
 | 2026-11-24 | `5c62c30` | posted RN-201 |
@@ -106,11 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `b3e4e2a` | stories shared / Instagram pause |
 | 2026-11-24 | `7893a83` | stories shared / Instagram pause |
 | 2026-11-24 | `6b7b446` | stories shared / Instagram pause |
-| 2026-11-24 | `1d4f605` | stories shared / Instagram pause |
-| 2026-11-24 | `855cc7a` | stories shared / Instagram pause |
-| 2026-11-24 | `df074a5` | stories shared / Instagram pause |
-| 2026-11-24 | `d070109` | stories shared / Instagram pause |
-| 2026-11-24 | `64862fc` | stories shared / Instagram pause |
-| 2026-11-24 | `b14fd93` | stories shared / Instagram pause |
-| 2026-11-23 | `45c7283` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
