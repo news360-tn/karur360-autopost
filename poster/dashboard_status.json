@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T02:26:46+00:00",
+ "updated": "2026-11-24T02:34:08+00:00",
  "day": "2026-11-24",
- "ready": 9,
+ "ready": 8,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -19,6 +19,13 @@
       "head": "குளித்தலை தாலுகா அலுவலகத்தில் ஆர்ப்பாட்டம்: பணிகள் பாதிப்பு, மக்கள் அவதி",
       "link": "https://www.instagram.com/reel/DgG3lh9E709/",
       "at": "2026-11-24T02:21:16+00:00",
+      "kind": "reel"
+     },
+     {
+      "id": "RN-198",
+      "head": "கரூரில் மின் ஊழியர்கள் ஆர்ப்பாட்டம்: கேங்மேன்களை கள உதவியாளராக பதவி மாற்றம் செய்ய கோரிக்கை",
+      "link": "https://www.instagram.com/reel/DgG4k3xFcg_/",
+      "at": "2026-11-24T02:30:02+00:00",
       "kind": "reel"
      }
     ],
@@ -69,8 +76,8 @@
      "link": ""
     },
     "rasipalan": {
-     "posted": false,
-     "link": ""
+     "posted": true,
+     "link": "https://www.instagram.com/reel/DgG4qWsAbgm/"
     }
    },
    "youtube": {
