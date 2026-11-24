@@ -490,7 +490,11 @@
    ],
    "sent": false,
    "deadline": "2026-11-24T17:36:51.261242+05:30",
-   "decided": null,
+   "decided": {
+    "how": "automatic: top 6 of 0 by insights",
+    "ids": [],
+    "at": "2026-11-24T16:38:36.028231+05:30"
+   },
    "written": []
   }
  },
