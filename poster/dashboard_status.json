@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:18:39+00:00",
+ "updated": "2026-11-24T04:23:27+00:00",
  "day": "2026-11-24",
  "ready": 3,
  "pages": {
@@ -86,9 +86,9 @@
     "waiting": 0,
     "share": [
      {
-      "id": "RN-188",
-      "head": "🚰 சோமூரில் தண்ணீர் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் சிரமம்",
-      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
+      "id": "RN-189",
+      "head": "🐟 மாயனூர் கதவணையில் நேற்று 300 கிலோ மீன் விற்பனை",
+      "link": "https://www.instagram.com/reel/DgEjW9kFB_d/",
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
@@ -98,15 +98,15 @@
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
-      "id": "RN-185",
-      "head": "🚌 ராஜபுரம் பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கக் கோரிக்கை",
-      "link": "https://www.instagram.com/reel/DgEhtuXjV3O/",
+      "id": "RN-188",
+      "head": "🚰 சோமூரில் தண்ணீர் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் சிரமம்",
+      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
-      "id": "RN-189",
-      "head": "🐟 மாயனூர் கதவணையில் நேற்று 300 கிலோ மீன் விற்பனை",
-      "link": "https://www.instagram.com/reel/DgEjW9kFB_d/",
+      "id": "RN-185",
+      "head": "🚌 ராஜபுரம் பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கக் கோரிக்கை",
+      "link": "https://www.instagram.com/reel/DgEhtuXjV3O/",
       "emailed": "2026-11-23T10:03:03+00:00"
      }
     ],
@@ -115,8 +115,8 @@
    "manual_post": [],
    "daily": {
     "gold": {
-     "posted": false,
-     "link": ""
+     "posted": true,
+     "link": "https://www.instagram.com/reel/DgHFMe3ketx/"
     },
     "rasipalan": {
      "posted": true,
