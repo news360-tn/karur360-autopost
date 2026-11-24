@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `cf26106` | A self-immolation / suicide ATTEMPT where nobody died (a protest) is news and posts automatically - a death still needs the owner's tick; Samayam Tamil is a trusted outlet |
+| 2026-11-24 | `cbb5fac` | pick: written and posted |
+| 2026-11-24 | `1e48e49` | pick: picked news saved |
+| 2026-11-24 | `56b0c3f` | pick: list sent |
+| 2026-11-24 | `1a34286` | stories shared / Instagram pause |
+| 2026-11-24 | `4bd95c0` | stories shared / Instagram pause |
+| 2026-11-24 | `7e38cb0` | stories shared / Instagram pause |
+| 2026-11-24 | `5881390` | stories shared / Instagram pause |
+| 2026-11-24 | `637cfbc` | stories shared / Instagram pause |
+| 2026-11-24 | `fd88d7d` | powercut: notices written |
+| 2026-11-24 | `63542db` | stories shared / Instagram pause |
+| 2026-11-24 | `48d7f32` | stories shared / Instagram pause |
+| 2026-11-24 | `2654e3e` | stories shared / Instagram pause |
+| 2026-11-24 | `6b0de9d` | powercut: notices written |
+| 2026-11-24 | `bf825b1` | stories shared / Instagram pause |
+| 2026-11-24 | `1217241` | stories shared / Instagram pause |
+| 2026-11-24 | `7ea2e27` | stories shared / Instagram pause |
+| 2026-11-24 | `f0037fb` | stories shared / Instagram pause |
+| 2026-11-24 | `25a3d15` | stories shared / Instagram pause |
+| 2026-11-24 | `0121d07` | stories shared / Instagram pause |
+| 2026-11-24 | `10d7b7b` | stories shared / Instagram pause |
+| 2026-11-24 | `42718d9` | stories shared / Instagram pause |
+| 2026-11-24 | `5af1f94` | stories shared / Instagram pause |
+| 2026-11-24 | `ef16af0` | stories shared / Instagram pause |
+| 2026-11-24 | `7c12132` | stories shared / Instagram pause |
+| 2026-11-24 | `d57d7e4` | stories shared / Instagram pause |
+| 2026-11-24 | `1f1f0ce` | stories shared / Instagram pause |
 | 2026-11-24 | `0b039fc` | Collection: a news listed late (Dinamalar dates it at print time) is offered once if it is from the last 24 h - it was always 'published before this window' and never posted |
 | 2026-11-24 | `c8c8bc1` | stories shared / Instagram pause |
 | 2026-11-24 | `ddc5a89` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
-| 2026-11-24 | `718e4c9` | stories shared / Instagram pause |
-| 2026-11-24 | `ef89f89` | stories shared / Instagram pause |
-| 2026-11-24 | `27fdb5e` | stories shared / Instagram pause |
-| 2026-11-24 | `9085daa` | stories shared / Instagram pause |
-| 2026-11-24 | `ce7e1b5` | stories shared / Instagram pause |
-| 2026-11-24 | `0d55b0c` | stories shared / Instagram pause |
-| 2026-11-24 | `71c8ff6` | stories shared / Instagram pause |
-| 2026-11-24 | `a291345` | stories shared / Instagram pause |
-| 2026-11-24 | `ace2a3c` | stories shared / Instagram pause |
-| 2026-11-24 | `dfe78af` | pick: written and posted |
-| 2026-11-24 | `2825dfa` | pick: picked news saved |
-| 2026-11-24 | `805c6c2` | pick: list sent |
-| 2026-11-24 | `1569901` | stories shared / Instagram pause |
-| 2026-11-24 | `3c8ba41` | stories shared / Instagram pause |
-| 2026-11-24 | `56f01a2` | stories shared / Instagram pause |
-| 2026-11-24 | `5093076` | stories shared / Instagram pause |
-| 2026-11-24 | `75bd4c8` | Google News links: when Google refuses the decoder (429), the same headline on Bing (same newspaper) gives the article link - news is no longer dropped |
-| 2026-11-24 | `f5ac0ac` | stories shared / Instagram pause |
-| 2026-11-24 | `fc14d4a` | A death-toll update (மேலும் ஒருவர் உயிரிழப்பு / எண்ணிக்கை உயர்வு) is new news, not a duplicate of the first report |
-| 2026-11-24 | `f4f5b61` | stories shared / Instagram pause |
-| 2026-11-24 | `dc28170` | facebook RN-184 |
-| 2026-11-24 | `244c8d0` | posted RN-184 |
-| 2026-11-24 | `c5af906` | pick: written and posted |
-| 2026-11-24 | `1977ed8` | pick: picked news saved |
-| 2026-11-24 | `1c21e77` | pick: list sent |
-| 2026-11-24 | `3c4c2c3` | stories shared / Instagram pause |
-| 2026-11-24 | `ccaab60` | Auto-fix: busy AI writers do not use up a news's tries; each page runs at its own minutes; try counts reset |
 <!-- recent-changes:end -->
