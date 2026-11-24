@@ -1,14 +1,12 @@
-23:34:08 round 2026-11-24_23: news published 24 Nov 22:29 -> 24 Nov 23:34 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-23:34:08 insights 2026-11-24T23:34+05:30 (195 reels): topic weights {'temple': 0.64, 'accident': 0.56, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.03, 'politics': 0.02, 'civic': -0.32, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-23:34:21 open search 'கரூர்' (from_google): 0 links from our outlets
-23:34:21 73 links on the two papers' Karur pages
-23:35:13 skipped: published before this window=30, already posted=24, not Karur district=8, state-wide / other district=5, same event already posted=3, only a headline=2
-23:35:13 list: 0 new + 1 earlier news not posted yet
-23:35:13    1. [மழை / வானிலை] மழை நீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-23:35:13 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-24_23
-23:35:15    not picked automatically (ceremony / award / awareness event (low views)): மழை நீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-23:35:15 round 2026-11-24_23 (at least 3, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-23:35:15 decided: automatic: top 3 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-23:35:21 verify 2026-11-24_23: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+02:14:46 round 2026-11-25_02: news published 24 Nov 23:34 -> 25 Nov 02:14 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+02:14:46 insights 2026-11-25T02:14+05:30 (195 reels): topic weights {'temple': 0.65, 'accident': 0.55, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.0, 'politics': 0.02, 'civic': -0.34, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+02:15:53 open search 'கரூர்' (from_google): 0 links from our outlets
+02:15:53 93 links on the two papers' Karur pages
+02:17:23 skipped: published before this window=30, not Karur district=25, already posted=22, state-wide / other district=4, same event already posted=3, only a headline=2
+02:17:23 list: 3 new + 1 earlier news not posted yet
+02:17:23    1. [விபத்து] இருசக்கர வாகனம் மீது காா் மோதிய விபத்து உயிரிழந்தோா் எண்ணிக்கை 3-ஆக உய (தினமணி)
+02:17:23    2. [பொது] ‘மத்திய - மாநில அரசின் வளா்ச்சித் திட்டங்கள் உரிய நேரத்தில் மக்களை சென (தினமணி)
+02:17:23    3. [பொது] புகழிமலையில் பக்தா்கள் கிரிவலம் (தினமணி)
+02:17:23    4. [மழை / வானிலை] மழை நீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+02:17:23 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-25_02
