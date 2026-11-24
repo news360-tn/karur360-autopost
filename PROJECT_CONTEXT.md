@@ -83,6 +83,13 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `6e7690d` | Facebook: 20 news a day per page (owner 24 Nov) |
+| 2026-11-24 | `323b2df` | stories shared / Instagram pause |
+| 2026-11-24 | `846cbec` | stories shared / Instagram pause |
+| 2026-11-24 | `52ea10c` | stories shared / Instagram pause |
+| 2026-11-24 | `ee94fef` | stories shared / Instagram pause |
+| 2026-11-24 | `370925e` | goldrate posted |
+| 2026-11-24 | `fbe8a3b` | stories shared / Instagram pause |
 | 2026-11-24 | `cf26106` | A self-immolation / suicide ATTEMPT where nobody died (a protest) is news and posts automatically - a death still needs the owner's tick; Samayam Tamil is a trusted outlet |
 | 2026-11-24 | `cbb5fac` | pick: written and posted |
 | 2026-11-24 | `1e48e49` | pick: picked news saved |
@@ -106,11 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `10d7b7b` | stories shared / Instagram pause |
 | 2026-11-24 | `42718d9` | stories shared / Instagram pause |
 | 2026-11-24 | `5af1f94` | stories shared / Instagram pause |
-| 2026-11-24 | `ef16af0` | stories shared / Instagram pause |
-| 2026-11-24 | `7c12132` | stories shared / Instagram pause |
-| 2026-11-24 | `d57d7e4` | stories shared / Instagram pause |
-| 2026-11-24 | `1f1f0ce` | stories shared / Instagram pause |
-| 2026-11-24 | `0b039fc` | Collection: a news listed late (Dinamalar dates it at print time) is offered once if it is from the last 24 h - it was always 'published before this window' and never posted |
-| 2026-11-24 | `c8c8bc1` | stories shared / Instagram pause |
-| 2026-11-24 | `ddc5a89` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
 <!-- recent-changes:end -->
