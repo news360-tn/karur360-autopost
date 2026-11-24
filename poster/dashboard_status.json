@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T02:46:06+00:00",
+ "updated": "2026-11-24T02:58:49+00:00",
  "day": "2026-11-24",
- "ready": 9,
+ "ready": 7,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -34,6 +34,20 @@
       "link": "https://www.instagram.com/reel/DgG5-tOivwD/",
       "at": "2026-11-24T02:42:19+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-197",
+      "head": "கரூர் மாவட்டத்தில் நாளை மின்தடை: காலை 9 முதல் மதியம் 2 வரை",
+      "link": "https://www.instagram.com/reel/DgG6yRbmVjk/",
+      "at": "2026-11-24T02:49:10+00:00",
+      "kind": "reel"
+     },
+     {
+      "id": "RN-196",
+      "head": "கரூர் மாவட்டத்தில் நாளை மின்தடை: நாச்சலூர், பணிக்கம்பட்டி, மாயனூர் பகுதிகளில் காலை 9 முதல் மின்சாரம் நிறுத்தம்",
+      "link": "https://www.instagram.com/reel/DgG7dfZD8H8/",
+      "at": "2026-11-24T02:55:12+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -44,9 +58,9 @@
     "waiting": 0,
     "share": [
      {
-      "id": "RN-189",
-      "head": "🐟 மாயனூர் கதவணையில் நேற்று 300 கிலோ மீன் விற்பனை",
-      "link": "https://www.instagram.com/reel/DgEjW9kFB_d/",
+      "id": "RN-188",
+      "head": "🚰 சோமூரில் தண்ணீர் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் சிரமம்",
+      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
@@ -56,9 +70,9 @@
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
-      "id": "RN-188",
-      "head": "🚰 சோமூரில் தண்ணீர் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் சிரமம்",
-      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
+      "id": "RN-185",
+      "head": "🚌 ராஜபுரம் பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கக் கோரிக்கை",
+      "link": "https://www.instagram.com/reel/DgEhtuXjV3O/",
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
@@ -68,9 +82,9 @@
       "emailed": "2026-11-23T06:58:27+00:00"
      },
      {
-      "id": "RN-185",
-      "head": "🚌 ராஜபுரம் பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கக் கோரிக்கை",
-      "link": "https://www.instagram.com/reel/DgEhtuXjV3O/",
+      "id": "RN-189",
+      "head": "🐟 மாயனூர் கதவணையில் நேற்று 300 கிலோ மீன் விற்பனை",
+      "link": "https://www.instagram.com/reel/DgEjW9kFB_d/",
       "emailed": "2026-11-23T10:03:03+00:00"
      }
     ],
