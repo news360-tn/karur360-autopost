@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-24 | `6e7690d` | Facebook: 20 news a day per page (owner 24 Nov) |
-| 2026-11-24 | `323b2df` | stories shared / Instagram pause |
-| 2026-11-24 | `846cbec` | stories shared / Instagram pause |
-| 2026-11-24 | `52ea10c` | stories shared / Instagram pause |
-| 2026-11-24 | `ee94fef` | stories shared / Instagram pause |
-| 2026-11-24 | `370925e` | goldrate posted |
-| 2026-11-24 | `fbe8a3b` | stories shared / Instagram pause |
-| 2026-11-24 | `cf26106` | A self-immolation / suicide ATTEMPT where nobody died (a protest) is news and posts automatically - a death still needs the owner's tick; Samayam Tamil is a trusted outlet |
-| 2026-11-24 | `cbb5fac` | pick: written and posted |
-| 2026-11-24 | `1e48e49` | pick: picked news saved |
-| 2026-11-24 | `56b0c3f` | pick: list sent |
-| 2026-11-24 | `1a34286` | stories shared / Instagram pause |
-| 2026-11-24 | `4bd95c0` | stories shared / Instagram pause |
-| 2026-11-24 | `7e38cb0` | stories shared / Instagram pause |
-| 2026-11-24 | `5881390` | stories shared / Instagram pause |
-| 2026-11-24 | `637cfbc` | stories shared / Instagram pause |
-| 2026-11-24 | `fd88d7d` | powercut: notices written |
-| 2026-11-24 | `63542db` | stories shared / Instagram pause |
-| 2026-11-24 | `48d7f32` | stories shared / Instagram pause |
-| 2026-11-24 | `2654e3e` | stories shared / Instagram pause |
-| 2026-11-24 | `6b0de9d` | powercut: notices written |
-| 2026-11-24 | `bf825b1` | stories shared / Instagram pause |
-| 2026-11-24 | `1217241` | stories shared / Instagram pause |
-| 2026-11-24 | `7ea2e27` | stories shared / Instagram pause |
-| 2026-11-24 | `f0037fb` | stories shared / Instagram pause |
-| 2026-11-24 | `25a3d15` | stories shared / Instagram pause |
-| 2026-11-24 | `0121d07` | stories shared / Instagram pause |
-| 2026-11-24 | `10d7b7b` | stories shared / Instagram pause |
-| 2026-11-24 | `42718d9` | stories shared / Instagram pause |
-| 2026-11-24 | `5af1f94` | stories shared / Instagram pause |
+| 2026-11-24 | `21a2c7f` | More district source pages: Hindu Tamil, Vikatan, Polimer (and OneIndia where it has the district) - Trichy, Tiruppur, Salem, Erode, Karur read only 1-2 pages |
+| 2026-11-24 | `6fd560e` | pick: written and posted |
+| 2026-11-24 | `404604b` | pick: picked news saved |
+| 2026-11-24 | `8cd9548` | pick: list sent |
+| 2026-11-24 | `037729c` | stories shared / Instagram pause |
+| 2026-11-24 | `66c5e8e` | stories shared / Instagram pause |
+| 2026-11-24 | `e8ff768` | stories shared / Instagram pause |
+| 2026-11-24 | `1ef40a3` | stories shared / Instagram pause |
+| 2026-11-24 | `bc22e00` | stories shared / Instagram pause |
+| 2026-11-24 | `2398bd2` | stories shared / Instagram pause |
+| 2026-11-24 | `5a25eb6` | stories shared / Instagram pause |
+| 2026-11-24 | `e97d033` | stories shared / Instagram pause |
+| 2026-11-24 | `b208ffb` | stories shared / Instagram pause |
+| 2026-11-24 | `7986e30` | stories shared / Instagram pause |
+| 2026-11-24 | `5d9d9ae` | stories shared / Instagram pause |
+| 2026-11-24 | `b0ec505` | pick: written and posted |
+| 2026-11-24 | `5c10ba3` | stories shared / Instagram pause |
+| 2026-11-24 | `c88504f` | facebook RN-211 |
+| 2026-11-24 | `1736b1e` | posted RN-211 |
+| 2026-11-24 | `7888e3a` | stories shared / Instagram pause |
+| 2026-11-24 | `fe72307` | pick: picked news saved |
+| 2026-11-24 | `dd8e2da` | stories shared / Instagram pause |
+| 2026-11-24 | `01715cd` | pick: picked news saved |
+| 2026-11-24 | `d5ab273` | pick: list sent |
+| 2026-11-24 | `3b3c942` | stories shared / Instagram pause |
+| 2026-11-24 | `256e9b3` | stories shared / Instagram pause |
+| 2026-11-24 | `cf77c7b` | stories shared / Instagram pause |
+| 2026-11-24 | `650ec34` | stories shared / Instagram pause |
+| 2026-11-24 | `364f59f` | stories shared / Instagram pause |
+| 2026-11-24 | `fd292bb` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
