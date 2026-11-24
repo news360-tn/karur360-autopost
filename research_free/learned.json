@@ -1,27 +1,28 @@
 {
- "updated": "2026-11-24T07:16+05:30",
- "posts_measured": 178,
+ "updated": "2026-11-24T10:01+05:30",
+ "posts_measured": 189,
  "topic_weight": {
-  "temple": 1.11,
-  "accident": 0.62,
-  "education": -0.19,
+  "temple": 0.9,
+  "accident": 0.53,
+  "education": -0.25,
+  "jobs": 1.5,
   "power_cut": 1.5,
-  "poultry_agri": 0.24,
-  "politics": 0.06,
-  "civic": -0.27,
+  "poultry_agri": 0.17,
+  "politics": -0.01,
+  "civic": -0.31,
   "crime": 1.5,
-  "weather": 0.13
+  "weather": 0.04
  },
  "topic_n": {
-  "temple": 22,
-  "accident": 14,
+  "temple": 23,
+  "accident": 16,
   "education": 23,
-  "jobs": 2,
-  "power_cut": 3,
+  "jobs": 3,
+  "power_cut": 5,
   "poultry_agri": 17,
   "politics": 14,
-  "civic": 28,
-  "crime": 16,
+  "civic": 29,
+  "crime": 17,
   "weather": 11,
   "sports_culture": 1
  },
@@ -34,14 +35,14 @@
  "top_openings": [
   "🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்",
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
-  "🚨 லாலாபேட்டை அருகே சோகம்: கார் மோதி 2 பள்ளி மாணவர்கள் உயிரிழப்பு",
-  "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப"
+  "🏞️ பெரிய ஆண்டாங்கோவிலில் பாழடைந்த பூங்கா: இரவில் சமூக விரோத செயல்கள் என மக்கள் ப",
+  "🚨 லாலாபேட்டை அருகே சோகம்: கார் மோதி 2 பள்ளி மாணவர்கள் உயிரிழப்பு"
  ],
  "avg_watch_s": 7.1,
  "best_topics": [
+  "jobs",
   "power_cut",
-  "crime",
-  "temple"
+  "crime"
  ],
  "weak_topics": [
   "civic",
