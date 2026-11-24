@@ -1,35 +1,5 @@
 {
  "seen": {
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-kallakurichi/cancellation-of-power-supply/4381285": {
-   "at": "2026-11-20T21:55:06.361883+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "மின்நிறுத்தம் ரத்து"
-  },
-  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-theni/power-outage-by-low-capacity-wires-at-veterinary-college/4380541": {
-   "at": "2026-11-20T21:55:06.361883+05:30",
-   "power_cut": false,
-   "why": "other district",
-   "title": "கால்நடை மருத்துவ கல்லூரியில் குறைந்த திறன் ஒயர்களால் மின்தடை"
-  },
-  "https://tamil.abplive.com/news/madurai/madurai-power-shutdown-tomorrow-21-11-2026-power-cut-outage-areas-affected-details-tnn-280201/amp#district-section": {
-   "at": "2026-11-20T21:55:06.361883+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "மதுரை மக்களே... நாளை (21.11.2026) ஒரே நாளில் ஏகப்பட்ட இடத்தில் மின்தடை - உங்க ஏரியா இருக்கா"
-  },
-  "https://tamil.abplive.com/news/trichy/trichy-power-cut-21-11-2026-know-timings-areas-affected-by-power-shutdown-280205#district-section": {
-   "at": "2026-11-20T21:55:06.361883+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "Trichy Power Cut: திருச்சியில் நாளை (21-11-2026) எந்தெந்த இடங்களில் பவர் கட்? - மின் வாரியம் வெளியிட்ட லிஸ்ட்"
-  },
-  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-21-11-2026-know-timings-areas-affected-by-power-shutdown-280204#district-section": {
-   "at": "2026-11-20T21:55:06.361883+05:30",
-   "power_cut": false,
-   "why": "not this district",
-   "title": "coimbatore power cut: கோவையில் நாளை (21-11-2026) எங்கெல்லாம் மின் தடை? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
-  },
   "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/cancellation-of-power-outage-today/4381690": {
    "at": "2026-11-21T04:20:21.619244+05:30",
    "power_cut": false,
@@ -763,9 +733,9 @@
    "title": "கரூர் மாவட்டத்தில் நாளை (24-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 24, 2026, செவ்வாய்க்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை"
   },
   "https://tamil.abplive.com/news/tamil-nadu/karur-power-cut-24-11-2026-know-timings-areas-affected-by-power-shutdown-280375#district-section": {
-   "at": "2026-11-24T15:57:05.435640+05:30",
+   "at": "2026-11-25T02:10:53.509099+05:30",
    "power_cut": true,
-   "why": "power cut ends today at 14:00 - too late to post",
+   "why": "cut day 2026-11-24 has passed",
    "title": "கரூர் மாவட்டத்தில் நாளை (24-11-2026) மின்தடை: பல்வேறு பகுதிகளில் (நவம்பர் 24, 2026, செவ்வாய்க்கிழமை) மின் பாதையில் பராமரிப்புப் பணிகள் நடைபெற உள்ளதால், காலை 9 மணி முதல் மதியம் 2 மணி வரை மின்சாரம் தடை"
   },
   "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-24-11-2026-know-timings-areas-affected-by-power-shutdown-280369#district-section": {
@@ -929,6 +899,132 @@
    "power_cut": false,
    "why": "not this district",
    "title": "coimbatore power cut: கோவையில் நாளை (25-11-2026) எங்கெல்லாம் பவர் கட் இருக்கு? - மின்வாரியம் வெளியிட்ட லிஸ்ட்"
+  },
+  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/புகழிமலையில்-பக்தா்கள்-கிரிவலம்": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "புகழிமலையில் பக்தா்கள் கிரிவலம்"
+  },
+  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/மத்திய-மாநில-அரசின்-வளா்ச்சித்-திட்டங்கள்-உரிய-நேரத்தில்-மக்களை-சென்றடைய-வேண்டும்": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "‘மத்திய - மாநில அரசின் வளா்ச்சித் திட்டங்கள் உரிய நேரத்தில் மக்களை சென்றடைய வேண்டும்’"
+  },
+  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/இருசக்கர-வாகனம்-மீது-காா்-மோதிய-விபத்து-உயிரிழந்தோா்-எண்ணிக்கை-3-ஆக-உயா்வு": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "இருசக்கர வாகனம் மீது காா் மோதிய விபத்து உயிரிழந்தோா் எண்ணிக்கை 3-ஆக உயா்வு"
+  },
+  "https://www.dinamani.com/all-editions/edition-chennai/thirupattur/2026/Nov/24/%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%88-193": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளைய மின்தடை: ஆம்பூா், சோமலாபுரம், விண்ணமங்கலம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/classroom-locked-due-to-non-availability-of-teachers-students-suffer/4385130": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "not a power cut",
+   "title": "ஆசிரியர்கள் வராததால் பூட்டி கிடந்த வகுப்பறை; மாணவர்கள் தவிப்பு"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-ramanathapuram/power-outage-today-nov-25/4385457": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "இன்று (நவ.25) மின்தடை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/tomorrow-nov-26-power-outage-morning-1000---1-00-pm/4384936": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (நவ.26) மின்தடை(காலை 10:00 – மதியம் 3:00 மணி)"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-virudhunagar/tomorrow-power-outage-morning-1000-hours-to-1-00-pm/4384955": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம்(நவ.26) மின்தடை (காலை 10:00 மணி முதல் மாலை 3 :00 மணி வரை,)"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-theni/tomorrow-nov-26-power-outage/4384856": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (நவ.26) மின்தடை"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-sivagangai/tomorrow-y-nov-26-resistor/4384883": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (நவ., 26) மின்தடை"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-viluppuram/tomorrow-power-outage-villupuram/4385069": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (26ம் தேதி)மின் தடை: விழுப்புரம்"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-viluppuram/power-supply-of-tomorrow-villupuram/4384963": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம்(நவ.26) மின்தடை: விழுப்புரம்"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-coimbatore/power-outage-today-22nd/4385274": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மின் தடை (25ம் தேதி)"
+  },
+  "https://www.dinamalar.com/amp/news/tamil-nadu-district-news-kallakurichi/power-outage-of-tomorrow-on-the-26th/4385072": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (26ம் தேதி)மின் நிறுத்தம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-viluppuram/power-supply-of-tomorrow-villupuram/4384963": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம்(நவ.26) மின்தடை: விழுப்புரம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/power-outage-today-22nd/4385274": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மின் தடை (25ம் தேதி)"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-kallakurichi/power-outage-of-tomorrow-on-the-26th/4385072": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (26ம் தேதி)மின் நிறுத்தம்"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-viluppuram/tomorrow-power-outage-villupuram/4385069": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "other district",
+   "title": "நாளை மறுதினம் (26ம் தேதி)மின் தடை: விழுப்புரம்"
+  },
+  "https://tamil.abplive.com/news/trichy/trichy-power-cut-25-11-2026-know-timings-areas-affected-by-power-shutdown-280483/amp#district-section": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "Trichy Power Cut: திருச்சியில் நாளை (25-11-2026) எங்கெல்லாம் பவர் கட்? - மின் வாரியம் வெளியிட்ட லிஸ்ட்"
+  },
+  "https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-25-11-2026-know-timings-areas-affected-by-power-shutdown-280459/amp#district-section": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "coimbatore power cut: கோவையில் நாளை (25-11-2026) எங்கெல்லாம் பவர் கட் இருக்கு? - மின்வாரியம் வெளியிட்ட"
+  },
+  "https://tamil.abplive.com/news/trichy/trichy-power-cut-25-11-2026-know-timings-areas-affected-by-power-shutdown-280483#district-section": {
+   "at": "2026-11-25T02:10:53.509099+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "Trichy Power Cut: திருச்சியில் நாளை (25-11-2026) எங்கெல்லாம் பவர் கட்? - மின் வாரியம் வெளியிட்ட லிஸ்ட்"
   }
  },
  "done": {
@@ -951,10 +1047,6 @@
  },
  "retried": {},
  "refused": {
-  "C7c7d4ab": {
-   "why": "not filed: duplicate after write",
-   "at": "2026-11-22T20:54:19.876088+05:30"
-  },
   "Cd4db721": {
    "why": "not filed: all free models failed: no usable answer from the models",
    "at": "2026-11-23T13:16:34.622433+05:30"
