@@ -26,7 +26,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%9A%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0-%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AE%A9%E0%AE%AE%E0%AF%8D-%E0%AE%AE%E0%AF%80%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%BE%E0%AE%BE%E0%AF%8D-%E0%AE%AE%E0%AF%8B%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%B5%E0%AE%BF%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B4%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%BE%E0%AF%8D-%E0%AE%8E%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88-3-%E0%AE%86%E0%AE%95-%E0%AE%89%E0%AE%AF%E0%AE%BE%E0%AF%8D%E0%AE%B5%E0%AF%81"
    ],
-   "listed_at": "2026-11-25T02:14:46.115933+05:30"
+   "listed_at": "2026-11-25T02:14:46.115933+05:30",
+   "picked_at": "2026-11-25T02:17:25.949572+05:30"
   },
   "Cf7b5a88": {
    "id": "Cf7b5a88",
@@ -41,7 +42,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/%E0%AE%AE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%AE%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%B2-%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%8D-%E0%AE%B5%E0%AE%B3%E0%AE%BE%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%89%E0%AE%B0%E0%AE%BF%E0%AE%AF-%E0%AE%A8%E0%AF%87%E0%AE%B0%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%88-%E0%AE%9A%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AE%9F%E0%AF%88%E0%AE%AF-%E0%AE%B5%E0%AF%87%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D"
    ],
-   "listed_at": "2026-11-25T02:14:46.115933+05:30"
+   "listed_at": "2026-11-25T02:14:46.115933+05:30",
+   "picked_at": "2026-11-25T02:17:25.949575+05:30"
   },
   "C6e5f7c8": {
    "id": "C6e5f7c8",
@@ -56,7 +58,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B4%E0%AE%BF%E0%AE%AE%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B5%E0%AE%B2%E0%AE%AE%E0%AF%8D"
    ],
-   "listed_at": "2026-11-25T02:14:46.115933+05:30"
+   "listed_at": "2026-11-25T02:14:46.115933+05:30",
+   "picked_at": "2026-11-25T02:17:25.949577+05:30"
   }
  },
  "rounds": {
@@ -514,8 +517,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-25T03:14:46.115933+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 3 by insights",
+    "ids": [
+     "Cd7e9ca7",
+     "Cf7b5a88",
+     "C6e5f7c8"
+    ],
+    "at": "2026-11-25T02:17:25.949561+05:30"
+   },
+   "written": [
+    "C6e5f7c8",
+    "Cd7e9ca7",
+    "Cf7b5a88"
+   ]
   }
  },
  "retry": {}
