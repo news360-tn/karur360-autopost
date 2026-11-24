@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-23 | `1b56323` | District check before every post (picked news too), neighbour-district towns, Facebook 5-minute gap, more Tamil news outlets + one open district search per round |
-| 2026-11-23 | `83cb945` | stories shared / Instagram pause |
-| 2026-11-23 | `3d7e6f9` | pick: written and posted |
-| 2026-11-23 | `da254c5` | facebook RN-195 |
-| 2026-11-23 | `ba24be9` | posted RN-195 |
-| 2026-11-23 | `169fe8a` | stories shared / Instagram pause |
-| 2026-11-23 | `536cd18` | pick: picked news saved |
-| 2026-11-23 | `194eede` | pick: picked news saved |
-| 2026-11-23 | `c0d1612` | pick: list sent |
-| 2026-11-23 | `bd940d3` | stories shared / Instagram pause |
-| 2026-11-23 | `d6d5329` | stories shared / Instagram pause |
-| 2026-11-23 | `ec21ebc` | stories shared / Instagram pause |
-| 2026-11-23 | `c2c2aa2` | stories shared / Instagram pause |
-| 2026-11-23 | `f241011` | stories shared / Instagram pause |
-| 2026-11-23 | `cb0a67a` | stories shared / Instagram pause |
-| 2026-11-23 | `2b5e1d7` | stories shared / Instagram pause |
-| 2026-11-23 | `b12cd47` | stories shared / Instagram pause |
-| 2026-11-23 | `54a7588` | stories shared / Instagram pause |
-| 2026-11-23 | `7068425` | stories shared / Instagram pause |
-| 2026-11-23 | `871bdb7` | stories shared / Instagram pause |
-| 2026-11-23 | `226b1de` | stories shared / Instagram pause |
-| 2026-11-23 | `da28c07` | stories shared / Instagram pause |
-| 2026-11-23 | `6938207` | stories shared / Instagram pause |
-| 2026-11-23 | `b7526c5` | stories shared / Instagram pause |
-| 2026-11-23 | `fdc06a8` | stories shared / Instagram pause |
-| 2026-11-23 | `39e2052` | stories shared / Instagram pause |
-| 2026-11-23 | `1e6e7c3` | stories shared / Instagram pause |
-| 2026-11-23 | `1c98e44` | Reels only: no Instagram or Facebook stories; wait 5 minutes after an error |
-| 2026-11-23 | `b2cae2b` | stories shared / Instagram pause |
-| 2026-11-23 | `a992dcc` | stories shared / Instagram pause |
+| 2026-11-24 | `2b7fcce` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
+| 2026-11-24 | `58a233f` | facebook RN-201 |
+| 2026-11-24 | `5c62c30` | posted RN-201 |
+| 2026-11-24 | `4c034ac` | stories shared / Instagram pause |
+| 2026-11-24 | `076f442` | stories shared / Instagram pause |
+| 2026-11-24 | `906064e` | rasipalan posted |
+| 2026-11-24 | `22cb9de` | facebook RN-198 |
+| 2026-11-24 | `acc73af` | posted RN-198 |
+| 2026-11-24 | `388e1d4` | stories shared / Instagram pause |
+| 2026-11-24 | `3fd8297` | facebook RN-199 |
+| 2026-11-24 | `21f91aa` | posted RN-199 |
+| 2026-11-24 | `2916c8d` | facebook RN-207 |
+| 2026-11-24 | `970ffc4` | posted RN-207 |
+| 2026-11-24 | `d778804` | stories shared / Instagram pause |
+| 2026-11-24 | `234c1e0` | pick: picked news saved |
+| 2026-11-24 | `740df17` | pick: picked news saved |
+| 2026-11-24 | `344d1e7` | pick: list sent |
+| 2026-11-24 | `9f6b9fe` | stories shared / Instagram pause |
+| 2026-11-24 | `70d066f` | stories shared / Instagram pause |
+| 2026-11-24 | `cf8547e` | stories shared / Instagram pause |
+| 2026-11-24 | `b3e4e2a` | stories shared / Instagram pause |
+| 2026-11-24 | `7893a83` | stories shared / Instagram pause |
+| 2026-11-24 | `6b7b446` | stories shared / Instagram pause |
+| 2026-11-24 | `1d4f605` | stories shared / Instagram pause |
+| 2026-11-24 | `855cc7a` | stories shared / Instagram pause |
+| 2026-11-24 | `df074a5` | stories shared / Instagram pause |
+| 2026-11-24 | `d070109` | stories shared / Instagram pause |
+| 2026-11-24 | `64862fc` | stories shared / Instagram pause |
+| 2026-11-24 | `b14fd93` | stories shared / Instagram pause |
+| 2026-11-23 | `45c7283` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
