@@ -1,14 +1,38 @@
 [
-  {
-    "name": "தினமணி கரூர்",
-    "url": "https://www.dinamani.com/all-editions/edition-trichy/karur",
-    "link_regex": "href=\"((?:https://www\\.dinamani\\.com)?/all-editions/edition-trichy/karur/\\d{4}/[^\"#?]+)\"",
-    "limit": 40
-  },
-  {
-    "name": "தினகரன் கரூர்",
-    "url": "https://www.dinakaran.com/district/karur/",
-    "link_regex": "((?:https://www\\.dinakaran\\.com)?/district/karur_\\d{6}_\\d+/?)",
-    "limit": 30
-  }
+ {
+  "name": "தினமணி கரூர்",
+  "url": "https://www.dinamani.com/all-editions/edition-trichy/karur",
+  "link_regex": "href=\"((?:https://www\\.dinamani\\.com)?/all-editions/edition-trichy/karur/\\d{4}/[^\"#?]+)\"",
+  "limit": 40
+ },
+ {
+  "name": "தினகரன் கரூர்",
+  "url": "https://www.dinakaran.com/district/karur/",
+  "link_regex": "((?:https://www\\.dinakaran\\.com)?/district/karur_\\d{6}_\\d+/?)",
+  "limit": 30
+ },
+ {
+  "name": "இந்து தமிழ் கரூர்",
+  "url": "https://www.hindutamil.in/topic/karur",
+  "link_regex": "href=\"((?:https://www\\.hindutamil\\.in)?/news/[a-z-]+/[^\"#?]{15,})\"",
+  "limit": 30
+ },
+ {
+  "name": "விகடன் கரூர்",
+  "url": "https://www.vikatan.com/topics/karur",
+  "link_regex": "href=\"(https://www\\.vikatan\\.com/(?!live/|topics/)[a-z-]+/[^\"#?]{20,})\"",
+  "limit": 30
+ },
+ {
+  "name": "பாலிமர் கரூர்",
+  "url": "https://www.polimernews.com/tags/karur",
+  "link_regex": "href=\"((?:https://www\\.polimernews\\.com)?/districtnews/[^\"#?]+)\"",
+  "limit": 30
+ },
+ {
+  "name": "ஒன்இந்தியா கரூர்",
+  "url": "https://tamil.oneindia.com/news/karur/",
+  "link_regex": "href=\"((?:https://tamil\\.oneindia\\.com)?/news/karur/[^\"#?]+\\.html)\"",
+  "limit": 30
+ }
 ]
