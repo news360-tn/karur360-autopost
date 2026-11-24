@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T04:56:06+00:00",
+ "updated": "2026-11-24T05:24:06+00:00",
  "day": "2026-11-24",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -83,6 +83,13 @@
       "link": "https://www.instagram.com/reel/DgHGbiBlDlD/",
       "at": "2026-11-24T04:30:45+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-200",
+      "head": "கிருஷ்ணராயபுரம் அருகே 108 வலம்புரி சங்கு அபிஷேகம்",
+      "link": "https://www.instagram.com/reel/DgHMIs5GSPB/",
+      "at": "2026-11-24T05:20:50+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -91,20 +98,7 @@
    "facebook": {
     "posted": 0,
     "waiting": 0,
-    "share": [
-     {
-      "id": "RN-188",
-      "head": "🚰 சோமூரில் தண்ணீர் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் சிரமம்",
-      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
-      "emailed": "2026-11-23T10:03:03+00:00"
-     },
-     {
-      "id": "RN-187",
-      "head": "🗑️ கிருஷ்ணராயபுரம் அருகே சாலையோரம் குப்பை தேக்கம்: மக்கள் அவதி",
-      "link": "https://www.instagram.com/reel/DgEmLMtFa3c/",
-      "emailed": "2026-11-23T10:03:03+00:00"
-     }
-    ],
+    "share": [],
     "paused": ""
    },
    "manual_post": [],

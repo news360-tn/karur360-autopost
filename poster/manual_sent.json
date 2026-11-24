@@ -81,6 +81,8 @@
   "first": "2026-11-24T02:02:36+00:00"
  },
  "karur:RN-203": {
-  "first": "2026-11-24T02:02:36+00:00"
+  "first": "2026-11-24T02:02:36+00:00",
+  "queued": "2026-11-24T05:24:09+00:00",
+  "why": "ready for more than 3 hours and still not posted"
  }
 }
