@@ -1,14 +1,10 @@
-18:15:28 round 2026-11-24_18: news published 24 Nov 16:36 -> 24 Nov 18:15 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-18:15:28 insights 2026-11-24T18:15+05:30 (194 reels): topic weights {'temple': 0.63, 'accident': 0.57, 'education': -0.23, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.2, 'politics': 0.01, 'civic': -0.32, 'crime': 1.5, 'weather': 0.07}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-18:15:52 open search 'கரூர்' (from_google): 0 links from our outlets
-18:15:52 36 links on the two papers' Karur pages
-18:16:32 skipped: already posted=21, not Karur district=6, published before this window=4, state-wide / other district=2, same event already posted=1, no title=1
-18:16:32 list: 0 new + 1 earlier news not posted yet
-18:16:32    1. [மழை / வானிலை] மழை நீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-18:16:32 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-24_18
-18:16:34    not picked automatically (ceremony / award / awareness event (low views)): மழை நீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-18:16:34 round 2026-11-24_18 (at least 6, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-18:16:34 decided: automatic: top 6 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-18:16:41 verify 2026-11-24_18: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+20:32:43 round 2026-11-24_20: news published 24 Nov 18:15 -> 24 Nov 20:32 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+20:32:43 insights 2026-11-24T20:32+05:30 (194 reels): topic weights {'temple': 0.63, 'accident': 0.57, 'education': -0.23, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.2, 'politics': 0.01, 'civic': -0.32, 'crime': 1.5, 'weather': 0.07}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+20:33:02 open search 'கரூர்' (from_google): 0 links from our outlets
+20:33:02 38 links on the two papers' Karur pages
+20:33:42 skipped: already posted=21, not Karur district=8, published before this window=4, state-wide / other district=2, same event already posted=1
+20:33:42 list: 1 new + 1 earlier news not posted yet
+20:33:42    1. [பொது] ஆசிரியர்கள் வராததால் பூட்டி கிடந்த வகுப்பறை; மாணவர்கள் தவிப்பு (தினமலர்)
+20:33:42    2. [மழை / வானிலை] மழை நீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+20:33:42 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-24_20
