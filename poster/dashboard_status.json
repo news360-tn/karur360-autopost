@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T03:49:35+00:00",
+ "updated": "2026-11-24T04:07:15+00:00",
  "day": "2026-11-24",
- "ready": 5,
+ "ready": 4,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -62,6 +62,13 @@
       "link": "https://www.instagram.com/reel/DgHBCPMHGy2/",
       "at": "2026-11-24T03:43:40+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-208",
+      "head": "கரூர் அருகே மீண்டும் புறக்காவல் நிலையம் அமைக்க மக்கள் எதிர்பார்ப்பு",
+      "link": "https://www.instagram.com/reel/DgHDVRvmcT1/",
+      "at": "2026-11-24T04:03:52+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -72,9 +79,9 @@
     "waiting": 0,
     "share": [
      {
-      "id": "RN-189",
-      "head": "🐟 மாயனூர் கதவணையில் நேற்று 300 கிலோ மீன் விற்பனை",
-      "link": "https://www.instagram.com/reel/DgEjW9kFB_d/",
+      "id": "RN-188",
+      "head": "🚰 சோமூரில் தண்ணீர் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் சிரமம்",
+      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
@@ -84,21 +91,15 @@
       "emailed": "2026-11-23T10:03:03+00:00"
      },
      {
-      "id": "RN-188",
-      "head": "🚰 சோமூரில் தண்ணீர் தொட்டியைச் சுற்றி முட்புதர்: மக்கள் சிரமம்",
-      "link": "https://www.instagram.com/reel/DgEkwM0DVlp/",
-      "emailed": "2026-11-23T10:03:03+00:00"
-     },
-     {
-      "id": "RN-180",
-      "head": "🚽 கோயம்பள்ளியில் பாழடைந்த பொது கழிப்பிடம்: பொதுமக்கள் பெரும் அவதி",
-      "link": "https://www.instagram.com/reel/DgEdHRvEw8a/",
-      "emailed": "2026-11-23T06:58:27+00:00"
-     },
-     {
       "id": "RN-185",
       "head": "🚌 ராஜபுரம் பஸ் ஸ்டாப்பில் நிழற்கூடம் அமைக்கக் கோரிக்கை",
       "link": "https://www.instagram.com/reel/DgEhtuXjV3O/",
+      "emailed": "2026-11-23T10:03:03+00:00"
+     },
+     {
+      "id": "RN-189",
+      "head": "🐟 மாயனூர் கதவணையில் நேற்று 300 கிலோ மீன் விற்பனை",
+      "link": "https://www.instagram.com/reel/DgEjW9kFB_d/",
       "emailed": "2026-11-23T10:03:03+00:00"
      }
     ],
