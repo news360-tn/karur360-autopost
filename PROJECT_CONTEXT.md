@@ -83,6 +83,24 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `ced8bb0` | Facebook post text without the outside article link (less reach); the link stays in the first comment, the paper name and date stay |
+| 2026-11-24 | `88cd906` | stories shared / Instagram pause |
+| 2026-11-24 | `b2447bf` | stories shared / Instagram pause |
+| 2026-11-24 | `cf9db4a` | stories shared / Instagram pause |
+| 2026-11-24 | `fa1ae02` | stories shared / Instagram pause |
+| 2026-11-24 | `7856843` | stories shared / Instagram pause |
+| 2026-11-24 | `af02468` | pick: written and posted |
+| 2026-11-24 | `97f2d4d` | pick: picked news saved |
+| 2026-11-24 | `53bbc62` | pick: list sent |
+| 2026-11-24 | `10832c4` | stories shared / Instagram pause |
+| 2026-11-24 | `fe161e6` | autofix: corrected held news |
+| 2026-11-24 | `b879367` | stories shared / Instagram pause |
+| 2026-11-24 | `9553c59` | stories shared / Instagram pause |
+| 2026-11-24 | `950b88d` | stories shared / Instagram pause |
+| 2026-11-24 | `28edaa6` | stories shared / Instagram pause |
+| 2026-11-24 | `adf729d` | stories shared / Instagram pause |
+| 2026-11-24 | `71bf2a5` | stories shared / Instagram pause |
+| 2026-11-24 | `cbed65a` | stories shared / Instagram pause |
 | 2026-11-24 | `8a24189` | Facebook check: read-only views report of the latest reels (plays, reach, processing status) |
 | 2026-11-24 | `21a2c7f` | More district source pages: Hindu Tamil, Vikatan, Polimer (and OneIndia where it has the district) - Trichy, Tiruppur, Salem, Erode, Karur read only 1-2 pages |
 | 2026-11-24 | `6fd560e` | pick: written and posted |
@@ -95,22 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `bc22e00` | stories shared / Instagram pause |
 | 2026-11-24 | `2398bd2` | stories shared / Instagram pause |
 | 2026-11-24 | `5a25eb6` | stories shared / Instagram pause |
-| 2026-11-24 | `e97d033` | stories shared / Instagram pause |
-| 2026-11-24 | `b208ffb` | stories shared / Instagram pause |
-| 2026-11-24 | `7986e30` | stories shared / Instagram pause |
-| 2026-11-24 | `5d9d9ae` | stories shared / Instagram pause |
-| 2026-11-24 | `b0ec505` | pick: written and posted |
-| 2026-11-24 | `5c10ba3` | stories shared / Instagram pause |
-| 2026-11-24 | `c88504f` | facebook RN-211 |
-| 2026-11-24 | `1736b1e` | posted RN-211 |
-| 2026-11-24 | `7888e3a` | stories shared / Instagram pause |
-| 2026-11-24 | `fe72307` | pick: picked news saved |
-| 2026-11-24 | `dd8e2da` | stories shared / Instagram pause |
-| 2026-11-24 | `01715cd` | pick: picked news saved |
-| 2026-11-24 | `d5ab273` | pick: list sent |
-| 2026-11-24 | `3b3c942` | stories shared / Instagram pause |
-| 2026-11-24 | `256e9b3` | stories shared / Instagram pause |
-| 2026-11-24 | `cf77c7b` | stories shared / Instagram pause |
-| 2026-11-24 | `650ec34` | stories shared / Instagram pause |
-| 2026-11-24 | `364f59f` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
