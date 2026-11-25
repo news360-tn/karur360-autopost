@@ -150,7 +150,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804576+05:30"
+   "picked_at": "2026-11-26T01:31:50.804576+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C0489c56": {
    "id": "C0489c56",
@@ -163,7 +164,8 @@
    "score": 11.11,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804580+05:30"
+   "picked_at": "2026-11-26T01:31:50.804580+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Cdbc219a": {
    "id": "Cdbc219a",
@@ -176,7 +178,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804583+05:30"
+   "picked_at": "2026-11-26T01:31:50.804583+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C58f0a41": {
    "id": "C58f0a41",
@@ -189,7 +192,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804584+05:30"
+   "picked_at": "2026-11-26T01:31:50.804584+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C25cf013": {
    "id": "C25cf013",
@@ -202,7 +206,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804586+05:30"
+   "picked_at": "2026-11-26T01:31:50.804586+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C7a46baa": {
    "id": "C7a46baa",
@@ -215,7 +220,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804588+05:30"
+   "picked_at": "2026-11-26T01:31:50.804588+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C3be58cd": {
    "id": "C3be58cd",
@@ -228,7 +234,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804590+05:30"
+   "picked_at": "2026-11-26T01:31:50.804590+05:30",
+   "posted": true
   },
   "C3cacb01": {
    "id": "C3cacb01",
@@ -241,7 +248,8 @@
    "score": 6.15,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804591+05:30"
+   "picked_at": "2026-11-26T01:31:50.804591+05:30",
+   "posted": true
   },
   "C0e46e70": {
    "id": "C0e46e70",
@@ -254,7 +262,8 @@
    "score": 5.72,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804593+05:30"
+   "picked_at": "2026-11-26T01:31:50.804593+05:30",
+   "posted": true
   },
   "Cf2447b6": {
    "id": "Cf2447b6",
@@ -267,7 +276,8 @@
    "score": 5.72,
    "power_cut": false,
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804595+05:30"
+   "picked_at": "2026-11-26T01:31:50.804595+05:30",
+   "refused": "not filed: bad draft: 'scenes'"
   }
  },
  "rounds": {
@@ -700,7 +710,16 @@
     "Cb71e3e8",
     "Cdbc219a",
     "Cf2447b6"
-   ]
+   ],
+   "refused": {
+    "Cf2447b6": "not filed: bad draft: 'scenes'",
+    "C7a46baa": "not filed: all free models failed: no usable answer from the models",
+    "C25cf013": "not filed: all free models failed: no usable answer from the models",
+    "C58f0a41": "not filed: all free models failed: no usable answer from the models",
+    "Cdbc219a": "not filed: all free models failed: no usable answer from the models",
+    "C0489c56": "not filed: all free models failed: no usable answer from the models",
+    "Cb71e3e8": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
