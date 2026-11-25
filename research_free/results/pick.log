@@ -1,27 +1,9 @@
-20:30:26 round 2026-11-25_20: news published 25 Nov 17:02 -> 25 Nov 20:30 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-20:30:26 insights 2026-11-25T20:30+05:30 (204 reels): topic weights {'temple': -0.08, 'accident': 0.83, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.1, 'politics': 0.07, 'civic': -0.34, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-20:38:26 from_google dinamalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google dinamani.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google dinamalar.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google dinamani.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google dinamalar.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google dinamani.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google tamil.oneindia.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google dinakaran.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google dailythanthi.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google maalaimalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google hindutamil.in 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 from_google polimernews.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 open search from_google 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-20:38:26 open search 'கரூர்' (from_bing): 0 links from our outlets
-20:38:26 73 links on the two papers' Karur pages
-20:38:57 skipped: published before this window=28, already posted=16, not Karur district=9, same event already posted=4, state-wide / other district=4, only a headline=2
-20:38:57 list: 0 new + 1 earlier news not posted yet
-20:38:57    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-20:38:57 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-25_20
-20:38:58    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-20:38:58 round 2026-11-25_20 (at least 5, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-20:38:58 decided: automatic: top 5 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-20:39:04 verify 2026-11-25_20: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+23:00:06 round 2026-11-25_23: news published 25 Nov 20:30 -> 25 Nov 23:00 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+23:00:06 insights 2026-11-25T23:00+05:30 (204 reels): topic weights {'temple': -0.08, 'accident': 0.83, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.16, 'politics': 0.07, 'civic': -0.28, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+23:00:29 open search 'கரூர்' (from_google): 0 links from our outlets
+23:00:29 77 links on the two papers' Karur pages
+23:01:04 skipped: published before this window=28, already posted=16, not Karur district=12, same event already posted=4, state-wide / other district=4, only a headline=3
+23:01:05 list: 0 new + 1 earlier news not posted yet
+23:01:05    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+23:01:05 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-25_23
