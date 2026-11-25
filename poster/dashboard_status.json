@@ -1,62 +1,12 @@
 {
- "updated": "2026-11-25T15:39:20+00:00",
- "day": "2026-11-25",
- "ready": 0,
+ "updated": "2026-11-25T20:04:23+00:00",
+ "day": "2026-11-26",
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
    "instagram": {
-    "posted": [
-     {
-      "id": "RN-212",
-      "head": "புகழிமலையில் கார்த்திகை பௌர்ணமி கிரிவலம்: திரளான பக்தர்கள் சாமி தரிசனம்",
-      "link": "https://www.instagram.com/reel/DgJJ1MnDBo8/",
-      "at": "2026-11-24T23:38:59+00:00",
-      "kind": "reel"
-     },
-     {
-      "id": "RN-216",
-      "head": "கரூரில் ஆட்சியரகக் கூட்டத்திற்கு 1.45 மணி நேரம் தாமதமாக வந்த எம்.பி. ஜோதிமணி: காத்திருந்து நொந்துபோன அதிகாரிகள்",
-      "link": "https://www.instagram.com/reel/DgJVCRBhN-d/",
-      "at": "2026-11-25T01:17:12+00:00",
-      "kind": "reel"
-     },
-     {
-      "id": "RN-217",
-      "head": "குளித்தலையில் கடைகளில் தொழிலாளர் நலத்துறை திடீர் ஆய்வு: 18 வயதுக்குட்பட்டோரைக் வேலைக்கு அமர்த்தினால் ₹50,000 வரை அபராதம்",
-      "link": "https://www.instagram.com/reel/DgJXKLastsm/",
-      "at": "2026-11-25T01:35:23+00:00",
-      "kind": "reel"
-     },
-     {
-      "id": "RN-213",
-      "head": "கிருஷ்ணராயபுரம் அருகே கார் - இருசக்கர வாகனம் மோதிய விபத்து: உயிரிழந்தோர் எண்ணிக்கை 3-ஆக உயர்வு",
-      "link": "https://www.instagram.com/reel/DgKKSzlxtUt/",
-      "at": "2026-11-25T09:02:32+00:00",
-      "kind": "reel"
-     },
-     {
-      "id": "RN-205",
-      "head": "கரூர் ஆர்.டி.ஓ. அலுவலகம் முன் நியாயவிலைக்கடை ஊழியர்கள் ஆர்ப்பாட்டம்",
-      "link": "https://www.instagram.com/reel/DgKMHtpxp7c/",
-      "at": "2026-11-25T09:18:14+00:00",
-      "kind": "reel"
-     },
-     {
-      "id": "RN-214",
-      "head": "கரூரில் அரசு வளர்ச்சித் திட்டப் பணிகளை விரைந்து முடிக்க எம்பி செ.ஜோதிமணி உத்தரவு",
-      "link": "https://www.instagram.com/reel/DgKNzyXOMSy/",
-      "at": "2026-11-25T09:33:10+00:00",
-      "kind": "reel"
-     },
-     {
-      "id": "RN-215",
-      "head": "கரூரில் சீத்தா பழம் விற்பனை தீவிரம்: ஒரு கிலோ ரூ.40 முதல் 50 வரை விற்பனை",
-      "link": "https://www.instagram.com/reel/DgKPi_IsF52/",
-      "at": "2026-11-25T09:48:27+00:00",
-      "kind": "reel"
-     }
-    ],
+    "posted": [],
     "paused": "",
     "quota": ""
    },
@@ -69,12 +19,12 @@
    "manual_post": [],
    "daily": {
     "gold": {
-     "posted": true,
-     "link": "https://www.instagram.com/reel/DgJpnEWhydq/"
+     "posted": false,
+     "link": ""
     },
     "rasipalan": {
-     "posted": true,
-     "link": "https://www.instagram.com/reel/DgJV2HOJ26v/"
+     "posted": false,
+     "link": ""
     }
    },
    "youtube": {
