@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `ffcba8f` | Platform text: Facebook news caption short (headline + 3 lines + source) with the Tamil district tag; YouTube title ~70 chars with an English search word, 3 hashtags first, Subscribe line, Tamil language |
+| 2026-11-25 | `74b57b7` | stories shared / Instagram pause |
 | 2026-11-25 | `6a1a58e` | YouTube: the Instagram source comment (source + link) at the top of each Short's description |
 | 2026-11-25 | `ab25880` | goldrate posted |
 | 2026-11-25 | `b7f1d4e` | After a posting error wait 10 minutes before the next try (Instagram, Facebook, YouTube); YouTube and Facebook 20 a day; rasipalan and gold rate on YouTube too, first, outside the 20 |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `44fff6e` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
 | 2026-11-25 | `72156c0` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
 | 2026-11-25 | `91ce6b4` | stories shared / Instagram pause |
-| 2026-11-25 | `2c631cf` | facebook RN-214 |
-| 2026-11-25 | `384287d` | posted RN-214 |
 <!-- recent-changes:end -->
