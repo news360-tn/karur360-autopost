@@ -75,5 +75,6 @@
   "why": "the channel cannot be confirmed - the login needs the extra permission (youtube.force-ssl); not uploaded until then",
   "title": "",
   "checked_at": "2026-11-25T15:15:49+00:00"
- }
+ },
+ "failed_at": "2026-11-25T15:31:30+00:00"
 }
