@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `6ccea25` | Per-post e-mail for every post, at most 60 a day for all 7 pages together (one Gmail account); later posts are in the daily summary |
+| 2026-11-25 | `5efad04` | stories shared / Instagram pause |
+| 2026-11-25 | `3bfcfe5` | stories shared / Instagram pause |
+| 2026-11-25 | `89552ba` | stories shared / Instagram pause |
+| 2026-11-25 | `d65d5fe` | stories shared / Instagram pause |
+| 2026-11-25 | `94464f4` | stories shared / Instagram pause |
+| 2026-11-25 | `c3039d8` | stories shared / Instagram pause |
+| 2026-11-25 | `a94f105` | stories shared / Instagram pause |
+| 2026-11-25 | `5d55d48` | stories shared / Instagram pause |
+| 2026-11-25 | `b0d8d36` | facebook RN-215 |
+| 2026-11-25 | `6f504ee` | posted RN-215 |
 | 2026-11-25 | `39e62ba` | R2: one folder per page (the repository name) in every job, so the 24-hour clean-up finds every file |
 | 2026-11-25 | `bfa15f7` | stories shared / Instagram pause |
 | 2026-11-25 | `44fff6e` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `70c7e49` | posted RN-213 |
 | 2026-11-25 | `a2265db` | powercut: notices written |
 | 2026-11-25 | `a1a90b6` | stories shared / Instagram pause |
-| 2026-11-25 | `17694bb` | autofix: corrected held news |
-| 2026-11-25 | `505626b` | stories shared / Instagram pause |
-| 2026-11-25 | `fabb27e` | stories shared / Instagram pause |
-| 2026-11-25 | `156d5ad` | stories shared / Instagram pause |
-| 2026-11-25 | `61264fc` | stories shared / Instagram pause |
-| 2026-11-25 | `bf39e6e` | stories shared / Instagram pause |
-| 2026-11-25 | `0fdd599` | stories shared / Instagram pause |
-| 2026-11-25 | `9d4c795` | R2: accept the Account ID pasted as a link or with spaces; clear message when it is another value |
-| 2026-11-25 | `3ffd51c` | stories shared / Instagram pause |
-| 2026-11-25 | `5a7e1db` | stories shared / Instagram pause |
-| 2026-11-25 | `2158f28` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
