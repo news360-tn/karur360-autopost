@@ -250,7 +250,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%9F%E0%AE%AE%E0%AF%8D-%E0%AE%A8%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%88-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95-%E0%AE%AE%E0%AF%81%E0%AE%AF%E0%AE%A9%E0%AF%8D%E0%AE%B1-%E0%AE%87%E0%AE%B3%E0%AF%88%E0%AE%9E%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
    ],
-   "listed_at": "2026-11-26T04:27:53.547291+05:30"
+   "listed_at": "2026-11-26T04:27:53.547291+05:30",
+   "picked_at": "2026-11-26T04:29:18.303498+05:30"
   },
   "Ca6c4710": {
    "id": "Ca6c4710",
@@ -265,7 +266,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/%E0%AE%A4%E0%AE%B0%E0%AF%88%E0%AE%AE%E0%AE%9F%E0%AF%8D%E0%AE%9F-%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%88-%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%88%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95-%E0%AE%95%E0%AF%8B%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88"
    ],
-   "listed_at": "2026-11-26T04:27:53.547291+05:30"
+   "listed_at": "2026-11-26T04:27:53.547291+05:30",
+   "picked_at": "2026-11-26T04:29:18.303502+05:30"
   },
   "C5037b1f": {
    "id": "C5037b1f",
@@ -277,7 +279,8 @@
    "category": "பொது",
    "score": 7.0,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:27:53.547291+05:30"
+   "listed_at": "2026-11-26T04:27:53.547291+05:30",
+   "picked_at": "2026-11-26T04:29:18.303505+05:30"
   }
  },
  "rounds": {
@@ -717,8 +720,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-26T05:27:53.547291+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 7 of 3 by insights",
+    "ids": [
+     "Cddb82cd",
+     "Ca6c4710",
+     "C5037b1f"
+    ],
+    "at": "2026-11-26T04:29:18.303485+05:30"
+   },
+   "written": [
+    "C5037b1f",
+    "Ca6c4710",
+    "Cddb82cd"
+   ]
   }
  },
  "retry": {}
