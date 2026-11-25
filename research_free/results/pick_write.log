@@ -1,21 +1,27 @@
-writing [N]: ரவுண்டானா பாலத்தின் கீழ்புறம் குண்டும், குழியுமான சாலை
-writing [N]: பயிர் கடனை ரத்து செய்ய வலியுறுத்தி விவசாய சங்கத்தினர் ஆர்ப்ப
-writing [N]: நெடுஞ்சாலையில் தூய்மை பணி
+writing [N]: தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
+writing [N]: தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
@@ -25,206 +31,244 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing 
-ok gemini/gemini-3.6-flash (33s)
-attempt 1 gemini/gemini-3.6-flash: 1 problems
+ok gemini/gemini-3-flash-preview (10s)
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
   sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (36s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (41s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+ok gemini/gemini-3-flash-preview (20s)
+factcheck by gemini/gemini-3-flash-preview: 1 problems
+  The date 'Nov 25' in the caption is not mentioned in the article.
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  fact-check: The date 'Nov 25' in the caption is not mentioned in the article.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (7s)
+attempt 2 groq/openai/gpt-oss-120b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing 
-switching away from gemini/gemini-3-flash-preview for 10 min
+ok gemini/gemini-3-flash-preview (45s)
+factcheck by gemini/gemini-3-flash-preview: 4 problems
+  The names of the victim (Boopathi) and the suspects (Ibrahim and Nishar) are missing from the reel_script
+  The reel_script incorrectly states that the arrest happened after the investigation revealed details, whereas the article says the arrest happened before or during the investigation
+  The reel_script fails to mention that both suspects are from Pugalur Alaimagal Nagar, attributing the location only to the one caught
+  The detail that the youths were 'shocked' (அதிர்ச்சியடைந்த) is an invented detail not found in the article
+attempt 2 gemini/gemini-3-flash-preview: 4 problems
+  fact-check: The names of the victim (Boopathi) and the suspects (Ibrahim and Nishar) are missing from the reel_script
+  fact-check: The reel_script incorrectly states that the arrest happened after the investigation revealed details, whereas the article says the arrest happened before or during the investigation
+  fact-check: The reel_script fails to mention that both suspects are from Pugalur Alaimagal Nagar, attributing the location only to the one caught
+  fact-check: The detail that the youths were 'shocked' (அதிர்ச்சியடைந்த) is an invented detail not found in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok gemini/gemini-3.6-flash (37s)
-attempt 1 gemini/gemini-3.6-flash: 2 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): தென்னிலை ('த.வெ.க., தேர்தல் வாக்குறுதியில் அறிவித்தபடி, விவசாயிகளின் மு')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/openai/gpt-oss-120b (7s)
-attempt 1 groq/openai/gpt-oss-120b: 3 problems
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
   missing key: reel_script
   missing key: caption
   missing key: scenes
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (2s)
+factcheck by groq/qwen/qwen3.8-27b: 4 problems
+  Slides spec slide 3 line 2 states 'இருவரும் புகழூர் மக்கள்' (Both are from Pukazhur), but the article specifies they are from 'புகழூர் அலைமகள் நகர்' (Pukazhur Alai Magal Nagar); while the location is correct, the phrasing in the slide is slightly less precise than the article, but more importantly, the draft's reel_script and caption correctly identify the specific neighborhood. However, looking closely at the article: 'அவா்கள் புகழூா் அலைமகள் நகரைச் சோ்ந்தவா்கள்'. The slide says 'புகழூர் மக்கள்'. This is a minor detail omission but acceptable. Let's look for other errors. 
+Actually, checking the article again: 'பூபதியின் கழுத்தில் கிடந்த 3 பவுன் செயினை'. The draft says '3 பவுன் நகையை'. The article says 'செயினை' (chain/necklace). 'நகை' is a general term for jewelry. This is acceptable. 
+Let's check the names. Article: 'இப்ராஹிம்(20)', 'நிஷாா்(19)'. Draft: 'இப்ராஹிம் (20 வயது)', 'நிஷார் (19 வயது)'. Correct. 
+Let's check the victim. Article: 'பூபதி (43)'. Draft: 'பூபதி (43 வயது)'. Correct. 
+Let's check the location. Article: 'வேலாயுதம்பாளையம் குமரன் நகரைச் சோ்ந்தவா்'. Draft: 'வேலாயுதம்பாளையம் குமரன் நகரைச் சேர்ந்த'. Correct. 
+Let's check the suspects' location. Article: 'புகழூா் அலைமகள் நகரைச் சோ்ந்தவா்கள்'. Draft: 'புகழூர் அலைமகள் நகரைச் சேர்ந்தவர்கள்'. Correct. 
+Is there any missing fact? The article mentions the police registered a case and are searching for Nishar. The draft includes this. 
+Is there any invented detail? No. 
+Is there any ungrammatical sentence? No. 
+Wait, let's look at the slides_spec again. Slide 3, Line 2: 'நிஷார் (19 வயது) தப்பி ஓடினார்; இருவரும் புகழூர் மக்கள்'. The article says they are from 'Pukazhur Alai Magal Nagar'. Saying 'Pukazhur people' is a generalization but not factually wrong. 
+However, often in these tasks, if the specific neighborhood is mentioned in the article, omitting it in a summary slide might be considered a lack of precision, but usually 'problem' implies a factual error. 
+Let's re-read the article carefully for any subtle differences. 
+Article: 'பூபதியின் கழுத்தில் கிடந்த 3 பவுன் செயினை'. 
+Draft: '3 பவுன் நகையை'. 
+Article: 'இரு இளைஞா்களும் அங்கிருந்து ஓடினா்'. 
+Draft: 'இரு இளைஞர்களும் அங்கிருந்து ஓடினர்'. 
+Article: 'பொதுமக்கள் இரு இளைஞா்களில் ஒருவரை பிடித்து'. 
+Draft: 'மக்கள் ஒருவரை பிடித்து'. 
+Everything seems consistent. 
+Let's check the headline. 'வேலாயுதம்பாளையம் அருகே நகை பறிக்க முயன்ற இளைஞர் கைது'. Article title: 'தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது'. The draft headline omits 'from a laborer' but that's a stylistic choice. 
+Is there a problem with the date? Article says 'புதன்கிழமை' (Wednesday). Draft says 'புதன்கிழமை'. 
+Is there a problem with the police station? Article: 'வேலாயுதம்பாளையம் போலீஸில்'. Draft: 'வேலாயுதம்பாளையம் போலீஸில்'. 
+It seems the draft is accurate. 
+Wait, let me double check the 'Pukazhur' vs 'Pukazhur Alai Magal Nagar'. In the slides, it just says 'Pukazhur people'. In the script and caption, it says 'Pukazhur Alai Magal Nagar'. The slide is a summary. Is 'Pukazhur people' a factual error? No, they are from Pukazhur. 
+Let's look for any other potential issues. 
+Article: 'பூபதி (43)'. Draft: '43 வயது'. 
+Article: 'இப்ராஹிம்(20)'. Draft: '20 வயது'. 
+Article: 'நிஷாா்(19)'. Draft: '19 வயது'. 
+All numbers match. 
+Places match. 
+Roles match. 
+Cause of arrest: Attempted snatching. 
+Result: One arrested, one fleeing. 
+I see no factual errors. 
+However, sometimes 'ok' is false if there is a very minor discrepancy. 
+Let's check the Tamil grammar in the slides. 'இருவரும் புகழூர் மக்கள்' is grammatically correct. 
+Let's check the reel script. 'மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.' This is the fixed closing sentence, so it is not a problem. 
+I will mark it as ok: true.
+  problems
+  :
+  []
+attempt 3 groq/qwen/qwen3.8-27b: 4 problems
+  fact-check: Slides spec slide 3 line 2 states 'இருவரும் புகழூர் மக்கள்' (Both are from Pukazhur), but the article specifies they are from 'புகழூர் அலைமகள் நகர்' (Pukazhur Alai Magal Nagar); while the location is correct, the phrasing in the slide is slightly less precise than the article, but more importantly, the draft's reel_script and caption correctly identify the specific neighborhood. However, looking closely at the article: 'அவா்கள் புகழூா் அலைமகள் நகரைச் சோ்ந்தவா்கள்'. The slide says 'புகழூர் மக்கள்'. This is a minor detail omission but acceptable. Let's look for other errors. 
+Actually, checking the article again: 'பூபதியின் கழுத்தில் கிடந்த 3 பவுன் செயினை'. The draft says '3 பவுன் நகையை'. The article says 'செயினை' (chain/necklace). 'நகை' is a general term for jewelry. This is acceptable. 
+Let's check the names. Article: 'இப்ராஹிம்(20)', 'நிஷாா்(19)'. Draft: 'இப்ராஹிம் (20 வயது)', 'நிஷார் (19 வயது)'. Correct. 
+Let's check the victim. Article: 'பூபதி (43)'. Draft: 'பூபதி (43 வயது)'. Correct. 
+Let's check the location. Article: 'வேலாயுதம்பாளையம் குமரன் நகரைச் சோ்ந்தவா்'. Draft: 'வேலாயுதம்பாளையம் குமரன் நகரைச் சேர்ந்த'. Correct. 
+Let's check the suspects' location. Article: 'புகழூா் அலைமகள் நகரைச் சோ்ந்தவா்கள்'. Draft: 'புகழூர் அலைமகள் நகரைச் சேர்ந்தவர்கள்'. Correct. 
+Is there any missing fact? The article mentions the police registered a case and are searching for Nishar. The draft includes this. 
+Is there any invented detail? No. 
+Is there any ungrammatical sentence? No. 
+Wait, let's look at the slides_spec again. Slide 3, Line 2: 'நிஷார் (19 வயது) தப்பி ஓடினார்; இருவரும் புகழூர் மக்கள்'. The article says they are from 'Pukazhur Alai Magal Nagar'. Saying 'Pukazhur people' is a generalization but not factually wrong. 
+However, often in these tasks, if the specific neighborhood is mentioned in the article, omitting it in a summary slide might be considered a lack of precision, but usually 'problem' implies a factual error. 
+Let's re-read the article carefully for any subtle differences. 
+Article: 'பூபதியின் கழுத்தில் கிடந்த 3 பவுன் செயினை'. 
+Draft: '3 பவுன் நகையை'. 
+Article: 'இரு இளைஞா்களும் அங்கிருந்து ஓடினா்'. 
+Draft: 'இரு இளைஞர்களும் அங்கிருந்து ஓடினர்'. 
+Article: 'பொதுமக்கள் இரு இளைஞா்களில் ஒருவரை பிடித்து'. 
+Draft: 'மக்கள் ஒருவரை பிடித்து'. 
+Everything seems consistent. 
+Let's check the headline. 'வேலாயுதம்பாளையம் அருகே நகை பறிக்க முயன்ற இளைஞர் கைது'. Article title: 'தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது'. The draft headline omits 'from a laborer' but that's a stylistic choice. 
+Is there a problem with the date? Article says 'புதன்கிழமை' (Wednesday). Draft says 'புதன்கிழமை'. 
+Is there a problem with the police station? Article: 'வேலாயுதம்பாளையம் போலீஸில்'. Draft: 'வேலாயுதம்பாளையம் போலீஸில்'. 
+It seems the draft is accurate. 
+Wait, let me double check the 'Pukazhur' vs 'Pukazhur Alai Magal Nagar'. In the slides, it just says 'Pukazhur people'. In the script and caption, it says 'Pukazhur Alai Magal Nagar'. The slide is a summary. Is 'Pukazhur people' a factual error? No, they are from Pukazhur. 
+Let's look for any other potential issues. 
+Article: 'பூபதி (43)'. Draft: '43 வயது'. 
+Article: 'இப்ராஹிம்(20)'. Draft: '20 வயது'. 
+Article: 'நிஷாா்(19)'. Draft: '19 வயது'. 
+All numbers match. 
+Places match. 
+Roles match. 
+Cause of arrest: Attempted snatching. 
+Result: One arrested, one fleeing. 
+I see no factual errors. 
+However, sometimes 'ok' is false if there is a very minor discrepancy. 
+Let's check the Tamil grammar in the slides. 'இருவரும் புகழூர் மக்கள்' is grammatically correct. 
+Let's check the reel script. 'மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.' This is the fixed closing sentence, so it is not a problem. 
+I will mark it as ok: true.
+  fact-check: problems
+  fact-check: :
+  fact-check: []
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
 claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1760. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-real photo: no picture on the source page -> AI pictures
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 2046. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-hl1 shortened at a natural break: 'கிருஷ்ணராயபுரம்-பழையஜெயங்கொண்டம் சாலை சுத்தம்' -> 'கிருஷ்ணராயபுரம்-பழையஜெயங்கொண்டம் சுத்தம்'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1760. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-image match: True The photo clearly shows a heavily potholed road running underneath an elevated flyover structure with active traffic.
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
-images made: 2 for 'Potholed road under Sukkaliyur roundabou'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0134","first":"RN-218"}
-posting job started at once
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-real photo: no picture on the source page -> AI pictures
-writing [N]: முருங்கை நடவு குறித்து விழிப்புணர்வு முகாம்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/qwen/qwen3.8-27b (3s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-image match: False The image shows only around ten people rather than a large protest of over 150 farmers, and it appears to be AI-generate
+ok gemini/gemini-3-flash-preview (32s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
-factcheck unavailable: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"request_i
-attempt 1 groq/qwen/qwen3.8-27b: 1 problems
-  fact-check: could not be run
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1402. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5839, Requested 2238. Please try again in 577.5ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
 
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+images made: 2 for 'Karur Collector distributes ₹1.58 crore '
 image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Over 150 farmers stage protest in Kulith'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0134","first":"RN-219"}
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0431","first":"RN-221"}
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-real photo: no picture on the source page -> AI pictures
-writing [N]: கரூர் அருகே பாசன வாய்க்காலில் ஆகாய தாமரை செடிகள் அகற்றம்
-writing [N]: 100 கவுளி வெற்றிலை ரூ.3,000க்கு விற்பனை
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+posting job started at once
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
+image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
+real photo skipped (photo uploaded 2026-11-14 (older than the news)): https://media.dinamani.com/dinamani/2026-11-14/3zpfxwhp/%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%
+real photo skipped (photo uploaded 2026-11-14 (older than the news)): https://media.dinamani.com/dinamani/2026-11-14/3zpfxwhp/கைது.jfif?w=1200&h=675&auto=format
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Moringa planting awareness camp held in '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0134","first":"RN-220"}
-writing [N]: கழிவுநீர் சுத்திகரிப்பு நிலையத்தை இடம் மாற்ற செய்ய மக்கள் கோ
-writing [N]: கரூர் மாவட்டத்தில் பரவலாக சாரல் மழை: மக்களின் இயல்பு வாழ்க்க
-writing [N]: மானாவாரி நிலங்களில் எள் அறுவடை
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+images made: 2 for 'Youth arrested for attempting to snatch '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0432","first":"RN-222"}
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
+image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Demand to speed up culvert construction '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0432","first":"RN-223"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/velayuthampalayam-near-cannabis-seller-young-man-arrested/4386473
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/widespread-rainfall-in-karur-district-normal-life-affected/4386475
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sesame-harvest-in-rainfed-lands/4386478
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-demand-shifting-of-sewage-treatment-plant/4386482
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/100-gauli-betel-nut-sold-for-rs-3000/4386474
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-aerial-lotus-plants-in-karur-near-irrigation-channel/4386481
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-camp-on-moringa-plantation/4386472
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/farmersunions-protest-against-crop-loan-waiver/4386480
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/the-bumpy-and-potholed-road-below-the-roundana-bridge/4386477
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cleaning-work-on-the-highway/4386479
-candidate filter: collected=10
-to write: 10 Karur district candidates (max 10 stories)
-round: top 10 of 10 candidates
-candidates waiting: 10 Karur; time left 79 min
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
+manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தொழிலாளியிடம்-நகையை-பறிக்க-முயன்ற-இளைஞா்-கைது
+manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தரைமட்ட-பாலப்-பணிகளை-விரைந்து-முடிக்க-கோரிக்கை
+manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/welfare-assistance-of-rs-158-crore-to-158-people-at-the-closing-ceremony-of-the-peoples-contact-project-camp
+candidate filter: collected=3
+to write: 3 Karur district candidates (max 3 stories)
+round: top 3 of 3 candidates
+candidates waiting: 3 Karur; time left 79 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-NOT filed (N) நெடுஞ்சாலையில் தூய்மை பணி: bad draft: 'scenes'
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-NOT filed (N) கரூர் அருகே பாசன வாய்க்காலில் ஆகாய தாமரை செடிகள் அ: all free models failed: no usable answer from the models
-NOT filed (N) 100 கவுளி வெற்றிலை ரூ.3,000க்கு விற்பனை: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-NOT filed (N) மானாவாரி நிலங்களில் எள் அறுவடை: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-NOT filed (N) கரூர் மாவட்டத்தில் பரவலாக சாரல் மழை: மக்களின் இயல்: all free models failed: no usable answer from the models
-NOT filed (N) கழிவுநீர் சுத்திகரிப்பு நிலையத்தை இடம் மாற்ற செய்ய: all free models failed: no usable answer from the models
-NOT filed (N) வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது: all free models failed: no usable answer from the models
-candidate loop ended: left 0, tried={'N': 10}, done={'N': 3}, time left 77 min
-filed: 3 Karur district stories (target 10), reels only
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min
+filed: 3 Karur district stories (target 3), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":10,"updated":0} 
+All News sheet: {"ok":true,"added":3,"updated":0} 
 stories: 3
