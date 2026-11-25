@@ -1,77 +1,164 @@
 {
- "last_end": "2026-11-25T05:04:39.933473+05:30",
- "pool": {},
- "rounds": {
-  "2026-11-23_08": {
-   "window": [
-    "2026-11-23T04:28:13.798397+05:30",
-    "2026-11-23T08:27:28.606745+05:30"
-   ],
-   "ids": [
-    "C06d12eb",
-    "C18524c7",
-    "Ce162f5e",
-    "C778e939",
-    "C077ed4e",
-    "C7ef2bab",
-    "Cd4db721",
-    "C6c84603",
-    "C4e85d20",
-    "C8b15350",
-    "C40696f5",
-    "C9e89013",
-    "C2414957",
-    "Cfd69a93",
-    "C05819bb",
-    "Cbe55ba8",
-    "C657ef36"
-   ],
-   "sent": false,
-   "deadline": "2026-11-23T09:27:28.606745+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 16 by insights",
-    "ids": [
-     "C06d12eb",
-     "C18524c7",
-     "Ce162f5e",
-     "C4e85d20",
-     "C778e939",
-     "C7ef2bab",
-     "Cd4db721",
-     "C6c84603",
-     "C077ed4e",
-     "C40696f5",
-     "C9e89013",
-     "C2414957",
-     "Cfd69a93",
-     "C05819bb",
-     "Cbe55ba8",
-     "C657ef36"
-    ],
-    "at": "2026-11-23T08:30:05.924283+05:30"
-   },
-   "written": [
-    "C05819bb",
-    "C06d12eb",
-    "C077ed4e",
-    "C18524c7",
-    "C2414957",
-    "C40696f5",
-    "C4e85d20",
-    "C657ef36",
-    "C6c84603",
-    "C778e939",
-    "C7ef2bab",
-    "C9e89013",
-    "Cbe55ba8",
-    "Cd4db721",
-    "Ce162f5e",
-    "Cfd69a93"
-   ],
-   "refused": {
-    "Cd4db721": "not filed: all free models failed: no usable answer from the models"
-   }
+ "last_end": "2026-11-25T06:28:57.958725+05:30",
+ "pool": {
+  "Ca3b1683": {
+   "id": "Ca3b1683",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rainfall-in-the-surrounding-areas-of-karur/4385557",
+   "title": "கரூர் சுற்று வட்டார பகுதிகளில் மழை",
+   "summary": "கரூர்: கரூர் மற்றும் சுற்று வட்டார பகுதிகளில், நேற்று குளிர்ந்த காற்றுடன் திடீரென மழை பெய்தது. தென்கிழக்கு வங்கக்கடல் பகுதியில், மேல் நிலவும் வளி மண்டல கீழடுக்கு, சுழற்சி காரணமாக புயல் உருவாகியுள்ளது.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:32:00+05:30",
+   "category": "மழை / வானிலை",
+   "score": 11.09,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
   },
+  "Cc3a43b5": {
+   "id": "Cc3a43b5",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rainwater-harvesting-awareness-rally/4385565",
+   "title": "மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி",
+   "summary": "குளித்தலை; குளித்தலை ஊராட்சி ஒன்றியம், வைகைநல்லுாரில் மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி நடந்தது. மண்டல துணை வளர்ச்சி அலுவலர் சாந்தி பேரணியை தொடங்கி வைத்தார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:36:00+05:30",
+   "category": "மழை / வானிலை",
+   "score": 11.09,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "Ccf83c5c": {
+   "id": "Ccf83c5c",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/passengers-suffer-as-rainwater-overflows-on-state-run-town-bus/4385570",
+   "title": "அரசு டவுன் பஸ்சில் ஒழுகிய மழைநீரால் பயணிகள் அவதி",
+   "summary": "கரூர; கரூர் அருகே சென்று கொண்டிருந்த அரசு டவுன் பஸ்சில் மழைநீர் ஒழுகியதால், பயணிகள் அவதிப்பட்டனர். நாமக்கல் மாவட்டம், வேலுாரில் இருந்து நேற்று மதியம், கரூருக்கு அரசு டவுன் பஸ் புறப்பட்டது.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:40:00+05:30",
+   "category": "மழை / வானிலை",
+   "score": 11.09,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C9ffdc3e": {
+   "id": "C9ffdc3e",
+   "url": "https://www.dinakaran.com/district/karur_251126_2",
+   "title": "வெள்ளியணையில் வரத்து வாய்க்காலில் வளர்ந்துள்ள கோரைப்புற்களை தூர்வார கோரிக்கை - Dinakaran",
+   "summary": "25: கரூர் மாவட்டம், வெள்ளியணை பகுதியில் உள்ள வரத்து வாய்க்காலில் படர்ந்துள்ள கோரைப் புற்களை அகற்ற வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.",
+   "source": "தினகரன்",
+   "published": "2026-11-25T05:47:30+05:30",
+   "category": "பொது",
+   "score": 10.0,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C133e048": {
+   "id": "C133e048",
+   "url": "https://www.dinakaran.com/district/karur_251126_3",
+   "title": "மாயனூர் காவல் நிலையம் முன் மாயமான இளம்பெண்ணின் உறவினர்கள் தர்ணா போராட்டம் - Dinakaran",
+   "summary": "கிருஷ்ணராயபுரம், நவ.25: கரூர் மாவட்டம் கிருஷ்ணராயபுரம் அருகே மணவாசி ஊராட்சி அரவணாம்பேட்டை பகுதியைச் சேர்ந்த 19 வயது இளம்பெண் கடந்த 21ம் தேதி மாயமானார்.",
+   "source": "தினகரன்",
+   "published": "2026-11-25T05:47:48+05:30",
+   "category": "பொது",
+   "score": 10.0,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C14a4ff0": {
+   "id": "C14a4ff0",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/another-schoolboy-killed-in-road-accident/4385561",
+   "title": "சாலை விபத்தில் மேலும் ஒரு பள்ளி மாணவன் பலி",
+   "summary": "குளித்தலை; குளித்தலை அருகே நடந்த சாலை விபத்தில், மேலும் ஒரு மாணவன் உயிரிழந்தார். குளித்தலை அடுத்த, கிருஷ்ணராயபுரம் அருகே பொய்கைப்புத்துாரில் ஸ்கூட்டி மீது, பி.எம்.டபிள்யு., சொகுசு கார் மோதிய விபத்தில், நேற்று முன்தினம...",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:34:00+05:30",
+   "category": "விபத்து",
+   "score": 9.8,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C0aafaa6": {
+   "id": "C0aafaa6",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/distribution-of-uniforms-to-first-class-students/4385560",
+   "title": "முதல் வகுப்பு மாணவர்களுக்கு சீருடை வினியோகம்",
+   "summary": "கரூர்: கரூர் மாவட்டத்தில், முதல் வகுப்பு மாணவர்களுக்கு இலவச சீருடை வினியோகம் நடந்து வருகிறது. கரூர் மாவட்டத்தில் உள்ள, 881 அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில், 1 முதல் பிளஸ் 2 வரை பயிலும், 77,745 மாணவ, மாணவியருக்...",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:33:00+05:30",
+   "category": "பொது",
+   "score": 6.8,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C34bce02": {
+   "id": "C34bce02",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/petition-to-collector-urges-him-to-stop-installation-of-wind-power-poles/4385569",
+   "title": "காற்றாலை மின் கம்பங்கள் அமைப்பதை தடுக்க வலியுறுத்தி கலெக்டரிடம் மனு",
+   "summary": "கரூர்; சாலையின் இருபுறமும், தனி யார் காற்றாலை நிறுவனம் மின் கம்பங்கள் அமைப்பதை தடுக்க வேண்டும் என, நாகம்பள்ளி பொதுமக்கள், கரூர் கலெக்டர் அலுவலகத்தில் மனு அளித்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:39:00+05:30",
+   "category": "பொது",
+   "score": 6.0,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C639f0b2": {
+   "id": "C639f0b2",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/a-cave-tunnel-is-expected-to-be-constructed-on-the-command-road-railway-line/4385564",
+   "title": "கட்டளை சாலை ரயில்வே வழித்தடத்தில் குகை வழிப்பாதை அமைக்க எதிர்பார்ப்பு",
+   "summary": "கரூர்: கரூர் அருகே, திருச்சி ரயில்வே வழித்தடத்தில் பெரிய அளவிலான, குகை வழிப்பாதை அமைக்க வேண்டும் என, மக்கள் எதிர்பார்க்கின்றனர். கரூர் - திருச்சி ரயில்வே வழித்தடம் ஒருபுறம் காவிரியாறு, மறுபுறம் கிளை வாய்க்கால் மற்றும்...",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:35:00+05:30",
+   "category": "சாலை",
+   "score": 5.67,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C49d2f43": {
+   "id": "C49d2f43",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/7-hindu-organisations-put-under-house-arrest/4385559",
+   "title": "இந்து அமைப்பினர் 7 பேர் வீட்டு சிறையில் வைப்பு",
+   "summary": "கரூர்; கரூரில், இந்து அமைப்புகளை சேர்ந்த ஏழு பேர், நேற்று வீட்டு காவலில் வைக்கப்பட்டனர். மதுரை மாவட்டம், திருப்பரங்குன்றம் மலை உச்சியில் தீபம் ஏற்ற வேண்டும் என, உச்சநீதி மன்றம் சமீபத்தில் உத்தரவிட்டது.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:33:00+05:30",
+   "category": "குற்றம்",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C0cd871a": {
+   "id": "C0cd871a",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sita-fruit-piles-up-at-the-start-of-the-season/4385562",
+   "title": "சீசன் துவங்கிய நிலையில் குவிந்தது சீத்தா பழம்",
+   "summary": "கரூர்; கரூர் மற்றும் சுற்று வட்டார பகுதிகளில், சீசன் தொடங்கிய நிலையில், சீத்தா பழம் விற்பனைக்காக குவிந்துள்ளது. மஹாராஷ்டிரா, கர்நாடகா மாநிலங்களில் சீத்தா பழம் சாகுபடி அதிகளவில் நடக்கிறது.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:35:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C8246f5d": {
+   "id": "C8246f5d",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/inspection-by-labour-department-officials/4385567",
+   "title": "தொழிலாளர் நலத்துறை அதிகாரிகள் ஆய்வு",
+   "summary": "குளித்தலை: குளித்தலையில் மளிகை கடை, ஹோட்டல், பேக்கரி, பலகார கடை, பேன்சி ஸ்டோர், பேக்கரி, எலக்ட்ரிக் கடை, பூக்கடை மற்றும் பல்வேறு கடைகளில் தொழிலாளர் நலத்துறை அதிகாரிகள் ஆய்வு மேற்கொண்டனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:38:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  },
+  "C9e7e8fa": {
+   "id": "C9e7e8fa",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/congress-mp-who-is-running-as-a-minister-waited-for-1-45-hours-and-was-crushed-by-the-officials/4385572",
+   "title": "அமைச்சராக வலம் வரும் காங்., எம்.பி.,ஜோதிமணி 1.45 மணி நேரம் காத்திருந்து நொந்துபோன அதிகாரிகள்",
+   "summary": "கரூர்: கரூர் காங்., எம்.பி., ஜோதிமணி, கண்காணிப்பு குழு கூட்டத்திற்கு, 1.45 மணி நேரம் தாமதமாக வந்ததால், அரசு அதிகாரிகள் நொந்து போயினர். தன்னை அமைச்சர் போல் நினைத்து அவர் வலம் வருவதாக, த.வெ.க.,வினர் குற்றம்சாட்டுகின்றனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-25T05:41:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-25T06:28:57.958725+05:30"
+  }
+ },
+ "rounds": {
   "2026-11-23_12": {
    "window": [
     "2026-11-23T08:27:28.606745+05:30",
@@ -450,7 +537,46 @@
    "deadline": "2026-11-25T06:04:39.933473+05:30",
    "decided": null,
    "written": []
+  },
+  "2026-11-25_06": {
+   "window": [
+    "2026-11-25T05:04:39.933473+05:30",
+    "2026-11-25T06:28:57.958725+05:30"
+   ],
+   "ids": [
+    "Ca3b1683",
+    "Cc3a43b5",
+    "Ccf83c5c",
+    "C9ffdc3e",
+    "C133e048",
+    "C14a4ff0",
+    "C0aafaa6",
+    "C34bce02",
+    "C639f0b2",
+    "C49d2f43",
+    "C0cd871a",
+    "C8246f5d",
+    "C9e7e8fa"
+   ],
+   "sent": false,
+   "deadline": "2026-11-25T07:28:57.958725+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {}
+ "retry": {
+  "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/23/car-collides-with-two-wheeler-2-school-students-killed-5-others-sustain-injuries": {
+   "it": {
+    "key": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/23/car-collides-with-two-wheeler-2-school-students-killed-5-others-sustain-injuries",
+    "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/23/car-collides-with-two-wheeler-2-school-students-killed-5-others-sustain-injuries",
+    "title": "",
+    "source": "தினமணி கரூர்",
+    "published": "",
+    "via": "listing",
+    "query": "https://www.dinamani.com/all-editions/edition-trichy/karur",
+    "snippet": ""
+   },
+   "first": "2026-11-25T06:28:57.958725+05:30"
+  }
+ }
 }
