@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-26T04:27:53.547291+05:30",
+ "last_end": "2026-11-26T05:04:11.390463+05:30",
  "pool": {
   "Ca3b1683": {
    "id": "Ca3b1683",
@@ -236,74 +236,9 @@
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
    "picked_at": "2026-11-26T01:31:50.804595+05:30",
    "refused": "not filed: bad draft: 'scenes'"
-  },
-  "Cddb82cd": {
-   "id": "Cddb82cd",
-   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தொழிலாளியிடம்-நகையை-பறிக்க-முயன்ற-இளைஞா்-கைது",
-   "title": "தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது",
-   "summary": "வேலாயுதம்பாளையம் அருகே தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் புதன்கிழமை கைது செய்யப்பட்டாா்..கரூா் மாவட்டம், வேலாயுதம்பாளையம் குமரன் நகரைச் சோ்ந்தவா் பூபதி (43) .",
-   "source": "தினமணி",
-   "published": "2026-11-25T21:11:05.141Z",
-   "category": "குற்றம்",
-   "score": 13.5,
-   "power_cut": false,
-   "alts": [
-    "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%9F%E0%AE%AE%E0%AF%8D-%E0%AE%A8%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%88-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95-%E0%AE%AE%E0%AF%81%E0%AE%AF%E0%AE%A9%E0%AF%8D%E0%AE%B1-%E0%AE%87%E0%AE%B3%E0%AF%88%E0%AE%9E%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
-   ],
-   "listed_at": "2026-11-26T04:27:53.547291+05:30",
-   "picked_at": "2026-11-26T04:29:18.303498+05:30",
-   "posted": true
-  },
-  "Ca6c4710": {
-   "id": "Ca6c4710",
-   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தரைமட்ட-பாலப்-பணிகளை-விரைந்து-முடிக்க-கோரிக்கை",
-   "title": "தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை",
-   "summary": "கரூா் சின்னாண்டாங்கோவில் சாலையில் கேசிபி நகா் பகுதியில் கட்டப்படும் கழிவுநீா் தரைமட்டப் பாலப்பணிகளை விரைந்து முடிக்க வேண்டும் என வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனா்..சின்னாண்டாங்கோவில் சாலையில் கேசிபி நகா் பகுதியில்...",
-   "source": "தினமணி",
-   "published": "2026-11-25T20:55:50.703Z",
-   "category": "பொது",
-   "score": 11.0,
-   "power_cut": false,
-   "alts": [
-    "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/%E0%AE%A4%E0%AE%B0%E0%AF%88%E0%AE%AE%E0%AE%9F%E0%AF%8D%E0%AE%9F-%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%88-%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%88%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95-%E0%AE%95%E0%AF%8B%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88"
-   ],
-   "listed_at": "2026-11-26T04:27:53.547291+05:30",
-   "picked_at": "2026-11-26T04:29:18.303502+05:30",
-   "posted": true
-  },
-  "C5037b1f": {
-   "id": "C5037b1f",
-   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/welfare-assistance-of-rs-158-crore-to-158-people-at-the-closing-ceremony-of-the-peoples-contact-project-camp",
-   "title": "மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.1.58 கோடி நலத்திட்ட உதவிகள்",
-   "summary": "நாகம்பள்ளி கிராமத்தில் புதன்கிழமை நடைபெற்ற மக்கள் தொடா்பு திட்ட முகாம் நிறைவு விழாவில் 158 பயனாளிகளுக்கு ரூ.1.58 கோடி மதிப்பிலான நலத்திட்ட உதவிகளை மாவட்ட ஆட்சியா் ச.பிரசன்னா ராமசாமி வழங்கினாா்..கரூா் மாவட்டம் அரவக்குற...",
-   "source": "தினமணி",
-   "published": "2026-11-25T20:51:20.622Z",
-   "category": "பொது",
-   "score": 7.0,
-   "power_cut": false,
-   "listed_at": "2026-11-26T04:27:53.547291+05:30",
-   "picked_at": "2026-11-26T04:29:18.303505+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-24_11": {
-   "window": [
-    "2026-11-24T10:01:10.436544+05:30",
-    "2026-11-24T11:43:03.700724+05:30"
-   ],
-   "ids": [
-    "C3a2dc24"
-   ],
-   "sent": false,
-   "deadline": "2026-11-24T12:43:03.700724+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 0 by insights",
-    "ids": [],
-    "at": "2026-11-24T11:44:09.710981+05:30"
-   },
-   "written": []
-  },
   "2026-11-24_12": {
    "window": [
     "2026-11-24T11:43:03.700724+05:30",
@@ -737,6 +672,19 @@
     "Ca6c4710",
     "Cddb82cd"
    ]
+  },
+  "2026-11-26_05": {
+   "window": [
+    "2026-11-26T04:27:53.547291+05:30",
+    "2026-11-26T05:04:11.390463+05:30"
+   ],
+   "ids": [
+    "Cc3a43b5"
+   ],
+   "sent": false,
+   "deadline": "2026-11-26T06:04:11.390463+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}

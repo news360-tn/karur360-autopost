@@ -1,49 +1,9 @@
-04:27:53 round 2026-11-26_04: news published 26 Nov 01:30 -> 26 Nov 04:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-04:27:53 insights 2026-11-26T04:27+05:30 (204 reels): topic weights {'temple': -0.07, 'accident': 0.82, 'education': -0.2, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.16, 'politics': 0.1, 'civic': -0.28, 'crime': 1.5, 'weather': 0.12}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-04:28:37 open search 'கரூர்' (from_google): 2 links from our outlets
-04:28:37 81 links on the two papers' Karur pages
-04:29:15 skipped: published before this window=28, not Karur district=13, already posted=12, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
-04:29:15 list: 3 new + 1 earlier news not posted yet
-04:29:15    1. [குற்றம்] தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது (தினமணி)
-04:29:15    2. [பொது] தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை (தினமணி)
-04:29:15    3. [பொது] மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.1.58 கோடி  (தினமணி)
-04:29:15    4. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-04:29:15 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-26_04
-04:29:18    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-04:29:18 round 2026-11-26_04 (at least 7, up to 3 more of well-watched topics): 3 news to choose from (0 from earlier rounds), ranked by this page's insights
-04:29:18   PICK   1.  18.0 [crime +1.50 page] தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது
-04:29:18   PICK   2.  11.0 [other +0.00 pattern] தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
-04:29:18   PICK   3.   7.0 [other +0.00 pattern] மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
-04:29:18 decided: automatic: top 7 of 3 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தொழிலாளியிடம்-நகையை-பறிக்க-முயன்ற-இளைஞா்-கைது https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தரைமட்ட-பாலப்-பணிகளை-விரைந்து-முடிக்க-கோரிக்கை https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/welfare-assistance-of-rs-158-crore-to-158-people-at-the-closing-ceremony-of-the-peoples-contact-project-camp
-04:32:30 3 listed news now in the Sheet
-04:32:43 instagram duplicate check karur: 50 recent posts read
-04:32:43 verify 2026-11-26_04: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-04:32:43    SKIPPED C5037b1f: skipped RN-221: held: fact-check problems - fact-check: The date 'Nov 25' in the caption is not mentioned in the article. - மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
-04:32:43    NOT POSTED Ca6c4710: queued RN-223 (Queued) - தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
-04:32:43    NOT POSTED Cddb82cd: queued RN-222 (Queued) - தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது
-04:37:51 instagram duplicate check karur: 50 recent posts read
-04:37:51 verify 2026-11-26_04: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-04:37:51    SKIPPED C5037b1f: skipped RN-221: held: fact-check problems - fact-check: The date 'Nov 25' in the caption is not mentioned in the article. - மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
-04:37:51    NOT POSTED Ca6c4710: queued RN-223 (Queued) - தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
-04:37:51    NOT POSTED Cddb82cd: queued RN-222 (Queued) - தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது
-04:43:00 instagram duplicate check karur: 50 recent posts read
-04:43:00 verify 2026-11-26_04: 0 of 3 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-04:43:00    SKIPPED C5037b1f: skipped RN-221: held: fact-check problems - fact-check: The date 'Nov 25' in the caption is not mentioned in the article. - மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
-04:43:00    SKIPPED Cddb82cd: skipped RN-222: already on Instagram (2026-11-25T23:12:47+0000) - தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது
-04:43:00    NOT POSTED Ca6c4710: queued RN-223 (Queued) - தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
-04:48:08 instagram duplicate check karur: 50 recent posts read
-04:48:08 verify 2026-11-26_04: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-04:48:08    SKIPPED C5037b1f: skipped RN-221: held: fact-check problems - fact-check: The date 'Nov 25' in the caption is not mentioned in the article. - மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
-04:48:08    NOT POSTED Ca6c4710: queued RN-223 (Queued) - தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
-04:53:15 instagram duplicate check karur: 50 recent posts read
-04:53:15 verify 2026-11-26_04: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-04:53:15    SKIPPED C5037b1f: skipped RN-221: held: fact-check problems - fact-check: The date 'Nov 25' in the caption is not mentioned in the article. - மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
-04:53:15    NOT POSTED Ca6c4710: queued RN-223 (Queued) - தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
-04:58:22 instagram duplicate check karur: 50 recent posts read
-04:58:22 verify 2026-11-26_04: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-04:58:22    SKIPPED C5037b1f: skipped RN-221: held: fact-check problems - fact-check: The date 'Nov 25' in the caption is not mentioned in the article. - மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
-04:58:22    NOT POSTED Ca6c4710: queued RN-223 (Queued) - தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை
-05:03:28 verify 2026-11-26_04: 2 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:03:28    SKIPPED C5037b1f: skipped RN-221: held: fact-check problems - fact-check: The date 'Nov 25' in the caption is not mentioned in the article. - மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.
+05:04:11 round 2026-11-26_05: news published 26 Nov 04:27 -> 26 Nov 05:04 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+05:04:11 insights 2026-11-26T05:04+05:30 (207 reels): topic weights {'temple': -0.1, 'accident': 0.78, 'education': -0.23, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.13, 'politics': 0.08, 'civic': -0.3, 'crime': 1.5, 'weather': 0.13}; best openings ['⚠️ சுக்காலியூர் ரவுண்டானா பாலத்தின் கீழ் குண்டும் குழியுமான சாலை - சீரமைக்க கோரி', '🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை']
+05:04:23 open search 'கரூர்' (from_google): 0 links from our outlets
+05:04:23 73 links on the two papers' Karur pages
+05:04:47 skipped: published before this window=28, already posted=15, not Karur district=7, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
+05:04:47 list: 0 new + 1 earlier news not posted yet
+05:04:47    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+05:04:47 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-26_05
