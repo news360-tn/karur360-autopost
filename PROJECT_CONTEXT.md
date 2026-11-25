@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `72156c0` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
+| 2026-11-25 | `91ce6b4` | stories shared / Instagram pause |
+| 2026-11-25 | `2c631cf` | facebook RN-214 |
+| 2026-11-25 | `384287d` | posted RN-214 |
+| 2026-11-25 | `ec4bd5e` | stories shared / Instagram pause |
+| 2026-11-25 | `ff98d9e` | stories shared / Instagram pause |
+| 2026-11-25 | `3239c9e` | facebook RN-205 |
+| 2026-11-25 | `687abc3` | posted RN-205 |
+| 2026-11-25 | `29f98fc` | powercut: notices written |
+| 2026-11-25 | `01ebb0f` | stories shared / Instagram pause |
 | 2026-11-25 | `5cf0115` | Watchdog: ignore the shared rasipalan text files (rasis_*.json) - they stopped the watchdog on every run |
 | 2026-11-25 | `d78eed9` | stories shared / Instagram pause |
 | 2026-11-25 | `37f78c8` | facebook RN-213 |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `ab12421` | stories shared / Instagram pause |
 | 2026-11-25 | `c210935` | stories shared / Instagram pause |
 | 2026-11-25 | `e6272cb` | stories shared / Instagram pause |
-| 2026-11-25 | `591431e` | stories shared / Instagram pause |
-| 2026-11-25 | `e8cd2a6` | YouTube: public Shorts, 20 a day, 40-minute gap, 7am-10pm IST (same as Namakkal and Coimbatore); starts once the page's YT secrets are saved |
-| 2026-11-25 | `ed8ea3a` | R2 check: manual workflow that uploads a test file and reads it back |
-| 2026-11-25 | `0555a69` | pick: written and posted |
-| 2026-11-25 | `2c164c7` | pick: picked news saved |
-| 2026-11-25 | `19c720c` | pick: list sent |
-| 2026-11-25 | `3e69687` | stories shared / Instagram pause |
-| 2026-11-25 | `ffa7d16` | stories shared / Instagram pause |
-| 2026-11-25 | `40b3fe7` | stories shared / Instagram pause |
-| 2026-11-25 | `8c939ae` | Cloudflare R2 (one shared bucket news360-media) replaces Cloudinary: R2 first, then Cloudinary, then the repo; nothing changes until the R2 secrets are saved; manual-post test uses today's date |
 <!-- recent-changes:end -->
