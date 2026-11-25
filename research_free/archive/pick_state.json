@@ -12,7 +12,8 @@
    "score": 11.09,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758154+05:30"
+   "picked_at": "2026-11-25T06:31:15.758154+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Cc3a43b5": {
    "id": "Cc3a43b5",
@@ -37,7 +38,8 @@
    "score": 11.09,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758156+05:30"
+   "picked_at": "2026-11-25T06:31:15.758156+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C9ffdc3e": {
    "id": "C9ffdc3e",
@@ -50,7 +52,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758159+05:30"
+   "picked_at": "2026-11-25T06:31:15.758159+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C133e048": {
    "id": "C133e048",
@@ -63,7 +66,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758160+05:30"
+   "picked_at": "2026-11-25T06:31:15.758160+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C14a4ff0": {
    "id": "C14a4ff0",
@@ -76,7 +80,8 @@
    "score": 9.8,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758162+05:30"
+   "picked_at": "2026-11-25T06:31:15.758162+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C0aafaa6": {
    "id": "C0aafaa6",
@@ -89,7 +94,8 @@
    "score": 6.8,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758163+05:30"
+   "picked_at": "2026-11-25T06:31:15.758163+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C34bce02": {
    "id": "C34bce02",
@@ -102,7 +108,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758165+05:30"
+   "picked_at": "2026-11-25T06:31:15.758165+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C639f0b2": {
    "id": "C639f0b2",
@@ -115,7 +122,8 @@
    "score": 5.67,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758167+05:30"
+   "picked_at": "2026-11-25T06:31:15.758167+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C49d2f43": {
    "id": "C49d2f43",
@@ -128,7 +136,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758169+05:30"
+   "picked_at": "2026-11-25T06:31:15.758169+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C0cd871a": {
    "id": "C0cd871a",
@@ -141,7 +150,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758170+05:30"
+   "picked_at": "2026-11-25T06:31:15.758170+05:30",
+   "posted": true
   },
   "C8246f5d": {
    "id": "C8246f5d",
@@ -154,7 +164,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758171+05:30"
+   "picked_at": "2026-11-25T06:31:15.758171+05:30",
+   "posted": true
   },
   "C9e7e8fa": {
    "id": "C9e7e8fa",
@@ -167,7 +178,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758173+05:30"
+   "picked_at": "2026-11-25T06:31:15.758173+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -603,7 +615,18 @@
     "C9ffdc3e",
     "Ca3b1683",
     "Ccf83c5c"
-   ]
+   ],
+   "refused": {
+    "C49d2f43": "not filed: all free models failed: no usable answer from the models",
+    "C639f0b2": "not filed: all free models failed: no usable answer from the models",
+    "C34bce02": "not filed: all free models failed: no usable answer from the models",
+    "C0aafaa6": "not filed: all free models failed: no usable answer from the models",
+    "C14a4ff0": "not filed: all free models failed: no usable answer from the models",
+    "C133e048": "not filed: all free models failed: no usable answer from the models",
+    "C9ffdc3e": "not filed: all free models failed: no usable answer from the models",
+    "Ccf83c5c": "not filed: all free models failed: no usable answer from the models",
+    "Ca3b1683": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {
