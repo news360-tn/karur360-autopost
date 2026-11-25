@@ -3,271 +3,308 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/இருசக்கர-வாகனம்-மீது-காா்-மோதிய-விபத்து-உயிரிழந்தோா்-எண்ணிக்கை-3-ஆக-உயா்வு",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/மத்திய-மாநில-அரசின்-வளா்ச்சித்-திட்டங்கள்-உரிய-நேரத்தில்-மக்களை-சென்றடைய-வேண்டும்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/புகழிமலையில்-பக்தா்கள்-கிரிவலம்",
-  "candidate filter: collected=3",
-  "to write: 3 Karur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rainfall-in-the-surrounding-areas-of-karur/4385557",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/passengers-suffer-as-rainwater-overflows-on-state-run-town-bus/4385570",
+  "manual link added: https://www.dinakaran.com/district/karur_251126_2",
+  "manual link added: https://www.dinakaran.com/district/karur_251126_3",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/another-schoolboy-killed-in-road-accident/4385561",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/distribution-of-uniforms-to-first-class-students/4385560",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/petition-to-collector-urges-him-to-stop-installation-of-wind-power-poles/4385569",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/a-cave-tunnel-is-expected-to-be-constructed-on-the-command-road-railway-line/4385564",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/7-hindu-organisations-put-under-house-arrest/4385559",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sita-fruit-piles-up-at-the-start-of-the-season/4385562",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/inspection-by-labour-department-officials/4385567",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/congress-mp-who-is-running-as-a-minister-waited-for-1-45-hours-and-was-crushed-by-the-officials/4385572",
+  "candidate filter: collected=12",
+  "to write: 12 Karur district candidates (max 12 stories)",
+  "round: top 12 of 12 candidates",
+  "candidates waiting: 12 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
-  "filed: 3 Karur district stories (target 3), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "NOT filed (N) இந்து அமைப்பினர் 7 பேர் வீட்டு சிறையில் வைப்பு: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "NOT filed (N) முதல் வகுப்பு மாணவர்களுக்கு சீருடை வினியோகம்: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "NOT filed (N) காற்றாலை மின் கம்பங்கள் அமைப்பதை தடுக்க வலியுறுத்த: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_251126_3",
+  "NOT filed (N) கட்டளை சாலை ரயில்வே வழித்தடத்தில் குகை வழிப்பாதை அ: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_251126_2",
+  "NOT filed (N) வெள்ளியணையில் வரத்து வாய்க்காலில் வளர்ந்துள்ள கோரை: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "NOT filed (N) மாயனூர் காவல் நிலையம் முன் மாயமான இளம்பெண்ணின் உறவ: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
+  "NOT filed (N) சாலை விபத்தில் மேலும் ஒரு பள்ளி மாணவன் பலி: all free models failed: no usable answer from the models",
+  "NOT filed (N) கரூர் சுற்று வட்டார பகுதிகளில் மழை: all free models failed: no usable answer from the models",
+  "NOT filed (N) அரசு டவுன் பஸ்சில் ஒழுகிய மழைநீரால் பயணிகள் அவதி: all free models failed: no usable answer from the models",
+  "candidate loop ended: left 0, tried={'N': 12}, done={'N': 3}, time left 77 min",
+  "filed: 3 Karur district stories (target 12), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":12,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (31s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (32s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (36s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "ok gemini/gemini-3.6-flash (22s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (42s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (43s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
  ],
  "stories": [
   {
-   "tamil_headline": "புகழிமலையில் கார்த்திகை பௌர்ணமி கிரிவலம்: திரளான பக்தர்கள் சாமி தரிசனம்",
-   "english_headline": "Devotees perform Girivalam at Pugazhimalai Balasubramaniaswamy temple in Karur district on Karthigai Pournami",
-   "category": "Temples & Events",
-   "location": "Pugazhimalai, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கிரிவலம்",
-    "loc": "புகழிமலை",
-    "hl1": "புகழிமலையில் பௌர்ணமி கிரிவலம்",
-    "hl2": "திரளான பக்தர்கள் பங்கேற்பு",
-    "slides": [
-     {
-      "title": "கிரிவலம்",
-      "lines": [
-       "கார்த்திகை மாத <b>பௌர்ணமி</b>",
-       "புகழிமலையைச் சுற்றி பக்தர்கள் கிரிவலம்",
-       "செவ்வாய்க்கிழமை திரளானோர் பங்கேற்பு"
-      ]
-     },
-     {
-      "title": "சுவாமி தரிசனம்",
-      "lines": [
-       "சுந்தரேசுவரர், நடராஜப் பெருமான் வழிபாடு",
-       "பாலசுப்ரமணிய சுவாமியைப் போற்றிப் பாடல்",
-       "சிவனடியார்கள், பொதுமக்கள் வழிபாடு"
-      ]
-     },
-     {
-      "title": "சிறப்பம்சங்கள்",
-      "lines": [
-       "மீனாட்சி அம்மை, சிவகாமசுந்தரி அம்மை தரிசனம்",
-       "பக்தர்கள் பாடல்கள் பாடி கிரிவலம்",
-       "புகழிமலை பாலசுப்ரமணிய சுவாமி கோயில்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "புகழிமலையில் கார்த்திகை பௌர்ணமியை முன்னிட்டு பக்தர்கள் கிரிவலம் சென்றனர். கரூர் மாவட்டம் புகழிமலை பாலசுப்ரமணிய சுவாமி கோயிலில் செவ்வாய்க்கிழமை இந்த கிரிவலம் நடைபெற்றது. கார்த்திகை மாத பௌர்ணமி நாளையொட்டி மலையைச் சுற்றி திரளான பக்தர்கள் வலம் வந்தனர். இதில் சிவனடியார்கள், பொதுமக்கள் மற்றும் பக்தர்கள் என ஏராளமானோர் கலந்துகொண்டனர். மீனாட்சி அம்மை உடனுறை சுந்தரேசுவரர் பெருமானை பக்தர்கள் போற்றிப் பாடினர். சிவகாமசுந்தரி அம்மை உடனுறை நடராஜப்பெருமான் சுவாமியையும் பக்தர்கள் தரிசித்தனர். புகழிமலை பாலசுப்ரமணிய சுவாமியைப் போற்றிப் பாடியபடி கிரிவலப் பாதையில் சென்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 புகழிமலையில் கார்த்திகை பௌர்ணமி கிரிவலம் - திரளான பக்தர்கள் சாமி தரிசனம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் புகழிமலை பாலசுப்ரமணிய சுவாமி கோயிலில் கார்த்திகை மாத பௌர்ணமியை முன்னிட்டு செவ்வாய்க்கிழமை பக்தர்கள் கிரிவலம் மேற்கொண்டனர். மலையைச் சுற்றி நடந்த இந்த கிரிவலத்தில் சிவனடியார்கள், பொதுமக்கள் மற்றும் ஏராளமான பக்தர்கள் பங்கேற்றனர். மீனாட்சி அம்மை உடனுறை சுந்தரேசுவரர் பெருமான், சிவகாமசுந்தரி அம்மை உடனுறை நடராஜப்பெருமான் மற்றும் புகழிமலை பாலசுப்ரமணிய சுவாமியைப் போற்றிப் பாடியபடி பக்தர்கள் கிரிவலம் வந்தனர்.\n\n📍 இடம்: புகழிமலை, கரூர் மாவட்டம்\n🗓️ நாள்: செவ்வாய்க்கிழமை (கார்த்திகை பௌர்ணமி)\n🛕 கோயில்: புகழிமலை பாலசுப்ரமணிய சுவாமி கோயில்\n\nPugazhimalai temple Girivalam Karthigai Pournami | Karur news\n📍 புகழிமலை, கரூர் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Pugazhimalai #KarurNews #கரூர்",
-   "prompts": "A large procession of devotees and Sivanadiyars performs Girivalam by walking along the circular path at the base of the Pugazhimalai hill temple. The scene captures the rugged, rocky terrain of the hill rising into the sky in Karur district. The people, including men in white veshtis and women in colorful sarees, are seen from behind as they move in a steady flow around the sacred site. The atmosphere is one of devotion as they walk the traditional route. The time is late evening during Karthigai Pournami, with the soft, natural light of the full moon beginning to illuminate the landscape. The camera is at eye level, using a 35mm lens to provide a wide view that encompasses both the massive hill and the long line of participants. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of the paved Girivalam path winding around the base of the Pugazhimalai Balasubramaniaswamy temple hill. Devotees and members of the public are seen walking in a single direction, their figures small against the backdrop of the steep, rocky hillside characteristic of the Karur region. The path is lined with traditional stone markers and sparse vegetation. The people are dressed in traditional Tamil clothing, captured from a distance to maintain anonymity. It is evening during the Karthigai Pournami festival, and the sky is a deep twilight blue. The camera is positioned at a slightly high angle to show the curve of the path and the scale of the hill, emphasizing the physical journey of the circumambulation. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/புகழிமலையில்-பக்தா்கள்-கிரிவலம்",
-   "published": "2026-11-24T18:42:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795553351/karur360/i7x8hongkd5dvkdvhzx7.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795553357/karur360/skesfezgohvulyjmcdqn.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கிருஷ்ணராயபுரம் அருகே இருசக்கர வாகனம் மீது கார் மோதிய விபத்து: உயிரிழந்தோர் எண்ணிக்கை 3-ஆக உயர்வு",
-   "english_headline": "Death toll rises to 3 in Krishnarayapuram car-bike collision as injured school student dies in hospital",
-   "category": "Roads & Transport",
-   "location": "Poigaiputhur, Krishnarayapuram taluk, Karur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "பொய்கைப்புதூர், கிருஷ்ணராயபுரம்",
-    "hl1": "கிருஷ்ணராயபுரம் விபத்தில் பலி 3 ஆனது",
-    "hl2": "காரில் மோதி மாணவர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "பொய்கைப்புதூரில் இருசக்கர வாகனம் மீது கார் மோதி விபத்து",
-       "திங்கள்கிழமை நடந்த <b>விபத்தில் 2 பேர்</b> உயிரிழந்தனர்",
-       "அரசுப் பள்ளி மாணவர்கள் 4 பேர் பயணித்தனர்"
-      ]
-     },
-     {
-      "title": "பலி 3-ஆக உயர்வு",
-      "lines": [
-       "படுகாயமடைந்த மற்றொரு மாணவர் செவ்வாய்க்கிழமை பலி",
-       "கோவை மருத்துவமனையில் சிகிச்சை பலனின்றி உயிரிழப்பு",
-       "இதன் மூலம் உயிரிழந்தோர் <b>எண்ணிக்கை 3-ஆக</b> உயர்ந்தது"
-      ]
-     },
-     {
-      "title": "சிகிச்சை விவரம்",
-      "lines": [
-       "காரில் வந்த 3 பேர் உட்பட <b>5 பேர்</b> காயமடைந்தனர்",
-       "காயமடைந்த மற்ற 4 பேருக்குத் தொடர்ந்து சிகிச்சை",
-       "வாகனங்களை கவனமாக இயக்குமாறு அறிவுறுத்தல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கிருஷ்ணராயபுரம் அருகே காரும் இருசக்கர வாகனமும் மோதிய விபத்தில் உயிரிழந்தோர் எண்ணிக்கை 3-ஆக உயர்ந்துள்ளது. திங்கள்கிழமை அரசுப் பள்ளி மாணவர்கள் 4 பேர் இருசக்கர வாகனத்தில் மேட்டுமகாதானபுரத்திற்குச் சென்று கொண்டிருந்தனர். கிருஷ்ணராயபுரம் அருகே பொய்கைப்புதூர் என்ற இடத்தில் அவர்கள் சாலையைக் கடக்க முயன்றனர். அப்போது திருச்சியில் இருந்து கரூர் நோக்கி வந்த கார் எதிர்பாராதவிதமாக இருசக்கர வாகனம் மீது மோதியது. இந்த விபத்தில் 2 மாணவர்கள் சம்பவ இடத்திலேயே பரிதாபமாக உயிரிழந்தனர். மேலும் 2 மாணவர்கள் மற்றும் காரில் வந்த 3 பேர் என மொத்தம் 5 பேர் பலத்த காயமடைந்தனர். காயமடைந்தவர்களில் ஒரு மாணவர் கோவை தனியார் மருத்துவமனையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டார். அங்கு சிகிச்சை பெற்று வந்த அந்த மாணவர் செவ்வாய்க்கிழமை சிகிச்சை பலனின்றி உயிரிழந்தார். இதனால் இந்த விபத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை 3-ஆக அதிகரித்துள்ளது. காயமடைந்த மற்ற 4 பேருக்கு மருத்துவமனையில் சிகிச்சை அளிக்கப்பட்டு வருகிறது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚗 கிருஷ்ணராயபுரம் அருகே கார் - இருசக்கர வாகனம் மோதல்: விபத்தில் உயிரிழந்தோர் எண்ணிக்கை 3-ஆக உயர்வு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் கிருஷ்ணராயபுரம் அருகே பொய்கைப்புதூர் பகுதியில் திங்கள்கிழமை காரும் இருசக்கர வாகனமும் மோதி பயங்கர விபத்து ஏற்பட்டது. இருசக்கர வாகனத்தில் மேட்டுமகாதானபுரத்திற்குச் சென்ற 4 அரசுப் பள்ளி மாணவர்கள் சாலையைக் கடக்க முயன்றபோது, திருச்சியில் இருந்து கரூர் நோக்கி வந்த கார் மோதியது. இதில் 2 மாணவர்கள் சம்பவ இடத்திலேயே உயிரிழந்தனர். 5 பேர் பலத்த காயமடைந்தனர். கோவை தனியார் மருத்துவமனையில் அனுமதிக்கப்பட்ட மற்றொரு மாணவர் செவ்வாய்க்கிழமை சிகிச்சை பலனின்றி உயிரிழந்தார். இதனால் உயிரிழந்தோர் எண்ணிக்கை 3-ஆக உயர்ந்துள்ளது.\n\n📍 இடம்: பொய்கைப்புதூர், கிருஷ்ணராயபுரம் வட்டம், கரூர் மாவட்டம்\n🗓️ நாள்: 23, 24 நவம்பர் 2026\n🚨 சம்பவம்: கார் - இருசக்கர வாகனம் மோதிய விபத்து\n\nசாலையைக் கடக்கும் போது கவனமாக வாகனங்களை இயக்குங்கள்.\n\nKrishnarayapuram car bike accident death toll rises to 3 | Karur news\n📍 பொய்கைப்புதூர், கரூர் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
-   "prompts": "A damaged silver car and a crumpled two-wheeler lie on a rural road at Poigaiputhur, Krishnarayapuram taluk, Karur district, as a few onlookers and two police in khaki stand at a distance near the roadside. The two-wheeler's front wheel is bent and the car's front bumper is dented and pushed in, with broken glass scattered on the tar road. Behind them stretch open paddy fields and a row of palm trees under a bright daytime sky. Two school-uniformed boys' school bags lie near the road edge, while a few villagers in shirts and veshti watch quietly from far off. The scene is photographed in daylight at eye level from a slight distance on a 35 mm lens, wide enough to show the rural crossing and the two damaged vehicles together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a crushed two-wheeler's front fork and headlamp lying on wet tar road beside a dented car bumper, with shattered glass and a school bag on the ground. Behind the wreckage a police constable in khaki stands blurred and far away, facing away from the camera, while the edge of a paddy field is visible in soft focus. Bright daylight falls across the broken road surface. Shot at a low angle from roughly one metre away with a 35 mm lens, focused on the damaged two-wheeler, showing the crash debris in detail without any visible injuries or people in the foreground. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/இருசக்கர-வாகனம்-மீது-காா்-மோதிய-விபத்து-உயிரிழந்தோா்-எண்ணிக்கை-3-ஆக-உயா்வு",
-   "published": "2026-11-24T18:34:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: slides_spec hl2 ('காரில் மோதி மாணவர்') is an incomplete phrase without clear meaning in Tamil; fact-check: slides_spec slide 3 line 3 claims an advisory/instruction was issued ('வாகனங்களை கவனமாக இயக்குமாறு அறிவுறுத்தல்'), which is an invented detail not found in the article",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795553511/karur360/jcbgvxpx57fhhvbp6u4l.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795553542/karur360/xi8ch2v6xdmrwh92wtvd.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் அரசு வளர்ச்சித் திட்டக் கூட்டம்: பணிகள் விரைந்து முடிய எம்பி ஜோதிமணி உத்தரவு",
-   "english_headline": "Karur MP Jothimani chairs development monitoring meeting at Collectorate, instructs officials to complete pending works fast",
-   "category": "Government & Services",
-   "location": "Karur Collectorate, Karur district",
+   "tamil_headline": "கரூர் சந்தைகளில் சீத்தா பழம் விற்பனைக்கு குவிந்தது",
+   "english_headline": "Sitaphal fruits flood Karur markets as season begins",
+   "category": "Business & Prices",
+   "location": "Karur, Vengamaadu, Velaiyuthampalayam, Karur district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு திட்டம்",
-    "loc": "கரூர் ஆட்சியரகம்",
-    "hl1": "கரூரில் அரசு வளர்ச்சித் திட்டக் கூட்டம்",
-    "hl2": "விரைவில் பணி முடிக்க உத்தரவு",
+    "cat": "பழ விற்பனை",
+    "loc": "கரூர், வெங்கமேடு",
+    "hl1": "கரூர் சந்தைகளில் சீத்தா பழம் குவிந்தது",
+    "hl2": "கிலோ 40 முதல் 50 ரூபாய்",
     "slides": [
      {
-      "title": "திட்டங்கள் ஆய்வு",
+      "title": "சீசன் தொடக்கம்",
       "lines": [
-       "கரூர் ஆட்சியரகத்தில் வளர்ச்சி ஒருங்கிணைப்புக் குழுக்கூட்டம்",
-       "கரூர் எம்பி செ.ஜோதிமணி தலைமையில் நடைபெற்றது",
-       "மாவட்ட ஆட்சியர் ச.பிரசன்னா ராமசாமி முன்னிலை வகித்தார்"
+       "கார்த்திகை மாதத்தில் சீசன் தொடங்கியது",
+       "கரூர் மற்றும் சுற்று பகுதிகளில் விற்பனைக்கு குவிந்தது"
       ]
      },
      {
-      "title": "அதிகாரிகளுக்கு",
+      "title": "விற்பனை இடங்கள்",
       "lines": [
-       "அரசு திட்டங்கள் உரிய நேரத்தில் மக்களைச் சென்றடைய வேண்டும்",
-       "துல்லியமான தரவுகளுடன் அதிகாரிகள் பதிலளிக்க அறிவுறுத்தல்",
-       "நிலுவைப் பணிகளை விரைந்து முடிக்க உத்தரவிடப்பட்டது"
+       "கரூர், வெங்கமேடு, வேலாயுதம்பாளையம் சந்தைகளில் விற்பனை",
+       "மகாராஷ்டிரா, கர்நாடகா, கிருஷ்ணகிரி, தர்மபுரி பகுதிகளில்"
       ]
      },
      {
-      "title": "நலத்திட்ட உதவி",
+      "title": "விலை விவரம்",
       "lines": [
-       "ரூ.<b>1,01,800</b> மதிப்பில் பெட்ரோல் ஸ்கூட்டர் வழங்கப்பட்டது",
-       "மாற்றுத்திறனாளி பயனாளிக்கு எம்பி ஜோதிமணி வழங்கினார்",
-       "எம்எல்ஏ எம்.சத்யா மற்றும் அரசு அதிகாரிகள் பங்கேற்பு"
+       "ஒரு கிலோ சீத்தா பழம் 40 முதல் 50 ரூபாய் வரை விற்பனை",
+       "பொதுமக்கள் மகிழ்ச்சியுடன் வாங்கி செல்கின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் அரசு திட்டப்பணிகளை விரைந்து முடிக்க எம்பி ஜோதிமணி உத்தரவிட்டார். கரூர் மாவட்ட ஆட்சியர் அலுவலகத்தில் செவ்வாய்க்கிழமை வளர்ச்சி ஒருங்கிணைப்பு மற்றும் கண்காணிப்புக் குழுக்கூட்டம் நடைபெற்றது. கூட்டத்திற்கு குழுத்தலைவரும் கரூர் எம்பியுமான செ ஜோதிமணி தலைமை தாங்கினார். மாவட்ட ஆட்சியர் ச பிரசன்னா ராமசாமி முன்னிலை வகித்தார். மத்திய மற்றும் மாநில அரசின் வளர்ச்சித் திட்டங்கள் உரிய நேரத்தில் மக்களைச் சென்றடைய வேண்டும் என்று எம்பி பேசினார். அதிகாரிகள் தங்களது துறை திட்டங்களின் சாதனைகள் மற்றும் நிலுவைப் பணிகளைத் துல்லியமான தரவுகளுடன் விளக்க வேண்டும் என்று அறிவுறுத்தினார். நிலுவையில் உள்ள பணிகளை விரைந்து முடித்து பொதுமக்களுக்கு நலத்திட்ட உதவிகள் தடையின்றி கிடைப்பதை உறுதி செய்ய வேண்டும் என்றார். முன்னதாக மாற்றுத்திறனாளி நலத்துறை சார்பில் ரூ.1,01,800 மதிப்பில் ஒரு பயனாளிக்கு பெட்ரோல் ஸ்கூட்டர் வழங்கப்பட்டது. கூட்டத்தில் கிருஷ்ணராயபுரம் எம்எல்ஏ எம் சத்யா மற்றும் மாவட்ட அதிகாரிகள் கலந்து கொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ கரூரில் அரசு வளர்ச்சி திட்டப் பணிகள் ஆய்வு: எம்பி ஜோதிமணி தலைமை!\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட ஆட்சியர் அலுவலக கூட்டரங்கில் மாவட்ட வளர்ச்சி ஒருங்கிணைப்பு மற்றும் கண்காணிப்புக் குழுக்கூட்டம் செவ்வாய்க்கிழமை நடைபெற்றது. கரூர் மக்களவை உறுப்பினர் செ.ஜோதிமணி தலைமை வகித்தார்; மாவட்ட ஆட்சியர் ச.பிரசன்னா ராமசாமி முன்னிலை வகித்தார். மத்திய, மாநில அரசுகளின் வளர்ச்சி திட்டங்கள் உரிய நேரத்தில் மக்களைச் சென்றடைய வேண்டும் என எம்பி வலியுறுத்தினார். அதிகாரிகள் துல்லியமான தரவுகளுடன் பதிலளிக்க வேண்டும் என்றும், நிலுவைப் பணிகளை விரைந்து முடித்து அடிப்படை வசதிகளை உறுதி செய்ய வேண்டும் என்றும் உத்தரவிட்டார். கூட்டத்தில் மாற்றுத்திறனாளி நலத்துறை சார்பில் ரூ.1,01,800 மதிப்பில் ஒரு பயனாளிக்கு இணைப்புச் சக்கரம் பொருத்தப்பட்ட பெட்ரோல் ஸ்கூட்டர் வழங்கப்பட்டது. நிகழ்வில் கிருஷ்ணராயபுரம் எம்எல்ஏ எம்.சத்யா, மாவட்ட வன அலுவலர் சரவணக்குமார், மாவட்ட வருவாய் அலுவலர் து.தங்கவேல், திட்ட இயக்குநர்கள் சு.தனசேகரன், ப.பொன்னம்பலம், வருவாய் கோட்டாட்சியர்கள் இ.கார்த்திகேயன் (கரூர்), ச.சிவக்குமார் (குளித்தலை), நேர்முக உதவியாளர் சிவஜோதி, உதவி ஆட்சியர் நிர்மல் ராமசாமி உள்ளிட்டோர் பங்கேற்றனர்.\n\n📍 இடம்: ஆட்சியரக கூட்டரங்கம், கரூர்\n🗓️ நாள்: 24 நவம்பர் 2026 (செவ்வாய்க்கிழமை)\n🛵 உதவி: ரூ.1,01,800 மதிப்பிலான பெட்ரோல் ஸ்கூட்டர் வழங்கல்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்!\n\nKarur District DISSHA meeting MP Jothimani Collector Prasanna Ramasamy | Karur news\n📍 கரூர் ஆட்சியரகம், கரூர் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
-   "prompts": "A woman MP, seated at the head of a long conference table, addresses a government monitoring meeting in the conference hall of the Karur District Collectorate, Karur city, Tamil Nadu, on a Tuesday daytime. Around the table sit district officials in formal shirts, sarees and trousers, file folders and papers spread in front of them, and a row of officers in the background. The hall is a typical government office hall with plain walls, ceiling fans, fluorescent tube lights, and a few wooden chairs; the atmosphere is official and orderly. Two or three officials at the far end look at documents while others listen attentively. Everyone is shown from a distance or from a slightly blurred angle, no faces clearly visible. Warm indoor light mixes with daylight from tall windows. Camera at eye level, 35 mm, wide enough to show the full table and the hall around it. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a petrol scooter parked on the floor of a government office hall in Karur, its side-mounted attachment wheel clearly visible beside the rear wheel, next to a wooden table covered with neatly stacked official files and a microphone. A pair of hands in a sari or formal sleeve rests on the handlebar, shown only partially, with no face visible. The background shows the blurred feet of officials in trousers and sandals standing near a conference table. Soft indoor fluorescent light with a little daylight from a window. Camera slightly high, close-up at 35 mm, focused on the scooter and its attached wheel, showing the official setting behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/24/மத்திய-மாநில-அரசின்-வளா்ச்சித்-திட்டங்கள்-உரிய-நேரத்தில்-மக்களை-சென்றடைய-வேண்டும்",
-   "published": "2026-11-24T18:34:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: The caption contains an invented date '24 நவம்பர் 2026' which is not mentioned in the article.",
-   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூர் சந்தைகளில் சீத்தா பழம் விற்பனைக்கு குவிந்துள்ளது. கார்த்திகை மாதத்தில் சீசன் தொடங்கியதால் அறுவடை தொடங்கியது. வழக்கமாக ஐப்பசி மாதத்தில் சீத்தா பழத்துக்கு சீசன் தொடங்கும். மகாராஷ்டிரா மற்றும் கர்நாடகா மாநிலங்களில் சீத்தா பழம் சாகுபடி அதிகளவில் நடக்கிறது. தமிழகத்தில் கிருஷ்ணகிரி, தர்மபுரி மாவட்டங்கள் மற்றும் மலைப்பகுதிகளில் சாகுபடி செய்யப்படுகிறது. கரூர், வெங்கமேடு, வேலாயுதம்பாளையம் உழவர் சந்தைகளில் சீத்தா பழம் விற்பனைக்கு வந்துள்ளது. ஒரு கிலோ சீத்தா பழம் 40 முதல் 50 ரூபாய் வரை விற்பனை செய்யப்படுகிறது. பொதுமக்கள் மகிழ்ச்சியுடன் சீத்தா பழத்தை வாங்கி செல்கின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🍈 கரூர் சந்தைகளில் சீத்தா பழம் விற்பனைக்கு குவிந்தது - கிலோ 40 முதல் 50 ரூபாய்\n\n📰 முழு விவரம்:\nகரூர் மற்றும் சுற்று வட்டார பகுதிகளில் சீத்தா பழம் விற்பனைக்கு குவிந்துள்ளது. கார்த்திகை மாதத்தில் சீசன் தொடங்கியதால் அறுவடை தொடங்கியது. வழக்கமாக ஐப்பசி மாதத்தில் சீத்தா பழத்துக்கு சீசன் தொடங்கும். மகாராஷ்டிரா மற்றும் கர்நாடகா மாநிலங்களில் சீத்தா பழம் சாகுபடி அதிகளவில் நடக்கிறது. தமிழகத்தில் கிருஷ்ணகிரி, தர்மபுரி மாவட்டங்கள் மற்றும் மலைப்பகுதிகளில் சாகுபடி செய்யப்படுகிறது. கரூர், வெங்கமேடு, வேலாயுதம்பாளையம் உழவர் சந்தைகளில் சீத்தா பழம் விற்பனைக்கு வந்துள்ளது. ஒரு கிலோ சீத்தா பழம் 40 முதல் 50 ரூபாய் வரை விற்பனை செய்யப்படுகிறது.\n\n📍 இடம்: கரூர், வெங்கமேடு, வேலாயுதம்பாளையம்\n💰 விலை: கிலோ 40 முதல் 50 ரூபாய்\n🗓️ சீசன்: கார்த்திகை மாதம்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nSitaphal fruits flood Karur markets | Karur news\n📍 Karur, Karur district | 25 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #FruitMarket",
+   "prompts": "A photo-realistic wide shot of a bustling farmer's market in Karur, Tamil Nadu, during the morning. Stalls are piled high with large, pale yellow Sitaphal fruits (custard apples) in wooden crates and baskets. Local farmers and vendors in simple cotton clothes are arranging the fruits. Shoppers, including women in sarees and men in shirts, are seen from behind or at a distance, picking up fruits and inspecting them. The background shows typical Tamil Nadu market infrastructure with tin roofs and hanging lights. The lighting is bright and natural, indicating a clear day. The atmosphere is lively and commercial, focusing on the abundance of the specific fruit. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up, photo-realistic view of a vendor's hand holding a large, smooth-skinned Sitaphal fruit, showing its pale yellow and greenish hue. In the blurred background, a pile of similar fruits is visible in a wooden crate. The hand is rough and weathered, typical of a farmer. The lighting highlights the texture of the fruit's skin. The scene captures the freshness and quality of the produce available in the local markets of Karur and Vengamaadu. No text or logos are visible in the frame. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sita-fruit-piles-up-at-the-start-of-the-season/4385562",
+   "published": "2026-11-25T05:35:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: fact-check: Caption includes claim 'Sitaphal fruits flood Karur markets' which is not stated in the article",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795553550/karur360/pzahrrrth1pjki9b2bug.jpg",
-    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795553553/karur360/ayllhruwqnsl2sko4yfd.jpg"
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795568599/karur360/mihar13wt4idgbtskit8.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795568604/karur360/tdngyfzl6ycfdgc20qwx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூரில் ஆட்சியரகக் கூட்டத்திற்கு 1.45 மணி நேரம் தாமதமாக வந்த எம்.பி. ஜோதிமணி: காத்திருந்து நொந்துபோன அதிகாரிகள்",
+   "english_headline": "Karur MP Jothimani arrives 1 hour 45 minutes late for review meeting at Collectorate auditorium",
+   "category": "Government & Services",
+   "location": "Karur Collectorate auditorium, Karur city, Karur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ஆய்வுக் கூட்டம்",
+    "loc": "கரூர் ஆட்சியரகம்",
+    "hl1": "கரூரில் 1.45 மணி நேரம் தாமதம்",
+    "hl2": "நொந்துபோன அரசு அதிகாரிகள்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கரூர் ஆட்சியரகத்தில் <b>கண்காணிப்பு குழு</b> கூட்டம்",
+       "காலை <b>10 மணிக்கு</b> தொடங்கத் திட்டமிடல்",
+       "அதிகாரிகள் காலை <b>9:45 மணி</b>க்கே வந்தனர்"
+      ]
+     },
+     {
+      "title": "தாமதமான வருகை",
+      "lines": [
+       "எம்.பி. ஜோதிமணி <b>11:45 மணிக்கு</b> வந்தார்",
+       "<b>1.45 மணி நேரம்</b> தாமதமாகத் தொடங்கிய கூட்டம்",
+       "ஆட்சியர், டி.ஆர்.ஓ. <b>10 நிமிடங்கள்</b> காத்திருந்தனர்"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள் அவதி",
+      "lines": [
+       "கூட்டம் பிற்பகல் <b>3 மணி</b> வரை நீடித்தது",
+       "அதிகாரிகள் நேரத்தில் உணவு சாப்பிட முடியாமல் சிரமம்",
+       "த.வெ.க. எம்.எல்.ஏ. சத்யாவும் கூட்டத்தில் பங்கேற்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூரில் மாவட்ட கண்காணிப்பு குழு கூட்டத்திற்கு நாடாளுமன்ற உறுப்பினர் ஜோதிமணி 1 மணி நேரம் 45 நிமிடங்கள் தாமதமாக வந்ததால் அரசு அதிகாரிகள் கடும் அவதி அடைந்தனர். கரூர் ஆட்சியரக கூட்டரங்கில் நேற்று வளர்ச்சி திட்ட ஆய்வுக் கூட்டம் நடைபெற்றது. காலை 10 மணிக்கு கூட்டம் தொடங்கும் என அறிவிக்கப்பட்டதால், அரசு துறை அதிகாரிகளும் கிருஷ்ணராயபுரம் சட்டமன்ற உறுப்பினர் சத்யாவும் காலை 9:45 மணிக்கே வந்துவிட்டனர். ஆனால் கூட்டத்திற்கு தலைமை வகிக்க வேண்டிய நாடாளுமன்ற உறுப்பினர் ஜோதிமணி காலை 11:45 மணிக்கு தாமதமாக வந்தார். ஆட்சியர் பிரசன்னா ராமசாமி மற்றும் மாவட்ட வருவாய் அலுவலர் தங்கவேல் ஆகியோர் 10 நிமிடங்கள் வளாகத்தில் காத்திருந்து அவரை அழைத்துச் சென்றனர். தாமதமாகத் தொடங்கிய கூட்டம் பிற்பகல் 3 மணி வரை நீடித்தது. இதனால் காலை முதலே காத்திருந்த அதிகாரிகள் நேரத்தில் உணவு அருந்த முடியாமல் சிரமத்திற்கு ஆளாகினர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ கரூரில் எம்.பி. ஜோதிமணி 1.45 மணி நேரம் தாமதம்: ஆட்சியரகத்தில் காத்திருந்து நொந்துபோன அதிகாரிகள்\n\n📰 முழு விவரம்:\nகரூர் ஆட்சியரகக் கூட்டரங்கில் நேற்று மாவட்ட வளர்ச்சி ஒருங்கிணைப்பு மற்றும் கண்காணிப்பு குழு கூட்டம் நடைபெற்றது. காலை 10 மணிக்கு கூட்டம் தொடங்கும் என அறிவிக்கப்பட்டதால், பல்வேறு அரசு துறை அதிகாரிகளும் கிருஷ்ணராயபுரம் எம்.எல்.ஏ. சத்யாவும் காலை 9:45 மணிக்கே வந்திருந்தனர். ஆனால் எம்.பி. ஜோதிமணி காலை 11:45 மணிக்கு 1.45 மணி நேரம் தாமதமாக வந்தார். ஆட்சியர் பிரசன்னா ராமசாமி மற்றும் டி.ஆர்.ஓ. தங்கவேல் ஆகியோர் 10 நிமிடங்கள் காத்திருந்து அவரை அழைத்துச் சென்றனர். பிற்பகல் 3 மணி வரை கூட்டம் நீடித்ததால் அதிகாரிகள் நேரத்தில் உணவு அருந்த முடியாமல் சிரமப்பட்டனர்.\n\n📍 இடம்: கரூர் ஆட்சியரகக் கூட்டரங்கம்\n🗓️ நாள்: 24 நவம்பர் 2026\n🕘 நேரம்: காலை 10 மணிக்குத் திட்டமிட்ட கூட்டம் 11:45 மணிக்குத் தொடங்கியது\n\nKarur MP Jothimani review meeting delay Karur collectorate news\n📍 கரூர் ஆட்சியரகம், கரூர் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #Jothimani #கரூர்",
+   "prompts": "A wide photo of an official meeting auditorium inside the Karur District Collectorate in Tamil Nadu, government officers and local representatives seated around a long conference table with white table cover and microphones, file folders placed on the tables, soft indoor ceiling lights, wide shot from the back of the auditorium, dark wood panelling on walls, professional official atmosphere. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nExterior view of the Karur District Collectorate main building entrance in Karur town, wide paved driveway, white multi-storey government building with Tamil Nadu emblem visible, white official sedans parked in front, tall tropical palm trees, bright midday natural daylight, wide eye-level shot. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/congress-mp-who-is-running-as-a-minister-waited-for-1-45-hours-and-was-crushed-by-the-officials/4385572",
+   "published": "2026-11-25T05:41:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 20 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795568626/karur360/nyfvnqlwd3toutpzkubw.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795568629/karur360/vuqvpxlfzqbkhrryqtxz.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குளித்தலையில் கடைகளில் தொழிலாளர் நலத்துறை திடீர் ஆய்வு: 18 வயதுக்குட்பட்டோரை வேலைக்கு அமர்த்தினால் ₹50,000 வரை அபராதம்",
+   "english_headline": "Labor Department inspects shops in Kulithalai; warns of up to ₹50,000 fine or jail for employing persons under 18 years",
+   "category": "Government & Services",
+   "location": "Kulithalai town, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அதிகாரிகள் ஆய்வு",
+    "loc": "குளித்தலை",
+    "hl1": "குளித்தலையில் கடைகளில் திடீர் ஆய்வு",
+    "hl2": "18 வயது கீழ் வேலைக்கு தடை",
+    "slides": [
+     {
+      "title": "திடீர் ஆய்வு",
+      "lines": [
+       "குளித்தலையில் மளிகை, ஹோட்டல், பேக்கரிகளில் ஆய்வு",
+       "தொழிலாளர் நலத்துறை அதிகாரிகள் அதிரடி நடவடிக்கை",
+       "மணப்பாறை ஆய்வாளர் முருகதாஸ் தலைமையில் ஆய்வு"
+      ]
+     },
+     {
+      "title": "சட்ட நடவடிக்கை",
+      "lines": [
+       "<b>18 வயது</b> நிறைவடையும் வரை சிறுவர்களை வேலைக்கு அமர்த்தத் தடை",
+       "மீறினால் <b>₹20,000 - ₹50,000</b> வரை அபராதம் விதிக்கப்படும்",
+       "<b>6 மாதம் - 2 ஆண்டு</b> வரை சிறைத் தண்டனையும் கிடைக்கலாம்"
+      ]
+     },
+     {
+      "title": "அரசு உதவிகள்",
+      "lines": [
+       "பெற்றோர் இல்லாத குழந்தைகளுக்கு கல்வி மற்றும் தொழில் உதவி",
+       "தொழிலாளர் நலத்துறை மூலம் வங்கிக் கடனுதவி வழங்கப்படும்",
+       "காவல்துறை மற்றும் குழந்தைகள் நலக் குழுவினர் பங்கேற்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குளித்தலையில் 18 வயதுக்குட்பட்டோரை வேலைக்கு அமர்த்தினால் 50,000 ரூபாய் வரை அபராதம் விதிக்கப்படும். குளித்தலை நகரில் உள்ள மளிகைக் கடை, ஹோட்டல் மற்றும் பேக்கரிகளில் தொழிலாளர் நலத்துறை அதிகாரிகள் திடீர் ஆய்வு செய்தனர். மணப்பாறை தொழிலாளர் நல ஆய்வாளர் முருகதாஸ் தலைமையில் இந்தச் சோதனை நடைபெற்றது. 18 வயது நிறைவடையும் வரை சிறுவர்களை எந்தப் பணியிலும் அமர்த்துவது சட்டப்படி குற்றமாகும் என்று அவர் எச்சரித்தார். இந்த விதியை மீறும் கடை உரிமையாளர்களுக்கு 20,000 ரூபாய் முதல் 50,000 ரூபாய் வரை அபராதம் விதிக்கப்படும். மேலும் 6 மாதம் முதல் 2 ஆண்டுகள் வரை சிறை தண்டனையும் கிடைக்க வாய்ப்புள்ளது. பெற்றோர் இல்லாத குழந்தைகள் வேலை தேடி வந்தால் தொழிலாளர் நலத்துறை அலுவலகத்தைத் தொடர்பு கொள்ளலாம். அவர்களுக்குத் தடையில்லா கல்வி, தொழிற்கல்வி மற்றும் வங்கிக் கடன் உதவி செய்து தரப்படும். ஆய்வில் காவல்துறை, குழந்தைகள் நலக் குழுமம் மற்றும் அரசு மருத்துவர் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குளித்தலையில் 18 வயதுக்குட்பட்டோரை வேலைக்கு அமர்த்தினால் ₹50,000 வரை அபராதம்: அதிகாரிகள் எச்சரிக்கை\n\n📰 முழு விவரம்:\nகுளித்தலையில் உள்ள மளிகைக் கடைகள், ஹோட்டல்கள், பேக்கரிகள், பூக்கடைகள் உள்ளிட்ட பல கடைகளில் தொழிலாளர் நலத்துறை அதிகாரிகள் ஆய்வு மேற்கொண்டனர். மணப்பாறை தொழிலாளர் நல ஆய்வாளர் முருகதாஸ் தலைமையில் இந்த ஆய்வு நடைபெற்றது.\n18 வயது நிறைவடையும் வரை எவரையும் பணியில் அமர்த்துவது சட்டப்படி குற்றமாகும் என்றும், மீறினால் ₹20,000 முதல் ₹50,000 வரை அபராதம் அல்லது 6 மாதம் முதல் 2 ஆண்டுகள் வரை சிறைத் தண்டனை விதிக்கப்படும் என்றும் எச்சரிக்கப்பட்டுள்ளது. பெற்றோர் இல்லாத குழந்தைகள் வேலை தேடி வந்தால் தொழிலாளர் நலத்துறை அலுவலகத்தை அணுகி கல்வி மற்றும் வங்கிக் கடன் உதவிகளைப் பெறலாம்.\n\n📍 இடம்: குளித்தலை, கரூர் மாவட்டம்\n⚠️ எச்சரிக்கை: 18 வயது வரை குழந்தை தொழிலாளர் முறைக்குத் தடை\n💰 அபராதம்: ₹20,000 முதல் ₹50,000 வரை\n⚖️ தண்டனை: 6 மாதம் முதல் 2 ஆண்டுகள் வரை சிறை\nℹ️ உதவிகள்: பெற்றோர் இல்லாத குழந்தைகளுக்கு கல்வி, தொழிற்கல்வி, வங்கிக் கடனுதவி\n\nவியாபாரிகள் மற்றும் வணிகர்களுக்கு Share செய்யுங்கள்.\n\nKulithalai labor department inspection child labor fine warning | Karur news\n📍 குளித்தலை, கரூர் மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "Labor department officials walking along a busy commercial bazaar street in Kulithalai town in Karur district, inspecting various small retail shops and bakeries, bright daytime, traditional South Indian storefronts with colorful signboards, two-wheelers parked along the paved road, wide eye-level perspective. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of an official pointing to a regulatory poster outside a grocery store in Kulithalai town, showing shop shelves filled with items in the soft background, clean daylight, sharp detail, natural photo-realistic scene, no text, no logos, no faces. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/inspection-by-labour-department-officials/4385567",
+   "published": "2026-11-25T05:38:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6; caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('இது குறித்து முருகதாஸ் கூறியதாவது: 18 வயது நிறைவடையும் வரை எ'); 50 ('இது குறித்து முருகதாஸ் கூறியதாவது: 18 வயது நிறைவடையும் வரை எ')",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795568636/karur360/spcqxva6ufmtqo9bbls3.jpg",
+    "https://res.cloudinary.com/ylttdiiu/image/upload/v1795568639/karur360/xp7emylyzifga5tlocqr.jpg"
    ]
   }
  ]
