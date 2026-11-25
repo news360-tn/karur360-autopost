@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-25T06:28+05:30",
- "posts_measured": 196,
+ "updated": "2026-11-25T08:27+05:30",
+ "posts_measured": 199,
  "topic_weight": {
-  "temple": 0.33,
-  "accident": 0.56,
-  "education": -0.2,
+  "temple": 0.29,
+  "accident": 0.53,
+  "education": -0.21,
   "jobs": 1.5,
   "power_cut": 1.5,
-  "poultry_agri": 0.02,
-  "politics": 0.04,
-  "civic": -0.33,
+  "poultry_agri": 0.1,
+  "politics": 0.07,
+  "civic": -0.34,
   "crime": 1.5,
-  "weather": 0.09
+  "weather": 0.11
  },
  "topic_n": {
   "temple": 26,
@@ -20,10 +20,10 @@
   "jobs": 3,
   "power_cut": 5,
   "poultry_agri": 19,
-  "politics": 14,
+  "politics": 15,
   "civic": 29,
   "crime": 17,
-  "weather": 11,
+  "weather": 12,
   "sports_culture": 1
  },
  "best_hours_ist": [
@@ -38,7 +38,7 @@
   "🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது",
   "⚡ நாச்சலூர், பணிக்கம்பட்டி, மாயனூர் பகுதிகளில் நாளை காலை 9 மணி முதல் மின்தடை"
  ],
- "avg_watch_s": 7.2,
+ "avg_watch_s": 7.3,
  "best_topics": [
   "jobs",
   "power_cut",
