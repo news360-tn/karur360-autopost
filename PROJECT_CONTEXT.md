@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `44fff6e` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
 | 2026-11-25 | `72156c0` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
 | 2026-11-25 | `91ce6b4` | stories shared / Instagram pause |
 | 2026-11-25 | `2c631cf` | facebook RN-214 |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `2158f28` | stories shared / Instagram pause |
 | 2026-11-25 | `ab12421` | stories shared / Instagram pause |
 | 2026-11-25 | `c210935` | stories shared / Instagram pause |
-| 2026-11-25 | `e6272cb` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
