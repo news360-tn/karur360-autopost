@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `eb7f8d6` | pick: written and posted |
+| 2026-11-25 | `18937eb` | pick: picked news saved |
+| 2026-11-25 | `833d281` | pick: list sent |
+| 2026-11-25 | `f713ec8` | Posting order: power cut / shutdown first, then High, then the topic this page's insights rank best, then oldest first |
+| 2026-11-25 | `fdf9e5c` | stories shared / Instagram pause |
 | 2026-11-25 | `451560a` | Night stop 00:00-04:00 IST (was 05:00); at most 35 news a day per page on Instagram; YouTube up to 35 a day from 04:00, following Instagram; insights test uses today's date |
 | 2026-11-25 | `f09f1c4` | One e-mail per news with its Instagram, Facebook and YouTube links (sent when all three are done or after 45 minutes; max 60 a day for all pages); YouTube follows Instagram: 5-minute gap, 05:00-24:00 IST, up to 30 a day |
 | 2026-11-25 | `48cf259` | stories shared / Instagram pause |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `ff98d9e` | stories shared / Instagram pause |
 | 2026-11-25 | `3239c9e` | facebook RN-205 |
 | 2026-11-25 | `687abc3` | posted RN-205 |
-| 2026-11-25 | `29f98fc` | powercut: notices written |
-| 2026-11-25 | `01ebb0f` | stories shared / Instagram pause |
-| 2026-11-25 | `5cf0115` | Watchdog: ignore the shared rasipalan text files (rasis_*.json) - they stopped the watchdog on every run |
-| 2026-11-25 | `d78eed9` | stories shared / Instagram pause |
-| 2026-11-25 | `37f78c8` | facebook RN-213 |
 <!-- recent-changes:end -->
