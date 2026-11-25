@@ -83,6 +83,13 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `ed8ea3a` | R2 check: manual workflow that uploads a test file and reads it back |
+| 2026-11-25 | `0555a69` | pick: written and posted |
+| 2026-11-25 | `2c164c7` | pick: picked news saved |
+| 2026-11-25 | `19c720c` | pick: list sent |
+| 2026-11-25 | `3e69687` | stories shared / Instagram pause |
+| 2026-11-25 | `ffa7d16` | stories shared / Instagram pause |
+| 2026-11-25 | `40b3fe7` | stories shared / Instagram pause |
 | 2026-11-25 | `8c939ae` | Cloudflare R2 (one shared bucket news360-media) replaces Cloudinary: R2 first, then Cloudinary, then the repo; nothing changes until the R2 secrets are saved; manual-post test uses today's date |
 | 2026-11-25 | `a52ece2` | stories shared / Instagram pause |
 | 2026-11-25 | `b2b08db` | stories shared / Instagram pause |
@@ -106,11 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `2bfd7e8` | stories shared / Instagram pause |
 | 2026-11-25 | `208d8eb` | stories shared / Instagram pause |
 | 2026-11-25 | `8ffe4b0` | stories shared / Instagram pause |
-| 2026-11-25 | `88b5920` | stories shared / Instagram pause |
-| 2026-11-25 | `1290ee8` | goldrate posted |
-| 2026-11-25 | `01ded19` | stories shared / Instagram pause |
-| 2026-11-25 | `331e389` | stories shared / Instagram pause |
-| 2026-11-25 | `ddc5292` | stories shared / Instagram pause |
-| 2026-11-25 | `e06be40` | stories shared / Instagram pause |
-| 2026-11-25 | `2d7675e` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
