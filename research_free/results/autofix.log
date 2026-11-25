@@ -1,43 +1,56 @@
-23:24:35 location re-check failed (stays held): RN-85 404 Client Error: Not Found for url: https://www.dinamalar.com/news/tamil-nadu-d
-23:24:38 hold lifted: RN-119 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-23:24:42 hold lifted: RN-147 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-23:24:42 hold lifted: RN-151 - not grounded: location 'உழவர்' is not in the article - the location IS in the article (checked again)
-23:24:42 hold lifted: RN-151 - not grounded: location 'சந்தை' is not in the article - the location IS in the article (checked again)
-23:24:42 2 held news to fix: ['RN-192', 'RN-205']
+11:13:00 location re-check failed (stays held): RN-85 404 Client Error: Not Found for url: https://www.dinamalar.com/news/tamil-nadu-d
+11:13:03 hold lifted: RN-119 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:13:07 hold lifted: RN-147 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:13:07 hold lifted: RN-151 - not grounded: location 'உழவர்' is not in the article - the location IS in the article (checked again)
+11:13:07 hold lifted: RN-151 - not grounded: location 'சந்தை' is not in the article - the location IS in the article (checked again)
+11:13:07 4 held news to fix: ['RN-205', 'RN-213', 'RN-214', 'RN-215']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-ok gemini/gemini-3.5-flash (17s)
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (13s)
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (52s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (24s)
+factcheck by gemini/gemini-3-flash-preview: 3 problems
+  The headline, slide hl2, and caption title incorrectly state opposition to filling vacancies, whereas the article specifies they oppose filling them through the SHG method.
+  The reel script mentions 'yesterday', which is not in the article.
+  The reel script claims a request was made to fill vacancies, which is not in the article.
+attempt 2 gemini/gemini-3-flash-preview: 3 problems
+  fact-check: The headline, slide hl2, and caption title incorrectly state opposition to filling vacancies, whereas the article specifies they oppose filling them through the SHG method.
+  fact-check: The reel script mentions 'yesterday', which is not in the article.
+  fact-check: The reel script claims a request was made to fill vacancies, which is not in the article.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.5-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-ok groq/openai/gpt-oss-120b (6s)
-factcheck by groq/openai/gpt-oss-120b: 4 problems
-  Headline uses invented adjective “விமரிசையாக” not mentioned in article
-  Reel script opening sentence repeats the invented adjective “விமரிசையாக” which is not in article
-  Caption first line repeats the invented adjective “விமரிசையாக”, an unsupported detail
-  Reel script omits the first set of poojas (Maha Ganapathi, Vigneshwara, Vastu Shanti, etc.) that the article describes as a key part of the ceremony
-attempt 1 gemini/gemini-3.5-flash: 4 problems
-  fact-check: Headline uses invented adjective “விமரிசையாக” not mentioned in article
-  fact-check: Reel script opening sentence repeats the invented adjective “விமரிசையாக” which is not in article
-  fact-check: Caption first line repeats the invented adjective “விமரிசையாக”, an unsupported detail
-  fact-check: Reel script omits the first set of poojas (Maha Ganapathi, Vigneshwara, Vastu Shanti, etc.) that the article describes as a key part of the ceremony
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (3s)
+attempt 3 groq/qwen/qwen3.8-27b: 1 problems
+  hl1 is 52 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-23:29:31 RN-192 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your p
+11:15:32 RN-205 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Faile
