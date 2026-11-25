@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `f09f1c4` | One e-mail per news with its Instagram, Facebook and YouTube links (sent when all three are done or after 45 minutes; max 60 a day for all pages); YouTube follows Instagram: 5-minute gap, 05:00-24:00 IST, up to 30 a day |
+| 2026-11-25 | `48cf259` | stories shared / Instagram pause |
 | 2026-11-25 | `6ccea25` | Per-post e-mail for every post, at most 60 a day for all 7 pages together (one Gmail account); later posts are in the daily summary |
 | 2026-11-25 | `5efad04` | stories shared / Instagram pause |
 | 2026-11-25 | `3bfcfe5` | stories shared / Instagram pause |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `d78eed9` | stories shared / Instagram pause |
 | 2026-11-25 | `37f78c8` | facebook RN-213 |
 | 2026-11-25 | `70c7e49` | posted RN-213 |
-| 2026-11-25 | `a2265db` | powercut: notices written |
-| 2026-11-25 | `a1a90b6` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
