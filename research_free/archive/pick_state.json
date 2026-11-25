@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-26T01:30:42.686904+05:30",
+ "last_end": "2026-11-26T04:27:53.547291+05:30",
  "pool": {
   "Ca3b1683": {
    "id": "Ca3b1683",
@@ -223,48 +223,6 @@
    "picked_at": "2026-11-26T01:31:50.804588+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
   },
-  "C3be58cd": {
-   "id": "C3be58cd",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-camp-on-moringa-plantation/4386472",
-   "title": "முருங்கை நடவு குறித்து விழிப்புணர்வு முகாம்",
-   "summary": "கரூர்: கரூர் அரசு வேளாண்மை கல்லுாரி சார்பில், ஜெகதாபி கிராமத்தில், முருங்கை நடவு குறித்த விழிப்புணர்வு முகாம் நடந்தது. அதில், முருங்கை நடவுக்காக குழி அமைத்தல், நடவு இடைவெளி, முருங்கை நடவு முறைகள், முருங்கை சாகுபடி முக...",
-   "source": "தினமலர்",
-   "published": "2026-11-26T01:14:00+05:30",
-   "category": "பொது",
-   "score": 7.0,
-   "power_cut": false,
-   "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804590+05:30",
-   "posted": true
-  },
-  "C3cacb01": {
-   "id": "C3cacb01",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/farmersunions-protest-against-crop-loan-waiver/4386480",
-   "title": "பயிர் கடனை ரத்து செய்ய வலியுறுத்தி விவசாய சங்கத்தினர் ஆர்ப்பாட்டம்",
-   "summary": "குளித்தலை: குளித்தலையில் உள்ள, திருச்சிராப்பள்ளி மாவட்ட மத்திய கூட்டுறவு வங்கி முன், தமிழ்நாடு விவசாயிகள் பாதுகாப்பு சங்கத்தினர் கண்டன ஆர்ப்பாட்டத்தில் ஈடுபட்டனர், த.வெ.க., தேர்தல் வாக்குறுதியில் அறிவித்தபடி, விவசாயிக...",
-   "source": "தினமலர்",
-   "published": "2026-11-26T01:19:00+05:30",
-   "category": "பொது",
-   "score": 6.15,
-   "power_cut": false,
-   "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804591+05:30",
-   "posted": true
-  },
-  "C0e46e70": {
-   "id": "C0e46e70",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/the-bumpy-and-potholed-road-below-the-roundana-bridge/4386477",
-   "title": "ரவுண்டானா பாலத்தின் கீழ்புறம் குண்டும், குழியுமான சாலை",
-   "summary": "கரூர்:கரூர் அருகே, சுக்காலியூர் ரவுண்டானா பாலத்தின் கீழ் பகுதியில், பல மாதங்களாக சாலை குண்டும், குழியுமாக உள்ளதால், வாகன ஓட்டிகள் அவதிப்படுகின்றனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-26T01:17:00+05:30",
-   "category": "சாலை",
-   "score": 5.72,
-   "power_cut": false,
-   "listed_at": "2026-11-26T01:30:42.686904+05:30",
-   "picked_at": "2026-11-26T01:31:50.804593+05:30",
-   "posted": true
-  },
   "Cf2447b6": {
    "id": "Cf2447b6",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cleaning-work-on-the-highway/4386479",
@@ -278,26 +236,51 @@
    "listed_at": "2026-11-26T01:30:42.686904+05:30",
    "picked_at": "2026-11-26T01:31:50.804595+05:30",
    "refused": "not filed: bad draft: 'scenes'"
+  },
+  "Cddb82cd": {
+   "id": "Cddb82cd",
+   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தொழிலாளியிடம்-நகையை-பறிக்க-முயன்ற-இளைஞா்-கைது",
+   "title": "தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது",
+   "summary": "வேலாயுதம்பாளையம் அருகே தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் புதன்கிழமை கைது செய்யப்பட்டாா்..கரூா் மாவட்டம், வேலாயுதம்பாளையம் குமரன் நகரைச் சோ்ந்தவா் பூபதி (43) .",
+   "source": "தினமணி",
+   "published": "2026-11-25T21:11:05.141Z",
+   "category": "குற்றம்",
+   "score": 13.5,
+   "power_cut": false,
+   "alts": [
+    "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%9F%E0%AE%AE%E0%AF%8D-%E0%AE%A8%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%88-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95-%E0%AE%AE%E0%AF%81%E0%AE%AF%E0%AE%A9%E0%AF%8D%E0%AE%B1-%E0%AE%87%E0%AE%B3%E0%AF%88%E0%AE%9E%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
+   ],
+   "listed_at": "2026-11-26T04:27:53.547291+05:30"
+  },
+  "Ca6c4710": {
+   "id": "Ca6c4710",
+   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தரைமட்ட-பாலப்-பணிகளை-விரைந்து-முடிக்க-கோரிக்கை",
+   "title": "தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை",
+   "summary": "கரூா் சின்னாண்டாங்கோவில் சாலையில் கேசிபி நகா் பகுதியில் கட்டப்படும் கழிவுநீா் தரைமட்டப் பாலப்பணிகளை விரைந்து முடிக்க வேண்டும் என வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனா்..சின்னாண்டாங்கோவில் சாலையில் கேசிபி நகா் பகுதியில்...",
+   "source": "தினமணி",
+   "published": "2026-11-25T20:55:50.703Z",
+   "category": "பொது",
+   "score": 11.0,
+   "power_cut": false,
+   "alts": [
+    "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/%E0%AE%A4%E0%AE%B0%E0%AF%88%E0%AE%AE%E0%AE%9F%E0%AF%8D%E0%AE%9F-%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%88-%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%88%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95-%E0%AE%95%E0%AF%8B%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88"
+   ],
+   "listed_at": "2026-11-26T04:27:53.547291+05:30"
+  },
+  "C5037b1f": {
+   "id": "C5037b1f",
+   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/welfare-assistance-of-rs-158-crore-to-158-people-at-the-closing-ceremony-of-the-peoples-contact-project-camp",
+   "title": "மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.1.58 கோடி நலத்திட்ட உதவிகள்",
+   "summary": "நாகம்பள்ளி கிராமத்தில் புதன்கிழமை நடைபெற்ற மக்கள் தொடா்பு திட்ட முகாம் நிறைவு விழாவில் 158 பயனாளிகளுக்கு ரூ.1.58 கோடி மதிப்பிலான நலத்திட்ட உதவிகளை மாவட்ட ஆட்சியா் ச.பிரசன்னா ராமசாமி வழங்கினாா்..கரூா் மாவட்டம் அரவக்குற...",
+   "source": "தினமணி",
+   "published": "2026-11-25T20:51:20.622Z",
+   "category": "பொது",
+   "score": 7.0,
+   "power_cut": false,
+   "listed_at": "2026-11-26T04:27:53.547291+05:30"
   }
  },
  "rounds": {
-  "2026-11-24_10": {
-   "window": [
-    "2026-11-24T07:16:18.043607+05:30",
-    "2026-11-24T10:01:10.436544+05:30"
-   ],
-   "ids": [
-    "C3a2dc24"
-   ],
-   "sent": false,
-   "deadline": "2026-11-24T11:01:10.436544+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 0 by insights",
-    "ids": [],
-    "at": "2026-11-24T10:02:27.839943+05:30"
-   },
-   "written": []
-  },
   "2026-11-24_11": {
    "window": [
     "2026-11-24T10:01:10.436544+05:30",
@@ -720,6 +703,22 @@
     "C0489c56": "not filed: all free models failed: no usable answer from the models",
     "Cb71e3e8": "not filed: all free models failed: no usable answer from the models"
    }
+  },
+  "2026-11-26_04": {
+   "window": [
+    "2026-11-26T01:30:42.686904+05:30",
+    "2026-11-26T04:27:53.547291+05:30"
+   ],
+   "ids": [
+    "Cddb82cd",
+    "Ca6c4710",
+    "C5037b1f",
+    "Cc3a43b5"
+   ],
+   "sent": false,
+   "deadline": "2026-11-26T05:27:53.547291+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}

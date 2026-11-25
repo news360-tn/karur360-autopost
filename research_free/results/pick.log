@@ -1,47 +1,12 @@
-01:30:42 round 2026-11-26_01: news published 25 Nov 23:00 -> 26 Nov 01:30 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-01:30:42 insights 2026-11-26T01:30+05:30 (204 reels): topic weights {'temple': -0.07, 'accident': 0.81, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.15, 'politics': 0.09, 'civic': -0.28, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-01:30:59 open search 'கரூர்' (from_google): 0 links from our outlets
-01:30:59 73 links on the two papers' Karur pages
-01:31:48 skipped: published before this window=28, already posted=13, not Karur district=8, state-wide / other district=4, same event already posted=3, only a headline=2, shop offer / advertisement=1
-01:31:48 list: 10 new + 1 earlier news not posted yet
-01:31:48    1. [குற்றம்] வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது (தினமலர்)
-01:31:48    2. [மழை / வானிலை] கரூர் மாவட்டத்தில் பரவலாக சாரல் மழை: மக்களின் இயல்பு வாழ்க்கை பாதிப்பு (தினமலர்)
-01:31:48    3. [பொது] மானாவாரி நிலங்களில் எள் அறுவடை (தினமலர்)
-01:31:48    4. [பொது] கழிவுநீர் சுத்திகரிப்பு நிலையத்தை இடம் மாற்ற செய்ய மக்கள் கோரிக்கை (தினமலர்)
-01:31:48    5. [பொது] 100 கவுளி வெற்றிலை ரூ.3,000க்கு விற்பனை (தினமலர்)
-01:31:48    6. [பொது] கரூர் அருகே பாசன வாய்க்காலில் ஆகாய தாமரை செடிகள் அகற்றம் (தினமலர்)
-01:31:48    7. [பொது] முருங்கை நடவு குறித்து விழிப்புணர்வு முகாம் (தினமலர்)
-01:31:48    8. [பொது] பயிர் கடனை ரத்து செய்ய வலியுறுத்தி விவசாய சங்கத்தினர் ஆர்ப்பாட்டம் (தினமலர்)
-01:31:48    9. [சாலை] ரவுண்டானா பாலத்தின் கீழ்புறம் குண்டும், குழியுமான சாலை (தினமலர்)
-01:31:48   10. [சாலை] நெடுஞ்சாலையில் தூய்மை பணி (தினமலர்)
-01:31:48   11. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-01:31:48 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-26_01
-01:31:50    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-01:31:50 round 2026-11-26_01 (at least 3, up to 3 more of well-watched topics): 10 news to choose from (0 from earlier rounds), ranked by this page's insights
-01:31:50   PICK   1.  17.0 [crime +1.50 page] வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது
-01:31:50   PICK   2.  11.4 [weather +0.11 page] கரூர் மாவட்டத்தில் பரவலாக சாரல் மழை: மக்களின் இயல்பு வாழ்க்க
-01:31:50   PICK   3.  10.0 [other +0.00 pattern] மானாவாரி நிலங்களில் எள் அறுவடை
-01:31:50   PICK   4.   9.0 [other +0.00 pattern] கழிவுநீர் சுத்திகரிப்பு நிலையத்தை இடம் மாற்ற செய்ய மக்கள் கோ
-01:31:50   PICK   5.   8.0 [other +0.00 pattern] 100 கவுளி வெற்றிலை ரூ.3,000க்கு விற்பனை
-01:31:50   PICK   6.   8.0 [other +0.00 pattern] கரூர் அருகே பாசன வாய்க்காலில் ஆகாய தாமரை செடிகள் அகற்றம்
-01:31:50   PICK   7.   7.0 [other +0.00 pattern] முருங்கை நடவு குறித்து விழிப்புணர்வு முகாம்
-01:31:50   PICK   8.   6.6 [poultry_agri +0.15 page] பயிர் கடனை ரத்து செய்ய வலியுறுத்தி விவசாய சங்கத்தினர் ஆர்ப்ப
-01:31:50   PICK   9.   4.9 [civic -0.28 page] ரவுண்டானா பாலத்தின் கீழ்புறம் குண்டும், குழியுமான சாலை
-01:31:50   PICK  10.   4.9 [civic -0.28 page] நெடுஞ்சாலையில் தூய்மை பணி
-01:31:50 decided: automatic: top 3 of 10 by insights -> 10 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/velayuthampalayam-near-cannabis-seller-young-man-arrested/4386473 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/widespread-rainfall-in-karur-district-normal-life-affected/4386475 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/sesame-harvest-in-rainfed-lands/4386478 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/people-demand-shifting-of-sewage-treatment-plant/4386482 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/100-gauli-betel-nut-sold-for-rs-3000/4386474 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-aerial-lotus-plants-in-karur-near-irrigation-channel/4386481 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/awareness-camp-on-moringa-plantation/4386472 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/farmersunions-protest-against-crop-loan-waiver/4386480 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/the-bumpy-and-potholed-road-below-the-roundana-bridge/4386477 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/cleaning-work-on-the-highway/4386479
-01:34:53 7 picked news refused by the writer - not offered again
-01:34:53 3 listed news now in the Sheet
-01:35:01 instagram duplicate check karur: 50 recent posts read
-01:35:02 verify 2026-11-26_01: 0 of 10 picked news posted, 8 skipped on purpose, 2 waiting for their posting start
-01:35:02    WAITING C0e46e70: waiting RN-218: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - ரவுண்டானா பாலத்தின் கீழ்புறம் குண்டும், குழியுமான சாலை
-01:35:02    WAITING C3cacb01: waiting RN-219: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - பயிர் கடனை ரத்து செய்ய வலியுறுத்தி விவசாய சங்கத்தினர் ஆர்ப்ப
-01:35:02    SKIPPED C0489c56: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - கரூர் மாவட்டத்தில் பரவலாக சாரல் மழை: மக்களின் இயல்பு வாழ்க்க
-01:35:02    SKIPPED C25cf013: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - 100 கவுளி வெற்றிலை ரூ.3,000க்கு விற்பனை
-01:35:02    SKIPPED C3be58cd: skipped RN-220: held: fact-check problems - fact-check: could not be run - முருங்கை நடவு குறித்து விழிப்புணர்வு முகாம்
-01:35:02    SKIPPED C58f0a41: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - கழிவுநீர் சுத்திகரிப்பு நிலையத்தை இடம் மாற்ற செய்ய மக்கள் கோ
-01:35:02    SKIPPED C7a46baa: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - கரூர் அருகே பாசன வாய்க்காலில் ஆகாய தாமரை செடிகள் அகற்றம்
-01:35:02    SKIPPED Cb71e3e8: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது
-01:35:02    SKIPPED Cdbc219a: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - மானாவாரி நிலங்களில் எள் அறுவடை
-01:35:02    SKIPPED Cf2447b6: skipped: the writer refused it - not filed: bad draft: 'scenes' - நெடுஞ்சாலையில் தூய்மை பணி
+04:27:53 round 2026-11-26_04: news published 26 Nov 01:30 -> 26 Nov 04:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+04:27:53 insights 2026-11-26T04:27+05:30 (204 reels): topic weights {'temple': -0.07, 'accident': 0.82, 'education': -0.2, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.16, 'politics': 0.1, 'civic': -0.28, 'crime': 1.5, 'weather': 0.12}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+04:28:37 open search 'கரூர்' (from_google): 2 links from our outlets
+04:28:37 81 links on the two papers' Karur pages
+04:29:15 skipped: published before this window=28, not Karur district=13, already posted=12, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
+04:29:15 list: 3 new + 1 earlier news not posted yet
+04:29:15    1. [குற்றம்] தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது (தினமணி)
+04:29:15    2. [பொது] தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை (தினமணி)
+04:29:15    3. [பொது] மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ.1.58 கோடி  (தினமணி)
+04:29:15    4. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+04:29:15 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-26_04
