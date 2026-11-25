@@ -1,4 +1,25 @@
-02:29:23   not this district: Trichy Power Cut: திருச்சியில் நாளை (21-11-2026) எந்தெந்த இடங்களில் பவ <https://tamil.abplive.com/news/trichy/trichy-power-cut-21-11-2026-know-timings-areas-affected-by-power-shutdown-280205#district-section>
-02:29:23   not this district: coimbatore power cut: கோவையில் நாளை (21-11-2026) எங்கெல்லாம் மின் தடை? <https://tamil.abplive.com/news/coimbatore/coimbatore-power-cut-21-11-2026-know-timings-areas-affected-by-power-shutdown-280204#district-section>
-02:29:23 skipped: could not open=7, not this district=2
-02:29:23 no new power-cut notice
+14:12:21 from_google 'கரூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:12:59 from_google 'கரூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:13:41 from_google 'நாளைய மின்தடை கரூர்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:14:23 from_google 'நாளைய மின்தடை கரூர்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:15:04 from_google 'குளித்தலை மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:15:42 from_google 'குளித்தலை மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:16:23 from_google 'அரவக்குறிச்சி மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:17:02 from_google 'அரவக்குறிச்சி மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:17:41 from_google 'கிருஷ்ணராயபுரம் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:18:21 from_google 'கிருஷ்ணராயபுரம் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:19:05 from_google 'புகழூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:19:46 from_google 'புகழூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:20:20 from_google 'கடவூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:20:57 from_google 'கடவூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:21:35 from_google 'கரூர் மின் நிறுத்தம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:22:12 from_google 'கரூர் மின் நிறுத்தம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:22:50 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:23:32 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:24:15 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:24:52 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:25:35 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:26:16 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+14:26:39   not this district: தமிழகத்தில் நாளை (26-11-2026) மின்தடை அறிவிப்பு! ஏரியாக்கள் லிஸ்ட் இதோ <https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-26-2026-due-to-maintenance-work/articleshow/136146494.cms#district-section>
+14:26:39 skipped: not a power cut=14, could not open=3, not this district=1
+14:26:39 no new power-cut notice
