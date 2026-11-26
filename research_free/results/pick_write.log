@@ -1,0 +1,158 @@
+writing [N]: கோவில் நிலத்தில் உள்ள ஆக்கிரமிப்பு கடைக்கு ‘சீல்’
+writing [N]: 5 தொகுதிகளில் இடைத்தேர்தலுக்கு தடை கோரிய வழக்கில் நாளை தீர்ப
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (10s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+ok gemini/gemini-3-flash-preview (5s)
+factcheck by gemini/gemini-3-flash-preview: 0 problems
+attempt 1 gemini/gemini-3-flash-preview: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (17s)
+attempt 1 gemini/gemini-3-flash-preview: 4 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  caption needs 5 hashtags (Instagram max), has 6
+  numbers not found in the article: 8, 9
+  hl1 (the first headline on screen) must name the place 'வெண்ணைமலை', e.g. 'வெண்ணைமலை: ...' or 'வெண்ணைமலை-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/qwen/qwen3.8-27b (2s)
+factcheck by groq/qwen/qwen3.8-27b: 2 problems
+  reel_script: The sentence 'ஒப்புக்கொள்ளாத கரூர் காதப்பாறையில் உள்ள ஒரு கடைக்கு சீல் வைத்து அதிகாரிகள் சென்றனர்' is ungrammatical and has no clear meaning in Tamil (mixing 'sealed the shop' with 'officers went' without proper conjunction or structure).
+  slides_spec: The line 'கரூர் காதப்பாறையில் உள்ள ஒரு கடைக்கு சீல் வைத்து அதிகாரிகள்' in the 'சீல் வைப்பு' slide is an incomplete sentence fragment and ungrammatical.
+attempt 2 groq/qwen/qwen3.8-27b: 2 problems
+  fact-check: reel_script: The sentence 'ஒப்புக்கொள்ளாத கரூர் காதப்பாறையில் உள்ள ஒரு கடைக்கு சீல் வைத்து அதிகாரிகள் சென்றனர்' is ungrammatical and has no clear meaning in Tamil (mixing 'sealed the shop' with 'officers went' without proper conjunction or structure).
+  fact-check: slides_spec: The line 'கரூர் காதப்பாறையில் உள்ள ஒரு கடைக்கு சீல் வைத்து அதிகாரிகள்' in the 'சீல் வைப்பு' slide is an incomplete sentence fragment and ungrammatical.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/openai/gpt-oss-120b (2s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  numbers not found in the article: 8, 9
+  hl1 (the first headline on screen) must name the place 'கரூர் அருகே', e.g. 'கரூர் அருகே: ...' or 'கரூர் அருகே-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 8
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  reel_script says the officials sealed 'an encroachment shop' (ஆக்கிரமிப்பு கடைக்கு சீல்) in the first sentence, but the article says 9 shops and 1 house were targeted and sealed for those not agreeing was only one shop; the headline and first sentence imply a single shop, mixing the total operation with the single sealing
+  reel_script says the Hindu Religious and Charitable Endowments Department (officials) 'went to seal' 9 shops and 1 house, but its later sentences state the seal was actually placed only on one shop; the reel_script omits that 8 shops and 1 house agreed to become tenants, which is an important outcome of the action
+  slides_spec slide 1 states 'ஒரு கடைக்கு அதிகாரிகள் சீல் வைத்தனர்' (one shop was sealed), which is consistent with the article, but the headline and reel_script first sentence contradict it by using the singular shop without the nine-shop context, creating an inconsistent description of the event
+  slides_spec slide 2 title 'ஏன் இந்த' is an incomplete/ungrammatical title with no clear meaning in Tamil
+  slides_spec slide 3 line 'இடங்களை மீட்கும் பணி தொடரும்' (the recovery work will continue) is not stated in the article, an invented detail
+  slides_spec slide 3 title 'என்ன நடந்தது' repeats slide 1's title and describes the tenant agreements, which mixes two different facts (agreement of tenants and seal on non-agreeing shop) into one slide with no clear structure
+  caption states the 507-acre land figure and 'நேற்று' (yesterday) timing, which is consistent with the article, but caption also says the 'seal' was placed on 'ஒன்பது கடைகள் மற்றும் ஒரு வீட்டுக்கு' as an attempt, while the headline asserts the sealing occurred, an ambiguity between attempted and completed sealing that is not clearly separated
+claude rewrite 3 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: reel_script says the officials sealed 'an encroachment shop' (ஆக்கிரமிப்பு கடைக்கு சீல்) in the first sentence, but the article says 9 shops and 1 house were targeted and sealed for those not agreeing was only one shop; the headline and first sentence imply a single shop, mixing the total operation with the single sealing
+  fact-check: reel_script says the Hindu Religious and Charitable Endowments Department (officials) 'went to seal' 9 shops and 1 house, but its later sentences state the seal was actually placed only on one shop; the reel_script omits that 8 shops and 1 house agreed to become tenants, which is an important outcome of the action
+  fact-check: slides_spec slide 1 states 'ஒரு கடைக்கு அதிகாரிகள் சீல் வைத்தனர்' (one shop was sealed), which is consistent with the article, but the headline and reel_script first sentence contradict it by using the singular shop without the nine-shop context, creating an inconsistent description of the event
+  fact-check: slides_spec slide 2 title 'ஏன் இந்த' is an incomplete/ungrammatical title with no clear meaning in Tamil
+  fact-check: slides_spec slide 3 line 'இடங்களை மீட்கும் பணி தொடரும்' (the recovery work will continue) is not stated in the article, an invented detail
+  fact-check: slides_spec slide 3 title 'என்ன நடந்தது' repeats slide 1's title and describes the tenant agreements, which mixes two different facts (agreement of tenants and seal on non-agreeing shop) into one slide with no clear structure
+  fact-check: caption states the 507-acre land figure and 'நேற்று' (yesterday) timing, which is consistent with the article, but caption also says the 'seal' was placed on 'ஒன்பது கடைகள் மற்றும் ஒரு வீட்டுக்கு' as an attempt, while the headline asserts the sealing occurred, an ambiguity between attempted and completed sealing that is not clearly separated
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+images made: 2 for 'Verdict tomorrow on by-elections for 5 c'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-2035","first":"RN-227"}
+posting job started at once
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Shop on encroached temple land sealed ne'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-2035","first":"RN-228"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/seal-for-encroached-shop-on-temple-land/4386968
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/tomorrow-verdict-in-case-seeking-stay-on-by-polls-in-5-constituencies/4387058
+candidate filter: collected=2
+to write: 2 Karur district candidates (max 2 stories)
+round: top 2 of 2 candidates
+candidates waiting: 2 Karur; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/tomorrow-verd
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/seal-for-encr
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min
+filed: 2 Karur district stories (target 2), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":2,"updated":0} 
+stories: 2
