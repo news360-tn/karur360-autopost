@@ -1,144 +1,6 @@
 {
- "last_end": "2026-11-26T05:04:11.390463+05:30",
+ "last_end": "2026-11-26T06:05:00.835180+05:30",
  "pool": {
-  "Ca3b1683": {
-   "id": "Ca3b1683",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rainfall-in-the-surrounding-areas-of-karur/4385557",
-   "title": "கரூர் சுற்று வட்டார பகுதிகளில் மழை",
-   "summary": "கரூர்: கரூர் மற்றும் சுற்று வட்டார பகுதிகளில், நேற்று குளிர்ந்த காற்றுடன் திடீரென மழை பெய்தது. தென்கிழக்கு வங்கக்கடல் பகுதியில், மேல் நிலவும் வளி மண்டல கீழடுக்கு, சுழற்சி காரணமாக புயல் உருவாகியுள்ளது.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:32:00+05:30",
-   "category": "மழை / வானிலை",
-   "score": 11.09,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758154+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "Cc3a43b5": {
-   "id": "Cc3a43b5",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rainwater-harvesting-awareness-rally/4385565",
-   "title": "மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி",
-   "summary": "குளித்தலை; குளித்தலை ஊராட்சி ஒன்றியம், வைகைநல்லுாரில் மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி நடந்தது. மண்டல துணை வளர்ச்சி அலுவலர் சாந்தி பேரணியை தொடங்கி வைத்தார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:36:00+05:30",
-   "category": "மழை / வானிலை",
-   "score": 11.09,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30"
-  },
-  "Ccf83c5c": {
-   "id": "Ccf83c5c",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/passengers-suffer-as-rainwater-overflows-on-state-run-town-bus/4385570",
-   "title": "அரசு டவுன் பஸ்சில் ஒழுகிய மழைநீரால் பயணிகள் அவதி",
-   "summary": "கரூர; கரூர் அருகே சென்று கொண்டிருந்த அரசு டவுன் பஸ்சில் மழைநீர் ஒழுகியதால், பயணிகள் அவதிப்பட்டனர். நாமக்கல் மாவட்டம், வேலுாரில் இருந்து நேற்று மதியம், கரூருக்கு அரசு டவுன் பஸ் புறப்பட்டது.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:40:00+05:30",
-   "category": "மழை / வானிலை",
-   "score": 11.09,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758156+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "C9ffdc3e": {
-   "id": "C9ffdc3e",
-   "url": "https://www.dinakaran.com/district/karur_251126_2",
-   "title": "வெள்ளியணையில் வரத்து வாய்க்காலில் வளர்ந்துள்ள கோரைப்புற்களை தூர்வார கோரிக்கை - Dinakaran",
-   "summary": "25: கரூர் மாவட்டம், வெள்ளியணை பகுதியில் உள்ள வரத்து வாய்க்காலில் படர்ந்துள்ள கோரைப் புற்களை அகற்ற வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.",
-   "source": "தினகரன்",
-   "published": "2026-11-25T05:47:30+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758159+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "C133e048": {
-   "id": "C133e048",
-   "url": "https://www.dinakaran.com/district/karur_251126_3",
-   "title": "மாயனூர் காவல் நிலையம் முன் மாயமான இளம்பெண்ணின் உறவினர்கள் தர்ணா போராட்டம் - Dinakaran",
-   "summary": "கிருஷ்ணராயபுரம், நவ.25: கரூர் மாவட்டம் கிருஷ்ணராயபுரம் அருகே மணவாசி ஊராட்சி அரவணாம்பேட்டை பகுதியைச் சேர்ந்த 19 வயது இளம்பெண் கடந்த 21ம் தேதி மாயமானார்.",
-   "source": "தினகரன்",
-   "published": "2026-11-25T05:47:48+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758160+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "C14a4ff0": {
-   "id": "C14a4ff0",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/another-schoolboy-killed-in-road-accident/4385561",
-   "title": "சாலை விபத்தில் மேலும் ஒரு பள்ளி மாணவன் பலி",
-   "summary": "குளித்தலை; குளித்தலை அருகே நடந்த சாலை விபத்தில், மேலும் ஒரு மாணவன் உயிரிழந்தார். குளித்தலை அடுத்த, கிருஷ்ணராயபுரம் அருகே பொய்கைப்புத்துாரில் ஸ்கூட்டி மீது, பி.எம்.டபிள்யு., சொகுசு கார் மோதிய விபத்தில், நேற்று முன்தினம...",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:34:00+05:30",
-   "category": "விபத்து",
-   "score": 9.8,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758162+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "C0aafaa6": {
-   "id": "C0aafaa6",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/distribution-of-uniforms-to-first-class-students/4385560",
-   "title": "முதல் வகுப்பு மாணவர்களுக்கு சீருடை வினியோகம்",
-   "summary": "கரூர்: கரூர் மாவட்டத்தில், முதல் வகுப்பு மாணவர்களுக்கு இலவச சீருடை வினியோகம் நடந்து வருகிறது. கரூர் மாவட்டத்தில் உள்ள, 881 அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில், 1 முதல் பிளஸ் 2 வரை பயிலும், 77,745 மாணவ, மாணவியருக்...",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:33:00+05:30",
-   "category": "பொது",
-   "score": 6.8,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758163+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "C34bce02": {
-   "id": "C34bce02",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/petition-to-collector-urges-him-to-stop-installation-of-wind-power-poles/4385569",
-   "title": "காற்றாலை மின் கம்பங்கள் அமைப்பதை தடுக்க வலியுறுத்தி கலெக்டரிடம் மனு",
-   "summary": "கரூர்; சாலையின் இருபுறமும், தனி யார் காற்றாலை நிறுவனம் மின் கம்பங்கள் அமைப்பதை தடுக்க வேண்டும் என, நாகம்பள்ளி பொதுமக்கள், கரூர் கலெக்டர் அலுவலகத்தில் மனு அளித்தனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:39:00+05:30",
-   "category": "பொது",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758165+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "C639f0b2": {
-   "id": "C639f0b2",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/a-cave-tunnel-is-expected-to-be-constructed-on-the-command-road-railway-line/4385564",
-   "title": "கட்டளை சாலை ரயில்வே வழித்தடத்தில் குகை வழிப்பாதை அமைக்க எதிர்பார்ப்பு",
-   "summary": "கரூர்: கரூர் அருகே, திருச்சி ரயில்வே வழித்தடத்தில் பெரிய அளவிலான, குகை வழிப்பாதை அமைக்க வேண்டும் என, மக்கள் எதிர்பார்க்கின்றனர். கரூர் - திருச்சி ரயில்வே வழித்தடம் ஒருபுறம் காவிரியாறு, மறுபுறம் கிளை வாய்க்கால் மற்றும்...",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:35:00+05:30",
-   "category": "சாலை",
-   "score": 5.67,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758167+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "C49d2f43": {
-   "id": "C49d2f43",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/7-hindu-organisations-put-under-house-arrest/4385559",
-   "title": "இந்து அமைப்பினர் 7 பேர் வீட்டு சிறையில் வைப்பு",
-   "summary": "கரூர்; கரூரில், இந்து அமைப்புகளை சேர்ந்த ஏழு பேர், நேற்று வீட்டு காவலில் வைக்கப்பட்டனர். மதுரை மாவட்டம், திருப்பரங்குன்றம் மலை உச்சியில் தீபம் ஏற்ற வேண்டும் என, உச்சநீதி மன்றம் சமீபத்தில் உத்தரவிட்டது.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:33:00+05:30",
-   "category": "குற்றம்",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:28:57.958725+05:30",
-   "picked_at": "2026-11-25T06:31:15.758169+05:30",
-   "refused": "not filed: all free models failed: no usable answer from the models"
-  },
   "Cb71e3e8": {
    "id": "Cb71e3e8",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/velayuthampalayam-near-cannabis-seller-young-man-arrested/4386473",
@@ -239,23 +101,6 @@
   }
  },
  "rounds": {
-  "2026-11-24_12": {
-   "window": [
-    "2026-11-24T11:43:03.700724+05:30",
-    "2026-11-24T12:29:55.967229+05:30"
-   ],
-   "ids": [
-    "C3a2dc24"
-   ],
-   "sent": false,
-   "deadline": "2026-11-24T13:29:55.967229+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 0 by insights",
-    "ids": [],
-    "at": "2026-11-24T12:30:48.925803+05:30"
-   },
-   "written": []
-  },
   "2026-11-24_16": {
    "window": [
     "2026-11-24T12:29:55.967229+05:30",
@@ -688,6 +533,17 @@
     "ids": [],
     "at": "2026-11-26T05:04:49.244089+05:30"
    },
+   "written": []
+  },
+  "2026-11-26_06": {
+   "window": [
+    "2026-11-26T05:04:11.390463+05:30",
+    "2026-11-26T06:05:00.835180+05:30"
+   ],
+   "ids": [],
+   "sent": false,
+   "deadline": "2026-11-26T07:05:00.835180+05:30",
+   "decided": null,
    "written": []
   }
  },
