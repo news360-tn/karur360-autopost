@@ -1,41 +1,8 @@
-16:29:22 round 2026-11-26_16: news published 26 Nov 12:25 -> 26 Nov 16:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-16:29:22 insights 2026-11-26T16:29+05:30 (212 reels): topic weights {'temple': -0.06, 'accident': 0.77, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.07, 'politics': 0.07, 'civic': -0.31, 'crime': 1.5, 'weather': 0.12}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-16:30:20 open search 'கரூர்' (from_google): 1 links from our outlets
-16:30:20 92 links on the two papers' Karur pages
-16:31:12 skipped: published before this window=32, not Karur district=24, already posted=18, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
-16:31:12 list: 2 new + 0 earlier news not posted yet
-16:31:12    1. [விபத்து] ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி நேரம் போக (இந்தியன் எக்ஸ்பிரஸ் தமிழ்)
-16:31:12    2. [பொது] பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன் - சீமான் (தினத்தந்தி)
-16:31:12 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-26_16
-16:31:15 round 2026-11-26_16 (at least 6, up to 3 more of well-watched topics): 2 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:31:15   PICK   1.  12.1 [accident +0.77 page] ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி
-16:31:15   PICK   2.   6.0 [other +0.00 pattern] பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன
-16:31:15 decided: automatic: top 6 of 2 by insights -> 2 news to write and post
-PICK_URLS=https://tamil.indianexpress.com/tamilnadu/government-bus-collides-with-army-vehicle-10-injured-traffic-disrupted-for-an-hour-12843022 https://www.dailythanthi.com/news/tamilnadu/a-common-candidate-i-will-not-go-and-stand-before-anyone-to-seek-support-seemans-sensational-statement
-16:37:21 2 listed news now in the Sheet
-16:37:32 instagram duplicate check karur: 50 recent posts read
-16:37:32 verify 2026-11-26_16: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-16:37:32    NOT POSTED C6f34da8: queued RN-224 (Queued) - பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன
-16:37:32    NOT POSTED Ca5235b1: queued RN-225 (Queued) - ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி
-16:42:39 instagram duplicate check karur: 50 recent posts read
-16:42:39 verify 2026-11-26_16: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-16:42:39    NOT POSTED C6f34da8: queued RN-224 (Queued) - பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன
-16:42:39    NOT POSTED Ca5235b1: queued RN-225 (Queued) - ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி
-16:47:47 instagram duplicate check karur: 50 recent posts read
-16:47:47 verify 2026-11-26_16: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-16:47:47    NOT POSTED C6f34da8: queued RN-224 (Queued) - பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன
-16:47:47    NOT POSTED Ca5235b1: queued RN-225 (Queued) - ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி
-16:52:55 instagram duplicate check karur: 50 recent posts read
-16:52:55 verify 2026-11-26_16: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-16:52:55    NOT POSTED C6f34da8: queued RN-224 (Queued) - பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன
-16:52:55    NOT POSTED Ca5235b1: queued RN-225 (Queued) - ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி
-16:58:03 instagram duplicate check karur: 50 recent posts read
-16:58:03 verify 2026-11-26_16: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-16:58:03    NOT POSTED C6f34da8: queued RN-224 (Queued) - பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன
-16:58:03    NOT POSTED Ca5235b1: queued RN-225 (Queued) - ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி
-17:03:10 instagram duplicate check karur: 50 recent posts read
-17:03:10 verify 2026-11-26_16: 0 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-17:03:10    NOT POSTED C6f34da8: queued RN-224 (Queued) - பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன
-17:03:10    NOT POSTED Ca5235b1: queued RN-225 (Queued) - ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி
-17:08:17 verify 2026-11-26_16: 2 of 2 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+17:08:58 round 2026-11-26_17: news published 26 Nov 16:29 -> 26 Nov 17:08 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+17:08:58 insights 2026-11-26T17:08+05:30 (212 reels): topic weights {'temple': -0.06, 'accident': 0.77, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.05, 'politics': 0.07, 'civic': -0.31, 'crime': 1.5, 'weather': 0.12}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+17:09:18 open search 'கரூர்' (from_google): 0 links from our outlets
+17:09:18 75 links on the two papers' Karur pages
+17:10:02 skipped: published before this window=32, already posted=18, not Karur district=9, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
+17:10:02 list: 0 new + 0 earlier news not posted yet
+17:10:02 no news in this window - no e-mail
+ROUND=2026-11-26_17
