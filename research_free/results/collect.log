@@ -1,0 +1,300 @@
+writing [N]: கரூர் மாவட்டத்தில் பரவலாக சாரல் மழை: மக்களின் இயல்பு வாழ்க்க
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.6-flash for 10 min
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+ok gemini/gemini-3-flash-preview (24s)
+attempt 1 gemini/gemini-3-flash-preview: 3 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 18 ('கரூர், திருச்சி, நாமக்கல், தஞ்சாவூர், திருவாரூர், மயிலாடுதுற'); வேலாயுதம்பாளையம் ('சாரல் மழை காரணமாக கடும் குளிரால் நேற்று காமராஜர் தினசரி மார்'); வெங்கமேடு ('சாரல் மழை காரணமாக கடும் குளிரால் நேற்று காமராஜர் தினசரி மார்'); 10 ('அரவக்குறிச்சி மற்றும் சுற்று வட்டார பகுதிகளில் கடந்த, 10 நாட'); 2 ('மதியம் 1:30 மணி முதல் 2:00 மணி வரை மிதமான மழை'); 4 ('இதே போல மாலை 4:00 முதல் 4:30 மணி வரை சாரல் மழை பெய்தது.')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (23s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 2 problems
+  The reel_script states that rain fell in Aravakurichi 'after 10 days' (10 நாட்களுக்குப் பிறகு), whereas the article states that heat wave/scorching sun lasted for 'more than 10 days' (10 நாட்களுக்கும் மேலாக). The draft omits the 'more than' qualifier and changes the meaning slightly.
+  The reel_script lists crops as 'paddy, banana, betel leaf and sorghum' (நெல், வாழை, வெற்றிலை மற்றும் சோளம்), omitting 'cassava' (மரவள்ளிக்கிழங்கு) which is explicitly listed in the article as one of the crops benefiting from the rain.
+attempt 2 gemini/gemini-3-flash-preview: 2 problems
+  fact-check: The reel_script states that rain fell in Aravakurichi 'after 10 days' (10 நாட்களுக்குப் பிறகு), whereas the article states that heat wave/scorching sun lasted for 'more than 10 days' (10 நாட்களுக்கும் மேலாக). The draft omits the 'more than' qualifier and changes the meaning slightly.
+  fact-check: The reel_script lists crops as 'paddy, banana, betel leaf and sorghum' (நெல், வாழை, வெற்றிலை மற்றும் சோளம்), omitting 'cassava' (மரவள்ளிக்கிழங்கு) which is explicitly listed in the article as one of the crops benefiting from the rain.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('அரவக்குறிச்சி மற்றும் சுற்று வட்டார பகுதிகளில் கடந்த, 10 நாட')
+  known issue repeated_words: word said twice in a row ('மாறி') - rewrite so it does not happen again
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  known issue repeated_words: word said twice in a row ('மாறி') - rewrite so it does not happen again
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('அரவக்குறிச்சி மற்றும் சுற்று வட்டார பகுதிகளில் கடந்த, 10 நாட')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (5s)
+proofread by groq/qwen/qwen3.8-27b: 1 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (2s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Drizzle across Karur district disrupts d'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1844","first":"RN-226"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+source dinamalar list: 15 items
+source google 'கரூர்': 26 items
+source bing 'கரூர்': 12 items
+source google 'குளித்தலை': 5 items
+source bing 'குளித்தலை': 12 items
+source google 'அரவக்குறிச்சி': 1 items
+source bing 'அரவக்குறிச்சி': 11 items
+source google 'கிருஷ்ணராயபுரம்': 7 items
+source bing 'கிருஷ்ணராயபுரம்': 12 items
+source google 'மண்மங்கலம்': 2 items
+source bing 'மண்மங்கலம்': 7 items
+source google 'கடவூர்': 1 items
+source bing 'கடவூர்': 10 items
+source google 'புகழூர்': 2 items
+source bing 'புகழூர்': 10 items
+source google 'வேலாயுதம்பாளையம்': 5 items
+source bing 'வேலாயுதம்பாளையம்': 12 items
+source google 'தாந்தோன்றிமலை': 0 items
+source bing 'தாந்தோன்றிமலை': 1 items
+source google 'பள்ளபட்டி': 0 items
+source bing 'பள்ளபட்டி': 7 items
+source google 'லாலாபேட்டை': 0 items
+source bing 'லாலாபேட்டை': 8 items
+source google 'மாயனூர்': 5 items
+source bing 'மாயனூர்': 11 items
+source google 'நொய்யல்': 4 items
+source bing 'நொய்யல்': 12 items
+source google 'தோகைமலை': 0 items
+source bing 'தோகைமலை': 3 items
+source google 'பஞ்சப்பட்டி': 0 items
+source bing 'பஞ்சப்பட்டி': 5 items
+source google 'வெங்கமேடு': 2 items
+source bing 'வெங்கமேடு': 9 items
+source google 'வாங்கல்': 4 items
+source bing 'வாங்கல்': 12 items
+source google 'கரூர் மாவட்டம்': 42 items
+source bing 'கரூர் மாவட்டம்': 12 items
+source google 'கரூர் மின்தடை': 9 items
+source bing 'கரூர் மின்தடை': 12 items
+source google 'குளித்தலை மின்தடை': 0 items
+source bing 'குளித்தலை மின்தடை': 1 items
+source google 'அரவக்குறிச்சி மின்தடை': 0 items
+source bing 'அரவக்குறிச்சி மின்தடை': 2 items
+source google 'கிருஷ்ணராயபுரம் மின்தடை': 0 items
+source bing 'கிருஷ்ணராயபுரம் மின்தடை': 5 items
+source google 'கரூர் ஆட்சியர் அறிவிப்பு': 0 items
+source bing 'கரூர் ஆட்சியர் அறிவிப்பு': 8 items
+source google 'கரூர் மாவட்ட நிர்வாகம்': 2 items
+source bing 'கரூர் மாவட்ட நிர்வாகம்': 10 items
+source google 'கரூர் வேலைவாய்ப்பு முகாம்': 1 items
+source bing 'கரூர் வேலைவாய்ப்பு முகாம்': 2 items
+source google 'கரூர் ஆட்சேர்ப்பு': 2 items
+source bing 'கரூர் ஆட்சேர்ப்பு': 1 items
+source google 'கரூர் சிறப்பு முகாம்': 1 items
+source bing 'கரூர் சிறப்பு முகாம்': 5 items
+source google 'கரூர் குறைதீர் கூட்டம்': 0 items
+source bing 'கரூர் குறைதீர் கூட்டம்': 3 items
+source google 'பசுபதிபாளையம்': 1 items
+source bing 'பசுபதிபாளையம்': 7 items
+source google 'ஜவஹர் பஜார்': 0 items
+source bing 'ஜவஹர் பஜார்': 6 items
+source google 'புலியூர்': 1 items
+source bing 'புலியூர்': 12 items
+source google 'மண்மங்கலம் மின்தடை': 0 items
+source bing 'மண்மங்கலம் மின்தடை': 2 items
+source google 'கடவூர் மின்தடை': 2 items
+source bing 'கடவூர் மின்தடை': 7 items
+source google 'புகழூர் மின்தடை': 0 items
+source bing 'புகழூர் மின்தடை': 3 items
+source google 'வேலாயுதம்பாளையம் மின்தடை': 0 items
+source bing 'வேலாயுதம்பாளையம் மின்தடை': 7 items
+source google 'தாந்தோன்றிமலை மின்தடை': 0 items
+source bing 'தாந்தோன்றிமலை மின்தடை': 0 items
+source google 'பள்ளபட்டி மின்தடை': 0 items
+source bing 'பள்ளபட்டி மின்தடை': 7 items
+source google 'லாலாபேட்டை மின்தடை': 0 items
+source bing 'லாலாபேட்டை மின்தடை': 4 items
+source google 'மாயனூர் மின்தடை': 0 items
+source bing 'மாயனூர் மின்தடை': 5 items
+source google 'நொய்யல் மின்தடை': 0 items
+source bing 'நொய்யல் மின்தடை': 8 items
+source google 'தோகைமலை மின்தடை': 0 items
+source bing 'தோகைமலை மின்தடை': 0 items
+source google 'பஞ்சப்பட்டி மின்தடை': 0 items
+source bing 'பஞ்சப்பட்டி மின்தடை': 4 items
+source google 'கரூர் மின்தடை நாளை': 9 items
+source bing 'கரூர் மின்தடை நாளை': 11 items
+source google 'கரூர் மின்தடை பகுதிகள்': 2 items
+source bing 'கரூர் மின்தடை பகுதிகள்': 9 items
+source google 'கரூர் மின் நிறுத்தம்': 0 items
+source bing 'கரூர் மின் நிறுத்தம்': 1 items
+source google தினமலர் 'கரூர்': 100 items
+source bing தினமலர் 'கரூர்': 12 items
+source google தினமலர் 'குளித்தலை': 11 items
+source bing தினமலர் 'குளித்தலை': 12 items
+source google தினமணி 'கரூர்': 25 items
+source bing தினமணி 'கரூர்': 12 items
+source google தினமணி 'குளித்தலை': 1 items
+source bing தினமணி 'குளித்தலை': 4 items
+source google தினகரன் 'கரூர்': 100 items
+source bing தினகரன் 'கரூர்': 9 items
+source google தினகரன் 'குளித்தலை': 2 items
+source bing தினகரன் 'குளித்தலை': 1 items
+source google ஒன்இந்தியா 'கரூர்': 10 items
+source bing ஒன்இந்தியா 'கரூர்': 12 items
+source google ஒன்இந்தியா 'குளித்தலை': 0 items
+source bing ஒன்இந்தியா 'குளித்தலை': 8 items
+source google தினத்தந்தி 'கரூர்': 14 items
+source bing தினத்தந்தி 'கரூர்': 11 items
+source google தினத்தந்தி 'குளித்தலை': 0 items
+source bing தினத்தந்தி 'குளித்தலை': 1 items
+source google மாலைமலர் 'கரூர்': 4 items
+source bing மாலைமலர் 'கரூர்': 12 items
+source google மாலைமலர் 'குளித்தலை': 0 items
+source bing மாலைமலர் 'குளித்தலை': 1 items
+source google தந்தி டிவி 'கரூர்': 17 items
+source bing தந்தி டிவி 'கரூர்': 5 items
+source google தந்தி டிவி 'குளித்தலை': 0 items
+source bing தந்தி டிவி 'குளித்தலை': 0 items
+source google இந்து தமிழ் 'கரூர்': 5 items
+source bing இந்து தமிழ் 'கரூர்': 12 items
+source google இந்து தமிழ் 'குளித்தலை': 0 items
+source bing இந்து தமிழ் 'குளித்தலை': 1 items
+source google பாலிமர் 'கரூர்': 2 items
+source bing பாலிமர் 'கரூர்': 4 items
+source google பாலிமர் 'குளித்தலை': 0 items
+source bing பாலிமர் 'குளித்தலை': 0 items
+source google மாலை முரசு 'கரூர்': 1 items
+source bing மாலை முரசு 'கரூர்': 1 items
+source google மாலை முரசு 'குளித்தலை': 1 items
+source bing மாலை முரசு 'குளித்தலை': 0 items
+source google நியூஸ்18 தமிழ் 'கரூர்': 100 items
+source bing நியூஸ்18 தமிழ் 'கரூர்': 12 items
+source google நியூஸ்18 தமிழ் 'குளித்தலை': 0 items
+source bing நியூஸ்18 தமிழ் 'குளித்தலை': 1 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'கரூர்': 3 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'கரூர்': 10 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'குளித்தலை': 1 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'குளித்தலை': 0 items
+source தினமணி கரூர்: 9 items
+source தினகரன் கரூர்: 10 items
+source இந்து தமிழ் கரூர்: 9 items
+source விகடன் கரூர்: 13 items
+source பாலிமர் கரூர்: 5 items
+source ஒன்இந்தியா கரூர்: 12 items
+Tamil outlets only: kept 876 of 1055 items
+all sources: 876 items -> 567 different news
+candidate filter: not written=292, not Karur district news (state-wide / ot=177, already filed=39, collected=27, old=17, not written=15
+to write: 27 Karur district candidates (max 3 stories)
+round: top 3 of 27 candidates + 9 power cut(s)
+candidates waiting: 27 Karur; time left 53 min
+try (N) manual=False: தமிழ்நாட்டின் பல்வேறு இடங்களில் நாளை(26.11.2026) மின்தடை அறி
+try (N) manual=False: நாளை (நவ.27) மின் தடை (காலை 9:00 – மதியம் 2:00 மணி)
+try (N) manual=False: நாளை மறுதினம் (நவ. 25 ) மின்தடை
+skip (N) could not open: தமிழ்நாட்டின் பல்வேறு இடங்களில் நாளை(26.11.2026) ம [https://tamil.news18.com/photogallery/tamil-nadu/power-outag] 403 Client Error: Forbidden for url: https://tamil.news18.com/photogallery/tamil
+try (N) manual=False: நாளைய மின்தடை: தியாகதுருகம் பகுதிகள்!
+skip (N) too old (2026-11-22T19:49:57.981Z): நாளைய மின்தடை: தியாகதுருகம் பகுதிகள்!
+try (N) manual=False: நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
+skip (N) too old (2026-11-14T19:17:15.490Z): நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
+try (N) manual=False: கலெக்டர் ஆபீசில் மின்தடை லிப்டில் சிக்கி 5 பேர் தவிப்பு
+skip (N) too old (2026-11-23T18:02:31+05:30): நாளை மறுதினம் (நவ. 25 ) மின்தடை
+try (N) manual=False: நவ. 17, 18 ல் மின்தடை
+skip (N) too old (2026-11-12T21:57:02+05:30): கலெக்டர் ஆபீசில் மின்தடை லிப்டில் சிக்கி 5 பேர் தவ
+try (N) manual=False: நாளைய மின்தடை (19ம் தேதி)
+skip (N) too old (2026-11-21T17:50:02+05:30): நாளை மறுதினம் (நவ.23) மின்தடை (காலை 9:00 – மதியம் 
+try (N) manual=False: நாளைய மின்தடை: ஆம்பூா், சோமலாபுரம், விண்ணமங்கலம்
+skip (N) too old (2026-11-16T17:35:02+05:30): நவ. 17, 18 ல் மின்தடை
+try (N) manual=False: வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது
+skip (N) too old (2026-11-19T04:29:02+05:30): நாளைய மின்தடை (19ம் தேதி)
+try (N) manual=False: வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது
+skip (N) similar to a filed story: வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது
+try (N) manual=False: தோகைமலையில் ரூ. 3 லட்சம் புகையிலைப் பொருள்கள் பறிமுதல்: 3 போ
+skip (N) too old (2026-11-14T18:58:48.144Z): தோகைமலையில் ரூ. 3 லட்சம் புகையிலைப் பொருள்கள் பறிம
+try (N) manual=False: வாலிபர் விஷம் குடித்த வழக்கில் மூவரை கைது செய்த போலீசார்
+skip (N) too old (2026-10-10T06:36:00+05:30): வாலிபர் விஷம் குடித்த வழக்கில் மூவரை கைது செய்த போ
+try (N) manual=False: நெசவு தொழிலாளியிடம் பணம் பறித்த 4 பேர் கைது
+skip (N) too old (2026-11-17T04:10:00+05:30): நெசவு தொழிலாளியிடம் பணம் பறித்த 4 பேர் கைது
+try (N) manual=False: கைது
+skip (N) no Karur place in article: நாளைய மின்தடை: ஆம்பூா், சோமலாபுரம், விண்ணமங்கலம்
+try (N) manual=False: கைது செய்க
+skip (N) similar to a filed story: வேலாயுதம்பாளையம் அருகே கஞ்சா விற்ற வாலிபர் கைது
+try (N) manual=False: பிளஸ் 2 மாணவா் கிணற்றில் குதித்து தற்கொலை
+skip (N) no Karur place in article: பிளஸ் 2 மாணவா் கிணற்றில் குதித்து தற்கொலை
+try (N) manual=False: திண்டுக்கல்லில் பெய்த மழையில் பழைய கரூர் ரோட்டில் குளம் போல்
+skip (N) only a headline, 11 words of text: கைது [https://www.dinamalar.com/photos/social-media-cards/370236]
+try (N) manual=False: பெண் ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய விவகாரம்: தவெக 
+skip (N) only a headline, 11 words of text: கைது செய்க [https://www.dinamalar.com/photos/social-media-cards/370245]
+try (N) manual=False: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய கட்டுப்பா
+skip (N) no Karur place in article: பெண் ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய விவகா
+try (N) manual=False: கரூர் மாவட்டத்தில் பரவலாக சாரல் மழை: மக்களின் இயல்பு வாழ்க்க
+skip (N) no Karur place in article: திருப்பரங்குன்றம் தீபத்தூணில் தீபம் ஏற்றுவதற்கான ஏ
+try (N) manual=False: அரசுப் பேருந்து மோதியதில் ஓய்வுபெற்ற நீதித் துறை அலுவலா் ...
+skip (N) too old (2026-11-21T19:33:56.512Z): அரசுப் பேருந்து மோதியதில் 
+ஓய்வுபெற்ற நீதித் துறை 
+try (N) manual=False: ஆசனுார் பாலத்தில் கார் மோதி விபத்து கல்லுாரி மாணவர்கள் 9 பேர
+skip (N) no Karur place in article: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய
+try (N) manual=False: மொபட் மீது கார் மோதிய விபத்தில் மாணவர் இருவர் பலி: 6 பேர் கா
+skip (N) too old (2026-11-24T18:22:02+05:30): ஆசனூர் பாலத்தில் கார் மோதி விபத்து கல்லூரி மாணவர்க
+try (N) manual=False: பள்ளி வாகனம் மோதி விவசாயி உயிரிழப்பு
+skip (N) no Karur place in article: பள்ளி வாகனம் மோதி விவசாயி உயிரிழப்பு
+try (N) manual=False: நகை திருடிய வழக்கு வாலிபர் சிக்கினார்
+skip (N) too old (2026-11-23T22:30:28+05:30): மொபட் மீது கார் மோதிய விபத்தில் மாணவர் இருவர் பலி:
+try (N) manual=False: தீபத்தூணில் தீபம் ஏற்றாதது ஏன்: அறங்காவலர் குழுவை காட்டி தப்
+skip (N) too old (2026-11-23T05:58:00+05:30): நகை திருடிய வழக்கு வாலிபர் சிக்கினார்
+skip (N) too old (2026-11-24T20:12:00+05:30): தீபத்தூணில் தீபம் ஏற்றாதது ஏன்: அறங்காவலர் குழுவை 
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 27}, done={'N': 1}, time left 49 min
+filed: 1 Karur district stories (target 3), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":50,"updated":10}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":59,"updated":1}
+All News sheet: {"ok":true,"added":59,"updated":1}
+All News sheet: {"ok":true,"added":59,"updated":1}
+All News sheet: {"ok":true,"added":9,"updated":2} 
+stories: 1
