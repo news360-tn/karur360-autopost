@@ -1,6 +1,45 @@
-00:21:57 location re-check failed (stays held): RN-85 404 Client Error: Not Found for url: https://www.dinamalar.com/news/tamil-nadu-d
-00:22:00 hold lifted: RN-119 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-00:22:04 hold lifted: RN-147 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-00:22:04 hold lifted: RN-151 - not grounded: location 'உழவர்' is not in the article - the location IS in the article (checked again)
-00:22:04 hold lifted: RN-151 - not grounded: location 'சந்தை' is not in the article - the location IS in the article (checked again)
-00:22:04 0 held news to fix: []
+11:00:12 location re-check failed (stays held): RN-85 404 Client Error: Not Found for url: https://www.dinamalar.com/news/tamil-nadu-d
+11:00:15 hold lifted: RN-119 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:00:20 hold lifted: RN-147 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:00:20 hold lifted: RN-151 - not grounded: location 'உழவர்' is not in the article - the location IS in the article (checked again)
+11:00:20 hold lifted: RN-151 - not grounded: location 'சந்தை' is not in the article - the location IS in the article (checked again)
+11:00:20 2 held news to fix: ['RN-220', 'RN-221']
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (16s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (3s)
+factcheck by groq/openai/gpt-oss-120b: 0 problems
+attempt 1 gemini/gemini-3.6-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+11:00:49 RN-220 FIXED - posts with the corrected text: ஜெகதாபியில் முருங்கை சாகுபடி விழிப்புணர்வு முகாம்: 1 ஏக்கரில் நாற்று நடவு செய்து
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+11:01:05 RN-221 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
