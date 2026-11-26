@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:30:05+00:00",
+ "updated": "2026-11-26T15:38:15+00:00",
  "day": "2026-11-26",
  "ready": 1,
  "pages": {
@@ -71,7 +71,7 @@
       "kind": "reel"
      }
     ],
-    "paused": "Instagram had a temporary error - posting again after 5 minutes on karur - paused until 2026-11-26T15:37 UTC",
+    "paused": "",
     "quota": ""
    },
    "facebook": {
@@ -91,6 +91,12 @@
      "id": "RN-224",
      "why": "Instagram's 24-hour post limit is reached",
      "sent": "2026-11-26T11:21:05+00:00",
+     "video": true
+    },
+    {
+     "id": "RN-228",
+     "why": "Instagram's 24-hour post limit is reached",
+     "sent": "2026-11-26T15:35:33+00:00",
      "video": true
     }
    ],
