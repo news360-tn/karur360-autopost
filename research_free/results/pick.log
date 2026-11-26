@@ -1,11 +1,10 @@
-17:08:58 round 2026-11-26_17: news published 26 Nov 16:29 -> 26 Nov 17:08 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-17:08:58 insights 2026-11-26T17:08+05:30 (212 reels): topic weights {'temple': -0.06, 'accident': 0.77, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.05, 'politics': 0.07, 'civic': -0.31, 'crime': 1.5, 'weather': 0.12}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-17:09:18 open search 'கரூர்' (from_google): 0 links from our outlets
-17:09:18 75 links on the two papers' Karur pages
-17:10:02 skipped: published before this window=32, already posted=18, not Karur district=9, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
-17:10:02 list: 0 new + 0 earlier news not posted yet
-17:10:02 no news in this window - no e-mail
-ROUND=2026-11-26_17
-17:10:10 no list this round - nothing to post
-PICK_URLS=
-17:10:11 verify: no decided round
+20:29:48 round 2026-11-26_20: news published 26 Nov 17:08 -> 26 Nov 20:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+20:29:48 insights 2026-11-26T20:29+05:30 (215 reels): topic weights {'temple': -0.04, 'accident': 0.89, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.04, 'politics': 0.12, 'civic': -0.32, 'crime': 1.5, 'weather': 0.12}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+20:31:16 open search 'கரூர்' (from_google): 0 links from our outlets
+20:31:16 93 links on the two papers' Karur pages
+20:32:14 skipped: published before this window=32, not Karur district=23, already posted=18, same event already posted=3, only a headline=3, state-wide / other district=3, shop offer / advertisement=1, no title=1
+20:32:15 list: 2 new + 0 earlier news not posted yet
+20:32:15    1. [ஆன்மிகம்] கோவில் நிலத்தில் உள்ள ஆக்கிரமிப்பு கடைக்கு ‘சீல்’ (தினமலர்)
+20:32:15    2. [பொது] 5 தொகுதிகளில் இடைத்தேர்தலுக்கு தடை கோரிய வழக்கில் நாளை தீர்ப்பு (தினமலர்)
+20:32:15 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-26_20
