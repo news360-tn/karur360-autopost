@@ -180,5 +180,31 @@
     "Tuticorin, Tamil Nadu": 41
    }
   }
+ },
+ "2026-11-27": {
+  "karur": {
+   "reach": 15334,
+   "reach_by_follow_type": {
+    "FOLLOWER": 2193,
+    "NON_FOLLOWER": 13452
+   },
+   "follower_cities": {
+    "Karur, Tamil Nadu": 1064,
+    "Kulittalai, Tamil Nadu": 927,
+    "Chennai, Tamil Nadu": 310,
+    "Tiruchirappalli, Tamil Nadu": 217,
+    "Kulithalai, Tamil Nadu": 116,
+    "Coimbatore, Tamil Nadu": 111,
+    "Manapparai, Tamil Nadu": 97,
+    "Palladam, Tamil Nadu": 74,
+    "Tirupur, Tamil Nadu": 69,
+    "Velur, Tamil Nadu": 66,
+    "Madukkarai, Tamil Nadu": 65,
+    "Tiruchengodu, Tamil Nadu": 62,
+    "Namakkal, Tamil Nadu": 56,
+    "Palani, Tamil Nadu": 54,
+    "Dindigul, Tamil Nadu": 48
+   }
+  }
  }
 }
