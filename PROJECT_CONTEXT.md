@@ -83,6 +83,22 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-26 | `9f3d6cc` | Keywords after hashtags on Instagram/Facebook/YouTube; Facebook follower count in insights |
+| 2026-11-26 | `4f58813` | stories shared / Instagram pause |
+| 2026-11-26 | `13d63db` | facebook RN-226 |
+| 2026-11-26 | `bc89f07` | posted RN-226 |
+| 2026-11-26 | `ccfb094` | stories shared / Instagram pause |
+| 2026-11-26 | `a940757` | stories shared / Instagram pause |
+| 2026-11-26 | `7324b3b` | autofix: corrected held news |
+| 2026-11-26 | `f5a9cf9` | stories shared / Instagram pause |
+| 2026-11-26 | `91283ff` | powercut: notices written |
+| 2026-11-26 | `75dafec` | stories shared / Instagram pause |
+| 2026-11-26 | `0b2b9ba` | stories shared / Instagram pause |
+| 2026-11-26 | `be7a2a5` | stories shared / Instagram pause |
+| 2026-11-26 | `eca784c` | stories shared / Instagram pause |
+| 2026-11-26 | `7a934ba` | stories shared / Instagram pause |
+| 2026-11-26 | `1a439a7` | stories shared / Instagram pause |
+| 2026-11-26 | `37b85dc` | stories shared / Instagram pause |
 | 2026-11-26 | `dd8b36f` | stories shared / Instagram pause |
 | 2026-11-26 | `45885f0` | stories shared / Instagram pause |
 | 2026-11-26 | `3840860` | stories shared / Instagram pause |
@@ -97,20 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-26 | `7c7f665` | stories shared / Instagram pause |
 | 2026-11-26 | `d96d9d4` | manual post e-mail RN-225 |
 | 2026-11-26 | `21c33ba` | manual post e-mail RN-224 |
-| 2026-11-26 | `5acc37b` | stories shared / Instagram pause |
-| 2026-11-26 | `0b1a516` | pick: picked news saved |
-| 2026-11-26 | `23f0ba0` | stories shared / Instagram pause |
-| 2026-11-26 | `3cad7a5` | pick: picked news saved |
-| 2026-11-26 | `6e79956` | pick: list sent |
-| 2026-11-26 | `9972183` | stories shared / Instagram pause |
-| 2026-11-26 | `2300cd7` | stories shared / Instagram pause |
-| 2026-11-26 | `cebcf53` | stories shared / Instagram pause |
-| 2026-11-26 | `f76afd8` | stories shared / Instagram pause |
-| 2026-11-26 | `bdcb0bf` | stories shared / Instagram pause |
-| 2026-11-26 | `7e73e5e` | stories shared / Instagram pause |
-| 2026-11-26 | `9400a52` | goldrate posted |
-| 2026-11-26 | `543faa8` | stories shared / Instagram pause |
-| 2026-11-26 | `bed126b` | stories shared / Instagram pause |
-| 2026-11-26 | `7ca4359` | stories shared / Instagram pause |
-| 2026-11-26 | `60ad6f1` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
