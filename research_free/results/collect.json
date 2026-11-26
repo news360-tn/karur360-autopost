@@ -3,200 +3,101 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/seal-for-encroached-shop-on-temple-land/4386968",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/tomorrow-verdict-in-case-seeking-stay-on-by-polls-in-5-constituencies/4387058",
-  "candidate filter: collected=2",
-  "to write: 2 Karur district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/tomorrow-verd",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/seal-for-encr",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/26/constitution-day-pledge-ceremony-at-tnpl-plant",
+  "candidate filter: collected=1",
+  "to write: 1 Karur district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
-  "filed: 2 Karur district stories (target 2), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 79 min",
+  "filed: 1 Karur district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/openai/gpt-oss-120b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "5 தொகுதிகளில் இடைத்தேர்தல்: நாளை காலை 10:30 மணிக்கு ஐகோர்ட் தீர்ப்பு",
-   "english_headline": "Verdict tomorrow on by-elections for 5 constituencies including Karur",
+   "tamil_headline": "டிஎன்பிஎல் ஆலையில் அரசமைப்பு தின உறுதிமொழியேற்பு",
+   "english_headline": "Constitution Day pledge taken by workers at TNPL plant, Karur",
    "category": "Government & Services",
-   "location": "Karur, Karur district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "தேர்தல் செய்தி",
-    "loc": "கரூர்",
-    "hl1": "கரூரில் இடைத்தேர்தல் நடக்குமா?",
-    "hl2": "நாளை காலை 10:30-க்கு",
-    "slides": [
-     {
-      "title": "5 தொகுதிகள்",
-      "lines": [
-       "கரூர், திருச்சி கிழக்கு, விராலிமலை",
-       "பெருந்துறை, அம்பாசமுத்திரம் தொகுதிகள் காலி",
-       "இந்த 5 இடங்களிலும் தேர்தல் வழக்குகள் நிலுவை"
-      ]
-     },
-     {
-      "title": "வழக்கு விவரம்",
-      "lines": [
-       "இடைத்தேர்தல் நடத்த தடை கோரி சென்னை ஐகோர்ட்டில் வழக்கு",
-       "தலைமை நீதிபதி அமர்வு ஏற்கனவே <b>இடைக்கால தடை</b> விதிப்பு",
-       "தற்போது அனைத்து தரப்பு வாதங்களும் நிறைவு"
-      ]
-     },
-     {
-      "title": "நாளை தீர்ப்பு",
-      "lines": [
-       "நாளை <b>27 நவம்பர்</b> காலை <b>10:30 மணிக்கு</b> தீர்ப்பு",
-       "கரூரில் தேர்தல் நடக்குமா என்பது நாளை தெரியவரும்",
-       "பொதுமக்கள் மத்தியில் பெரும் எதிர்பார்ப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் உள்ளிட்ட 5 தொகுதிகளில் இடைத்தேர்தல் நடத்தப்படுமா என்பது குறித்து நாளை தீர்ப்பு வழங்கப்படுகிறது. திருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை மற்றும் அம்பாசமுத்திரம் ஆகிய 5 தொகுதிகள் தற்போது காலியாக உள்ளன. திருச்சி கிழக்கு தொகுதியில் வெற்றி பெற்ற முதல்வர் விஜய் ராஜினாமா செய்துள்ளார். கரூர், விராலிமலை, பெருந்துறை மற்றும் அம்பாசமுத்திரம் தொகுதிகளில் அ தி மு க சார்பில் வெற்றி பெற்றவர்கள் ராஜினாமா செய்துள்ளனர். இந்த 5 தொகுதிகளிலும் தேர்தல் தொடர்பான வழக்குகள் நிலுவையில் உள்ளன. இதனால் இடைத்தேர்தல் நடத்த தடை கோரி சென்னை உயர்நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது. இந்த வழக்கை விசாரித்த தலைமை நீதிபதி அமர்வு, தேர்தல் நடத்த ஏற்கனவே இடைக்கால தடை விதித்திருந்தது. தற்போது அனைத்து தரப்பு வாதங்களும் முடிவடைந்த நிலையில், நாளை நவம்பர் 27ஆம் தேதி காலை 10:30 மணிக்கு தீர்ப்பு வழங்கப்படும் என அறிவிக்கப்பட்டுள்ளது. கரூரில் தேர்தல் நடக்குமா என்பது நாளை தெரியவரும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ கரூர் உள்ளிட்ட 5 தொகுதிகளில் இடைத்தேர்தல்: நாளை காலை 10:30 மணிக்கு தீர்ப்பு!\n\n📰 முழு விவரம்:\nதிருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை மற்றும் அம்பாசமுத்திரம் ஆகிய 5 தொகுதிகளில் இடைத்தேர்தல் நடத்த தடை கோரிய வழக்கில் நாளை தீர்ப்பு வெளியாகிறது. முதல்வர் விஜய் மற்றும் அதிமுக உறுப்பினர்கள் ராஜினாமா செய்ததால் இந்த இடங்கள் காலியாக உள்ளன. இந்தத் தொகுதிகளில் தேர்தல் வழக்குகள் நிலுவையில் உள்ளதால், இடைத்தேர்தல் நடத்த தடை கோரி சென்னை உயர்நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது. ஏற்கனவே இடைக்கால தடை விதிக்கப்பட்ட நிலையில், நாளை இறுதித் தீர்ப்பு வழங்கப்பட உள்ளது.\n\n📍 தொகுதிகள்: கரூர், திருச்சி கிழக்கு, விராலிமலை, பெருந்துறை, அம்பாசமுத்திரம்\n⚖️ நீதிமன்றம்: சென்னை உயர்நீதிமன்றம்\n🕘 தீர்ப்பு நேரம்: நவம்பர் 27, காலை 10:30 மணி\n\nKarur by-election court verdict tomorrow | Chennai High Court news\n📍 Karur district | 26 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Elections #KarurNews #கரூர்",
-   "prompts": "A chief judge seated behind the raised bench delivers an interim stay order while lawyers stand on either side, their backs to the camera, and a uniformed police officer watches from the side. The setting is a formal courtroom inside the Chennai iCourt, with high ceilings, wooden paneling and rows of empty spectator seats. The judge, in a black robe, raises a wooden gavel as the focal action, while two rows of lawyers in white shirts and dark trousers listen attentively. A wooden podium holds a stack of sealed legal documents, the court seal visible but unreadable. The scene is lit by bright overhead fluorescent lights, daylight filtering through high windows, and the camera is positioned at eye level with a 35 mm lens, capturing the full width of the bench and surrounding space. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of a wooden courtroom table shows a sealed envelope marked with a red wax seal and a brass stamp, surrounded by a few neatly stacked case files. The envelope’s label is blurred, revealing only the texture of paper and the glint of the seal, indicating an important court order. Beside the envelope lies a polished gavel, its head catching the light. The background hints at the polished wood of the bench and a faint outline of the judge’s chair, but no faces are visible. The shot is taken from a slightly high angle, using a 35 mm lens to focus on the documents and gavel, with daylight‑balanced lighting that highlights the textures without exposing any readable text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/tomorrow-verdict-in-case-seeking-stay-on-by-polls-in-5-constituencies/4387058",
-   "published": "2026-11-26T19:44:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/0d8cf16898eed635.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/2fc04315e892fcb8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூர் அருகே கோவில் நிலத்தில் ஆக்கிரமிப்பு கடைக்கு சீல்",
-   "english_headline": "Shop on encroached temple land sealed near Karur",
-   "category": "Government & Services",
-   "location": "Karur, Karur district",
-   "importance": "Medium",
+   "location": "Kagithapuram, Karur district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ஆக்கிரமிப்பு நடவடிக்கை",
-    "loc": "கரூர் அருகே",
-    "hl1": "கரூர் அருகே: கோவில் நிலத்தில் சீல்",
-    "hl2": "ஒரு கடைக்கு சீல் வைப்பு",
+    "cat": "அரசு நிகழ்ச்சி",
+    "loc": "காகிதபுரம், கரூர்",
+    "hl1": "காகிதபுரம் டிஎன்பிஎல் ஆலையில் உறுதிமொழி",
+    "hl2": "அரசமைப்பு தின நிகழ்ச்சி",
     "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "வெண்ணைமலை கோவில் நிலத்தில் ஆக்கிரமிப்பு",
-       "இடங்களை மீட்க உயர் நீதிமன்ற உத்தரவு",
-       "அறநிலையத் துறை அதிகாரிகள் சீல் வைக்கச் சென்றனர்"
-      ]
-     },
      {
       "title": "எங்கே?",
       "lines": [
-       "கரூர் அருகே காதப்பாறையில்",
-       "கோவிலுக்கு சொந்தமான இடம்",
-       "கோவில் நிலம் மொத்தம் <b>507 ஏக்கர்</b>"
+       "கரூர் மாவட்டம், காகிதபுரத்தில் டிஎன்பிஎல் ஆலை",
+       "ஆலை வளாகத்தில் நிகழ்ச்சி நடைபெற்றது"
       ]
      },
      {
-      "title": "என்ன முடிவு?",
+      "title": "எப்போது?",
       "lines": [
-       "ஒரு வீடு, <b>8 கடை</b> உரிமையாளர்கள் வாடகைதாரர்களாக ஒப்புதல்",
-       "ஒப்புக்கொள்ளாத ஒரு கடைக்கு சீல் வைப்பு",
-       "போலீஸ் பாதுகாப்புடன் நடவடிக்கை"
+       "வியாழக்கிழமை அரசமைப்பு தின நிகழ்ச்சி",
+       "அரசமைப்பு தின உறுதிமொழியேற்பு"
+      ]
+     },
+     {
+      "title": "யார் தலைமை?",
+      "lines": [
+       "உதவி பொதுமேலாளர் (பாதுகாப்பு) பி.இ.சபாபதி",
+       "முதன்மை மேலாளர் (மனிதவளம்) ஜே.வெங்கடேசன்"
+      ]
+     },
+     {
+      "title": "யார் உறுதிமொழி?",
+      "lines": [
+       "இருவர் தலைமையில் பணியாளர்கள் உறுதிமொழியேற்றனர்",
+       "அரசமைப்பு தின உறுதிமொழி எடுக்கப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் அருகே கோவில் நிலத்தில் ஆக்கிரமிப்பு கடைக்கு அதிகாரிகள் சீல் வைத்தனர். வெண்ணைமலை பாலசுப்பிரமணிய சுவாமி கோவிலுக்கு சொந்தமாக 507 ஏக்கர் நிலம் உள்ளது. இதில் வீடுகள், வணிக நிறுவனங்கள் கட்டப்பட்டு பல ஆண்டுகளாக ஆக்கிரமிப்பில் உள்ளன. இந்த இடங்களை மீட்க திருத்தொண்டர் சபை நிறுவனர் ராதாகிருஷ்ணன் உயர் நீதிமன்ற மதுரை கிளையில் வழக்கு தொடர்ந்தார். நீதிமன்ற உத்தரவின்படி இந்து சமய அறநிலையத் துறை நோட்டீஸ் அனுப்பியது. கோவில் இடங்களைப் பயன்படுத்துவோர் முறைப்படி வாடகைதாரர்களாக மாற வேண்டும் என்று நோட்டீஸில் தெரிவிக்கப்பட்டது. எதிர்ப்பால் இடங்களை மீட்கும் பணி தாமதமானது. நீதிமன்ற அவமதிப்பு வழக்கு விசாரணைக்கு வருவதையொட்டி, அதிகாரிகள் போலீஸ் பாதுகாப்புடன் சீல் வைக்கச் சென்றனர். ஒரு வீடு மற்றும் எட்டு கடை உரிமையாளர்கள் வாடகைதாரர்களாக மாற ஒப்புக்கொண்டனர். ஒப்புக்கொள்ளாத கடைக்கு சீல் வைக்கப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ கரூர் அருகே கோவில் நிலத்தில் ஆக்கிரமிப்பு கடைக்கு சீல்\n\n📰 முழு விவரம்:\nகரூர் அருகே வெண்ணைமலை பாலசுப்பிரமணிய சுவாமி கோவிலுக்கு சொந்தமான 507 ஏக்கர் நிலம் பல ஆண்டுகளாக ஆக்கிரமிப்பில் உள்ளது. இடங்களை மீட்க உயர் நீதிமன்ற மதுரை கிளையில் திருத்தொண்டர் சபை நிறுவனர் ராதாகிருஷ்ணன் வழக்கு தொடர்ந்தார். நீதிமன்ற உத்தரவின்படி இந்து சமய அறநிலையத் துறை நோட்டீஸ் அனுப்பியது. நீதிமன்ற அவமதிப்பு வழக்கு விசாரணையையொட்டி, அதிகாரிகள் போலீஸ் பாதுகாப்புடன் சென்று ஒன்பது கடைகள் மற்றும் ஒரு வீட்டுக்கு சீல் வைக்கச் சென்றனர். ஒரு வீடு மற்றும் எட்டு கடை உரிமையாளர்கள் வாடகைதாரர்களாக மாற ஒப்புக்கொண்டனர். ஒப்புக்கொள்ளாத காதப்பாறையில் ராதாகிருஷ்ணனுக்கு சொந்தமான ஒரு கடைக்கு சீல் வைக்கப்பட்டது.\n📍 இடம்: கரூர் அருகே காதப்பாறை\n🗓️ நாள்: நவம்பர் 25, 2026 (நேற்று)\n\nKarur temple land encroachment shop sealed | Karur news\n📍 கரூர் அருகே, கரூர் மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "Two Hindu Religious and Charitable Endowments Department officials in shirts and trousers, with two Tamil Nadu police constables in khaki standing beside them, fix an official seal and lock on the closed steel shutter of a small roadside shop on temple-owned land in Karur. The shop is a modest single-storey building with a faded front wall and a tin shutter pulled down, part of a row of commercial units along a road near Venaimalai in Karur district. A few onlookers in shirts and veshti stand at a distance, seen from behind. A police jeep is parked on the roadside, and a sign of the temple land stands nearby but is left without readable text. Daylight, clear sky, the road dusty. Camera at eye level, 35 mm, wide enough to show the row of shops and the officials at work. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a metal shutter lock with a red wax or metal government seal and a thin wire being fixed by a hand in a khaki police sleeve, resting on the closed shutter of a small shop on encroached temple land in Karur. The shutter is dull grey and slightly rusty, and the lower edge touches a concrete step outside the shop. Behind the seal, blurred, a police constable stands in khaki and an official in a plain shirt watches from a distance. Daylight, dust on the step, a few paper notices pinned loosely near the frame without any readable writing. Camera close to the seal, shallow depth of field, 50 mm, the shop front softly out of focus behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/seal-for-encroached-shop-on-temple-land/4386968",
-   "published": "2026-11-26T19:06:56+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 8",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூர் மாவட்டம் காகிதபுரத்தில் உள்ள டிஎன்பிஎல் ஆலையில் அரசமைப்பு தின உறுதிமொழியேற்பு நிகழ்ச்சி நடைபெற்றது. வியாழக்கிழமை ஆலை வளாகத்தில் இந்த நிகழ்ச்சி நடைபெற்றது. ஆலையின் உதவி பொதுமேலாளர் (பாதுகாப்பு) பி இ சபாபதி மற்றும் முதன்மை மேலாளர் (மனிதவளம்) ஜே வெங்கடேசன் ஆகியோர் தலைமையில் பணியாளர்கள் உறுதிமொழியேற்றனர். இந்நிகழ்ச்சியில் ஆலைப் பணியாளர்கள் அனைவரும் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🇮🇳 காகிதபுரம் டிஎன்பிஎல் ஆலையில் அரசமைப்பு தின உறுதிமொழியேற்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், காகிதபுரத்தில் அமைந்துள்ள டிஎன்பிஎல் ஆலையில் வியாழக்கிழமை அரசமைப்பு தின உறுதிமொழியேற்கும் நிகழ்ச்சி நடைபெற்றது. ஆலை வளாகத்தில் நடைபெற்ற இந்நிகழ்ச்சியில் ஆலையின் உதவி பொதுமேலாளர் (பாதுகாப்பு) பி.இ.சபாபதி, முதன்மை மேலாளர் (மனிதவளம்) ஜே.வெங்கடேசன் ஆகியோர் தலைமையில் பணியாளர்கள் உறுதிமொழியேற்றனர்.\n\n📍 இடம்: காகிதபுரம், கரூர் மாவட்டம்\n🏭 நிகழ்ச்சி: டிஎன்பிஎல் ஆலை வளாகம்\n\nDNPL plant Karur Constitution Day pledge | Karur news\n📍 காகிதபுரம், கரூர் மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #Kagithapuram",
+   "prompts": "A group of TNPL plant workers stand in neat rows, heads slightly bowed, as they recite the Constitution Day pledge; the two senior managers stand at the front of the line, one holding a microphone, both dressed in white shirts and khaki trousers, overseeing the ceremony. PLACE: The open courtyard of the TNPL plant in Kagithapuram, Karur – a fenced industrial area with low‑rise brick buildings, a concrete paving, and a few metal poles typical of a paper‑mill campus. PEOPLE: Hundreds of workers seen from behind in uniform shirts, the two managers positioned centrally, their backs to the camera, directing the pledge. VEHICLES/OBJECTS: No vehicles visible; a simple wooden podium with a microphone is at the centre. TIME+LIGHT+WEATHER: Daylight on a Thursday, clear sky (weather not specified). CAMERA: Eye‑level, 35 mm lens, wide enough to capture the full line of workers and the managers in the courtyard. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide‑angle view captures the TNPL plant courtyard in Kagithapuram filled with the pledge ceremony; rows of workers stretch back toward the plant’s brick‑clad administration block, while the two managers remain at the front near a modest podium. PLACE: The industrial plant’s fenced open space, concrete‑paved, bordered by the plant’s storage sheds and a tall metal pole used for lighting, typical of Karur’s manufacturing zones. PEOPLE: Workers in uniform shirts are seen from behind, forming several lines; the two senior managers stand near the podium, their backs to the camera, overseeing the event. OBJECTS: The wooden podium with a microphone, a few scattered chairs, and the concrete fence. TIME+LIGHT+WEATHER: Daylight on a Thursday, clear conditions (weather not detailed). CAMERA: Slightly elevated eye‑level, 35 mm lens, framing the courtyard to show the scale of the gathering and the plant’s structural backdrop. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/26/constitution-day-pledge-ceremony-at-tnpl-plant",
+   "published": "2026-11-26T21:16:59.458Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 46 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/3a0371da5e1d5208.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/036b92f2f1eb4463.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/a376efdda8e50349.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/c0860bc0eb75c01f.jpg"
    ]
   }
  ]
