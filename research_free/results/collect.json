@@ -3,297 +3,198 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தொழிலாளியிடம்-நகையை-பறிக்க-முயன்ற-இளைஞா்-கைது",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தரைமட்ட-பாலப்-பணிகளை-விரைந்து-முடிக்க-கோரிக்கை",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/welfare-assistance-of-rs-158-crore-to-158-people-at-the-closing-ceremony-of-the-peoples-contact-project-camp",
-  "candidate filter: collected=3",
-  "to write: 3 Karur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "manual link added: https://tamil.indianexpress.com/tamilnadu/government-bus-collides-with-army-vehicle-10-injured-traffic-disrupted-for-an-hour-12843022",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/a-common-candidate-i-will-not-go-and-stand-before-anyone-to-seek-support-seemans-sensational-statement",
+  "candidate filter: collected=2",
+  "to write: 2 Karur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/a-common-candida",
+  "try (N) manual=True: https://tamil.indianexpress.com/tamilnadu/government-bus-col",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
-  "filed: 3 Karur district stories (target 3), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 74 min",
+  "filed: 2 Karur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (40s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (42s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (36s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (41s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "ok gemini/gemini-3-flash-preview (45s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (27s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (2s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (32s)",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7"
  ],
  "stories": [
   {
-   "tamil_headline": "நாகம்பள்ளி மக்கள் தொடர்பு முகாம்: 158 பேருக்கு ரூ.1.58 கோடி நலத்திட்ட உதவிகள்",
-   "english_headline": "Karur Collector distributes ₹1.58 crore welfare aid to 158 people at Nagampalli public relations camp",
+   "tamil_headline": "கரூரில் விரைவில் இடைத்தேர்தல்: யாரிடமும் ஆதரவு கேட்க மாட்டேன் - சீமான் பேச்சு",
+   "english_headline": "By-election coming soon to Karur; Seeman says he won't seek support from anyone for Ambasamudram seat",
    "category": "Government & Services",
-   "location": "Nagampalli village, Aravakurichi taluk, Karur district",
-   "importance": "Medium",
-   "scope": "local",
+   "location": "Karur constituency, Karur district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு நலத்திட்டம்",
-    "loc": "நாகம்பள்ளி, அரவக்குறிச்சி",
-    "hl1": "நாகம்பள்ளியில் நலத்திட்ட உதவிகள்",
-    "hl2": "158 பேருக்கு ரூ.1.58 கோடி",
+    "cat": "இடைத்தேர்தல்",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் விரைவில் இடைத்தேர்தல்",
+    "hl2": "சீமான் பரபரப்பு பேச்சு",
     "slides": [
      {
-      "title": "நாகம்பள்ளி முகாம்",
+      "title": "5 தொகுதிகள்",
       "lines": [
-       "அரவக்குறிச்சி அருகே <b>நாகம்பள்ளியில்</b> மக்கள் தொடர்பு முகாம்",
-       "<b>158 பயனாளிகளுக்கு</b> நலத்திட்ட உதவிகள் வழங்கப்பட்டன",
-       "மொத்தம் <b>ரூ.1.58 கோடி</b> மதிப்பிலான உதவிகள்"
+       "<b>கரூர்</b>, விராலிமலை உட்பட 5 தொகுதிகளுக்கு இடைத்தேர்தல்",
+       "விரைவில் தேர்தல் அறிவிப்பு வெளியாகும் என எதிர்பார்ப்பு",
+       "அம்பாசமுத்திரம், பெருந்துறை, திருச்சி கிழக்கிலும் தேர்தல்"
       ]
      },
      {
-      "title": "பட்டா வழங்கல்",
+      "title": "சீமான் போட்டி",
       "lines": [
-       "வருவாய்த்துறை சார்பில் <b>52 பேருக்கு</b> பட்டாக்கள்",
-       "<b>ரூ.52 லட்சம்</b> மதிப்பிலான நத்தம் கணினி பட்டாக்கள்",
-       "மாவட்ட ஆட்சியர் ச.பிரசன்னா ராமசாமி வழங்கினார்"
+       "அம்பாசமுத்திரம் தொகுதியில் சீமான் போட்டி",
+       "யாரிடமும் போய் ஆதரவு கேட்க மாட்டேன் என அறிவிப்பு",
+       "எத்தனை முறை தோற்றாலும் பரவாயில்லை என பேச்சு"
       ]
      },
      {
-      "title": "வெற்றி ஆடு திட்டம்",
+      "title": "தற்போதைய நிலை",
       "lines": [
-       "தகுதியானவர்களுக்கு தலா <b>6 ஆடுகள்</b> வழங்கப்படும்",
-       "கால்நடை மருந்தகங்களை அணுகி விண்ணப்பிக்கலாம்",
-       "நிலத்தடி நீரை உயர்த்த மழைநீர் சேகரிப்பு அவசியம்"
-      ]
-     },
-     {
-      "title": "கல்வி வழிகாட்டுதல்",
-      "lines": [
-       "மாணவர்கள் கல்வியை இடைநிறுத்தம் செய்யக்கூடாது",
-       "பிளஸ் 2 முடித்தவர்கள் உயர்கல்வி பயில்வது அவசியம்",
-       "கல்விக்கடன் பெற மாவட்ட நிர்வாகம் வழிகாட்டும்"
+       "தமிழக வெற்றிக் கழகத்தின் பலம் <b>109</b> ஆக உயர்வு",
+       "மதுராந்தகம், தாராபுரம் இடைத்தேர்தலில் த.வெ.க. வெற்றி",
+       "எதிர்க்கட்சிகள் புதிய வியூகம் வகுக்கத் தொடக்கம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அரவக்குறிச்சி அருகே நாகம்பள்ளியில் 158 பேருக்கு 1.58 கோடி ரூபாய் மதிப்பிலான நலத்திட்ட உதவிகள் வழங்கப்பட்டன. கரூர் மாவட்டம் அரவக்குறிச்சி வட்டம் நாகம்பள்ளி கிராமத்தில் மக்கள் தொடர்பு திட்ட முகாம் நிறைவு விழா நேற்று புதன்கிழமை நடைபெற்றது. மாவட்ட ஆட்சியர் ச பிரசன்னா ராமசாமி தலைமை தாங்கி நலத்திட்ட உதவிகளை வழங்கினார். வருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை சார்பில் 52 பயனாளிகளுக்கு 52 லட்சம் ரூபாய் மதிப்பிலான நத்தம் கணினி பட்டாக்கள் வழங்கப்பட்டன. மொத்தம் 158 பயனாளிகள் இந்த முகாம் மூலம் பயனடைந்தனர். விழாவில் பேசிய ஆட்சியர், நிலத்தடி நீர்மட்டத்தை உயர்த்த பொதுமக்கள் வீடுகளில் மழைநீர் சேகரிப்பு கட்டமைப்புகளை அமைக்க வேண்டும் என்று கேட்டுக்கொண்டார். கால்நடை பராமரிப்பு துறை மூலம் தலா 6 ஆடுகள் வழங்கும் வெற்றி ஆடு திட்டத்திற்கு விண்ணப்பிக்கலாம் என்றும் அவர் தெரிவித்தார். பிளஸ் 2 முடித்த மாணவர்கள் உயர்கல்வி பயில்வதை உறுதி செய்ய வேண்டும் என்றும், அதற்கு மாவட்ட நிர்வாகம் உரிய வழிகாட்டும் என்றும் ஆட்சியர் கூறினார். இந்த முகாமில் பல்வேறு துறை அரசு அதிகாரிகள் கலந்து கொண்டனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📍 நாகம்பள்ளியில் மக்கள் தொடர்பு முகாம்: 158 பேருக்கு ₹1.58 கோடி நலத்திட்ட உதவிகள்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் அரவக்குறிச்சி வட்டம் நாகம்பள்ளி கிராமத்தில் மக்கள் தொடர்பு திட்ட முகாம் நிறைவு விழா நேற்று (நவ. 25, புதன்கிழமை) நடைபெற்றது. மாவட்ட ஆட்சியர் ச.பிரசன்னா ராமசாமி தலைமை தாங்கி 158 பயனாளிகளுக்கு ₹1.58 கோடி மதிப்பிலான நலத்திட்ட உதவிகளை வழங்கினார்.\n\n📍 இடம்: நாகம்பள்ளி கிராமம், அரவக்குறிச்சி வட்டம்.\n💰 உதவி: 158 பேருக்கு ₹1.58 கோடி மதிப்பிலான நலத்திட்டங்கள்.\n📄 பட்டா: வருவாய்த்துறை சார்பில் 52 பேருக்கு ₹52 லட்சம் மதிப்பிலான நத்தம் கணினி பட்டாக்கள் வழங்கப்பட்டன.\n🐐 வெற்றி ஆடு திட்டம்: தகுதியான பயனாளிகளுக்கு தலா 6 ஆடுகள் வழங்கப்படும். விவரங்களுக்கு அருகில் உள்ள கால்நடை மருந்தகங்களை அணுகி விண்ணப்பிக்கலாம்.\n🎓 மாணவர்களுக்கு: பிளஸ் 2 முடித்த மாணவர்கள் உயர்கல்வி பயில்வதை உறுதி செய்ய வேண்டும். அவர்களுக்குத் தேவையான கல்விக் கடன் உள்ளிட்ட உதவிகளைப் பெற மாவட்ட நிர்வாகம் வழிகாட்டும்.\n💧 நிலத்தடி நீர்மட்டத்தை உயர்த்த வீடுகளில் மழைநீர் சேகரிப்பு கட்டமைப்புகளை அமைக்க ஆட்சியர் அறிவுறுத்தினார்.\n\nNagampalli Karur collector welfare aid camp | Karur news\n📍 நாகம்பள்ளி, கரூர் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #அரசுதிட்டம் #KarurNews",
-   "prompts": "A wide-angle photo of a government public relations camp in Nagampalli village, Karur. A large white shamiana tent is set up in an open ground. District Collector S. Prasanna Ramasamy is handing over a yellow folder to a village woman on a decorated stage. Other officials are seated behind him. Villagers are seated in rows of chairs in the foreground. Bright daylight, rural Tamil Nadu setting with neem trees and dry landscape in the background. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of an exhibition stall at the Nagampalli camp. The stall has posters about agriculture and rainwater harvesting in Tamil. A group of village students in green and white school uniforms are looking at the displays. A government official in a formal shirt is explaining the schemes to them. Soft daylight, realistic textures, no text or logos on the image. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/welfare-assistance-of-rs-158-crore-to-158-people-at-the-closing-ceremony-of-the-peoples-contact-project-camp",
-   "published": "2026-11-25T20:51:20.622Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: fact-check: The date 'Nov 25' in the caption is not mentioned in the article.",
+   "reel_script": "கரூரில் விரைவில் இடைத்தேர்தல் நடைபெற உள்ள நிலையில் யாரிடமும் ஆதரவு கேட்க மாட்டேன் என்று சீமான் பேசியுள்ளார். தமிழகத்தில் காலியாக உள்ள கரூர், விராலிமலை, அம்பாசமுத்திரம், பெருந்துறை மற்றும் திருச்சி கிழக்கு ஆகிய 5 தொகுதிகளுக்கு விரைவில் இடைத்தேர்தல் வர உள்ளது. இதற்கான அறிவிப்பு இன்னும் சில வாரங்களில் வெளியாகும் என்று எதிர்பார்க்கப்படுகிறது. ஏற்கனவே மதுராந்தகம் மற்றும் தாராபுரம் இடைத்தேர்தல்களில் தமிழக வெற்றிக் கழகம் வெற்றி பெற்றுள்ளது. இதனால் அந்த கட்சியின் பலம் 109 ஆக அதிகரித்துள்ள நிலையில் மற்ற கட்சிகள் வியூகம் வகுக்கத் தொடங்கியுள்ளன. இந்நிலையில் அம்பாசமுத்திரம் தொகுதியில் போட்டியிடப் போவதாக நாம் தமிழர் கட்சியின் சீமான் அறிவித்துள்ளார். அவரை பொது வேட்பாளராக நிறுத்த மற்ற கட்சிகள் ஆதரவு அளிக்குமா என்ற கேள்வி எழுந்தது. இது குறித்து நெல்லையில் பேசிய சீமான் எத்தனை முறை தோற்றாலும் யாரிடமும் போய் ஆதரவு கேட்க மாட்டேன் என்று கூறியுள்ளார். தேர்தல் அறிவிப்பு வந்த பிறகு ஆதரவு குறித்து பேசலாம் என்று முதலமைச்சர் மு க ஸ்டாலின் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ கரூரில் விரைவில் இடைத்தேர்தல்: யாரிடமும் ஆதரவு கேட்க மாட்டேன் - சீமான் பரபரப்பு பேச்சு\n\n📰 முழு விவரம்:\nதமிழகத்தில் கரூர் உட்பட 5 சட்டசபை தொகுதிகளுக்கு விரைவில் இடைத்தேர்தல் நடைபெற உள்ளது. இதற்கான அறிவிப்பு இன்னும் சில வாரங்களில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது. ஏற்கனவே தாராபுரம், மதுராந்தகம் தொகுதிகளில் வெற்றி பெற்றுள்ள தமிழக வெற்றிக் கழகத்தின் பலம் 109 ஆக உயர்ந்துள்ளது. இந்நிலையில் அம்பாசமுத்திரம் தொகுதியில் போட்டியிடப் போவதாக சீமான் அறிவித்துள்ளார். அவரை பொது வேட்பாளராக நிறுத்த மற்ற கட்சிகள் ஆதரவு அளிக்குமா என்ற கேள்விக்கு, எத்தனை முறை தோற்றாலும் யாரிடமும் போய் ஆதரவு கேட்க மாட்டேன் என்று சீமான் நெல்லையில் ஆவேசமாகப் பேசியுள்ளார்.\n\n📍 இடம்: கரூர் மற்றும் 4 தொகுதிகள்\n🗓️ தேர்தல்: விரைவில் அறிவிப்பு\n📢 முக்கிய அறிவிப்பு: சீமான் அம்பாசமுத்திரத்தில் போட்டி\nℹ️ மக்கள் கவனத்திற்கு: தேர்தல் தேதி இன்னும் அறிவிக்கப்படவில்லை.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKarur by-election update | Seeman speech Ambasamudram\n📍 Karur constituency, Karur | 26 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #இடைத்தேர்தல் #கரூர்",
+   "prompts": "A wide shot of a busy main road in Karur city near the collectorate office, with various political party flags fluttering on poles along the median, a green TNSTC bus and several two-wheelers moving through the intersection, bright morning sunlight, realistic Tamil Nadu urban setting, no faces, no text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA symbolic scene of a government school classroom in Karur prepared as a polling station, wooden benches pushed to the sides, a blue plastic ballot box sitting on a central table, sunlight casting long shadows across the floor, quiet and still atmosphere, realistic textures of a public building, no people, no text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/a-common-candidate-i-will-not-go-and-stand-before-anyone-to-seek-support-seemans-sensational-statement",
+   "published": "2026-11-26T10:23:54Z",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261125/4e95c5ee6799d387.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261125/8ff2b85db361c611.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/68962b6a94c36371.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/8abc4e57dbdb4510.jpg"
    ]
   },
   {
-   "tamil_headline": "வேலாயுதம்பாளையம் அருகே தொழிலாளியிடம் நகை பறிக்க முயற்சி: இளைஞர் கைது",
-   "english_headline": "Youth arrested for attempting to snatch jewelry from a laborer near Velayuthampalayam",
+   "tamil_headline": "திருச்சி - கரூர் சாலையில் விபத்து: ராணுவ வாகனத்தில் அரசு பேருந்து மோதி 10 பேர் காயம்",
+   "english_headline": "10 injured as government bus hits army vehicle on Trichy-Karur road near Allur; traffic hit for an hour",
    "category": "Crime & Safety",
-   "location": "Kumaran Nagar, Velayuthampalayam, Karur district",
-   "importance": "Medium",
-   "scope": "local",
+   "location": "Allur, Trichy-Karur road, Karur district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "வேலாயுதம்பாளையம்",
-    "hl1": "வேலாயுதம்பாளையத்தில் நகை பறிக்க முயற்சி",
-    "hl2": "ஒரு இளைஞர் கைது",
+    "cat": "விபத்து",
+    "loc": "அல்லூர், கரூர் சாலை",
+    "hl1": "அல்லூர் அருகே ராணுவ பேருந்து மோதல்",
+    "hl2": "10 பேர் காயம்; போக்குவரத்து",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "விபத்து விவரம்",
       "lines": [
-       "வேலாயுதம்பாளையம் குமரன் நகரில் <b>நகை பறிக்க முயற்சி</b>",
-       "43 வயது தொழிலாளியிடம் <b>3 பவுன்</b> செயின் பறிப்பு முயற்சி",
-       "புதன்கிழமை காலை வீட்டின் அருகே நடந்த சம்பவம்"
+       "திருச்சி - கரூர் சாலை <b>அல்லூர்</b> அருகே விபத்து",
+       "அரசு பேருந்து - ராணுவ வாகனம் நேருக்கு நேர் மோதல்",
+       "சாரல் மழையின் போது இன்று காலை நிகழ்ந்தது"
       ]
      },
      {
-      "title": "பிடிபட்ட நபர்",
+      "title": "பாதிப்புகள்",
       "lines": [
-       "சத்தம் கேட்டு ஓடிவந்த பொதுமக்கள்",
-       "தப்பியோடியவர்களில் ஒருவரைப் பிடித்து போலீசிடம் ஒப்படைப்பு",
-       "புகழூரைச் சேர்ந்த <b>20 வயது</b> இளைஞர் கைது"
+       "ராணுவ வீரர் உட்பட <b>10 பேர்</b> காயம்",
+       "<b>108 ஆம்புலன்ஸ்</b> மூலம் மருத்துவமனையில் அனுமதி",
+       "1 மணி நேரத்திற்கும் மேலாக போக்குவரத்து பாதிப்பு"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "வேலாயுதம்பாளையம் போலீசார் வழக்குப்பதிவு",
-       "தப்பியோடிய மற்றொரு இளைஞருக்கு வலைவீச்சு",
-       "பொதுமக்கள் விழிப்புணர்வுடன் இருக்க அறிவுறுத்தல்"
+       "இந்த ஆண்டு மட்டும் இப்பகுதியில் <b>15 பேர்</b> பலி",
+       "<b>100-க்கும் மேற்பட்டோர்</b> படுகாயம் அடைந்துள்ளனர்",
+       "சாலையை விரிவாக்கம் செய்ய மக்கள் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வேலாயுதம்பாளையம் அருகே தொழிலாளியிடம் 3 பவுன் நகையைப் பறிக்க முயன்ற இளைஞரை பொதுமக்கள் பிடித்து போலீசில் ஒப்படைத்தனர். கரூர் மாவட்டம் வேலாயுதம்பாளையம் குமரன் நகரைச் சேர்ந்த 43 வயது தொழிலாளி ஒருவர் புதன்கிழமை காலை தனது வீட்டின் அருகே நடந்து சென்று கொண்டிருந்தார். அப்போது பின்னால் வந்த இரண்டு இளைஞர்கள் திடீரென அவரது கழுத்தில் இருந்த 3 பவுன் தங்கச் செயினைப் பறிக்க முயன்றனர். இதனால் அதிர்ச்சியடைந்த அவர் சத்தமிட்டதால் அந்த இளைஞர்கள் அங்கிருந்து தப்பி ஓடினர். சத்தம் கேட்டு ஓடிவந்த பொதுமக்கள் தப்பியோடியவர்களில் ஒரு இளைஞரைப் பிடித்து வேலாயுதம்பாளையம் போலீசில் ஒப்படைத்தனர். போலீசார் நடத்திய விசாரணையில் பிடிபட்டவர் புகழூர் அலைமகள் நகரைச் சேர்ந்த 20 வயது இளைஞர் என்பது தெரியவந்தது. அவருடன் வந்த 19 வயது நண்பர் அங்கிருந்து தப்பி ஓடிவிட்டார். வேலாயுதம்பாளையம் போலீசார் வழக்குப்பதிவு செய்து தப்பியோடிய மற்றொரு இளைஞரைத் தீவிரமாகத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வேலாயுதம்பாளையத்தில் தொழிலாளியிடம் நகை பறிக்க முயற்சி: ஒரு இளைஞர் கைது\n\n📰 முழு விவரம்:\nவேலாயுதம்பாளையம் குமரன் நகரில் புதன்கிழமை காலை 43 வயது தொழிலாளியிடம் 3 பவுன் தங்கச் செயினைப் பறிக்க முயன்ற இளைஞரை பொதுமக்கள் பிடித்து போலீசில் ஒப்படைத்தனர். தொழிலாளி வீட்டின் அருகே நடந்து சென்றபோது பின்னால் வந்த இரு இளைஞர்கள் இந்த செயின் பறிப்பு முயற்சியில் ஈடுபட்டுள்ளனர்.\n📍 இடம்: குமரன் நகர், வேலாயுதம்பாளையம், கரூர் மாவட்டம்.\n🗓️ நாள்: 25 நவம்பர் 2026 (புதன்கிழமை காலை)\n👮 நடவடிக்கை: புகழூரைச் சேர்ந்த 20 வயது இளைஞர் கைது; தப்பியோடிய 19 வயது இளைஞரை போலீசார் தேடி வருகின்றனர்.\nℹ️ மக்கள் கவனத்திற்கு: ஆள் நடமாட்டம் குறைந்த பகுதிகளில் தனியாகச் செல்லும்போது விழிப்புணர்வுடன் இருக்க போலீசார் அறிவுறுத்தியுள்ளனர்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nVelayuthampalayam chain snatching attempt | Karur crime news\n📍 Velayuthampalayam, Karur | 26 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Velayuthampalayam #Crime #KarurNews",
-   "prompts": "A quiet residential street in Kumaran Nagar, Velayuthampalayam, Karur district, on a bright Wednesday morning. Simple concrete houses with small front yards, a narrow paved road, a few parked two-wheelers. A middle-aged man in a simple shirt and dhoti walking along the side of the road, two young men on a motorcycle seen from behind approaching him. Soft morning sunlight, realistic Tamil Nadu village-town atmosphere, wide eye-level shot. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nOutside the Velayuthampalayam police station in Karur district, a white police jeep with blue and red lights parked in front of a yellow-painted government building. A group of local people standing near the entrance, a police officer in khaki uniform talking to them. Tall neem trees providing shade, clear daylight, realistic setting, no faces visible, medium shot. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தொழிலாளியிடம்-நகையை-பறிக்க-முயன்ற-இளைஞா்-கைது",
-   "published": "2026-11-25T21:11:05.141Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 2 validator problem(s)",
+   "reel_script": "அல்லூர் அருகே ராணுவ வாகனத்தில் அரசு பேருந்து மோதி 10 பேர் காயமடைந்தனர். திருச்சி - கரூர் தேசிய நெடுஞ்சாலையில் அல்லூர் மாரியம்மன் கோயில் அருகே இன்று காலை இந்த விபத்து நிகழ்ந்தது. கோவையிலிருந்து திருச்சி நோக்கி வந்த அரசு பேருந்து, வேகத்தடையில் ஏறி இறங்கியபோது முன்னால் சென்ற கார் மீது உரசியது. பின்னர் கட்டுப்பாட்டை இழந்த பேருந்து, எதிரே வந்த ராணுவ வாகனத்தின் மீது பலமாக மோதியது. இதில் ராணுவ வாகன ஓட்டுநர் மற்றும் பேருந்தில் பயணம் செய்த 10-க்கும் மேற்பட்டோர் காயமடைந்தனர். ஜியபுரம் போலீசார் சம்பவ இடத்திற்கு வந்து காயமடைந்தவர்களை 108 ஆம்புலன்ஸ் மூலம் அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். ராணுவ அதிகாரிகள் வரும் வரை வாகனங்களை அப்புறப்படுத்த வீரர்கள் மறுத்ததால் ஒரு மணி நேரம் போக்குவரத்து பாதிக்கப்பட்டது. பின்னர் திருச்சி மாவட்ட காவல் கண்காணிப்பாளர் தலையிட்டு வாகனங்களை அப்புறப்படுத்த வழிவகை செய்தார். இந்த குறுகலான சாலையில் இந்த ஆண்டு மட்டும் 15 பேர் உயிரிழந்துள்ளதாக அப்பகுதி மக்கள் தெரிவிக்கின்றனர். விபத்துகளைத் தவிர்க்கச் சாலையை விரிவாக்கம் செய்ய வேண்டும் எனச் சாலை பயனீட்டாளர்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருச்சி - கரூர் சாலையில் விபத்து: ராணுவ வாகனத்தில் அரசு பேருந்து மோதல் - 10 பேர் காயம்\n\n📰 முழு விவரம்:\nதிருச்சி - கரூர் தேசிய நெடுஞ்சாலையில் அல்லூர் மாரியம்மன் கோயில் அருகே இன்று காலை அரசு பேருந்தும் ராணுவ வாகனமும் மோதி விபத்துக்குள்ளானது. கோவையிலிருந்து திருச்சி நோக்கி வந்த பேருந்து, வேகத்தடையில் ஏறி இறங்கியபோது கார் மீது உரசி எதிரே வந்த ராணுவ வாகனத்தில் மோதியது. இதில் ராணுவ வீரர் மற்றும் 10 பயணிகள் காயமடைந்தனர். ஜியபுரம் போலீசார் 108 ஆம்புலன்ஸ் மூலம் காயமடைந்தவர்களை மருத்துவமனைக்கு அனுப்பினர். ராணுவ அதிகாரிகள் வரும் வரை வாகனங்களை எடுக்க வீரர்கள் மறுத்ததால் ஒரு மணி நேரம் போக்குவரத்து பாதிக்கப்பட்டது. பின்னர் மாவட்ட எஸ்.பி தலையிட்டு போக்குவரத்தைச் சீர் செய்தார். இந்த குறுகலான சாலையில் இந்த வருடத்தில் மட்டும் 15-க்கும் மேற்பட்டோர் பலியாகியுள்ளனர் மற்றும் 100-க்கும் மேற்பட்டோர் படுகாயம் அடைந்துள்ளனர். சாலையை விரிவாக்கம் செய்ய வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: அல்லூர், திருச்சி - கரூர் சாலை\n🗓️ நாள்: 26 நவம்பர் 2026\n🕘 நேரம்: இன்று காலை\n👮 நடவடிக்கை: ஜியபுரம் போலீசார் மற்றும் மாவட்ட எஸ்.பி விசாரணை\nℹ️ மக்கள் கவனத்திற்கு: விபத்துகளைத் தவிர்க்கச் சாலையை விரிவாக்கம் செய்து சென்டர் மீடியன் அமைக்க வேண்டும் எனச் சாலை பயனீட்டாளர்கள் கோரிக்கை விடுத்துள்ளனர்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nTrichy Karur road accident Allur army vehicle bus collision | Karur news\n📍 அல்லூர், கரூர் சாலை | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Allur #KarurNews #கரூர்",
+   "prompts": "A photo-realistic scene of a narrow two-lane highway near Allur on the Trichy-Karur road in Tamil Nadu during a light morning drizzle. A green TNSTC government bus and an olive-green Indian Army truck are positioned after a collision near a speed breaker by a small roadside temple. A white car is parked nearby with side damage. A crowd of locals and a few army personnel in camouflage uniforms are standing around. TNSTC bus windshield is cracked. Wet asphalt road, grey overcast sky, wide-angle view. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA view of the Trichy-Karur national highway with a long line of stationary lorries, buses, and cars stretching into the distance due to a traffic jam. In the foreground, a white 108 ambulance with its blue and red lights flashing is trying to navigate through the narrow space. Rain-slicked road, green trees on both sides, morning light, realistic documentary style. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.indianexpress.com/tamilnadu/government-bus-collides-with-army-vehicle-10-injured-traffic-disrupted-for-an-hour-12843022",
+   "published": "",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 24 ('இந்த குழு உலகம் முழுவதும் 24 மணி நேரமும் நடக்கும் செய்திகள் ')",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261125/19522f68b0e25b3b.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261125/ffbc7977ed3d9d99.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை: வாகன ஓட்டிகள் அவதி",
-   "english_headline": "Demand to speed up culvert construction on Chinnandangovil Road in Karur to ease traffic congestion",
-   "category": "Roads & Transport",
-   "location": "KCP Nagar, Chinnandangovil Road, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலைப் பணிகள்",
-    "loc": "சின்னாண்டாங்கோவில், கரூர்",
-    "hl1": "கரூரில் பாலப் பணிகளை முடிக்க கோரிக்கை",
-    "hl2": "வாகன ஓட்டிகள் கடும் அவதி",
-    "slides": [
-     {
-      "title": "என்ன நடக்கிறது?",
-      "lines": [
-       "சின்னாண்டாங்கோவில் சாலை <b>கேசிபி நகரில்</b> பாலப் பணி",
-       "கழிவுநீர் தரைமட்டப் பாலம் கட்டும் பணி தீவிரம்",
-       "கடந்த <b>15 நாட்களாக</b> சாலை மூடப்பட்டுள்ளது"
-      ]
-     },
-     {
-      "title": "போக்குவரத்து",
-      "lines": [
-       "வாகனங்கள் குறுகிய தெருக்கள் வழியாகச் சுற்றிச் செல்கின்றன",
-       "இதனால் அப்பகுதியில் அடிக்கடி <b>போக்குவரத்து நெரிசல்</b>",
-       "கனரக வாகனங்கள் உள்ளே வர முடியாத சூழல்"
-      ]
-     },
-     {
-      "title": "தொழில் பாதிப்பு",
-      "lines": [
-       "பாரி நகர், ஸ்டேட் வங்கி நகர் ஜவுளி நிறுவனங்கள் பாதிப்பு",
-       "ஏற்றுமதித் துணிகளை ஏற்றிச் செல்லும் லாரிகள் அவதி",
-       "<b>12 லட்சம் ரூபாய்</b> மதிப்பீட்டில் நடைபெறும் பணிகள்"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "மழைநீர், கழிவுநீர் தேங்குவதைத் தடுக்கப் பாலம் அமைப்பு",
-       "பணிகளை விரைந்து முடிக்க பொதுமக்கள் கோரிக்கை",
-       "சாலை அரிப்பைத் தடுக்க நடவடிக்கை தேவை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் சின்னாண்டாங்கோவில் சாலை பகுதியில் பாலப் பணிகளால் போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளது. சின்னாண்டாங்கோவில் சாலை கேசிபி நகர் பகுதியில் கழிவுநீர் தரைமட்டப் பாலம் கட்டும் பணிகள் நடைபெற்று வருகின்றன. கடந்த ஆண்டு கலைஞார் நகர்ப்புற மேம்பாட்டுத் திட்டத்தின் கீழ் இந்தப் பாலத்திற்காக 12 லட்சம் ரூபாய் ஒதுக்கப்பட்டது. கடந்த 15 நாட்களுக்கு முன்பு தரைமட்டச் சிறு பாலம் அமைக்கும் பணிகள் தொடங்கின. இந்தப் பணிகளுக்காகச் சாலை மூடப்பட்டுள்ளதால், வாகனங்கள் அருகில் உள்ள சிறிய தெருக்கள் வழியாகச் சுற்றிச் செல்கின்றன. இதனால் அப்பகுதியில் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. குறிப்பாகப் பாரி நகர் மற்றும் ஸ்டேட் வங்கி நகர் பகுதிகளில் உள்ள ஜவுளி ஏற்றுமதி நிறுவனங்களுக்கு வரும் கனரக வாகனங்கள் உள்ளே வர முடியாமல் தவிக்கின்றன. மழைக்காலங்களில் கழிவுநீர் சாலையில் ஓடுவதைத் தடுக்க இந்தப் பாலம் கட்டப்படுகிறது. எனவே பொதுமக்களின் சிரமத்தைக் குறைக்கப் பாலப் பணிகளை விரைந்து முடிக்க வேண்டும் என்று வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 கரூரில் பாலப் பணிகளால் போக்குவரத்து நெரிசல்: விரைந்து முடிக்க கோரிக்கை\n\n📰 முழு விவரம்:\nகரூர் சின்னாண்டாங்கோவில் சாலையில் உள்ள கேசிபி நகர் பகுதியில் கழிவுநீர் தரைமட்டப் பாலம் கட்டும் பணிகள் நடைபெற்று வருகின்றன. கடந்த ஆண்டு கலைஞார் நகர்ப்புற மேம்பாட்டுத் திட்டத்தின் கீழ் 12 லட்சம் ரூபாய் மதிப்பீட்டில் இந்தப் பணிக்கு நிதி ஒதுக்கப்பட்டது. கடந்த 15 நாட்களுக்கு முன்பு பணிகள் தொடங்கப்பட்டு சாலை மூடப்பட்டுள்ளது.\n🔄 இதனால் வாகனங்கள் குறுகிய தெருக்கள் வழியாகச் சுற்றிச் செல்வதால் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. பாரி நகர், ஸ்டேட் வங்கி நகர் பகுதிகளில் உள்ள ஜவுளி ஏற்றுமதி நிறுவனங்களுக்கு வரும் லாரிகள் உள்ளே வர முடியாமல் பாதிக்கப்பட்டுள்ளன.\n🌧️ மழைக்காலங்களில் கழிவுநீர் சாலையில் தேங்குவதைத் தடுக்க இந்தப் பாலம் கட்டப்படும் நிலையில், பணிகளை விரைந்து முடிக்க பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: கேசிபி நகர், சின்னாண்டாங்கோவில் சாலை, கரூர்\n🗓️ நிலை: கடந்த 15 நாட்களாகப் பணிகள் நடைபெறுகின்றன\n💰 திட்ட மதிப்பு: 12 லட்சம் ரூபாய்\nℹ️ மக்கள் கவனத்திற்கு: இப்பகுதியைக் கடக்கும் வாகன ஓட்டிகள் மாற்றுப் பாதையைப் பயன்படுத்தவும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKarur Chinnandangovil road bridge work traffic | Karur news\n📍 KCP Nagar, Karur | 26 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Chinnandangovil #Roads #KarurNews #கரூர்",
-   "prompts": "A construction site on Chinnandangovil Road in Karur city, a deep trench cut across the asphalt road for a culvert, concrete reinforcement rods and wooden shuttering visible, bright yellow barricades blocking the main road, a few construction workers in orange vests, dusty environment with a pile of gravel on the side, bright morning sunlight, wide eye-level view. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA narrow residential street in Karur with two-wheelers and a small commercial van crowded together, a large textile export lorry waiting at the corner unable to turn, houses with compound walls on both sides, overhead power lines, realistic afternoon traffic scene, 35mm lens, sharp detail, no text, no faces. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/25/தரைமட்ட-பாலப்-பணிகளை-விரைந்து-முடிக்க-கோரிக்கை",
-   "published": "2026-11-25T20:55:50.703Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 6",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261125/a6b5d5196132698f.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261125/c37188a76210f1e2.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/97f81eff17f5c37a.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261126/202ef0510d677e1a.jpg"
    ]
   }
  ]
