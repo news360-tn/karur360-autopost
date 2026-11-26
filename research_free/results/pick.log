@@ -1,11 +1,8 @@
-08:30:54 round 2026-11-26_08: news published 26 Nov 06:05 -> 26 Nov 08:30 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-08:30:54 insights 2026-11-26T08:30+05:30 (209 reels): topic weights {'temple': -0.1, 'accident': 0.76, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.11, 'politics': 0.06, 'civic': -0.32, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-08:32:02 open search 'கரூர்' (from_google): 0 links from our outlets
-08:32:02 78 links on the two papers' Karur pages
-08:32:41 skipped: published before this window=32, already posted=18, not Karur district=11, same event already posted=3, only a headline=3, state-wide / other district=3, shop offer / advertisement=1
-08:32:41 list: 0 new + 0 earlier news not posted yet
-08:32:41 no news in this window - no e-mail
-ROUND=2026-11-26_08
-08:32:42 no list this round - nothing to post
-PICK_URLS=
-08:32:43 verify: no decided round
+09:45:06 round 2026-11-26_09: news published 26 Nov 08:30 -> 26 Nov 09:45 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+09:45:06 insights 2026-11-26T09:45+05:30 (209 reels): topic weights {'temple': -0.12, 'accident': 0.76, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.11, 'politics': 0.06, 'civic': -0.32, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+09:45:40 open search 'கரூர்' (from_google): 0 links from our outlets
+09:45:40 79 links on the two papers' Karur pages
+09:46:19 skipped: published before this window=32, already posted=18, not Karur district=13, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
+09:46:19 list: 0 new + 0 earlier news not posted yet
+09:46:19 no news in this window - no e-mail
+ROUND=2026-11-26_09
