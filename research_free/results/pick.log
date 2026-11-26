@@ -1,11 +1,10 @@
-12:25:47 round 2026-11-26_12: news published 26 Nov 09:45 -> 26 Nov 12:25 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-12:25:47 insights 2026-11-26T12:25+05:30 (211 reels): topic weights {'temple': -0.1, 'accident': 0.76, 'education': -0.25, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.16, 'politics': 0.07, 'civic': -0.32, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-12:27:16 open search 'கரூர்' (from_google): 0 links from our outlets
-12:27:16 83 links on the two papers' Karur pages
-12:28:01 skipped: published before this window=32, already posted=18, not Karur district=16, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1, no title=1
-12:28:02 list: 0 new + 0 earlier news not posted yet
-12:28:02 no news in this window - no e-mail
-ROUND=2026-11-26_12
-12:28:03 no list this round - nothing to post
-PICK_URLS=
-12:28:04 verify: no decided round
+16:29:22 round 2026-11-26_16: news published 26 Nov 12:25 -> 26 Nov 16:29 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+16:29:22 insights 2026-11-26T16:29+05:30 (212 reels): topic weights {'temple': -0.06, 'accident': 0.77, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.07, 'politics': 0.07, 'civic': -0.31, 'crime': 1.5, 'weather': 0.12}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+16:30:20 open search 'கரூர்' (from_google): 1 links from our outlets
+16:30:20 92 links on the two papers' Karur pages
+16:31:12 skipped: published before this window=32, not Karur district=24, already posted=18, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1
+16:31:12 list: 2 new + 0 earlier news not posted yet
+16:31:12    1. [விபத்து] ராணுவ வாகனத்தில் மோதிய அரசு பேருந்து; 10 பேர் காயம்: ஒரு மணி நேரம் போக (இந்தியன் எக்ஸ்பிரஸ் தமிழ்)
+16:31:12    2. [பொது] பொது வேட்பாளரா...? எவனிடமும் போய் நின்று ஆதரவு கேட்க மாட்டேன் - சீமான் (தினத்தந்தி)
+16:31:12 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-26_16
