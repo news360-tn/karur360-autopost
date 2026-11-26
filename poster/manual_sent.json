@@ -46,5 +46,15 @@
  },
  "karur:RN-223": {
   "first": "2026-11-25T23:05:06+00:00"
+ },
+ "karur:RN-225": {
+  "first": "2026-11-26T11:14:36+00:00",
+  "queued": "2026-11-26T11:14:36+00:00",
+  "why": "Instagram's 24-hour post limit is reached"
+ },
+ "karur:RN-224": {
+  "first": "2026-11-26T11:14:36+00:00",
+  "queued": "2026-11-26T11:14:36+00:00",
+  "why": "Instagram's 24-hour post limit is reached"
  }
 }
