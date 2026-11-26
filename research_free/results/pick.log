@@ -1,11 +1,9 @@
-01:13:45 round 2026-11-27_01: news published 26 Nov 22:41 -> 27 Nov 01:13 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-01:13:45 insights 2026-11-27T01:13+05:30 (217 reels): topic weights {'temple': 0.27, 'accident': 0.84, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.01, 'politics': 0.19, 'civic': -0.35, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
-01:14:20 open search 'கரூர்' (from_google): 1 links from our outlets
-01:14:20 84 links on the two papers' Karur pages
-01:15:09 skipped: published before this window=31, already posted=20, not Karur district=17, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
-01:15:09 list: 0 new + 0 earlier news not posted yet
-01:15:09 no news in this window - no e-mail
-ROUND=2026-11-27_01
-01:15:11 no list this round - nothing to post
-PICK_URLS=
-01:15:12 verify: no decided round
+04:28:11 round 2026-11-27_04: news published 27 Nov 01:13 -> 27 Nov 04:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+04:28:11 insights 2026-11-27T04:28+05:30 (217 reels): topic weights {'temple': 0.29, 'accident': 0.84, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.01, 'politics': 0.19, 'civic': -0.35, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்']
+04:28:49 open search 'கரூர்' (from_google): 2 links from our outlets
+04:28:49 80 links on the two papers' Karur pages
+04:29:35 skipped: published before this window=30, already posted=18, not Karur district=14, state-wide / other district=4, same event already posted=3, only a headline=2, shop offer / advertisement=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
+04:29:35 list: 1 new + 0 earlier news not posted yet
+04:29:35    1. [பொது] டிஎன்பிஎல் ஆலையில் அரசமைப்பு தின உறுதிமொழியேற்பு (தினமணி)
+04:29:35 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_04
