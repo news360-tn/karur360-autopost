@@ -24,7 +24,8 @@
    "score": 8.7,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-27T16:41:12.888240+05:30"
+   "listed_at": "2026-11-27T16:41:12.888240+05:30",
+   "picked_at": "2026-11-27T16:43:58.426848+05:30"
   },
   "Cc1e85ac": {
    "id": "Cc1e85ac",
@@ -37,7 +38,8 @@
    "score": 7.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-27T16:41:12.888240+05:30"
+   "listed_at": "2026-11-27T16:41:12.888240+05:30",
+   "picked_at": "2026-11-27T16:43:58.426851+05:30"
   }
  },
  "rounds": {
@@ -423,8 +425,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-27T17:41:12.888240+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 2 by insights",
+    "ids": [
+     "Caaa39ca",
+     "Cc1e85ac"
+    ],
+    "at": "2026-11-27T16:43:58.426838+05:30"
+   },
+   "written": [
+    "Caaa39ca",
+    "Cc1e85ac"
+   ]
   }
  },
  "retry": {
