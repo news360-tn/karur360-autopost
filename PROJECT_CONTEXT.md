@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `9eb610f` | Instagram handles: the real usernames of every page |
+| 2026-11-27 | `f1ea30b` | stories shared / Instagram pause |
 | 2026-11-27 | `ce0b352` | Rasipuram 360 username is rasipuram360.official |
 | 2026-11-27 | `90deae3` | stories shared / Instagram pause |
 | 2026-11-27 | `5ddeb1f` | stories shared / Instagram pause |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `981d663` | pick: written and posted |
 | 2026-11-27 | `611a7f4` | Blocked Google News links: also look for the same headline at another trusted outlet |
 | 2026-11-27 | `5fc6b38` | facebook RN-241 |
-| 2026-11-27 | `491cc56` | posted RN-241 |
-| 2026-11-27 | `0ec8b80` | News supply (from Trichy, 27 Nov): writer failures retried, 24 h search window, taluk towns searched |
 <!-- recent-changes:end -->
