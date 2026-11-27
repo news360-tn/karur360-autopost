@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `981d663` | pick: written and posted |
+| 2026-11-27 | `611a7f4` | Blocked Google News links: also look for the same headline at another trusted outlet |
+| 2026-11-27 | `5fc6b38` | facebook RN-241 |
+| 2026-11-27 | `491cc56` | posted RN-241 |
 | 2026-11-27 | `0ec8b80` | News supply (from Trichy, 27 Nov): writer failures retried, 24 h search window, taluk towns searched |
 | 2026-11-27 | `c9f5b7e` | stories shared / Instagram pause |
 | 2026-11-27 | `e4299d7` | pick: picked news saved |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `9e23379` | stories shared / Instagram pause |
 | 2026-11-27 | `3fe404d` | stories shared / Instagram pause |
 | 2026-11-27 | `6e6502b` | stories shared / Instagram pause |
-| 2026-11-27 | `e304abf` | stories shared / Instagram pause |
-| 2026-11-27 | `1042dee` | stories shared / Instagram pause |
-| 2026-11-27 | `6c18739` | stories shared / Instagram pause |
-| 2026-11-27 | `09da2bf` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
