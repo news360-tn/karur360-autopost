@@ -25,7 +25,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-27T16:41:12.888240+05:30",
-   "picked_at": "2026-11-27T16:43:58.426848+05:30"
+   "picked_at": "2026-11-27T16:43:58.426848+05:30",
+   "posted": true
   },
   "Cc1e85ac": {
    "id": "Cc1e85ac",
@@ -39,7 +40,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-27T16:41:12.888240+05:30",
-   "picked_at": "2026-11-27T16:43:58.426851+05:30"
+   "picked_at": "2026-11-27T16:43:58.426851+05:30",
+   "posted": true
   }
  },
  "rounds": {
