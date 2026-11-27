@@ -1,21 +1,6 @@
-14:15:07 location re-check failed (stays held): RN-85 404 Client Error: Not Found for url: https://www.dinamalar.com/news/tamil-nadu-d
-14:15:10 hold lifted: RN-119 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-14:15:15 hold lifted: RN-147 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-14:15:15 hold lifted: RN-151 - not grounded: location 'உழவர்' is not in the article - the location IS in the article (checked again)
-14:15:15 hold lifted: RN-151 - not grounded: location 'சந்தை' is not in the article - the location IS in the article (checked again)
-14:15:15 1 held news to fix: ['RN-232']
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (24s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (3s)
-factcheck by gemini/gemini-3.6-flash: 0 problems
-attempt 1 gemini/gemini-3.6-flash: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.6-flash (14s)
-proofread rejected (2 problems)
-  slide 2 title longer than 18 characters
-  sentence 1 (one-line story) has 20 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-14:16:01 RN-232 FIXED - posts with the corrected text: கரூரில் ரேஷன் அரிசி பதுக்கல் தடுப்பு: மொத்த விற்பனை நிறுவனம் மற்றும் ஆலையில் அதி
+00:00:41 location re-check failed (stays held): RN-85 404 Client Error: Not Found for url: https://www.dinamalar.com/news/tamil-nadu-d
+00:00:45 hold lifted: RN-119 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+00:00:49 hold lifted: RN-147 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+00:00:49 hold lifted: RN-151 - not grounded: location 'உழவர்' is not in the article - the location IS in the article (checked again)
+00:00:49 hold lifted: RN-151 - not grounded: location 'சந்தை' is not in the article - the location IS in the article (checked again)
+00:00:49 0 held news to fix: []
