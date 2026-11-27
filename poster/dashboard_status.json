@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T15:03:20+00:00",
+ "updated": "2026-11-27T15:19:22+00:00",
  "day": "2026-11-27",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -111,6 +111,13 @@
       "link": "https://www.instagram.com/reel/DgPluJaBpsH/",
       "at": "2026-11-27T11:38:12+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-244",
+      "head": "கரூரில் உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா: நலத்திட்ட உதவிகள் மற்றும் விளையாட்டுப் போட்டிகள்",
+      "link": "https://www.instagram.com/reel/DgP-rBrAvG4/",
+      "at": "2026-11-27T15:16:30+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -118,7 +125,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 2,
+    "waiting": 3,
     "share": [
      {
       "id": "RN-241",
