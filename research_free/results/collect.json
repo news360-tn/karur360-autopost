@@ -3,12 +3,12 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/district/karur-271126-2",
+  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/27/36-students-from-karur-participate-in-the-national-childrens-science-congress",
   "candidate filter: collected=1",
   "to write: 1 Karur district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinakaran.com/district/karur-271126-2",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
@@ -18,96 +18,88 @@
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (3s)",
+  "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூரில் உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா: நலத்திட்ட உதவிகள் மற்றும் விளையாட்டுப் போட்டிகள்",
-   "english_headline": "Udhayanidhi Stalin's birthday celebrations in Karur: welfare aid, sports and speech competitions announced",
-   "category": "Temples & Events",
+   "tamil_headline": "தேசிய குழந்தைகள் அறிவியல் மாநாட்டிற்கு கரூரிலிருந்து 36 மாணவர்கள் பயணம்",
+   "english_headline": "36 students from Karur district leave for State Children's Science Congress in Tiruppur",
+   "category": "Education",
    "location": "Karur city, Karur district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பிறந்தநாள் விழா",
-    "loc": "கரூர் நகரம்",
-    "hl1": "கரூரில் உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா",
-    "hl2": "நலத்திட்ட உதவிகள் தொடக்கம்",
+    "cat": "கல்விச் செய்தி",
+    "loc": "கரூர் மாநகராட்சி",
+    "hl1": "கரூரிலிருந்து 36 மாணவர்கள் பயணம்",
+    "hl2": "தேசிய குழந்தைகள் அறிவியல்",
     "slides": [
      {
-      "title": "இன்றைய நிகழ்வுகள்",
+      "title": "மாநாடு எங்கே?",
       "lines": [
-       "இன்று <b>நவம்பர் 27</b> பிறந்தநாள் விழா",
-       "ஏழை எளிய மக்களுக்கு நலத்திட்ட உதவிகள்",
-       "அறுசுவை உணவு மற்றும் நோட்டுப் புத்தகங்கள் வழங்கல்"
+       "திருப்பூர் விஜயமங்கலம் சசூரி பொறியியல் கல்லூரி",
+       "32-வது தேசிய குழந்தைகள் அறிவியல் மாநில மாநாடு",
+       "வெள்ளிக்கிழமை தொடங்கி <b>நவம்பர் 29</b> வரை நடக்கிறது"
       ]
      },
      {
-      "title": "கபாடி போட்டிகள்",
+      "title": "யார் பங்கேற்பு?",
       "lines": [
-       "<b>நவம்பர் 28, 29</b> ஆகிய தேதிகளில் போட்டி",
-       "கரூர் சிஎஸ்ஐ விளையாட்டு மைதானத்தில் நடக்கிறது",
-       "மாவட்டச் செயலாளர் வி.செந்தில்பாலாஜி அறிவிப்பு"
+       "கரூரிலிருந்து தேர்வு செய்யப்பட்ட <b>18 ஆய்வுகள்</b>",
+       "<b>36 மாணவர்கள்</b>, <b>16 வழிகாட்டி ஆசிரியர்கள்</b> பங்கேற்பு",
+       "கரூர் மாநகராட்சிப் பள்ளியில் வழியனுப்பும் விழா"
       ]
      },
      {
-      "title": "விளையாட்டு",
+      "title": "வாழ்த்துக்கூறல்",
       "lines": [
-       "கிரிக்கெட்: <b>டிசம்பர் 5, 6</b> (அட்லஸ் மைதானம்)",
-       "பேச்சுப் போட்டி: <b>டிசம்பர் 12, 13</b>",
-       "மாவட்டம் முழுவதும் திமுக கொடியேற்றப்படுகிறது"
+       "மாவட்ட முதன்மைக்கல்வி அலுவலர் <b>அ.ராஜூ</b> வாழ்த்து",
+       "மாவட்டக் கல்வி அலுவலர் <b>அ.சண்முகவேல்</b> பங்கேற்பு",
+       "தமிழ்நாடு அறிவியல் இயக்கம் சார்பில் ஏற்பாடுகள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் உதயநிதி ஸ்டாலின் பிறந்தநாளை முன்னிட்டு நலத்திட்ட உதவிகள் வழங்கப்படுகின்றன. கரூர் மாவட்ட தி மு க சார்பில் இன்று நவம்பர் 27ஆம் தேதி மாவட்டம் முழுவதும் இந்த விழா கோலாகலமாகக் கொண்டாடப்படுகிறது. மாவட்டச் செயலாளர் வி செந்தில்பாலாஜி இதற்கான ஏற்பாடுகளைச் செய்துள்ளார். மாநகரம், ஒன்றியம் மற்றும் கிளைக் கழகங்கள் சார்பில் ஏழை எளிய மக்களுக்கு நலத்திட்ட உதவிகள் மற்றும் அறுசுவை உணவு வழங்கப்படுகிறது. பள்ளி மாணவ, மாணவியர்களுக்கு நோட்டுப் புத்தகங்கள் விநியோகம் செய்யப்படுகின்றன. மேலும் பல்வேறு விளையாட்டுப் போட்டிகளும் நடத்தப்படுகின்றன. நாளை நவம்பர் 28 மற்றும் 29ஆம் தேதிகளில் கரூர் சிஎஸ்ஐ விளையாட்டு மைதானத்தில் மாபெரும் கபாடி போட்டிகள் நடைபெற உள்ளன. வரும் டிசம்பர் 5 மற்றும் 6ஆம் தேதிகளில் அட்லஸ் மைதானத்தில் கிரிக்கெட் போட்டிகள் நடத்தப்பட உள்ளன. டிசம்பர் 12 மற்றும் 13ஆம் தேதிகளில் பேச்சுப் போட்டிகள் நடத்த முடிவு செய்யப்பட்டுள்ளது. மாவட்டம் முழுவதும் தி மு க கொடியேற்றி இனிப்புகள் வழங்கப்படுகின்றன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎉 கரூரில் உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா: நலத்திட்ட உதவிகள் மற்றும் விளையாட்டுப் போட்டிகள்\n\n📰 முழு விவரம்:\nதமிழ்நாடு சட்டப்பேரவை எதிர்கட்சி தலைவர் உதயநிதி ஸ்டாலினின் 50வது பிறந்தநாளை முன்னிட்டு கரூர் மாவட்ட திமுக சார்பில் இன்று (நவ. 27) பல்வேறு நலத்திட்ட உதவிகள் வழங்கப்படுகின்றன. மாவட்டச் செயலாளர் வி.செந்தில்பாலாஜி தலைமையில் இந்த விழாக்கள் நடைபெறுகின்றன.\n🎁 நலத்திட்டங்கள்: ஏழை எளிய மக்களுக்கு அறுசுவை உணவு, மாணவ, மாணவியர்களுக்கு நோட்டுப் புத்தகங்கள் மற்றும் நலத்திட்ட உதவிகள் வழங்கப்படுகின்றன.\n🏆 விளையாட்டுப் போட்டிகள்:\n📍 கபாடி: நவம்பர் 28, 29 - சிஎஸ்ஐ விளையாட்டு மைதானம்.\n📍 கிரிக்கெட்: டிசம்பர் 5, 6 - அட்லஸ் விளையாட்டு மைதானம்.\n🎤 பேச்சுப் போட்டி: டிசம்பர் 12, 13 ஆகிய தேதிகளில் நடைபெறுகிறது.\nமாவட்டம் முழுவதும் உள்ள கிளைக் கழகங்கள் சார்பில் திமுக கொடியேற்றி இனிப்புகள் வழங்கப்பட்டு வருகின்றன.\n\nUdhayanidhi Stalin birthday celebrations in Karur | Sports and welfare aid\n📍 Karur city, Karur district | 27 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurCity #திமுக #கரூர்",
-   "prompts": "Party volunteers hand out meals and notebooks while a crowd gathers for Udhayanidhi Stalin's 50th birthday celebration. The event is set on the open Karur CSI sports ground, a flat field with bleacher seating near the city centre. Behind the distribution table, a line of party workers in khaki shirts and veshti moves from left to right; in the foreground, groups of young men and women in casual shirts stand side‑by‑side, seen from behind, watching the activity. A white folding table holds stacked notebooks, metal trays with rice and curry, and a blurred banner indicating welfare aid; a few two‑wheelers are parked at the edge of the ground. Mid‑day daylight under clear sky, bright shadows on the grass. Eye‑level shot, 35 mm lens, wide enough to capture the whole field and the distribution line. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows a stack of fresh notebooks being lifted onto a tray of meals. The tabletop is positioned on the same Karur CSI sports ground, with the green grass visible in the blurred background. Only the backs of two volunteers in khaki shirts are visible, one reaching for a notebook, the other holding a stainless‑steel serving tray. The objects in focus are a neat pile of blue‑covered notebooks, a metal tray holding a portion of rice, a banana leaf and a small cup of sambar; the table edge is wooden. Afternoon light creates soft shadows, no rain. Slightly high angle, 35 mm, tight framing to fill the page with the notebooks and food. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/district/karur-271126-2",
-   "published": "2026-11-27T01:37:53+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('உதயநிதி ஸ்டாலின் பிறந்தநாள் விழாவில் நலத்திட்டம் மற்றும் விள')",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூரில் நடைபெறும் மாநில அறிவியல் மாநாட்டில் பங்கேற்க கரூரிலிருந்து 36 மாணவர்கள் புறப்பட்டனர். திருப்பூர் மாவட்டம் விஜயமங்கலத்தில் உள்ள சசூரி பொறியியல் கல்லூரியில் 32வது தேசிய குழந்தைகள் அறிவியல் மாநில மாநாடு வெள்ளிக்கிழமை தொடங்கியது. இந்த மாநாடு நவம்பர் 29ஆம் தேதி வரை நடைபெற உள்ளது. இதில் கரூர் மாவட்டத்திலிருந்து தேர்வு செய்யப்பட்டுள்ள 18 ஆய்வுகளுக்காக 36 மாணவர்களும் 16 வழிகாட்டி ஆசிரியர்களும் பங்கேற்கின்றனர். இந்தக் குழுவினரை வழியனுப்பும் நிகழ்ச்சி கரூர் மாநகராட்சி ஆண்கள் மேல்நிலைப்பள்ளி வளாகத்தில் நடைபெற்றது. நிகழ்ச்சியில் கரூர் மாவட்ட முதன்மைக் கல்வி அலுவலர் ராஜூ, மாவட்டக் கல்வி அலுவலர் சண்முகவேல் மற்றும் தமிழ்நாடு அறிவியல் இயக்க மாவட்டச் செயலாளர் சக்திவேல் ஆகியோர் கலந்துகொண்டு வாழ்த்தி வழியனுப்பினர். இதற்கான ஏற்பாடுகளை தமிழ்நாடு அறிவியல் இயக்க நிர்வாகிகள் செய்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🔬 திருப்பூரில் மாநில அறிவியல் மாநாடு: கரூரிலிருந்து 36 மாணவர்கள் பங்கேற்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டம் விஜயமங்கலத்தில் உள்ள சசூரி பொறியியல் கல்லூரியில் 32-வது தேசிய குழந்தைகள் அறிவியல் மாநில மாநாடு வெள்ளிக்கிழமை தொடங்கியது. இந்த மாநாடு நவம்பர் 29ஆம் தேதி வரை நடைபெறுகிறது.\nகரூரிலிருந்து தேர்வு செய்யப்பட்டுள்ள 18 ஆய்வுகளுக்காக 36 மாணவர்களும் 16 வழிகாட்டி ஆசிரியர்களும் இந்த மாநாட்டில் பங்கேற்கின்றனர்.\nமாணவர் குழுவினரை வழியனுப்பும் நிகழ்ச்சி கரூர் மாநகராட்சி ஆண்கள் மேல்நிலைப்பள்ளி வளாகத்தில் நடைபெற்றது.\nஇதில் மாவட்ட முதன்மைக் கல்வி அலுவலர் அ.ராஜூ, மாவட்டக் கல்வி அலுவலர் அ.சண்முகவேல் மற்றும் தமிழ்நாடு அறிவியல் இயக்க நிர்வாகிகள் கலந்துகொண்டு மாணவர்களை வாழ்த்தி வழியனுப்பி வைத்தனர்.\n\n🗓️ நாள்: வெள்ளிக்கிழமை முதல் நவம்பர் 29 வரை\n📍 இடம்: சசூரி பொறியியல் கல்லூரி, விஜயமங்கலம், திருப்பூர் மாவட்டம்\n👨‍🎓 பங்கேற்பாளர்கள்: 36 மாணவர்கள், 16 வழிகாட்டி ஆசிரியர்கள் (18 ஆய்வுகள்)\n\nமாணவர்களின் அறிவியல் திறனை ஊக்குவிக்க Share செய்யுங்கள்.\n\nState Children Science Congress Tiruppur | Karur student news\n📍 கரூர் மாநகராட்சி, கரூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Education #KarurStudents #கரூர்",
+   "prompts": "A group of 36 students and 16 guide teachers gather in the courtyard of the Karur Corporation Boys Higher Secondary School for a formal send-off ceremony. The students, dressed in their official Tamil Nadu school uniforms of white shirts and dark trousers or skirts, stand in neat rows facing the district education officials who are dressed in formal shirts and trousers. In the background, the school's multi-story building with its characteristic yellow-painted exterior and open corridors is visible. A yellow school bus is parked to the side, ready for the journey to Tiruppur. The scene is captured during the bright morning hours under a clear sky. The camera is at eye level, using a 35mm lens to capture the scale of the group and the school environment, focusing on the collective departure from the school grounds. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed shot shows a few students from the group of 36 boarding a waiting yellow bus at the Karur Corporation Boys Higher Secondary School gate. The students are seen from behind, wearing their school backpacks and carefully carrying handmade science project models made of cardboard and charts rolled into tubes. One student is stepping onto the bus while others wait in a short queue. The side of the bus and the school's compound wall are visible in the frame. The morning sunlight casts soft shadows on the ground. The camera is positioned at a medium distance, eye level, focusing on the specific objects like the science project materials and the school uniforms that signify the purpose of the trip to the Children's Science Congress in Tiruppur district. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/27/36-students-from-karur-participate-in-the-national-childrens-science-congress",
+   "published": "2026-11-27T21:14:19.251Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261127/0c853288e5819137.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261127/6e778a2be09520f3.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261127/fd501b3c05986140.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261127/33f7e6f460e9d1f4.jpg"
    ]
   }
  ]
