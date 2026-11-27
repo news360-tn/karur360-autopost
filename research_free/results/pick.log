@@ -1,20 +1,19 @@
-22:24:02 round 2026-11-27_22: news published 27 Nov 20:27 -> 27 Nov 22:24 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-22:24:02    + news published since 26 Nov 22:24 that no earlier round found (listed / indexed late) - never one already listed or posted
-22:24:02 insights 2026-11-27T22:24+05:30 (236 reels): topic weights {'temple': 0.42, 'accident': 0.79, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.0, 'politics': 0.11, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-22:24:31 open search 'கரூர்' (from_google): 18 links from our outlets
-22:24:31 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 0 links from our outlets
-22:24:31 search links: 5 Google links decoded, 0 not decoded, 72 known from an earlier round, 0 left for the next round, 14 of another district by their headline (not opened)
-22:24:31 75 links on the two papers' Karur pages
-22:25:17 skipped: published before this window=30, already posted=27, not Karur district=6, only a headline=4, state-wide / other district=3, same event already posted=2, checked in an earlier round=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
-22:25:17    drop [not Karur district] தமிழ்நாட்டின் அனைத்து மாவட்டங்களிலும் மத நல்லிணக்கம், மக்கள் | dinakaran.com/news/leftwing_parties_religious_harmony_rally
-22:25:17    drop [only a headline] பெண் ஐஏஎஸ் அதிகாரிக்கு ஆபாச மெசேஜ் அனுப்பியதாக வழக்கு; தவெக  | dinakaran.com/news/tvkmla_arulvignesh_arrested
-22:25:17    drop [only a headline] மும்பை இந்தியன்ஸ் அணியின் புதிய கேப்டன் ரோஹித் சர்மா - Dinak | dinakaran.com/news/captain_rohit_sharma
-22:25:17 list: 0 new + 1 earlier news not posted yet
-22:25:17    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-22:25:17 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_22
-22:25:19    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-22:25:19 round 2026-11-27_22 (at least 3, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-22:25:19 decided: automatic: top 3 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-22:25:25 verify 2026-11-27_22: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+00:26:42 round 2026-11-28_00: news published 27 Nov 22:24 -> 28 Nov 00:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+00:26:42    + news published since 27 Nov 00:26 that no earlier round found (listed / indexed late) - never one already listed or posted
+00:26:42 insights 2026-11-28T00:26+05:30 (236 reels): topic weights {'temple': 0.32, 'accident': 0.78, 'education': -0.23, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.01, 'politics': 0.11, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+00:27:14 open search 'கரூர்' (from_google): 16 links from our outlets
+00:27:14 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம் (+Google), புகழூர் (+Google), கடவூர், மண்மங்கலம்): 3 links from our outlets
+00:27:14 search links: 7 Google links decoded, 0 not decoded, 89 known from an earlier round, 0 left for the next round, 6 of another district by their headline (not opened)
+00:27:14 77 links on the two papers' Karur pages
+00:34:50 skipped: published before this window=30, already posted=22, not Karur district=11, could not open (HTTPSConnectionPool(host='www.dinamalar.com', port)=6, state-wide / other district=3, only a headline=2, same event already posted=2
+00:34:50    drop [not Karur district] சிறுமலை சுற்றுலா திட்டம் அறிவிப்பு | dinamalar.com/news/tamil-nad...-of-girl-child-tourism-project/4388070
+00:34:50    drop [not Karur district] தொகுதி மறுவரையறை மசோதாவை குறுக்கு வழியில் ஒன்றிய பாஜ அரசு நி | dinakaran.com/news/delimitation_bill_manickamtagore
+00:34:50    drop [not Karur district] பாரதியார் பல்கலை சிண்டிகேட்டில் புதிய உறுப்பினர் நியமனம் | dinamalar.com/news/tamil-nad...harathiar-university-syndicate/4387834
+00:34:50    drop [not Karur district] மகசூலை அதிகரிக்க உதவும் ‘தென்னை டானிக்’: வேர் வழியாக செலுத்த | dinamalar.com/news/tamil-nad...ion-to-be-applied-through-root/4387804
+00:34:50    drop [not Karur district] ஐகோர்ட், மகளிர் ஆணையம் சீற்றத்தால் அருள் விக்னேஷ் கைது; சொல் | dinamalar.com/news/tamil-nad...mens-commission-outrage-stalin/4387765
+00:34:50    drop [not Karur district] தீபத்தூண் விவகாரத்தில் பிடிவாதம் விட்டு, கோர்ட் உத்தரவை மதிய | dinamalar.com/news/tamil-nad...issue-of-fire-annamalai-advice/4387632
+00:34:50    drop [not Karur district] பஞ்சாபில் கோசாலைகளுக்கு ரூ.100 கோடி உடனடி ஒதுக்கீடு | dinamalar.com/news/india-tam...ocation-for-goshalas-in-punjab/4387542
+00:34:50 list: 0 new + 1 earlier news not posted yet
+00:34:50    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+00:34:50 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_00
