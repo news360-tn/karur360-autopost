@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T11:15:18+00:00",
+ "updated": "2026-11-27T11:26:24+00:00",
  "day": "2026-11-27",
- "ready": 1,
+ "ready": 2,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -97,6 +97,13 @@
       "link": "https://www.instagram.com/reel/DgPiPt5BirW/",
       "at": "2026-11-27T11:07:43+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-240",
+      "head": "குளித்தலை அருகே அரிவாளுடன் பணம் கேட்ட இளைஞர் கைது",
+      "link": "https://www.instagram.com/reel/DgPkDC6B-Pt/",
+      "at": "2026-11-27T11:23:25+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -104,7 +111,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 1,
+    "waiting": 2,
     "share": [],
     "paused": "Facebook limited this page - paused until 2026-11-28T10:32 UTC"
    },
