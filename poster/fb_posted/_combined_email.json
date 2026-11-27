@@ -95,7 +95,12 @@
   },
   "karur:RN-230": {
    "day": "2026-11-27",
-   "tries": 2
+   "tries": 3,
+   "how": "failed"
+  },
+  "karur:RN-233": {
+   "day": "2026-11-27",
+   "tries": 1
   }
  }
 }
