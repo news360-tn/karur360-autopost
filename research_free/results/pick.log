@@ -1,11 +1,8 @@
-04:41:52 round 2026-11-27_04: news published 27 Nov 04:28 -> 27 Nov 04:41 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-04:41:52 insights 2026-11-27T04:41+05:30 (217 reels): topic weights {'temple': 0.29, 'accident': 0.84, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.01, 'politics': 0.19, 'civic': -0.35, 'crime': 1.5, 'weather': 0.08}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-04:42:06 open search 'கரூர்' (from_google): 0 links from our outlets
-04:42:06 71 links on the two papers' Karur pages
-04:42:50 skipped: published before this window=36, already posted=18, not Karur district=6, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
-04:42:50 list: 0 new + 0 earlier news not posted yet
-04:42:50 no news in this window - no e-mail
-ROUND=2026-11-27_04
-04:42:52 no list this round - nothing to post
-PICK_URLS=
-04:42:53 verify: no decided round
+06:13:48 round 2026-11-27_06: news published 27 Nov 04:41 -> 27 Nov 06:13 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+06:13:48 insights 2026-11-27T06:13+05:30 (218 reels): topic weights {'temple': 0.34, 'accident': 0.84, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.02, 'politics': 0.19, 'civic': -0.34, 'crime': 1.5, 'weather': 0.09}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+06:14:19 open search 'கரூர்' (from_google): 0 links from our outlets
+06:14:19 81 links on the two papers' Karur pages
+06:15:19 skipped: published before this window=36, already posted=19, not Karur district=15, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1, no title=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
+06:15:19 list: 0 new + 0 earlier news not posted yet
+06:15:19 no news in this window - no e-mail
+ROUND=2026-11-27_06

@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-27T04:41+05:30",
- "posts_measured": 217,
+ "updated": "2026-11-27T06:13+05:30",
+ "posts_measured": 218,
  "topic_weight": {
-  "temple": 0.29,
+  "temple": 0.34,
   "accident": 0.84,
   "education": -0.24,
   "jobs": 1.5,
   "power_cut": 1.5,
-  "poultry_agri": 0.01,
+  "poultry_agri": -0.02,
   "politics": 0.19,
-  "civic": -0.35,
+  "civic": -0.34,
   "crime": 1.5,
-  "weather": 0.08
+  "weather": 0.09
  },
  "topic_n": {
   "temple": 30,
@@ -28,8 +28,8 @@
  },
  "best_hours_ist": [
   16,
-  4,
   0,
+  4,
   12
  ],
  "top_openings": [
