@@ -1,55 +1,15 @@
-20:27:39 round 2026-11-27_20: news published 27 Nov 16:41 -> 27 Nov 20:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-20:27:39    + news published since 26 Nov 20:27 that no earlier round found (listed / indexed late) - never one already listed or posted
-20:27:39 insights 2026-11-27T20:27+05:30 (235 reels): topic weights {'temple': 0.34, 'accident': 0.79, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.0, 'politics': 0.21, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-20:29:18 open search 'கரூர்' (from_google): 28 links from our outlets
-20:29:18 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம் (+Google), புகழூர் (+Google), கடவூர், மண்மங்கலம்): 4 links from our outlets
-20:29:18 search links: 38 Google links decoded, 0 not decoded, 59 known from an earlier round, 0 left for the next round, 24 of another district by their headline (not opened)
-20:29:18 99 links on the two papers' Karur pages
-20:30:21 skipped: published before this window=30, already posted=28, not Karur district=28, state-wide / other district=3, only a headline=2, same event already posted=2, checked in an earlier round=2, no title=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
-20:30:21    drop [already posted] கோயிலுக்குச் சொந்தமான இடத்தில் இருந்த கடைக்கு ‘சீல்’ | dinamani.com/all-editions/ed...ocated-on-temple-owned-property-sealed
-20:30:21    drop [not Karur district] கலை அறிவியல் கல்லூரிகளில் திறன் சார்ந்த பயிற்சி வகுப்புகள் | dinamalar.com/news/tamil-nad...urses-in-arts-science-colleges/4387775
-20:30:21    drop [not Karur district] சர்க்கரை நோய் கண்டறிய இலவச பரிசோதனை முகாம் | dinamalar.com/news/tamil-nad...re/free-diabetes-check-up-camp/4387795
-20:30:21    drop [not Karur district] நேர்மையாக செயல்பட்டால் பொறுப்புகள் தானாக தேடி வரும்! கிருஷ்ண | dinamalar.com/news/tamil-nad...atically-find-responsibilities/4387796
-20:30:21    drop [not Karur district] தவெக அரசுக்கு நீதிமன்றங்களில் அடுத்தடுத்து பின்னடைவு.. சட்ட  | tamil.oneindia.com/news/delh...dvice-being-provided-sound-848781.html
-20:30:21    drop [not Karur district] கல்லூரி மாணவர்கள் ரத்ததான முகாம். | dinamalar.com/news/tamil-nad...tion-camp-for-college-students/4387679
-20:30:21    drop [not Karur district] மெரினா கலங்கரை விளக்கம் முதல் பட்டினப்பாக்கம் வரை ஆக்கிரமிப் | dinakaran.com/news/marina-li...e-pattinapakkam-shop-7-days-expiration
-20:30:21    drop [not Karur district] 22,500 கி.மீ வேகத்தில் பாய்ந்த நாசா விண்கலம்-திசைமாறிய விண்க | dinakaran.com/news/22500-km-h-impact-nasa-deflects-asteroid
-20:30:21    drop [not Karur district] வேப்பேரி, பெரியார் திடலில் இன்று மனிதநேய நல்லிணக்க நலத்திட்ட | dinakaran.com/news/welfare_assistance_udhayanidhistalin
-20:30:21    drop [not Karur district] ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran | dinakaran.com/ladies/vastralaya-world-of-beautiful-garments
-20:30:21    drop [not Karur district] நாடாளுமன்ற சிறப்பு கூட்டத்தொடர்- எம்.பி.க்களுக்கு காங்கிரஸ்  | dinakaran.com/news/congress-...ip-ahead-of-special-parliament-sitting
-20:30:21    drop [not Karur district] சட்டமும் நீதியும் அதிகாரத்தில் இருப்பவர்களின் விருப்பு வெறுப | dinamani.com/tamilnadu/2026/...d-dislikes-of-those-in-power-annamalai
-20:30:21    drop [no title] திருப்பதி வைகுண்ட துவார தரிசனம்: ரூ.300 சிறப்பு தரிசன டிக்கெ | temple.dinamalar.com/news_detail.php
-20:30:21    drop [not Karur district] வீட்டின் அஸ்திவாரத்தை அரிக்கும் ஈரப்பதம் அடித்தளத்தில் ‘பிளி | dinamalar.com/news/tamil-nad...d-protection-on-the-foundation/4387559
-20:30:21    drop [not Karur district] மக்களவைத் தொகுதிகளின் எண்ணிக்கை 50% அதிகரிக்க மசோதா: ஒன்றிய  | dinakaran.com/news/bill-to-increase-number-lok-sabha-constituencies
-20:30:21    drop [not Karur district] இலவச மருத்துவ முகாம் | dinamalar.com/news/tamil-nad...manathapuram/free-medical-camp/4387535
-20:30:21    drop [not Karur district] 2வது டெஸ்ட் போட்டியில் ஜடேஜாவுக்கு இடம் கிடைக்காதது துரதிர்ஷ | dinakaran.com/news/sports_news/jadeja_sunil_gavaskar
-20:30:21    drop [not Karur district] இந்திய அணிக்கு திரும்புவது பற்றிய எண்ணத்தை நிறுத்திவிட்டேன்: | dinakaran.com/news/indian_team_mohammedshami
-20:30:21    drop [not Karur district] தீபம் ஏற்றப்பட்டு 3-ஆவது நாள்: அண்ணாமலையாா் உண்ணாமுலையம்மன்  | dinamani.com/all-editions/ed...annamalaiyar-unnamulai-amman-girivalam
-20:30:21    drop [already posted] கோவில் நிலத்தில் உள்ள ஆக்கிரமிப்பு கடைக்கு ‘சீல்’ | dinamalar.com/news/tamil-nad...encroached-shop-on-temple-land/4386968
-20:30:21    drop [not Karur district] ஆசிய கோப்பை கிரிக்கெட் அரைஇறுதி: சதம் விளாசிய இலங்கை அணி வீர | dailythanthi.com/amp/story/s...an-player-jayawardene-scores-a-century
-20:30:21    drop [not Karur district] தி.மு.க. எம்.எல்.ஏ. வசந்தம் கார்த்திகேயன் மீது வழக்குப்பதிவு | dailythanthi.com/amp/story/n...-against-dmk-mla-vasantham-karthikeyan
-20:30:21    drop [not Karur district] பெரம்பூரில் ரூ.41.66 கோடியில் நவீன பேருந்து நிறுத்தங்கள், பூ | dailythanthi.com/amp/story/n...bur-modern-bus-stops-parks-development
-20:30:21    drop [not Karur district] சந்தோஷ் பிரதாப் நடிக்கும் ‘சிக்னல் அட் 11.30’ படத்தின் வீடிய | dailythanthi.com/amp/story/c...aps-signal-at-1130-film-video-song-out
-20:30:21    drop [not Karur district] அருணாச்சல பிரதேசத்தில் நிலநடுக்கம்: ரிக்டர் அளவில் 3.1 ஆக பத | dailythanthi.com/amp/story/n...sh-recorded-at-31-on-the-richter-scale
-20:30:21    drop [not Karur district] வேலை முடிந்து வீடு திரும்பியபோது பரிதாபம்: அரசு பஸ் மோதி ஓட் | dailythanthi.com/amp/story/n...dies-after-being-hit-by-government-bus
-20:30:21 list: 1 new + 1 earlier news not posted yet
-20:30:21    1. [பொது] உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா கொண்டாட்டம் - Dinakaran (தினகரன்) (published 27 Nov 01:37, found only now)
-20:30:21    2. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-20:30:21 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_20
-20:30:23    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-20:30:23 round 2026-11-27_20 (at least 5, up to 3 more of well-watched topics): 1 news to choose from (0 from earlier rounds), ranked by this page's insights
-20:30:23   PICK   1.   3.0 [other +0.00 pattern] உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா கொண்டாட்டம் - Dinakaran
-20:30:23 decided: automatic: top 5 of 1 by insights -> 1 news to write and post
-PICK_URLS=https://www.dinakaran.com/district/karur-271126-2
-20:32:54 1 listed news now in the Sheet
-20:33:06 instagram duplicate check karur: 50 recent posts read
-20:33:06 verify 2026-11-27_20: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:33:06    NOT POSTED C2c3b3de: queued RN-244 (Queued) - உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா கொண்டாட்டம் - Dinakaran
-20:38:13 instagram duplicate check karur: 50 recent posts read
-20:38:13 verify 2026-11-27_20: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:38:13    NOT POSTED C2c3b3de: queued RN-244 (Queued) - உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா கொண்டாட்டம் - Dinakaran
-20:43:20 instagram duplicate check karur: 50 recent posts read
-20:43:20 verify 2026-11-27_20: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-20:43:20    NOT POSTED C2c3b3de: queued RN-244 (Queued) - உதயநிதி ஸ்டாலின் பிறந்தநாள் விழா கொண்டாட்டம் - Dinakaran
-20:48:25 verify 2026-11-27_20: 1 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+22:24:02 round 2026-11-27_22: news published 27 Nov 20:27 -> 27 Nov 22:24 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+22:24:02    + news published since 26 Nov 22:24 that no earlier round found (listed / indexed late) - never one already listed or posted
+22:24:02 insights 2026-11-27T22:24+05:30 (236 reels): topic weights {'temple': 0.42, 'accident': 0.79, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.0, 'politics': 0.11, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+22:24:31 open search 'கரூர்' (from_google): 18 links from our outlets
+22:24:31 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 0 links from our outlets
+22:24:31 search links: 5 Google links decoded, 0 not decoded, 72 known from an earlier round, 0 left for the next round, 14 of another district by their headline (not opened)
+22:24:31 75 links on the two papers' Karur pages
+22:25:17 skipped: published before this window=30, already posted=27, not Karur district=6, only a headline=4, state-wide / other district=3, same event already posted=2, checked in an earlier round=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
+22:25:17    drop [not Karur district] தமிழ்நாட்டின் அனைத்து மாவட்டங்களிலும் மத நல்லிணக்கம், மக்கள் | dinakaran.com/news/leftwing_parties_religious_harmony_rally
+22:25:17    drop [only a headline] பெண் ஐஏஎஸ் அதிகாரிக்கு ஆபாச மெசேஜ் அனுப்பியதாக வழக்கு; தவெக  | dinakaran.com/news/tvkmla_arulvignesh_arrested
+22:25:17    drop [only a headline] மும்பை இந்தியன்ஸ் அணியின் புதிய கேப்டன் ரோஹித் சர்மா - Dinak | dinakaran.com/news/captain_rohit_sharma
+22:25:17 list: 0 new + 1 earlier news not posted yet
+22:25:17    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+22:25:17 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_22
