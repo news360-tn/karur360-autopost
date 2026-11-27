@@ -45,7 +45,9 @@
   "resent": false
  },
  "karur:RN-240": {
-  "first": "2026-11-27T03:07:52+00:00"
+  "first": "2026-11-27T03:07:52+00:00",
+  "queued": "2026-11-27T06:07:58+00:00",
+  "why": "ready for more than 3 hours and still not posted"
  },
  "karur:RN-239": {
   "first": "2026-11-27T03:07:52+00:00"
