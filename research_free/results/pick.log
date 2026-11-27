@@ -1,34 +1,20 @@
-02:26:22 round 2026-11-28_02: news published 28 Nov 00:26 -> 28 Nov 02:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-02:26:22    + news published since 27 Nov 02:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-02:26:22 insights 2026-11-28T02:26+05:30 (236 reels): topic weights {'temple': 0.32, 'accident': 0.78, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.01, 'politics': 0.11, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-02:27:49 open search 'கரூர்' (from_google): 15 links from our outlets
-02:27:49 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 0 links from our outlets
-02:27:49 search links: 20 Google links decoded, 0 not decoded, 66 known from an earlier round, 0 left for the next round, 10 of another district by their headline (not opened)
-02:27:49 87 links on the two papers' Karur pages
-02:29:06 skipped: published before this window=30, already posted=27, not Karur district=21, same event already posted=3, state-wide / other district=3, only a headline=2
-02:29:06    drop [not Karur district] Tamil News Paper | Tamil News Today | Latest Tamil News | தம | dinamani.com
-02:29:06    drop [same event already posted] அம்பாசமுத்திரம், பெருந்துறை 2 தொகுதிகளில் தேர்தல் நடத்தலாம்: | dinakaran.com/news/elections...constituencies-madrashighcourt-verdict
-02:29:06    drop [not Karur district] பி.எஸ்.ஆர்., பொறியியல் கல்லூரியில் போதைப்பொருட்கள் விழிப்புண | dinamalar.com/news/tamil-nad...-at-bsr-college-of-engineering/4388121
-02:29:06    drop [not Karur district] குழந்தை திருமணங்கள் சரிவு மத்திய அமைச்சர் பெருமிதம் | dinamalar.com/news/india-tam...-of-decline-in-child-marriages/4387540
-02:29:06    drop [not Karur district] பதவிக்காக கொள்கையை உதறிவிட்டு செல்லும் மானமற்ற, நன்றிகெட்ட க | dinakaran.com/news/nochange-...tance-constituency-redelineation-issue
-02:29:06    drop [not Karur district] பெண் ஐஏஎஸ் அதிகாரி பாலியல் புகார்; தலைமை செயலாளர் மீது விசார | dinakaran.com/news/female-ia...ual-complaint-lawyer-petition-governor
-02:29:06    drop [not Karur district] ஜெம் கிரானைட் வீரமணி மீதான போக்சோ வழக்கில் தேடப்படும் பிரகாஷ | dinakaran.com/news/prakashs-...-bail-plea-transferred-two-judge-bench
-02:29:06    drop [not Karur district] தமிழ்நாட்டு வரலாற்றில் இல்லாத வகையில் மதநல்லிணக்கம், மாநில உ | dinakaran.com/news/mkstalin-...nt-creatingdanger-statesovereignty/amp
-02:29:06    drop [not Karur district] எம்.பி.,க்களுடன் ஸ்டாலின் இன்று ஆலோசனை | dinamalar.com/news/tamil-nadu-news/mp-stalin-to-meet-today/4387619
-02:29:06    drop [not Karur district] இலவச கண் மருத்துவ முகாம் | dinamalar.com/news/tamil-nad...s-chennai/free-eye-clinic-camp/4387618
-02:29:06    drop [not Karur district] சிறுவாணி, பில்லூர் அணைகளில் வண்டல் மண்ணை அகற்றணும் | dinamalar.com/news/tamil-nad...lt-in-siruvani-and-billur-dams/4387875
-02:29:06    drop [not Karur district] மாணவிகளுக்கு பாராட்டு | dinamalar.com/news/tamil-nad...adurai/praise-for-the-students/4388175
-02:29:06    drop [not Karur district] ‘கார்ப்பரேட் பாண்டு பியூச்சர்ஸ்’ தேசிய பங்கு சந்தைக்கு அனுமத | dinamalar.com/news/business-...wed-on-national-stock-exchange/4388033
-02:29:06    drop [not Karur district] உச்ச நீதிமன்ற தீர்ப்பை அமல்படுத்த ஹிந்துக்களே ஒத்துழைப்போம் | dinamalar.com/news/tamil-nadu-news/devotees-keep-the-peace/4388076
-02:29:06    drop [not Karur district] ‘சொமெக்ஸ் 2027’ தொழில் கண்காட்சி | dinamalar.com/news/business-...-news/somex-2027-industry-expo/4388018
-02:29:06    drop [not Karur district] எஸ்.எஸ்.ஆர். பணி ஆலோசனை கூட்டம் | dinamalar.com/news/tamil-nad...e/ssr-job-consultation-meeting/4387937
-02:29:06    drop [not Karur district] முருகனுக்கு உகந்த கார்த்திகை! - Dinakaran - Dinakaran | dinakaran.com/spirtual_aanmeegam/karthigai-dear-to-lord-murugan
-02:29:06 list: 0 new + 1 earlier news not posted yet
-02:29:06    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-02:29:06 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_02
-02:29:08    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-02:29:08 round 2026-11-28_02 (at least 1, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-02:29:08 decided: automatic: top 1 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-02:29:14 verify 2026-11-28_02: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+04:27:12 round 2026-11-28_04: news published 28 Nov 02:26 -> 28 Nov 04:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+04:27:12    + news published since 27 Nov 04:27 that no earlier round found (listed / indexed late) - never one already listed or posted
+04:27:12 insights 2026-11-28T04:27+05:30 (236 reels): topic weights {'temple': 0.32, 'accident': 0.78, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.01, 'politics': 0.11, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+04:27:56 open search 'கரூர்' (from_google): 28 links from our outlets
+04:27:56 town searches (குளித்தலை (+Google), அரவக்குறிச்சி (+Google), கிருஷ்ணராயபுரம், புகழூர், கடவூர், மண்மங்கலம்): 7 links from our outlets
+04:27:56 search links: 14 Google links decoded, 0 not decoded, 84 known from an earlier round, 0 left for the next round, 4 of another district by their headline (not opened)
+04:27:56 78 links on the two papers' Karur pages
+04:28:45 skipped: published before this window=29, already posted=27, not Karur district=12, state-wide / other district=3, only a headline=2, same event already posted=2, checked in an earlier round=1
+04:28:45    drop [not Karur district] வாகனத் தணிக்கையின்போது லோடு வேன் கவிழ்ந்து விபத்து | dinamani.com/all-editions/ed...an-overturns-during-vehicle-inspection
+04:28:45    drop [not Karur district] விபத்தில் சிக்கிய பயணிகள் மீட்க வந்த ஆம்புலன்சும் விபத்து | dinamalar.com/news/tamil-nad...passengers-meets-with-accident/4388111
+04:28:45    drop [not Karur district] ஜெம் கிரானைட் வீரமணி மீதான போக்சோ வழக்கில் தேடப்படும் பிரகாஷ | dinakaran.com/news/prakashs-...l-plea-transferred-two-judge-bench/amp
+04:28:45    drop [not Karur district] தமிழ்நாட்டு வரலாற்றில் இல்லாத வகையில் மதநல்லிணக்கம், மாநில உ | dinakaran.com/news/mkstalin-...rnment-creatingdanger-statesovereignty
+04:28:45    drop [not Karur district] பறிமுதல் செய்து ஓட்டி சென்ற வேன் கவிழ்ந்து போலீஸ்காரர் காயம் | dinamalar.com/news/tamil-nad...ceman-injured-as-van-overturns/4388104
+04:28:45    drop [not Karur district] திருப்புத்தூர் சர்ச் விழா கொடியேற்றத்துடன் துவக்கம் | dinamalar.com/news/tamil-nad...ival-begins-with-flag-hoisting/4388112
+04:28:45    drop [not Karur district] சாக்கோட்டை அருகே ஆபத்தான நிழற்குடை | dinamalar.com/news/tamil-nad...i/socket-near-dangerous-shadow/4388109
+04:28:45 list: 1 new + 1 earlier news not posted yet
+04:28:45    1. [பொது] தேசிய குழந்தைகள் அறிவியல் மாநாட்டில் கரூரிலிருந்து 36 மாணவா்கள் பங்கேற (தினமணி)
+04:28:45    2. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+04:28:45 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_04
