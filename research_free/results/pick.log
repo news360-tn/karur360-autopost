@@ -1,23 +1,55 @@
-16:25:49 round 2026-11-27_16: news published 27 Nov 12:28 -> 27 Nov 16:25 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-16:25:49 insights 2026-11-27T16:25+05:30 (232 reels): topic weights {'temple': 0.34, 'accident': 0.77, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.02, 'politics': 0.19, 'civic': -0.3, 'crime': 1.5, 'weather': 0.09}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-16:26:41 open search 'கரூர்' (from_google): 2 links from our outlets
-16:26:41 85 links on the two papers' Karur pages
-16:27:28 skipped: published before this window=29, already posted=26, not Karur district=17, state-wide / other district=4, only a headline=3, same event already posted=3, could not open (500 Server Error: Internal Server Error for url: h)=1
-16:27:28 list: 1 new + 1 earlier news not posted yet
-16:27:28    1. [பொது] கோயிலுக்குச் சொந்தமான இடத்தில் இருந்த கடைக்கு ‘சீல்’ (தினமணி)
-16:27:28    2. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-16:27:28 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+16:41:12 round 2026-11-27_16: news published 27 Nov 16:25 -> 27 Nov 16:41 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+16:41:12    + news published since 26 Nov 16:41 that no earlier round found (listed / indexed late) - never one already listed or posted
+16:41:12 insights 2026-11-27T16:41+05:30 (232 reels): topic weights {'temple': 0.34, 'accident': 0.77, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.02, 'politics': 0.19, 'civic': -0.3, 'crime': 1.5, 'weather': 0.09}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+16:42:55 open search 'கரூர்' (from_google): 18 links from our outlets
+16:42:55 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 1 links from our outlets
+16:42:55 search links: 40 Google links decoded, 0 not decoded, 0 known from an earlier round, 14 left for the next round, 49 of another district by their headline (not opened)
+16:42:55 96 links on the two papers' Karur pages
+16:43:56 skipped: published before this window=30, already posted=27, not Karur district=24, same event already posted=4, only a headline=3, state-wide / other district=3, could not open (404 Client Error: Not Found for url: https://www.d)=1
+16:43:56    drop [already posted] கிணற்று பாசனத்தை நம்பும் விவசாயிகள் சம்பா நெல் நடவு பணிகளில் | dinamalar.com/news/tamil-nad...sy-with-samba-paddy-plantation/4387482
+16:43:56    drop [already posted] அரிசி ஆலையில் அதிகாரிகள் சோதனை | dinamalar.com/news/tamil-nad...karur/officials-raid-rice-mill/4387483
+16:43:56    drop [already posted] சிறிய பாலம் அருகே இணைப்பு சாலை சீரமைப்பு | dinamalar.com/news/tamil-nad...idge-near-link-road-renovation/4387478
+16:43:56    drop [already posted] வரும் 29ல் வாக்காளர் பட்டியல் சிறப்பு முகாம் | dinamalar.com/news/tamil-nad...cial-camp-to-be-held-on-may-29/4387488
+16:43:56    drop [already posted] மாற்றுத்திறனாளிகளுக்கான சிறப்பு குறைதீர் நாள் கூட்டம் | dinamalar.com/news/tamil-nad...-for-persons-with-disabilities/4387487
+16:43:56    drop [already posted] தொழிலாளியை வழி மறித்து பணம் பறிக்க முயன்றவர் கைது | dinamalar.com/news/tamil-nad...-by-misguiding-worker-arrested/4387486
+16:43:56    drop [already posted] பாராகுவாட் டைகுளோரைடு களைக்கொல்லிக்கு மத்திய அரசு தடை: மீறின | dinamalar.com/news/tamil-nad...trict-action-against-violators/4387485
+16:43:56    drop [already posted] சர்வீஸ் சாலையில் நிறுத்தப்படும் கனரக வாகனங்களால் போக்குவரத்த | dinamalar.com/news/tamil-nad...les-parked-on-the-service-road/4387484
+16:43:56    drop [not Karur district] தமிழ்நாடு விவசாயிகள் சங்கம் சார்பில் தெருமுனை கூட்டம் | dinamalar.com/news/tamil-nad...on-holds-street-corner-meeting/4387481
+16:43:56    drop [already posted] கரூர் பகுதியில் பரவலாக மழை எதிரொலி ஆண்டாங்கோவில் தடுப்பணையில | dinamalar.com/news/tamil-nad...ter-in-check-dam-at-andankovil/4387480
+16:43:56    drop [already posted] பள்ளப்பட்டியில் நாய்கள் தொல்லை அதிகரிப்பு | dinamalar.com/news/tamil-nad...s-karur/dog-menace-on-the-rise/4387479
+16:43:56    drop [already posted] புறநோயாளிகள் பிரிவு, ரத்த பரிசோதனை மையம் ஒரே இடத்தில் அமைக்க | dinamalar.com/news/tamil-nad...blood-test-centre-at-one-place/4387477
+16:43:56    drop [already posted] அரசியலமைப்பு தின உறுதிமொழி ஏற்பு | dinamalar.com/news/tamil-nad...of-the-constitution-day-pledge/4387476
+16:43:56    drop [already posted] கிருஷ்ணராயபுரத்தில் மழை மகிழ்ச்சியில் விவசாயிகள் | dinamalar.com/news/tamil-nad...-over-rain-in-krishnarayapuram/4387475
+16:43:56    drop [already posted] டிஎன்பிஎல் ஆலையில் அரசமைப்பு தின உறுதிமொழியேற்பு | dinamani.com/all-editions/ed...tion-day-pledge-ceremony-at-tnpl-plant
+16:43:56    drop [already posted] தொழிலாளியிடம் நகையை பறிக்க முயன்ற இளைஞா் கைது | dinamani.com/all-editions/ed...ியிடம்-நகையை-பறிக்க-முயன்ற-இளைஞா்-கைது
+16:43:56    drop [already posted] தரைமட்ட பாலப் பணிகளை விரைந்து முடிக்க கோரிக்கை | dinamani.com/all-editions/ed...பாலப்-பணிகளை-விரைந்து-முடிக்க-கோரிக்கை
+16:43:56    drop [already posted] மக்கள் தொடா்பு திட்ட முகாம் நிறைவி விழாவில் 158 பேருக்கு ரூ. | dinamani.com/all-editions/ed...ny-of-the-peoples-contact-project-camp
+16:43:56    drop [already posted] புகழிமலையில் பக்தா்கள் கிரிவலம் | dinamani.com/all-editions/ed...Nov/24/புகழிமலையில்-பக்தா்கள்-கிரிவலம்
+16:43:56    drop [already posted] ‘மத்திய - மாநில அரசின் வளா்ச்சித் திட்டங்கள் உரிய நேரத்தில்  | dinamani.com/all-editions/ed...ரிய-நேரத்தில்-மக்களை-சென்றடைய-வேண்டும்
+16:43:56    drop [already posted] இருசக்கர வாகனம் மீது காா் மோதிய விபத்து உயிரிழந்தோா் எண்ணிக் | dinamani.com/all-editions/ed...்து-உயிரிழந்தோா்-எண்ணிக்கை-3-ஆக-உயா்வு
+16:43:56    drop [published before this window] [2026-11-23T20:43] கரூா் ஆட்சியரக வளாகத்தில் இளம்பெண் தீக்குளிக்க முயற்சி | dinamani.com/all-editions/ed...வளாகத்தில்இளம்பெண்-தீக்குளிக்க-முயற்சி
+16:43:56    drop [published before this window] [2026-11-25T05:47] மாயனூர் காவல் நிலையம் முன் மாயமான இளம்பெண்ணின் உறவினர்கள் தர | dinakaran.com/district/karur_251126_3
+16:43:56    drop [published before this window] [2026-11-25T05:47] வெள்ளியணையில் வரத்து வாய்க்காலில் வளர்ந்துள்ள கோரைப்புற்களை  | dinakaran.com/district/karur_251126_2
+16:43:56    drop [not Karur district] ஆத்தூரில் சிறுவர் பூங்காவில் விளையாட்டு உபகரணங்கள், வளாகத்தை | dinakaran.com/district/karur_251126_1
+16:43:56    drop [already posted] நாளை விவசாயிகள் குறைதீர் கூட்டம் - Dinakaran | dinakaran.com/district/karur_191126_3
+16:43:56    drop [already posted] கோரிக்கைகளை வலியுறுத்தி கம்யூனிஸ்ட் ஆர்ப்பாட்டம் - Dinakaran | dinakaran.com/district/karur_191126_2
+16:43:56    drop [published before this window] [2026-11-19T02:05] ஒன்றிய அரசை கண்டித்து ஓய்வூதியர்கள் போராட்டம் - Dinakaran | dinakaran.com/district/karur_191126_1
+16:43:56    drop [already posted] புகழூர் நகராட்சி அருகே பொது இடத்தில் மக்களுக்கு இடையூறு செய் | dinakaran.com/district/karur_181126_3
+16:43:56    drop [already posted] கரூர் அருகே நிதி நிறுவன அதிபர் வீட்டில் கொள்ளை: ரூ.2.90 லட்ச | hindutamil.in/news/crime/cas...t-finance-company-owner-house-in-karur
+16:43:56    drop [published before this window] [2026-11-19T06:23] காய்ச்சலைத் தடுக்கும் கரூர்! | பேரு வாங்கின ஊரு 15 | hindutamil.in/news/supplements/vazhvu-inithu/peru-vangina-ooru-karur
+16:43:56    drop [already posted] கரூர் அருகே குடும்பப் பிரச்சினையில் ஒரே குடும்பத்தில் 5 பேர் | hindutamil.in/news/tamilnadu...die-after-jumping-into-well-near-karur
+16:43:56    drop [published before this window] [2026-11-10T07:26] கரூர் அருகே சாலை மையத்தடுப்பில் கார் மோதி விபத்து: 5 பேர் கா | hindutamil.in/news/crime/car...ad-median-near-karur-5-members-injured
+16:43:56    drop [published before this window] [2026-11-09T07:38] கரூர் தாந்தோணிமலையில் இந்து மக்கள் கட்சி நிர்வாகி கார் தீ வை | hindutamil.in/news/crime/hin...ar-set-on-fire-in-thanthonimalai-karur
+16:43:56    drop [published before this window] [2026-11-05T02:04] கரூர் கோயில்களுக்கு சொந்தமான 3,085 ஏக்கர் நிலம் பத்திரப்பதிவ | hindutamil.in/news/tamilnadu...-of-land-belonging-to-temples-in-karur
+16:43:56    drop [published before this window] [2026-11-04T10:23] கரூர் கோயில்களுக்கு சொந்தமான 3,084.95 ஏக்கர் இனாம் நிலம் பத் | hindutamil.in/news/tamilnadu...nam-land-belonging-to-temples-in-karur
+16:43:56    drop [published before this window] [2026-10-23T08:04] கடன் தொல்லையால் 3 மாத பெண் குழந்தையை சாலையில் விட்டுச் சென்ற | hindutamil.in/news/tamilnadu...ng-3-month-baby-in-road-for-debt-issue
+16:43:56    drop [only a headline] Ilamai puthumai Tamil News, supplements News in Tamil | Late | hindutamil.in/news/supplements/ilamai-puthumai
+16:43:56    drop [not Karur district] திருப்பரங்குன்றம் விவகாரம்: `தீர்ப்பை அமல்படுத்துவதில் முதல் | vikatan.com/government-and-p...nagenthiran-on-thiruparankundram-issue
+16:43:56    drop [same event already posted] கரூர்: ஒரே குடும்பத்தை சேர்ந்த 5 பேர் கிணற்றில் குதித்து தற் | vikatan.com/crime/karur-trag...-persons-belongs-to-a-same-family-died
+16:43:56    (+ 52 more dropped links not shown)
+16:43:56 list: 2 new + 1 earlier news not posted yet
+16:43:56    1. [மாநகராட்சி] கரூர் மாநகராட்சி பகுதிகளில் ரூ. 252.84 கோடி மதிப்பீட்டில் பல்வேறு பணிக (தினகரன்) (published 27 Nov 01:37, found only now)
+16:43:56    2. [பொது] ரூ.252.83 கோடி மதிப்பில் திட்டப் பணி: கலெக்டர் ஆய்வு (தினமலர்) (published 27 Nov 07:11, found only now)
+16:43:56    3. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+16:43:56 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-27_16
-16:27:30    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-16:27:30 round 2026-11-27_16 (at least 6, up to 3 more of well-watched topics): 1 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:27:30   PICK   1.   0.5 [other +0.00 pattern] கோயிலுக்குச் சொந்தமான இடத்தில் இருந்த கடைக்கு ‘சீல்’
-16:27:30 decided: automatic: top 6 of 1 by insights -> 1 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/26/shop-located-on-temple-owned-property-sealed
-16:29:55 1 listed news now in the Sheet
-16:30:09 instagram duplicate check karur: 50 recent posts read
-16:30:10 verify 2026-11-27_16: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-16:30:10    NOT POSTED C86e8fac: queued RN-241 (Queued) - கோயிலுக்குச் சொந்தமான இடத்தில் இருந்த கடைக்கு ‘சீல்’
-16:35:17 instagram duplicate check karur: 50 recent posts read
-16:35:17 verify 2026-11-27_16: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-16:35:17    NOT POSTED C86e8fac: queued RN-241 (Queued) - கோயிலுக்குச் சொந்தமான இடத்தில் இருந்த கடைக்கு ‘சீல்’
-16:40:24 verify 2026-11-27_16: 1 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
