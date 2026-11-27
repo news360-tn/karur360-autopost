@@ -1,11 +1,20 @@
-06:13:48 round 2026-11-27_06: news published 27 Nov 04:41 -> 27 Nov 06:13 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-06:13:48 insights 2026-11-27T06:13+05:30 (218 reels): topic weights {'temple': 0.34, 'accident': 0.84, 'education': -0.24, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.02, 'politics': 0.19, 'civic': -0.34, 'crime': 1.5, 'weather': 0.09}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-06:14:19 open search 'கரூர்' (from_google): 0 links from our outlets
-06:14:19 81 links on the two papers' Karur pages
-06:15:19 skipped: published before this window=36, already posted=19, not Karur district=15, same event already posted=3, state-wide / other district=3, only a headline=2, shop offer / advertisement=1, no title=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
-06:15:19 list: 0 new + 0 earlier news not posted yet
-06:15:19 no news in this window - no e-mail
-ROUND=2026-11-27_06
-06:15:21 no list this round - nothing to post
-PICK_URLS=
-06:15:21 verify: no decided round
+08:30:01 round 2026-11-27_08: news published 27 Nov 06:13 -> 27 Nov 08:30 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+08:30:01 insights 2026-11-27T08:30+05:30 (219 reels): topic weights {'temple': 0.46, 'accident': 0.86, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': 0.0, 'politics': 0.21, 'civic': -0.33, 'crime': 1.5, 'weather': 0.11}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+08:32:20 open search 'கரூர்' (from_google): 8 links from our outlets
+08:32:20 82 links on the two papers' Karur pages
+08:33:20 skipped: published before this window=29, already posted=16, not Karur district=15, state-wide / other district=4, same event already posted=3, only a headline=2, could not open (404 Client Error: Not Found for url: https://www.d)=1
+08:33:20 list: 12 new + 0 earlier news not posted yet
+08:33:20    1. [குற்றம்] தொழிலாளியை வழி மறித்து பணம் பறிக்க முயன்றவர் கைது (தினமலர்)
+08:33:20    2. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்)
+08:33:20    3. [மழை / வானிலை] கிருஷ்ணராயபுரத்தில் மழை மகிழ்ச்சியில் விவசாயிகள் (தினமலர்)
+08:33:20    4. [மழை / வானிலை] கரூர் பகுதியில் பரவலாக மழை எதிரொலி ஆண்டாங்கோவில் தடுப்பணையில் தண்ணீர் (தினமலர்)
+08:33:20    5. [பொது] பாராகுவாட் டைகுளோரைடு களைக்கொல்லிக்கு மத்திய அரசு தடை: மீறினால் கடும்  (தினமலர்)
+08:33:20    6. [சாலை] சிறிய பாலம் அருகே இணைப்பு சாலை சீரமைப்பு (தினமலர்)
+08:33:20    7. [சாலை] சர்வீஸ் சாலையில் நிறுத்தப்படும் கனரக வாகனங்களால் போக்குவரத்து நெரிசல் (தினமலர்)
+08:33:20    8. [பொது] கிணற்று பாசனத்தை நம்பும் விவசாயிகள் சம்பா நெல் நடவு பணிகளில் மும்முரம் (தினமலர்)
+08:33:20    9. [பொது] மாற்றுத்திறனாளிகளுக்கான சிறப்பு குறைதீர் நாள் கூட்டம் (தினமலர்)
+08:33:20   10. [பொது] அரிசி ஆலையில் அதிகாரிகள் சோதனை (தினமலர்)
+08:33:20   11. [பொது] புறநோயாளிகள் பிரிவு, ரத்த பரிசோதனை மையம் ஒரே இடத்தில் அமைக்க நோயாளிகள் (தினமலர்)
+08:33:20   12. [பொது] பள்ளப்பட்டியில் நாய்கள் தொல்லை அதிகரிப்பு (தினமலர்)
+08:33:20 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_08
