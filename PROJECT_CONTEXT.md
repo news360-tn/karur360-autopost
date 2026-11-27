@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-26 | `9f3d6cc` | Keywords after hashtags on Instagram/Facebook/YouTube; Facebook follower count in insights |
-| 2026-11-26 | `4f58813` | stories shared / Instagram pause |
-| 2026-11-26 | `13d63db` | facebook RN-226 |
-| 2026-11-26 | `bc89f07` | posted RN-226 |
-| 2026-11-26 | `ccfb094` | stories shared / Instagram pause |
-| 2026-11-26 | `a940757` | stories shared / Instagram pause |
-| 2026-11-26 | `7324b3b` | autofix: corrected held news |
-| 2026-11-26 | `f5a9cf9` | stories shared / Instagram pause |
-| 2026-11-26 | `91283ff` | powercut: notices written |
-| 2026-11-26 | `75dafec` | stories shared / Instagram pause |
-| 2026-11-26 | `0b2b9ba` | stories shared / Instagram pause |
-| 2026-11-26 | `be7a2a5` | stories shared / Instagram pause |
-| 2026-11-26 | `eca784c` | stories shared / Instagram pause |
-| 2026-11-26 | `7a934ba` | stories shared / Instagram pause |
-| 2026-11-26 | `1a439a7` | stories shared / Instagram pause |
-| 2026-11-26 | `37b85dc` | stories shared / Instagram pause |
-| 2026-11-26 | `dd8b36f` | stories shared / Instagram pause |
-| 2026-11-26 | `45885f0` | stories shared / Instagram pause |
-| 2026-11-26 | `3840860` | stories shared / Instagram pause |
-| 2026-11-26 | `db173e3` | pick: written and posted |
-| 2026-11-26 | `c370164` | pick: list sent |
-| 2026-11-26 | `877d363` | stories shared / Instagram pause |
-| 2026-11-26 | `be27654` | pick: written and posted |
-| 2026-11-26 | `6fc04df` | facebook RN-224 |
-| 2026-11-26 | `d9a3e7f` | posted RN-224 |
-| 2026-11-26 | `f38a2fb` | facebook RN-225 |
-| 2026-11-26 | `1f4c0e4` | posted RN-225 |
-| 2026-11-26 | `7c7f665` | stories shared / Instagram pause |
-| 2026-11-26 | `d96d9d4` | manual post e-mail RN-225 |
-| 2026-11-26 | `21c33ba` | manual post e-mail RN-224 |
+| 2026-11-27 | `0ec8b80` | News supply (from Trichy, 27 Nov): writer failures retried, 24 h search window, taluk towns searched |
+| 2026-11-27 | `c9f5b7e` | stories shared / Instagram pause |
+| 2026-11-27 | `e4299d7` | pick: picked news saved |
+| 2026-11-27 | `d2c0fd0` | stories shared / Instagram pause |
+| 2026-11-27 | `23051d3` | pick: picked news saved |
+| 2026-11-27 | `67ff9df` | pick: list sent |
+| 2026-11-27 | `e5bef67` | stories shared / Instagram pause |
+| 2026-11-27 | `4e7018c` | stories shared / Instagram pause |
+| 2026-11-27 | `c3d9fbc` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
+| 2026-11-27 | `a9cc3d2` | stories shared / Instagram pause |
+| 2026-11-27 | `eaf16b5` | stories shared / Instagram pause |
+| 2026-11-27 | `1c16f72` | stories shared / Instagram pause |
+| 2026-11-27 | `483bdf9` | stories shared / Instagram pause |
+| 2026-11-27 | `9fa1de4` | stories shared / Instagram pause |
+| 2026-11-27 | `fd2eda6` | stories shared / Instagram pause |
+| 2026-11-27 | `429ce87` | stories shared / Instagram pause |
+| 2026-11-27 | `ec0de43` | goldrate posted |
+| 2026-11-27 | `260622d` | stories shared / Instagram pause |
+| 2026-11-27 | `0b625bd` | stories shared / Instagram pause |
+| 2026-11-27 | `dc1fc7a` | stories shared / Instagram pause |
+| 2026-11-27 | `9be0157` | stories shared / Instagram pause |
+| 2026-11-27 | `c110599` | stories shared / Instagram pause |
+| 2026-11-27 | `bfc05ee` | stories shared / Instagram pause |
+| 2026-11-27 | `9e23379` | stories shared / Instagram pause |
+| 2026-11-27 | `3fe404d` | stories shared / Instagram pause |
+| 2026-11-27 | `6e6502b` | stories shared / Instagram pause |
+| 2026-11-27 | `e304abf` | stories shared / Instagram pause |
+| 2026-11-27 | `1042dee` | stories shared / Instagram pause |
+| 2026-11-27 | `6c18739` | stories shared / Instagram pause |
+| 2026-11-27 | `09da2bf` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
