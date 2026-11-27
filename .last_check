@@ -1,60 +1,59 @@
-11:37:56 SKIP RN-12 stale: published 13 Nov, older than yesterday
-11:37:56 SKIP RN-28 stale: published 14 Nov, older than yesterday
-11:37:56 SKIP RN-34 stale: published 14 Nov, older than yesterday
-11:37:56 SKIP RN-39 stale: published 14 Nov, older than yesterday
-11:37:56 SKIP RN-43 stale: published 15 Nov, older than yesterday
-11:37:56 SKIP RN-49 stale: published 15 Nov, older than yesterday
-11:37:56 SKIP RN-70 stale: published 16 Nov, older than yesterday
-11:37:56 SKIP RN-71 stale: published 16 Nov, older than yesterday
-11:37:56 SKIP RN-80 stale: published 17 Nov, older than yesterday
-11:37:56 SKIP RN-81 stale: published 17 Nov, older than yesterday
-11:37:56 SKIP RN-85 stale: published 17 Nov, older than yesterday
-11:37:56 SKIP RN-87 stale: published 17 Nov, older than yesterday
-11:37:56 SKIP RN-97 stale: published 18 Nov, older than yesterday
-11:37:56 SKIP RN-119 stale: published 19 Nov, older than yesterday
-11:37:56 SKIP RN-122 stale: published 19 Nov, older than yesterday
-11:37:56 SKIP RN-128 stale: published 19 Nov, older than yesterday
-11:37:56 SKIP RN-133 stale: published 20 Nov, older than yesterday
-11:37:56 SKIP RN-136 stale: published 20 Nov, older than yesterday
-11:37:56 SKIP RN-143 stale: published 20 Nov, older than yesterday
-11:37:56 SKIP RN-145 stale: published 20 Nov, older than yesterday
-11:37:56 SKIP RN-147 stale: published 20 Nov, older than yesterday
-11:37:56 SKIP RN-151 stale: published 21 Nov, older than yesterday
-11:37:56 SKIP RN-192 stale: published 23 Nov, older than yesterday
-11:37:56 SKIP RN-206 stale: published 24 Nov, older than yesterday
-11:37:56 SKIP RN-232 held: fact-check problems - fact-check: The reel_script says the officials' inspection was at a rice mill (அரிசி ஆலை) in Karur, and the headline says the same, but the article only states that the mill was a private rice milling
+11:42:25 SKIP RN-12 stale: published 13 Nov, older than yesterday
+11:42:25 SKIP RN-28 stale: published 14 Nov, older than yesterday
+11:42:25 SKIP RN-34 stale: published 14 Nov, older than yesterday
+11:42:25 SKIP RN-39 stale: published 14 Nov, older than yesterday
+11:42:25 SKIP RN-43 stale: published 15 Nov, older than yesterday
+11:42:25 SKIP RN-49 stale: published 15 Nov, older than yesterday
+11:42:25 SKIP RN-70 stale: published 16 Nov, older than yesterday
+11:42:25 SKIP RN-71 stale: published 16 Nov, older than yesterday
+11:42:25 SKIP RN-80 stale: published 17 Nov, older than yesterday
+11:42:25 SKIP RN-81 stale: published 17 Nov, older than yesterday
+11:42:25 SKIP RN-85 stale: published 17 Nov, older than yesterday
+11:42:25 SKIP RN-87 stale: published 17 Nov, older than yesterday
+11:42:25 SKIP RN-97 stale: published 18 Nov, older than yesterday
+11:42:25 SKIP RN-119 stale: published 19 Nov, older than yesterday
+11:42:25 SKIP RN-122 stale: published 19 Nov, older than yesterday
+11:42:25 SKIP RN-128 stale: published 19 Nov, older than yesterday
+11:42:25 SKIP RN-133 stale: published 20 Nov, older than yesterday
+11:42:25 SKIP RN-136 stale: published 20 Nov, older than yesterday
+11:42:25 SKIP RN-143 stale: published 20 Nov, older than yesterday
+11:42:25 SKIP RN-145 stale: published 20 Nov, older than yesterday
+11:42:25 SKIP RN-147 stale: published 20 Nov, older than yesterday
+11:42:25 SKIP RN-151 stale: published 21 Nov, older than yesterday
+11:42:25 SKIP RN-192 stale: published 23 Nov, older than yesterday
+11:42:25 SKIP RN-206 stale: published 24 Nov, older than yesterday
+11:42:25 SKIP RN-232 held: fact-check problems - fact-check: The reel_script says the officials' inspection was at a rice mill (அரிசி ஆலை) in Karur, and the headline says the same, but the article only states that the mill was a private rice milling
 ::warning title=Held from posting RN-232::held: fact-check problems - fact-check: The reel_script says the officials' inspection was at a rice mill (அரிசி ஆலை) in Karur, and the headline says the same, but the article only states that the mill was a private rice milling
-11:37:56 story catch-up off (test run or post_stories false)
-11:37:56   youtube upload: karur: waits (this channel's YouTube upload limit was reached - tried again after 12:52 IST)
-11:37:56 26 stories in the queue, ready to post: 1
-11:37:56   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-11:37:56    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 327.3 ready= False set_started= True
-11:37:56    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 306.1 ready= False set_started= True
-11:37:56    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 302.1 ready= False set_started= True
-11:37:56    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 294.0 ready= False set_started= True
-11:37:56    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 289.6 ready= False set_started= True
-11:37:56    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 282.0 ready= False set_started= True
-11:37:56    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 257.0 ready= False set_started= True
-11:37:56    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 257.0 ready= False set_started= True
-11:37:56    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 243.4 ready= False set_started= True
-11:37:56    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 243.4 ready= False set_started= True
-11:37:56    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 240.8 ready= False set_started= True
-11:37:56    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 240.8 ready= False set_started= True
-11:37:56    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 220.3 ready= False set_started= True
-11:37:56    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 196.8 ready= False set_started= True
-11:37:56    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 194.9 ready= False set_started= True
-11:37:56    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 189.3 ready= False set_started= True
-11:37:56    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 175.1 ready= False set_started= True
-11:37:56    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 175.0 ready= False set_started= True
-11:37:56    RN-143 review= 'Auto' images= 195 spec= 899 pages= ['karur'] links= '' '' age_h= 170.3 ready= False set_started= True
-11:37:56    RN-145 review= 'Auto' images= 195 spec= 891 pages= ['karur'] links= '' '' age_h= 170.3 ready= False set_started= True
-11:37:56    RN-147 review= 'Auto' images= 195 spec= 793 pages= ['karur'] links= '' '' age_h= 162.8 ready= False set_started= True
-11:37:56    RN-151 review= 'Auto' images= 195 spec= 705 pages= ['karur'] links= '' '' age_h= 146.7 ready= False set_started= True
-11:37:56    RN-192 review= 'Auto' images= 195 spec= 752 pages= ['karur'] links= '' '' age_h= 99.0 ready= False set_started= True
-11:37:56    RN-206 review= 'Auto' images= 195 spec= 927 pages= ['karur'] links= '' '' age_h= 76.2 ready= False set_started= True
-11:37:56    RN-232 review= 'Auto' images= 187 spec= 925 pages= ['karur'] links= '' '' age_h= 3.0 ready= False set_started= True
-11:37:56    RN-240 review= 'Auto' images= 187 spec= 590 pages= ['karur'] links= '' '' age_h= 3.0 ready= True set_started= True
-11:37:57 publishing quota karur: 19/50
-11:37:58 instagram duplicate check karur: 50 recent posts read
-11:37:58    RN-240 skipped: already on Instagram ['karur']
-11:37:58 manual post e-mail (the page cannot post them): ['karur:RN-240']
+11:42:25 story catch-up off (test run or post_stories false)
+11:42:26   youtube upload: karur: waits (this channel's YouTube upload limit was reached - tried again after 12:52 IST)
+11:42:26 26 stories in the queue, ready to post: 1
+11:42:26   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'karur_link', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+11:42:26    RN-12 review= 'Auto' images= 98 spec= 726 pages= ['karur'] links= '' '' age_h= 327.4 ready= False set_started= True
+11:42:26    RN-28 review= 'Auto' images= 98 spec= 709 pages= ['karur'] links= '' '' age_h= 306.2 ready= False set_started= True
+11:42:26    RN-34 review= 'Auto' images= 195 spec= 747 pages= ['karur'] links= '' '' age_h= 302.1 ready= False set_started= True
+11:42:26    RN-39 review= 'Auto' images= 195 spec= 728 pages= ['karur'] links= '' '' age_h= 294.1 ready= False set_started= True
+11:42:26    RN-43 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 289.7 ready= False set_started= True
+11:42:26    RN-49 review= 'Auto' images= 195 spec= 647 pages= ['karur'] links= '' '' age_h= 282.1 ready= False set_started= True
+11:42:26    RN-70 review= 'Auto' images= 195 spec= 716 pages= ['karur'] links= '' '' age_h= 257.1 ready= False set_started= True
+11:42:26    RN-71 review= 'Auto' images= 195 spec= 696 pages= ['karur'] links= '' '' age_h= 257.1 ready= False set_started= True
+11:42:26    RN-80 review= 'Auto' images= 195 spec= 707 pages= ['karur'] links= '' '' age_h= 243.5 ready= False set_started= True
+11:42:26    RN-81 review= 'Auto' images= 195 spec= 745 pages= ['karur'] links= '' '' age_h= 243.5 ready= False set_started= True
+11:42:26    RN-85 review= 'Auto' images= 195 spec= 682 pages= ['karur'] links= '' '' age_h= 240.9 ready= False set_started= True
+11:42:26    RN-87 review= 'Auto' images= 195 spec= 672 pages= ['karur'] links= '' '' age_h= 240.9 ready= False set_started= True
+11:42:26    RN-97 review= 'Auto' images= 195 spec= 853 pages= ['karur'] links= '' '' age_h= 220.4 ready= False set_started= True
+11:42:26    RN-119 review= 'Auto' images= 195 spec= 703 pages= ['karur'] links= '' '' age_h= 196.8 ready= False set_started= True
+11:42:26    RN-122 review= 'Auto' images= 195 spec= 646 pages= ['karur'] links= '' '' age_h= 194.9 ready= False set_started= True
+11:42:26    RN-128 review= 'Auto' images= 195 spec= 641 pages= ['karur'] links= '' '' age_h= 189.3 ready= False set_started= True
+11:42:26    RN-133 review= 'Auto' images= 195 spec= 755 pages= ['karur'] links= '' '' age_h= 175.1 ready= False set_started= True
+11:42:26    RN-136 review= 'Auto' images= 195 spec= 810 pages= ['karur'] links= '' '' age_h= 175.1 ready= False set_started= True
+11:42:26    RN-143 review= 'Auto' images= 195 spec= 899 pages= ['karur'] links= '' '' age_h= 170.4 ready= False set_started= True
+11:42:26    RN-145 review= 'Auto' images= 195 spec= 891 pages= ['karur'] links= '' '' age_h= 170.4 ready= False set_started= True
+11:42:26    RN-147 review= 'Auto' images= 195 spec= 793 pages= ['karur'] links= '' '' age_h= 162.9 ready= False set_started= True
+11:42:26    RN-151 review= 'Auto' images= 195 spec= 705 pages= ['karur'] links= '' '' age_h= 146.8 ready= False set_started= True
+11:42:26    RN-192 review= 'Auto' images= 195 spec= 752 pages= ['karur'] links= '' '' age_h= 99.1 ready= False set_started= True
+11:42:26    RN-206 review= 'Auto' images= 195 spec= 927 pages= ['karur'] links= '' '' age_h= 76.3 ready= False set_started= True
+11:42:26    RN-232 review= 'Auto' images= 187 spec= 925 pages= ['karur'] links= '' '' age_h= 3.1 ready= False set_started= True
+11:42:26    RN-240 review= 'Auto' images= 187 spec= 590 pages= ['karur'] links= '' '' age_h= 3.1 ready= True set_started= True
+11:42:27 publishing quota karur: 19/50
+11:42:28 instagram duplicate check karur: 50 recent posts read
+11:42:28    RN-240 skipped: already on Instagram ['karur']
