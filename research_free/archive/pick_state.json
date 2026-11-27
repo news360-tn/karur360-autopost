@@ -25,7 +25,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-27T16:25:49.684564+05:30",
-   "picked_at": "2026-11-27T16:27:30.319181+05:30"
+   "picked_at": "2026-11-27T16:27:30.319181+05:30",
+   "posted": true
   }
  },
  "rounds": {
