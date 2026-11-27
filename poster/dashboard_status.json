@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:07:25+00:00",
+ "updated": "2026-11-27T14:10:18+00:00",
  "day": "2026-11-27",
  "ready": 1,
  "pages": {
@@ -118,8 +118,15 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 3,
-    "share": [],
+    "waiting": 2,
+    "share": [
+     {
+      "id": "RN-241",
+      "head": "🏛️ வெண்ணெய்மலையில் கோவில் நிலத்தில் இருந்த கடைக்கு அதிகாரிகள் சீல்",
+      "link": "https://www.instagram.com/reel/DgPiPt5BirW/",
+      "emailed": "2026-11-27T14:10:15+00:00"
+     }
+    ],
     "paused": "Facebook limited this page - paused until 2026-11-28T10:32 UTC"
    },
    "manual_post": [],
