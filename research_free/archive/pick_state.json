@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-28T00:26:42.944160+05:30",
+ "last_end": "2026-11-28T02:26:22.940267+05:30",
  "pool": {
   "Cc893d0a": {
    "id": "Cc893d0a",
@@ -15,34 +15,6 @@
   }
  },
  "rounds": {
-  "2026-11-26_04": {
-   "window": [
-    "2026-11-26T01:30:42.686904+05:30",
-    "2026-11-26T04:27:53.547291+05:30"
-   ],
-   "ids": [
-    "Cddb82cd",
-    "Ca6c4710",
-    "C5037b1f",
-    "Cc3a43b5"
-   ],
-   "sent": false,
-   "deadline": "2026-11-26T05:27:53.547291+05:30",
-   "decided": {
-    "how": "automatic: top 7 of 3 by insights",
-    "ids": [
-     "Cddb82cd",
-     "Ca6c4710",
-     "C5037b1f"
-    ],
-    "at": "2026-11-26T04:29:18.303485+05:30"
-   },
-   "written": [
-    "C5037b1f",
-    "Ca6c4710",
-    "Cddb82cd"
-   ]
-  },
   "2026-11-26_05": {
    "window": [
     "2026-11-26T04:27:53.547291+05:30",
@@ -373,88 +345,22 @@
     "at": "2026-11-28T00:34:52.438209+05:30"
    },
    "written": []
+  },
+  "2026-11-28_02": {
+   "window": [
+    "2026-11-28T00:26:42.944160+05:30",
+    "2026-11-28T02:26:22.940267+05:30"
+   ],
+   "ids": [
+    "Cc893d0a"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T03:26:22.940267+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/farmers-dependent-on-well-irrigation-busy-with-samba-paddy-plantation/4387482": {
-   "it": {
-    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/farmers-dependent-on-well-irrigation-busy-with-samba-paddy-plantation/4387482",
-    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/farmers-dependent-on-well-irrigation-busy-with-samba-paddy-plantation/4387482",
-    "title": "",
-    "source": "தினமலர்",
-    "published": "",
-    "via": "dinamalar-list",
-    "query": "district list",
-    "snippet": ""
-   },
-   "first": "2026-11-28T00:26:42.944160+05:30"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/officials-raid-rice-mill/4387483": {
-   "it": {
-    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/officials-raid-rice-mill/4387483",
-    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/officials-raid-rice-mill/4387483",
-    "title": "",
-    "source": "தினமலர்",
-    "published": "",
-    "via": "dinamalar-list",
-    "query": "district list",
-    "snippet": ""
-   },
-   "first": "2026-11-28T00:26:42.944160+05:30"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tamil-nadu-farmersunion-holds-street-corner-meeting/4387481": {
-   "it": {
-    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tamil-nadu-farmersunion-holds-street-corner-meeting/4387481",
-    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tamil-nadu-farmersunion-holds-street-corner-meeting/4387481",
-    "title": "",
-    "source": "தினமலர்",
-    "published": "",
-    "via": "dinamalar-list",
-    "query": "district list",
-    "snippet": ""
-   },
-   "first": "2026-11-28T00:26:42.944160+05:30"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/widespread-rainfall-in-karur-area-leads-to-water-in-check-dam-at-andankovil/4387480": {
-   "it": {
-    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/widespread-rainfall-in-karur-area-leads-to-water-in-check-dam-at-andankovil/4387480",
-    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/widespread-rainfall-in-karur-area-leads-to-water-in-check-dam-at-andankovil/4387480",
-    "title": "",
-    "source": "தினமலர்",
-    "published": "",
-    "via": "dinamalar-list",
-    "query": "district list",
-    "snippet": ""
-   },
-   "first": "2026-11-28T00:26:42.944160+05:30"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/dog-menace-on-the-rise/4387479": {
-   "it": {
-    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/dog-menace-on-the-rise/4387479",
-    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/dog-menace-on-the-rise/4387479",
-    "title": "",
-    "source": "தினமலர்",
-    "published": "",
-    "via": "dinamalar-list",
-    "query": "district list",
-    "snippet": ""
-   },
-   "first": "2026-11-28T00:26:42.944160+05:30"
-  },
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/patients-urge-setting-up-of-opd-blood-test-centre-at-one-place/4387477": {
-   "it": {
-    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/patients-urge-setting-up-of-opd-blood-test-centre-at-one-place/4387477",
-    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/patients-urge-setting-up-of-opd-blood-test-centre-at-one-place/4387477",
-    "title": "",
-    "source": "தினமலர்",
-    "published": "",
-    "via": "dinamalar-list",
-    "query": "district list",
-    "snippet": ""
-   },
-   "first": "2026-11-28T00:26:42.944160+05:30"
-  }
- },
+ "retry": {},
  "seen": {
   "Gaa33d93658": "2026-11-27T16:41 D",
   "G5490128e7a": "2026-11-27T16:41 D",
@@ -541,18 +447,18 @@
   "G54e518f13f": "2026-11-27T16:41 D",
   "Gb814b539b2": "2026-11-27T16:41 D",
   "G504a408a5b": "2026-11-27T16:41 D",
-  "C70fc1af": "2026-11-27T16:41 could not open (HTTPSConnectionPool(host",
-  "C20e2979": "2026-11-27T16:41 could not open (HTTPSConnectionPool(host",
+  "C70fc1af": "2026-11-27T16:41 already posted",
+  "C20e2979": "2026-11-27T16:41 already posted",
   "Ca5d3c0f": "2026-11-27T16:41 already posted",
   "Cc259319": "2026-11-27T16:41 already posted",
   "Cbce8067": "2026-11-27T16:41 already posted",
   "C965fc44": "2026-11-27T16:41 already posted",
   "C3f2d65c": "2026-11-27T16:41 already posted",
   "Cad43ecb": "2026-11-27T16:41 already posted",
-  "Ce4284e1": "2026-11-27T16:41 could not open (HTTPSConnectionPool(host",
-  "C927f447": "2026-11-27T16:41 could not open (HTTPSConnectionPool(host",
-  "C5c3754b": "2026-11-27T16:41 could not open (HTTPSConnectionPool(host",
-  "C8b601db": "2026-11-27T16:41 could not open (HTTPSConnectionPool(host",
+  "Ce4284e1": "2026-11-27T16:41 not Karur district",
+  "C927f447": "2026-11-27T16:41 already posted",
+  "C5c3754b": "2026-11-27T16:41 already posted",
+  "C8b601db": "2026-11-27T16:41 already posted",
   "C35ee8bb": "2026-11-27T16:41 already posted",
   "Cccc229d": "2026-11-27T16:41 already posted",
   "C541ff34": "2026-11-27T16:41 already posted",
@@ -751,6 +657,50 @@
   "C02dfeac": "2026-11-28T00:26 not Karur district",
   "C2e7569f": "2026-11-28T00:26 not Karur district",
   "Cbe05d20": "2026-11-28T00:26 not Karur district",
-  "Cfa7001c": "2026-11-28T00:26 not Karur district"
+  "Cfa7001c": "2026-11-28T00:26 not Karur district",
+  "Gce0b6f092e": "2026-11-28T02:26 D",
+  "Gd46e11e646": "2026-11-28T02:26 D",
+  "Gc43216861b": "2026-11-28T02:26 D",
+  "G421a3ad00d": "2026-11-28T02:26 D",
+  "G9aeadd21a5": "2026-11-28T02:26 D",
+  "G27386a6851": "2026-11-28T02:26 D",
+  "Gbbc5f0f269": "2026-11-28T02:26 D",
+  "G3aabec9c6c": "2026-11-28T02:26 D",
+  "G1711b70096": "2026-11-28T02:26 D",
+  "G81c6459b47": "2026-11-28T02:26 D",
+  "G4145a6a3be": "2026-11-28T02:26 D",
+  "G1cc4618188": "2026-11-28T02:26 D",
+  "G07391c7ad0": "2026-11-28T02:26 D",
+  "G1834abda75": "2026-11-28T02:26 D",
+  "G1520e08654": "2026-11-28T02:26 D",
+  "G7ce7b0bae6": "2026-11-28T02:26 D",
+  "G9ebe106d5c": "2026-11-28T02:26 D",
+  "Gcb6eabd18f": "2026-11-28T02:26 D",
+  "Gc54b4757fd": "2026-11-28T02:26 D",
+  "Gcf73dd8312": "2026-11-28T02:26 D",
+  "Gcd1fd23327": "2026-11-28T02:26 D",
+  "Gcc824f2aca": "2026-11-28T02:26 D",
+  "G9ba874da31": "2026-11-28T02:26 D",
+  "Gc18002ab87": "2026-11-28T02:26 D",
+  "Gc7e24e3242": "2026-11-28T02:26 D",
+  "G8da3dcad78": "2026-11-28T02:26 D",
+  "Gaf1566fd44": "2026-11-28T02:26 D",
+  "C160c9ba": "2026-11-28T02:26 not Karur district",
+  "C6bad182": "2026-11-28T02:26 same event already posted",
+  "Ce93dd66": "2026-11-28T02:26 not Karur district",
+  "Cdd29943": "2026-11-28T02:26 not Karur district",
+  "C402f99d": "2026-11-28T02:26 not Karur district",
+  "C3e05f3a": "2026-11-28T02:26 not Karur district",
+  "C9c1e851": "2026-11-28T02:26 not Karur district",
+  "C7d159b3": "2026-11-28T02:26 not Karur district",
+  "C03dd9e5": "2026-11-28T02:26 not Karur district",
+  "Cea7af44": "2026-11-28T02:26 not Karur district",
+  "Cde17182": "2026-11-28T02:26 not Karur district",
+  "C63ef840": "2026-11-28T02:26 not Karur district",
+  "Cdd62ac3": "2026-11-28T02:26 not Karur district",
+  "C6830033": "2026-11-28T02:26 not Karur district",
+  "C7d73811": "2026-11-28T02:26 not Karur district",
+  "C58998db": "2026-11-28T02:26 not Karur district",
+  "C477bfdf": "2026-11-28T02:26 not Karur district"
  }
 }
