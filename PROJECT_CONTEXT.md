@@ -86,6 +86,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `b7dd46f` | parrot rasipalan reel: the whole scene fits the area that is free on Instagram, Facebook and YouTube Shorts (owner 28 Nov) - the row of 12 cards the parrot picks from was at y 1650-1800, under the caption, and the page name under the top bar; the scene is drawn a little smaller and lower, positions unchanged |
+| 2026-11-28 | `bb9076e` | stories shared / Instagram pause |
+| 2026-11-28 | `9e8c84a` | stories shared / Instagram pause |
+| 2026-11-28 | `a33a8bc` | stories shared / Instagram pause |
 | 2026-11-28 | `d21b40d` | posting: one common posting day for every page (owner 28 Nov) - normal news 06:00-13:00 and 16:00-22:00 IST, the weakest hours 13:00-16:00 left out (time-sensitive and urgent news still post), the best news kept for 08:00-10:00 and 18:00-20:00, and the gap shrinks so every written news posts the same day; a news that waited 12 hours goes first; a news the owner starts by hand posts at once. YouTube also takes a news reel left from yesterday; the dashboard shows written / posted / waiting / not posting with the reason (the Facebook count stayed 0). Top 5: the watchdog starts it when GitHub does not (it ran on no page on its first evening). News reader: a small circle on 1 news in 4, after the headline, not on news about a death |
 | 2026-11-28 | `eadc071` | stories shared / Instagram pause |
 | 2026-11-28 | `0c0414b` | stories shared / Instagram pause |
@@ -112,8 +116,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `25a7fc0` | stories shared / Instagram pause |
 | 2026-11-28 | `14bd2ad` | powercut: notices written |
 | 2026-11-28 | `c7d1b28` | stories shared / Instagram pause |
-| 2026-11-28 | `12fbb13` | stories shared / Instagram pause |
-| 2026-11-28 | `3ed9595` | stories shared / Instagram pause |
-| 2026-11-28 | `8415a34` | stories shared / Instagram pause |
-| 2026-11-28 | `49d48a8` | pick: written and posted |
 <!-- recent-changes:end -->
