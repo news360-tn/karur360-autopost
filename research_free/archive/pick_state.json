@@ -11,7 +11,8 @@
    "category": "பொது",
    "score": 3.22,
    "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30"
+   "listed_at": "2026-11-28T08:26:36.893698+05:30",
+   "picked_at": "2026-11-28T20:37:10.391188+05:30"
   },
   "C0aa26eb": {
    "id": "C0aa26eb",
@@ -61,7 +62,8 @@
    "category": "மாநகராட்சி",
    "score": 9.73,
    "power_cut": false,
-   "listed_at": "2026-11-28T20:26:03.694310+05:30"
+   "listed_at": "2026-11-28T20:26:03.694310+05:30",
+   "picked_at": "2026-11-28T20:37:10.391186+05:30"
   }
  },
  "rounds": {
@@ -566,8 +568,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-28T21:26:03.694310+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 2 of 4 by insights",
+    "ids": [
+     "Cf55a3b4",
+     "Cb0b483f"
+    ],
+    "at": "2026-11-28T20:37:10.391178+05:30"
+   },
+   "written": [
+    "Cb0b483f",
+    "Cf55a3b4"
+   ]
   }
  },
  "retry": {
