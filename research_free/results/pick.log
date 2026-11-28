@@ -1,69 +1,38 @@
-14:26:48 round 2026-11-28_14: news published 28 Nov 12:26 -> 28 Nov 14:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-14:26:48    + news published since 27 Nov 14:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-14:26:48 insights 2026-11-28T14:26+05:30 (250 reels): topic weights {'temple': 0.33, 'accident': 0.57, 'education': -0.15, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.1, 'politics': 0.22, 'civic': -0.28, 'crime': 1.5, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-14:27:32 open search 'கரூர்' (from_google): 24 links from our outlets
-14:27:32 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 5 links from our outlets
-14:27:32 search links: 13 Google links decoded, 0 not decoded, 67 known from an earlier round, 0 left for the next round, 15 of another district by their headline (not opened)
-14:27:32 85 links on the two papers' Karur pages
-14:28:05 skipped: published before this window=28, already posted=21, not Karur district=9, same event already posted=3, state-wide / other district=3, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, checked in an earlier round=1, no title=1
-14:28:05    drop [already posted] ரேஷன் அரிசி கடத்திய இருவருக்கு காப்பு | dinamalar.com/news/tamil-nad...held-for-smuggling-ration-rice/4388325
-14:28:05    drop [already posted] அரவக்குறிச்சி அருகே லாரி மீது கார் மோதியதில் ஐயப்ப பக்தர்கள் | dinamani.com/tamilnadu/2026/...ar-rams-into-a-lorry-near-aravakurichi
-14:28:05    drop [same event already posted] அதிகாலையில் அதிர்ச்சி.. ஐயப்ப பக்தர்களுக்கு நேர்ந்த சோகம் -  | tamil.abplive.com/news/tamil...s-road-accident-3-dead-namakkal-280731
-14:28:05    drop [not Karur district] தொகுதி மறுவரையறையின் மூலம் தமிழ்நாட்டு மக்களவை எம்.பி.க்கள்  | dinakaran.com/news/number-lo...e-to-59-unionminister-meghwal-explains
-14:28:05    drop [not Karur district] கால்நடைப் பயிற்சி மற்றும் ஆராய்ச்சி மையத்தில் வேளாண் மாணவர்க | dinamalar.com/news/kalvimala...ary-training-and-research-centre/83944
-14:28:05    drop [not Karur district] 2024-ஆம் ஆண்டுமுதல் தி.மு.க மேற்கொண்ட தொடர் போராட்டங்களுக்கா | dinakaran.com/news/dmk-suppo...ill-demands-fair-delimitation-mkstalin
-14:28:05    drop [not Karur district] சனாதன தர்மத்துக்கு கிடைத்த பெரும் வெற்றி! | dinamalar.com/news/tamil-nad...eat-victory-for-sanatan-dharma/4388329
-14:28:05 list: 2 new + 9 earlier news not posted yet
-14:28:05    1. [விபத்து] கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர் உயிரிழப் (இந்து தமிழ்)
-14:28:05    2. [பொது] மரக்கன்று பராமரிப்பு பணி (தினமலர்) (published 28 Nov 08:02, found only now)
-14:28:05    3. [குடிநீர்] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர் (தினமலர்) (earlier)
-14:28:05    4. [பொது] மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசலில் மீன் ப (தினமலர்) (earlier)
-14:28:05    5. [பொது] உதயநிதி பிறந்த நாள் விழா (தினமலர்) (earlier)
-14:28:05    6. [பொது] காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம் (தினமலர்) (earlier)
-14:28:05    7. [ஆன்மிகம்] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம் (தினமலர்) (earlier)
-14:28:05    8. [பொது] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு (தினமலர்) (earlier)
-14:28:05    9. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்) (earlier)
-14:28:05   10. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
-14:28:05   11. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்) (earlier)
-14:28:05 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_14
-14:28:07 round 2026-11-28_14 (at least 3, up to 3 more of well-watched topics): 11 news to choose from (9 from earlier rounds), ranked by this page's insights
-14:28:07   PICK   1.  12.3 [accident +0.57 page] கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர
-14:28:07   PICK   2.   7.5 [other +0.00 pattern] (earlier) மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசல
-14:28:07   PICK   3.   7.5 [other +0.00 pattern] (earlier) உதயநிதி பிறந்த நாள் விழா
-14:28:07          4.   7.4 [civic -0.28 page] (earlier) குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர்
-14:28:07          5.   5.8 [temple +0.33 page] (earlier) மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம்
-14:28:07          6.   5.5 [other +0.00 pattern] (earlier) காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம்
-14:28:07          7.   3.5 [other +0.00 pattern] மரக்கன்று பராமரிப்பு பணி
-14:28:07          8.   3.5 [other +0.00 pattern] (earlier) டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-14:28:07          9.   3.4 [politics +0.22 page] (earlier) முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்
-14:28:07         10.   2.5 [other +0.00 pattern] (earlier) அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம்
-14:28:07         11.   2.5 [other +0.00 pattern] (earlier) எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை
-14:28:07 decided: automatic: top 3 of 11 by insights -> 3 news to write and post
-PICK_URLS=https://www.hindutamil.in/news/tamilnadu/near-karur-devotees-returning-from-sabarimala-collide-with-a-lorry https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mayanur-local-fishermen-go-on-a-fishing-spree-after-water-level-in-mayanur-dam-recedes/4388314 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/udhayanidhi-birthday-celebrations/4388324
-14:33:49 3 listed news now in the Sheet
-14:33:56 instagram duplicate check karur: 50 recent posts read
-14:33:56 verify 2026-11-28_14: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:33:56    SKIPPED C02b701b: skipped RN-259: already on Instagram (2026-11-28T05:09:51+0000) - கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர
-14:33:56    NOT POSTED C59e0506: queued RN-258 (Queued) - உதயநிதி பிறந்த நாள் விழா
-14:33:56    NOT POSTED Cfd7a6b3: queued RN-257 (Queued) - மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசல
-14:39:03 instagram duplicate check karur: 50 recent posts read
-14:39:03 verify 2026-11-28_14: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:39:03    SKIPPED C02b701b: skipped RN-259: already on Instagram (2026-11-28T05:09:51+0000) - கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர
-14:39:03    NOT POSTED C59e0506: queued RN-258 (Queued) - உதயநிதி பிறந்த நாள் விழா
-14:39:03    NOT POSTED Cfd7a6b3: queued RN-257 (Queued) - மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசல
-14:44:12 instagram duplicate check karur: 50 recent posts read
-14:44:12 verify 2026-11-28_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:44:12    SKIPPED C02b701b: skipped RN-259: already on Instagram (2026-11-28T05:09:51+0000) - கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர
-14:44:12    NOT POSTED C59e0506: queued RN-258 (Queued) - உதயநிதி பிறந்த நாள் விழா
-14:49:18 instagram duplicate check karur: 50 recent posts read
-14:49:18 verify 2026-11-28_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:49:18    SKIPPED C02b701b: skipped RN-259: already on Instagram (2026-11-28T05:09:51+0000) - கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர
-14:49:18    NOT POSTED C59e0506: queued RN-258 (Queued) - உதயநிதி பிறந்த நாள் விழா
-14:54:24 instagram duplicate check karur: 50 recent posts read
-14:54:24 verify 2026-11-28_14: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:54:24    SKIPPED C02b701b: skipped RN-259: already on Instagram (2026-11-28T05:09:51+0000) - கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர
-14:54:24    NOT POSTED C59e0506: queued RN-258 (Queued) - உதயநிதி பிறந்த நாள் விழா
-14:59:31 instagram duplicate check karur: 50 recent posts read
-14:59:31 verify 2026-11-28_14: 2 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-14:59:31    SKIPPED C02b701b: skipped RN-259: already on Instagram (2026-11-28T05:09:51+0000) - கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர
+16:13:41 round 2026-11-28_16: news published 28 Nov 14:26 -> 28 Nov 16:13 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+16:13:41    + news published since 27 Nov 16:13 that no earlier round found (listed / indexed late) - never one already listed or posted
+16:13:41 insights 2026-11-28T16:13+05:30 (252 reels): topic weights {'temple': 0.32, 'accident': 0.55, 'education': -0.17, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.05, 'politics': 0.11, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+16:23:47 from_google dinamalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google dinamani.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google dinamalar.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google dinamani.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google dinamalar.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google dinamani.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google tamil.oneindia.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google dinakaran.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google dailythanthi.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google maalaimalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google hindutamil.in 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 from_google polimernews.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 open search from_google 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 open search 'கரூர்' (from_bing): 9 links from our outlets
+16:23:47 town search from_google 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 town search from_google 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+16:23:47 town searches (குளித்தலை (+Google), அரவக்குறிச்சி (+Google), கிருஷ்ணராயபுரம், புகழூர், கடவூர், மண்மங்கலம்): 5 links from our outlets
+16:23:47 search links: 0 Google links decoded, 0 not decoded, 0 known from an earlier round, 0 left for the next round, 10 of another district by their headline (not opened)
+16:23:47 82 links on the two papers' Karur pages
+16:24:13 skipped: published before this window=28, already posted=23, checked in an earlier round=7, not Karur district=5, state-wide / other district=3, only a headline=2, same event already posted=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2
+16:24:13    drop [already posted] அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்று | dinamalar.com/news/tamil-nad...trees-in-amravati-river-begins/4388313
+16:24:13    drop [already posted] அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ | dinamalar.com/news/tamil-nad...s-asked-to-remove-flex-banners/4388318
+16:24:13    drop [already posted] கரூர் அருகே தார்ச்சாலை அமைப்பு | dinamalar.com/news/tamil-nad...ur/karur-near-tarpaulin-system/4388311
+16:24:13 list: 1 new + 8 earlier news not posted yet
+16:24:13    1. [சாலை] மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்.. தர்மபுரி - கரூர் - திண்டுக்கல் -  (ஒன்இந்தியா)
+16:24:13    2. [குடிநீர்] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர் (தினமலர்) (earlier)
+16:24:13    3. [பொது] காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம் (தினமலர்) (earlier)
+16:24:13    4. [ஆன்மிகம்] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம் (தினமலர்) (earlier)
+16:24:13    5. [பொது] மரக்கன்று பராமரிப்பு பணி (தினமலர்) (earlier)
+16:24:13    6. [பொது] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு (தினமலர்) (earlier)
+16:24:13    7. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்) (earlier)
+16:24:13    8. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
+16:24:13    9. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்) (earlier)
+16:24:13 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_16

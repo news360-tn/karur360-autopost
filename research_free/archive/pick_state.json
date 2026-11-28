@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-28T14:26:48.885428+05:30",
+ "last_end": "2026-11-28T16:13:41.355454+05:30",
  "pool": {
   "C6569c40": {
    "id": "C6569c40",
@@ -12,34 +12,6 @@
    "score": 8.719999999999999,
    "power_cut": false,
    "listed_at": "2026-11-28T08:26:36.893698+05:30"
-  },
-  "Cfd7a6b3": {
-   "id": "Cfd7a6b3",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mayanur-local-fishermen-go-on-a-fishing-spree-after-water-level-in-mayanur-dam-recedes/4388314",
-   "title": "மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசலில் மீன் பிடிப்பு",
-   "summary": "கிருஷ்ணராயபுரம்:மாயனுார் கதவணையில், காவிரி நீர் வரத்து சரிவு காரணமாக, மீனவர்கள் பரிசலில் சென்று மீன்களை பிடிக்கும் பணியில் ஈடுபட்டனர். கிருஷ்ணராயபுரம் அடுத்த, மாயனுார் காவிரி ஆற்றின் குறுக்கே கதவணை கட்டப்பட்டுள்ளது.",
-   "source": "தினமலர்",
-   "published": "2026-11-28T08:05:00+05:30",
-   "category": "பொது",
-   "score": 8.0,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30",
-   "picked_at": "2026-11-28T14:28:07.201080+05:30",
-   "posted": true
-  },
-  "C59e0506": {
-   "id": "C59e0506",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/udhayanidhi-birthday-celebrations/4388324",
-   "title": "உதயநிதி பிறந்த நாள் விழா",
-   "summary": "கரூர்:தமிழக எதிர்க்கட்சி தலைவரும், தி.மு.க., இளைஞர் அணி செயலாளருமான உதயநிதி பிறந்த நாள் விழா, கரூர் அருகே வெண்ணைமலையில் உள்ள, அன்பு கரங்கள் இல்லத்தில் நேற்று நடந்தது.",
-   "source": "தினமலர்",
-   "published": "2026-11-28T08:10:00+05:30",
-   "category": "பொது",
-   "score": 8.0,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30",
-   "picked_at": "2026-11-28T14:28:07.201081+05:30",
-   "posted": true
   },
   "C71b53af": {
    "id": "C71b53af",
@@ -128,20 +100,6 @@
    "late_listed": true,
    "listed_at": "2026-11-28T10:28:29.323126+05:30"
   },
-  "C02b701b": {
-   "id": "C02b701b",
-   "url": "https://www.hindutamil.in/news/tamilnadu/near-karur-devotees-returning-from-sabarimala-collide-with-a-lorry",
-   "title": "கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர் உயிரிழப்பு, 4 பேர் காயம்",
-   "summary": "கரூர்: நாமக்கல் மாவட்டத்தைச் சேர்ந்த சபரிமலை பக்தர்கள் சென்ற கார், முன்னால் சென்ற லாரி மீது மோதிய விபத்தில் 3 பேர் உயிரிழந்தனர்; 4 பேர் காயமடைந்தனர்.",
-   "source": "இந்து தமிழ்",
-   "published": "2026-11-28T08:06:43Z",
-   "category": "விபத்து",
-   "score": 10.57,
-   "power_cut": false,
-   "listed_at": "2026-11-28T14:26:48.885428+05:30",
-   "picked_at": "2026-11-28T14:28:07.201078+05:30",
-   "posted": true
-  },
   "C186f1a3": {
    "id": "C186f1a3",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tree-maintenance-work/4388310",
@@ -154,33 +112,21 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-28T14:26:48.885428+05:30"
+  },
+  "C4cd393e": {
+   "id": "C4cd393e",
+   "url": "https://tamil.oneindia.com/news/dharmapuri/good-news-from-the-central-government-dharmapuri-madurai-road-to-become-a-6-lane-highway-849043.html",
+   "title": "மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்.. தர்மபுரி - கரூர் - திண்டுக்கல் - மதுரை சாலை 6 வழிச்சாலையாகிறது",
+   "summary": "தர்மபுரி: தமிழகத்தில் 339 கிலோ மீட்டர் நீளமுள்ள 2 முக்கிய தேசிய நெடுஞ்சாலைகள் விரிவாக்கம் செய்யப்பட இருக்கிறது. தேசிய நெடுஞ்சாலை 44-ல் தர்மபுரி - கரூர் - திண்டுக்கல் - மதுரை சமயநல்லூர் இடையிலான சாலை 6 வழிச்சாலையாக விர...",
+   "source": "ஒன்இந்தியா",
+   "published": "2026-11-28T15:45:09+05:30",
+   "category": "சாலை",
+   "score": 5.71,
+   "power_cut": false,
+   "listed_at": "2026-11-28T16:13:41.355454+05:30"
   }
  },
  "rounds": {
-  "2026-11-26_20": {
-   "window": [
-    "2026-11-26T17:08:58.147965+05:30",
-    "2026-11-26T20:29:48.130463+05:30"
-   ],
-   "ids": [
-    "C8828443",
-    "C59bad17"
-   ],
-   "sent": false,
-   "deadline": "2026-11-26T21:29:48.130463+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 2 by insights",
-    "ids": [
-     "C8828443",
-     "C59bad17"
-    ],
-    "at": "2026-11-26T20:32:16.986258+05:30"
-   },
-   "written": [
-    "C59bad17",
-    "C8828443"
-   ]
-  },
   "2026-11-26_22": {
    "window": [
     "2026-11-26T22:29:38.426421+05:30",
@@ -627,6 +573,27 @@
     "C59e0506",
     "Cfd7a6b3"
    ]
+  },
+  "2026-11-28_16": {
+   "window": [
+    "2026-11-28T14:26:48.885428+05:30",
+    "2026-11-28T16:13:41.355454+05:30"
+   ],
+   "ids": [
+    "C4cd393e",
+    "C6569c40",
+    "C8180f01",
+    "C71b53af",
+    "C186f1a3",
+    "Ce1562ea",
+    "Cb0b483f",
+    "C0aa26eb",
+    "Ccd7c059"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T17:13:41.355454+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
@@ -1242,6 +1209,9 @@
   "C428e95c": "2026-11-28T14:26 not Karur district",
   "Ca05e748": "2026-11-28T14:26 not Karur district",
   "C090588d": "2026-11-28T14:26 not Karur district",
-  "C20bbb66": "2026-11-28T14:26 not Karur district"
+  "C20bbb66": "2026-11-28T14:26 not Karur district",
+  "C3e83654": "2026-11-28T16:13 already posted",
+  "C0eecea5": "2026-11-28T16:13 already posted",
+  "Cefcfcaa": "2026-11-28T16:13 already posted"
  }
 }

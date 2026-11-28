@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-28T14:26+05:30",
- "posts_measured": 250,
+ "updated": "2026-11-28T16:13+05:30",
+ "posts_measured": 252,
  "topic_weight": {
-  "temple": 0.33,
-  "accident": 0.57,
-  "education": -0.15,
+  "temple": 0.32,
+  "accident": 0.55,
+  "education": -0.17,
   "jobs": 1.5,
   "power_cut": 1.5,
-  "poultry_agri": -0.1,
-  "politics": 0.22,
-  "civic": -0.28,
+  "poultry_agri": -0.05,
+  "politics": 0.11,
+  "civic": -0.29,
   "crime": 1.5,
-  "weather": 0.15
+  "weather": 0.14
  },
  "topic_10k_share": {
   "temple": 0.03,
@@ -35,7 +35,7 @@
   "jobs": 5,
   "power_cut": 5,
   "poultry_agri": 26,
-  "politics": 20,
+  "politics": 21,
   "civic": 32,
   "crime": 22,
   "weather": 21,
@@ -45,7 +45,7 @@
   0,
   16,
   4,
-  12
+  19
  ],
  "top_openings": [
   "🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை",
