@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T03:16:42+00:00",
+ "updated": "2026-11-28T03:26:20+00:00",
  "day": "2026-11-28",
- "ready": 3,
+ "ready": 2,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -34,6 +34,13 @@
       "link": "https://www.instagram.com/reel/DgRQRphKlOC/",
       "at": "2026-11-28T03:09:09+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-250",
+      "head": "கரூரில் இந்து முன்னணி இனிப்பு வழங்கலுக்கு போலீஸ் தடை",
+      "link": "https://www.instagram.com/reel/DgRR31BhCuZ/",
+      "at": "2026-11-28T03:23:25+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -41,7 +48,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 7,
+    "waiting": 8,
     "share": [
      {
       "id": "RN-241",
