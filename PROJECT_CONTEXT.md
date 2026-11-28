@@ -85,6 +85,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `d07ae4b` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Vengamedu pin was in the wrong place |
+| 2026-11-28 | `6e56c15` | autofix: corrected held news |
+| 2026-11-28 | `2f4cc86` | stories shared / Instagram pause |
+| 2026-11-28 | `97df965` | stories shared / Instagram pause |
+| 2026-11-28 | `deff728` | powercut: notices written |
+| 2026-11-28 | `04604a1` | stories shared / Instagram pause |
 | 2026-11-28 | `e188d10` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
 | 2026-11-28 | `6766c64` | stories shared / Instagram pause |
 | 2026-11-28 | `6910512` | stories shared / Instagram pause |
@@ -109,10 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `4e48620` | pick: list sent |
 | 2026-11-28 | `32fe748` | stories shared / Instagram pause |
 | 2026-11-28 | `801be73` | stories shared / Instagram pause |
-| 2026-11-28 | `8a0326d` | stories shared / Instagram pause |
-| 2026-11-28 | `4651247` | stories shared / Instagram pause |
-| 2026-11-28 | `96cb2f0` | stories shared / Instagram pause |
-| 2026-11-28 | `8a0067a` | stories shared / Instagram pause |
-| 2026-11-28 | `d11e1f7` | stories shared / Instagram pause |
-| 2026-11-28 | `3382d77` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
