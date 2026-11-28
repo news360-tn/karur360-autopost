@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T15:23:17+00:00",
+ "updated": "2026-11-28T15:33:35+00:00",
  "day": "2026-11-28",
- "ready": 3,
+ "ready": 2,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -146,6 +146,13 @@
       "link": "https://www.instagram.com/reel/DgSjbWUJN-5/",
       "at": "2026-11-28T15:15:49+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-266",
+      "head": "கரூர் மாவட்ட இணையதளம் அப்டேட் இல்லாமல் முடக்கம்",
+      "link": "https://www.instagram.com/reel/DgSlFDEJkJ6/",
+      "at": "2026-11-28T15:30:36+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -153,7 +160,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 17,
+    "waiting": 18,
     "share": [],
     "paused": "Facebook limited this page - paused until 2026-11-28T16:35 UTC"
    },
