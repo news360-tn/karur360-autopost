@@ -85,6 +85,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `eb3135f` | Hashtag fixes (owner 28 Nov): a source link's #part is no longer a hidden YouTube tag (district-section); a Facebook hashtag is never repeated and the top 5 reel gets topic + district + page tag |
+| 2026-11-28 | `1ce9fad` | stories shared / Instagram pause |
+| 2026-11-28 | `2f7e5f3` | stories shared / Instagram pause |
+| 2026-11-28 | `8c35c2a` | stories shared / Instagram pause |
+| 2026-11-28 | `df8a919` | stories shared / Instagram pause |
+| 2026-11-28 | `5f0ada9` | stories shared / Instagram pause |
+| 2026-11-28 | `7ad09ae` | facebook RN-247 |
+| 2026-11-28 | `113eb1e` | posted RN-247 |
+| 2026-11-28 | `339dcad` | stories shared / Instagram pause |
 | 2026-11-28 | `d07ae4b` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Vengamedu pin was in the wrong place |
 | 2026-11-28 | `6e56c15` | autofix: corrected held news |
 | 2026-11-28 | `2f4cc86` | stories shared / Instagram pause |
@@ -106,13 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `df4981d` | facebook RN-256 |
 | 2026-11-28 | `044889a` | posted RN-256 |
 | 2026-11-28 | `68470f3` | stories shared / Instagram pause |
-| 2026-11-28 | `3de38a6` | stories shared / Instagram pause |
-| 2026-11-28 | `dbebaa6` | facebook RN-254 |
-| 2026-11-28 | `fc638a5` | posted RN-254 |
-| 2026-11-28 | `4a12706` | pick: picked news saved |
-| 2026-11-28 | `e4d4949` | stories shared / Instagram pause |
-| 2026-11-28 | `e64f684` | pick: picked news saved |
-| 2026-11-28 | `4e48620` | pick: list sent |
-| 2026-11-28 | `32fe748` | stories shared / Instagram pause |
-| 2026-11-28 | `801be73` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
