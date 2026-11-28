@@ -11,7 +11,8 @@
    "category": "சாலை",
    "score": 9.72,
    "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30"
+   "listed_at": "2026-11-28T08:26:36.893698+05:30",
+   "picked_at": "2026-11-28T12:27:39.445734+05:30"
   },
   "C0eecea5": {
    "id": "C0eecea5",
@@ -23,7 +24,8 @@
    "category": "மாநகராட்சி",
    "score": 9.719999999999999,
    "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30"
+   "listed_at": "2026-11-28T08:26:36.893698+05:30",
+   "picked_at": "2026-11-28T12:27:39.445736+05:30"
   },
   "C6569c40": {
    "id": "C6569c40",
@@ -47,7 +49,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30"
+   "listed_at": "2026-11-28T08:26:36.893698+05:30",
+   "picked_at": "2026-11-28T12:27:39.445738+05:30"
   },
   "Cfd7a6b3": {
    "id": "Cfd7a6b3",
@@ -594,8 +597,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-28T13:26:36.363791+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 12 by insights",
+    "ids": [
+     "Cefcfcaa",
+     "C0eecea5",
+     "C3e83654"
+    ],
+    "at": "2026-11-28T12:27:39.445721+05:30"
+   },
+   "written": [
+    "C0eecea5",
+    "C3e83654",
+    "Cefcfcaa"
+   ]
   }
  },
  "retry": {
