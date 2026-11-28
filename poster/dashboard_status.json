@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T10:57:40+00:00",
+ "updated": "2026-11-28T11:06:53+00:00",
  "day": "2026-11-28",
- "ready": 4,
+ "ready": 3,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -104,6 +104,13 @@
       "link": "https://www.instagram.com/reel/DgR7czdBXrR/",
       "at": "2026-11-28T09:26:31+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-261",
+      "head": "கிருஷ்ணராயபுரத்தில் பக்தர்கள் தீர்த்தக்குடம் ஊர்வலம்",
+      "link": "https://www.instagram.com/reel/DgSGmjqz2XQ/",
+      "at": "2026-11-28T11:03:55+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -111,7 +118,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 16,
+    "waiting": 17,
     "share": [
      {
       "id": "RN-241",
