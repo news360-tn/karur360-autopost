@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T13:33:50+00:00",
+ "updated": "2026-11-28T13:47:17+00:00",
  "day": "2026-11-28",
- "ready": 3,
+ "ready": 2,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -132,6 +132,13 @@
       "link": "https://www.instagram.com/reel/DgSW5Q7qMy4/",
       "at": "2026-11-28T13:26:15+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-263",
+      "head": "கிருஷ்ணராயபுரம் பாலப்பட்டி சாலையில் மரக்கன்று நடுவதற்கான குழி அமைக்கும் பணி",
+      "link": "https://www.instagram.com/reel/DgSY9IShiD4/",
+      "at": "2026-11-28T13:44:28+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -139,7 +146,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 17,
+    "waiting": 18,
     "share": [],
     "paused": "Facebook limited this page - paused until 2026-11-28T14:35 UTC"
    },
