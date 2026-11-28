@@ -1,18 +1,26 @@
 {
- "updated": "2026-11-28T00:31:40+00:00",
+ "updated": "2026-11-28T00:40:17+00:00",
  "day": "2026-11-28",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
    "instagram": {
-    "posted": [],
+    "posted": [
+     {
+      "id": "RN-245",
+      "head": "தேசிய குழந்தைகள் அறிவியல் மாநாட்டிற்கு கரூரிலிருந்து 36 மாணவர்கள் பயணம்",
+      "link": "https://www.instagram.com/reel/DgQ-5CqphEr/",
+      "at": "2026-11-28T00:37:27+00:00",
+      "kind": "reel"
+     }
+    ],
     "paused": "",
     "quota": ""
    },
    "facebook": {
     "posted": 0,
-    "waiting": 3,
+    "waiting": 4,
     "share": [
      {
       "id": "RN-241",
