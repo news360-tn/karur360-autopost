@@ -232,5 +232,31 @@
     "Dindigul, Tamil Nadu": 50
    }
   }
+ },
+ "2026-11-29": {
+  "karur": {
+   "reach": 26510,
+   "reach_by_follow_type": {
+    "NON_FOLLOWER": 23922,
+    "FOLLOWER": 2398
+   },
+   "follower_cities": {
+    "Karur, Tamil Nadu": 1106,
+    "Kulittalai, Tamil Nadu": 949,
+    "Chennai, Tamil Nadu": 338,
+    "Tiruchirappalli, Tamil Nadu": 225,
+    "Kulithalai, Tamil Nadu": 119,
+    "Manapparai, Tamil Nadu": 109,
+    "Coimbatore, Tamil Nadu": 97,
+    "Palladam, Tamil Nadu": 78,
+    "Tirupur, Tamil Nadu": 73,
+    "Velur, Tamil Nadu": 72,
+    "Madukkarai, Tamil Nadu": 63,
+    "Tiruchengodu, Tamil Nadu": 62,
+    "Palani, Tamil Nadu": 58,
+    "Namakkal, Tamil Nadu": 56,
+    "Dindigul, Tamil Nadu": 55
+   }
+  }
  }
 }
