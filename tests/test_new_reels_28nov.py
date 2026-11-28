@@ -52,14 +52,19 @@ class ParrotWiring(unittest.TestCase):
 
 class ParrotInsideTheSharedArea(unittest.TestCase):      # owner 28 Nov: "parrot josiyam design also verify" - one video for Instagram, Facebook, Shorts
     def test_card_row_above_the_caption_and_name_below_the_top_bar(self):
-        sys.path.insert(0, str(ROOT / "rasipalan"))
-        import rasi_parrot as rp
-        y = lambda v: rp.FIT_Y + v * rp.FIT      # noqa: E731  (a scene position -> where it is in the video)
-        self.assertLessEqual(y(rp.SMALL_Y + rp.SMALL_H), 1640)      # the 12 cards the parrot picks from (they were at 1650-1800, under the caption)
+        src = (ROOT / "rasipalan" / "rasi_parrot.py").read_text(encoding="utf-8")      # read, not imported: the test machine has no numpy
+
+        def const(names):
+            line = next(ln for ln in src.splitlines() if ln.startswith(names + " = "))
+            return [float(x) for x in line.split("=", 1)[1].split("#")[0].split(",")]
+        fit, fit_y = const("FIT, FIT_Y")
+        card_top, card_h = const("CARD_TOP, CARD_H")
+        small_w, small_h, small_y = const("SMALL_W, SMALL_H, SMALL_Y, SMALL_X0, SMALL_GAP")[:3]
+        y = lambda v: fit_y + v * fit      # noqa: E731  (a scene position -> where it is in the video)
+        self.assertLessEqual(y(small_y + small_h), 1640)      # the 12 cards the parrot picks from (they were at 1650-1800, under the caption)
         self.assertGreaterEqual(y(35), 75)      # the page logo starts below the top bar
-        self.assertLessEqual(y(rp.CARD_TOP + rp.CARD_H), 1005)      # the fortune card ends above the buttons on the right
-        self.assertGreaterEqual(rp.FIT, 0.85)      # the words stay readable
-        src = (ROOT / "rasipalan" / "rasi_parrot.py").read_text(encoding="utf-8")
+        self.assertLessEqual(y(card_top + card_h), 1005)      # the fortune card ends above the buttons on the right
+        self.assertGreaterEqual(fit, 0.85)      # the words stay readable
         for k in ("transform:translateY({FIT_Y}px) scale({FIT})", 'class="scene gold prbg"', ".pr>.metal{{display:none}}"):
             self.assertIn(k, src, k)
 
