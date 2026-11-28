@@ -3,299 +3,305 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-near-tarpaulin-system/4388311",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/aiadmk-karur-municipal-corporation-employees-asked-to-remove-flex-banners/4388318",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-30--turram-karuvel-trees-in-amravati-river-begins/4388313",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/near-karur-devotees-returning-from-sabarimala-collide-with-a-lorry",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mayanur-local-fishermen-go-on-a-fishing-spree-after-water-level-in-mayanur-dam-recedes/4388314",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/udhayanidhi-birthday-celebrations/4388324",
   "candidate filter: collected=3",
   "to write: 3 Karur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/near-karur-devotees",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
   "filed: 3 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.5-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (33s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.5-flash (33s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3.5-flash (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generati",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok gemini/gemini-3-flash-preview (30s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அமராவதி ஆற்றில் 30 கி.மீ. தூரத்துக்கு கருவேல மரங்கள் அகற்றும் பணி துவக்கம்",
-   "english_headline": "Removal of seemai karuvel trees along 30 km of Amaravathi river begins in Karur district",
-   "category": "Civic Issues",
-   "location": "Amaravathi river, Karur district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "மாயனூர் கதவணையில் நீர் வரத்து சரிவு: பரிசலில் மீன் பிடித்து கரையில் விற்பனை செய்த மீனவர்கள்",
+   "english_headline": "Cauvery inflow drops at Mayanur barrage; local fishermen use coracles for fishing, selling 200 kg fish",
+   "category": "Business & Prices",
+   "location": "Mayanur barrage, Krishnarayapuram taluk, Karur district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ஆற்று பாதுகாப்பு",
-    "loc": "அமராவதி ஆறு, கரூர் மாவட்டம்",
-    "hl1": "அமராவதி ஆற்றில் கருவேல மர அகற்றம்",
-    "hl2": "<b>30 கி.மீ.</b>",
+    "cat": "சந்தை நிலவரம்",
+    "loc": "மாயனூர், கிருஷ்ணராயபுரம்",
+    "hl1": "மாயனூரில் காவிரியில் நீர் சரிவு",
+    "hl2": "200 கிலோ மீன்களே விற்பனை",
     "slides": [
      {
-      "title": "என்ன பணி?",
+      "title": "மாயனூர் கதவணை",
       "lines": [
-       "அமராவதி ஆற்றில் சீமை கருவேல மரங்கள் அகற்றும் பணி",
-       "<b>30 கி.மீ.</b> தூரத்துக்கு நடைபெறுகிறது",
-       "நீர்வளத்துறை சார்பில் பணி தொடங்கப்பட்டது"
+       "கிருஷ்ணராயபுரம் மாயனூர் காவிரி கதவணை",
+       "கதவணையின் கொள்ளளவு <b>1.5 டி.எம்.சி</b>",
+       "காவிரி ஆற்றில் தற்போது நீர் வரத்து சரிவு"
       ]
      },
      {
-      "title": "எங்கிருந்து எங்கே?",
+      "title": "பரிசலில்",
       "lines": [
-       "அணைப்பாளையம் தடுப்பணை பகுதியிலிருந்து",
-       "கோயம்பள்ளி வரை பணி நடைபெறுகிறது",
-       "பொக்லைன் இயந்திரங்கள் மூலம் வேருடன் அகற்றம்"
+       "குறைந்த நீரில் உள்ளூர் மீனவர்கள் மீன்பிடிப்பு",
+       "பரிசலில் சென்று மீன்களைப் பிடித்தனர்",
+       "கட்டளை வாய்க்கால் கரையில் வைத்து விற்பனை"
       ]
      },
      {
-      "title": "ஏன் முக்கியம்?",
+      "title": "விலை விவரம்",
       "lines": [
-       "மரங்கள் நிலத்தடி நீரை அதிகம் உறிஞ்சின",
-       "குடிநீர் கிணறுகளில் தண்ணீர் சேரவில்லை",
-       "விவசாயிகள் நீண்ட நாள் கோரிக்கை வைத்தனர்"
+       "ஜிலேப்பி கிலோ <b>ரூ.80</b>, கெண்டை <b>ரூ.70</b>",
+       "எட்டரை பிளஸ் <b>ரூ.200</b>, பாறை <b>ரூ.230</b>",
+       "கொக்கு மீன் கிலோ <b>ரூ.240</b>க்கு விற்பனை"
       ]
      },
      {
-      "title": "பலன் என்ன?",
+      "title": "விற்பனை மந்தம்",
       "lines": [
-       "ஆற்றில் தடையின்றி தண்ணீர் செல்லும்",
-       "நிலத்தடி நீர்மட்டம் உயரும்",
-       "விவசாயம், குடிநீர் தேவை பூர்த்தியாகும்"
+       "கார்த்திகை மாதம் மற்றும் சபரிமலை விரதம்",
+       "நேற்று <b>200 கிலோ</b> மீன்கள் மட்டுமே விற்பனை",
+       "மீன் விற்பனை மந்தமாக உள்ளதாகத் தகவல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அமராவதி ஆற்றில் 30 கி.மீ. தூரத்துக்கு சீமை கருவேல மரங்களை அகற்றும் பணி தொடங்கியுள்ளது. நீர்வளத்துறை சார்பில் இந்தப் பணி நடைபெறுகிறது. அணைப்பாளையம் தடுப்பணை பகுதியிலிருந்து கோயம்பள்ளி வரை ஆற்றில் மண்டிக் கிடந்த மரங்கள் பொக்லைன் இயந்திரங்கள் உதவியுடன் வேருடன் அகற்றப்பட்டு வருகின்றன. அமராவதி ஆறு அரவக்குறிச்சி, க.பரமத்தி, தாந்தோன்றிமலை மற்றும் கரூர் வட்டாரங்களில் ஆயிரக்கணக்கான ஏக்கர் விளை நிலங்களுக்குப் பாசன வசதி அளிக்கிறது. மேலும், மாவட்டத்தில் உள்ள 50-க்கும் மேற்பட்ட கிராம ஊராட்சிகளின் முக்கிய குடிநீர் ஆதாரமாகவும் அமராவதி ஆறு உள்ளது. ராஜபுரம், சின்னதாராபுரம், பெரிய ஆண்டாங்கோவில், கோயம்பள்ளி பகுதிகளில் குடிநீர் நீர்தேக்கக் கிணறுகளைச் சுற்றி மரங்கள் அதிகம் வளர்ந்திருந்தன. இதனால் நிலத்தடி நீர்மட்டம் குறைந்து, கிணறுகள் மற்றும் ஆழ்துளை கிணறுகளுக்குத் தண்ணீர் செல்லவில்லை. தண்ணீர் தட்டுப்பாட்டைப் போக்க மரங்களை உடனடியாக அகற்ற வேண்டும் என விவசாயிகளும் பொதுமக்களும் தொடர்ந்து கோரிக்கை வைத்து வந்தனர். இதையடுத்து பணி தொடங்கப்பட்டுள்ளது. மரங்கள் அகற்றப்பட்டால் ஆற்றில் தடையின்றி தண்ணீர் செல்லும்; நிலத்தடி நீர்மட்டம் உயர்ந்து விவசாயம் மற்றும் குடிநீர் தேவை பூர்த்தியாகும் என்பதால் இப்பகுதி விவசாயிகளும் பொதுமக்களும் மகிழ்ச்சி அடைந்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌿 அமராவதி ஆற்றில் 30 கி.மீ. தூரத்துக்கு கருவேல மர அகற்றம் தொடக்கம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டத்தில் அமராவதி ஆற்றில் 30 கி.மீ. தொலைவுக்கு சீமை கருவேல மரங்களை அகற்றும் பணி நடைபெற்று வருகிறது. நீர்வளத்துறை சார்பில் பணி தொடங்கப்பட்டது. அணைப்பாளையம் தடுப்பணை பகுதியிலிருந்து கோயம்பள்ளி வரை பொக்லைன் இயந்திரங்கள் உதவியுடன் மரங்கள் வேருடன் அகற்றப்படுகின்றன.\nஅமராவதி ஆறு அரவக்குறிச்சி, க.பரமத்தி, தாந்தோன்றிமலை, கரூர் வட்டாரங்களில் ஆயிரக்கணக்கான ஏக்கர் விளை நிலங்களுக்குப் பாசன வசதி அளிக்கிறது. 50-க்கும் மேற்பட்ட கிராம ஊராட்சிகளின் முக்கிய குடிநீர் ஆதாரமாகவும் உள்ளது.\nநிலத்தடி நீரை அதிகம் உறிஞ்சிய மரங்களால் கிணறுகள், ஆழ்துளை கிணறுகளுக்குத் தண்ணீர் செல்லாத நிலை ஏற்பட்டது. மரங்களை அகற்றக் கோரி விவசாயிகளும் பொதுமக்களும் தொடர்ந்து கோரிக்கை விடுத்து வந்தனர்.\n📍 இடம்: அணைப்பாளையம் தடுப்பணை முதல் கோயம்பள்ளி வரை\n🌊 பலன்: ஆற்றில் தடையின்றி தண்ணீர் செல்லும்; நிலத்தடி நீர்மட்டம் உயரும்\n\nAmaravathi river tree removal 30 km | Karur news\n📍 அமராவதி ஆறு, கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #அமராவதி #கரூர்",
-   "prompts": "A yellow poclain excavator digs out a thick seemai karuvel tree from the sandy bed of the Amaravathi river in Karur district, while workers from the water resources department stand nearby guiding the operation. Around them the river bed is covered with dense thorny karuvel scrub growing like a forest, and a line of already cleared stretch stretches away toward the distant check dam. Several farmers and villagers in shirts, veshti and sarees stand on the high embankment watching from a distance, seen from behind. Daylight, bright open sky, the river bed dry with a thin channel of water running through the centre. Shot at eye level from the embankment with a 35 mm lens, wide enough to show the cleared and uncleared stretches of the river bed. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a root-ball of a uprooted seemai karuvel tree lying on the sandy river bed, its thick roots and thorny branches pulled out by the poclain bucket. Behind it, a heap of cut karuvel branches and logs is piled up on the dry sand, with the excavator arm visible at the edge of the frame. Clear daylight, dusty sand texture, the river bank and remaining dense scrub blurred in the background. Shot slightly high at a low angle with a 35 mm lens to show the roots and the scale of the cleared trees against the river bed. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-30--turram-karuvel-trees-in-amravati-river-begins/4388313",
-   "published": "2026-11-28T08:04:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்றும் பணி துவக்கம்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; caption misses facts of the article (put every one in 📰 முழு விவரம்): சின்னதாராபுரம் ('குறிப்பாக ராஜபுரம், சின்னதாராபுரம், பெரிய ஆண்டாங்கோவில், கோய')",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "மாயனூர் கதவணையில் நீர் வரத்து குறைந்து 200 கிலோ மீன்களே நேற்று விற்பனையாகின. கிருஷ்ணராயபுரம் அருகே மாயனூர் காவிரியின் குறுக்கே 1.5 டி எம் சி கொள்ளளவு கொண்ட கதவணை உள்ளது. தற்போது ஆற்றில் நீர் வரத்து குறைந்ததால் கதவணையில் தண்ணீர் குறைந்துள்ளது. இதனால் உள்ளூர் மீனவர்கள் பரிசலில் சென்று மீன்பிடித்து கட்டளை வாய்க்கால் கரையில் விற்பனை செய்கின்றனர். நேற்று மதியம் மீனவர்கள் கதவணை உள்பகுதியில் பரிசலில் சென்று மீன்களைப் பிடித்தனர். இதில் ஜிலேப்பி மீன் கிலோ ரூ.80 மற்றும் கெண்டை மீன் கிலோ ரூ.70-க்கு விற்கப்பட்டது. எட்டரை பிளஸ் மீன் கிலோ ரூ.200, பாறை மீன் ரூ.230, கொக்கு மீன் ரூ.240-க்கு விற்பனையானது. கார்த்திகை மாதம் மற்றும் சபரிமலை ஐயப்ப பக்தர்கள் மாலை அணிந்துள்ளதால் விற்பனை மந்தமானது. நேற்று மொத்தம் 200 கிலோ மீன்கள் மட்டுமே விற்பனையானதாக மீனவர்கள் தெரிவித்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐟 மாயனூர் கதவணையில் நீர் வரத்து சரிவு: நேற்று 200 கிலோ மீன்களே விற்பனை\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த மாயனூர் காவிரியின் குறுக்கே 1.5 டி.எம்.சி கொள்ளளவு கொண்ட கதவணை அமைந்துள்ளது. தற்போது காவிரி ஆற்றில் நீர் வரத்து குறைந்ததால் கதவணையில் தண்ணீர் அளவு குறைந்துள்ளது.\nஇதனைப் பயன்படுத்தி உள்ளூர் மீனவர்கள் நேற்று மதியம் பரிசலில் கதவணை உள்பகுதிக்குச் சென்று மீன்பிடித்தனர். பிடித்த மீன்களைக் கட்டளை வாய்க்கால் கரையில் வைத்து விற்பனை செய்தனர்.\n\n🗓️ நாள்: 27 நவம்பர் 2026 (நேற்று மதியம்)\n📍 இடம்: மாயனூர் கதவணை, கிருஷ்ணராயபுரம் தாலுகா\n💰 மீன் விலை நிலவரம் (கிலோவில்):\n• ஜிலேப்பி மீன்: ரூ.80\n• கெண்டை மீன்: ரூ.70\n• எட்டரை பிளஸ் மீன்: ரூ.200\n• பாறை மீன்: ரூ.230\n• கொக்கு மீன்: ரூ.240\n\n📊 கார்த்திகை மாதம் என்பதாலும் பொதுமக்கள் பலர் சபரிமலைக்கு மாலை அணிந்து விரதம் இருப்பதாலும் மீன் விற்பனை மந்தமாக இருந்தது. நேற்று 200 கிலோ மீன்கள் மட்டுமே விற்பனையானது.\n\nMayanur barrage Cauvery water inflow drops fish sale | Karur news\n📍 மாயனூர், கரூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Mayanur #KarurNews #கரூர்",
+   "prompts": "Fishermen in circular wicker coracles, known as parisal, row across the low waters of the Cauvery river near the Mayanur barrage. The massive concrete barrage structure with its numerous mechanical gates spans the background under the bright midday sun. Three or four fishermen, dressed in simple shirts and tucked-up lungis, are seen from a distance as they cast their nets into the shallow water. The riverbed shows signs of low inflow with exposed sand patches near the barrage pillars. The scene is captured at eye level from the riverbank using a 35mm lens to encompass the wide scale of the water infrastructure and the traditional fishing activity. No faces are visible as the men are positioned with their backs to the camera. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot on the muddy bank of the Kattalai canal shows several large bamboo baskets and plastic crates filled with freshly caught Tilapia and Carp. A traditional weighing scale sits on the ground beside the catch, which represents the 200 kg of fish brought for local sale. In the background, the curved edge of a coracle is pulled up onto the shore, and the legs of two fishermen in veshtis are visible from the knees down as they stand by their harvest. The bright daylight reflects off the wet scales of the fish. The camera is positioned at a slightly high angle, focusing on the variety of fish in the baskets, with the canal water visible in the soft-focus background. No readable signs or brand names are present. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mayanur-local-fishermen-go-on-a-fishing-spree-after-water-level-in-mayanur-dam-recedes/4388314",
+   "published": "2026-11-28T08:05:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/f49b173dd178051c.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/e5fc95e900469d80.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/8871d31c0278e5ad.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/a39454cf095454c1.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூர் அருகே சின்ன ஆண்டாங்கோவிலில் புதிய தார்ச்சாலை அமைப்பு",
-   "english_headline": "New tar road laid at Chinna Andankovil near Karur after gravel accidents",
+   "tamil_headline": "கரூர் அருகே வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா",
+   "english_headline": "Udayanithi's birthday celebration held at Venaimalai near Karur",
+   "category": "Temples & Events",
+   "location": "Venaimalai, Karur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விழா",
+    "loc": "வெண்ணைமலை, கரூர்",
+    "hl1": "வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா",
+    "hl2": "அன்பு கரங்கள் இல்லத்தில்",
+    "slides": [
+     {
+      "title": "விழா விவரம்",
+      "lines": [
+       "உதயநிதி பிறந்த நாள் விழா நடைபெற்றது",
+       "கரூர் அருகே வெண்ணைமலையில் நடந்தது",
+       "அன்பு கரங்கள் இல்லத்தில் நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "உணவு வழங்கல்",
+      "lines": [
+       "இல்லத்தில் வசிப்பவர்களுக்கு உணவு வழங்கப்பட்டது",
+       "காலை உணவு மற்றும் இனிப்பு வழங்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "பங்கேற்பாளர்கள்",
+      "lines": [
+       "மாவட்ட தி.மு.க. துணை செயலாளர் மகேஸ்வரி",
+       "கரூர் மாநகராட்சி துணை மேயர் தாரணி சரவணன்",
+       "பகுதி செயலாளர்கள் குமார், பாண்டியன், சக்திவேல், ராஜா"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் அருகே வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா நடைபெற்றது. தமிழக எதிர்க்கட்சி தலைவரும், தி மு க இளைஞர் அணி செயலாளருமான உதயநிதியின் பிறந்த நாள் இது. நேற்று அன்பு கரங்கள் இல்லத்தில் இந்த விழா நடைபெற்றது. அன்பு கரங்கள் இல்லத்தில் வசிப்பவர்களுக்கு காலை உணவு வழங்கப்பட்டது. அதே நேரத்தில் இனிப்பும் வழங்கப்பட்டது. மாவட்ட தி மு க துணை செயலாளர் மகேஸ்வரி இந்த நிகழ்ச்சியில் பங்கேற்றார். கரூர் மாநகராட்சி துணை மேயர் தாரணி சரவணனும் பங்கேற்றார். பகுதி செயலாளர்கள் குமார், பாண்டியன், சக்திவேல், ராஜா ஆகியோரும் இங்கு வந்திருந்தனர். இதில் பல்வேறு நிர்வாகிகளும் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎂 வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா - அன்பு கரங்கள் இல்லத்தில்\n\n📰 முழு விவரம்:\nதமிழக எதிர்க்கட்சி தலைவரும், தி.மு.க. இளைஞர் அணி செயலாளருமான உதயநிதியின் பிறந்த நாள் விழா நடைபெற்றது. கரூர் அருகே வெண்ணைமலையில் உள்ள அன்பு கரங்கள் இல்லத்தில் நேற்று இந்த விழா நடைபெற்றது. அன்பு கரங்கள் இல்லத்தில் வசிப்பவர்களுக்கு காலை உணவு மற்றும் இனிப்பு வழங்கப்பட்டது. மாவட்ட தி.மு.க. துணை செயலாளர் மகேஸ்வரி இந்த நிகழ்ச்சியில் பங்கேற்றார். கரூர் மாநகராட்சி துணை மேயர் தாரணி சரவணனும் பங்கேற்றார். பகுதி செயலாளர்கள் குமார், பாண்டியன், சக்திவேல், ராஜா ஆகியோரும் இங்கு வந்திருந்தனர். இதில் பல்வேறு நிர்வாகிகளும் பங்கேற்றனர்.\n\n📍 இடம்: வெண்ணைமலை, கரூர்\n🗓️ நாள்: நேற்று\n👥 பங்கேற்பாளர்கள்: மகேஸ்வரி, தாரணி சரவணன், குமார், பாண்டியன், சக்திவேல், ராஜா\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nUdayanithi birthday celebration at Venaimalai, Karur | Karur news\n📍 Venaimalai, Karur | 28 Nov\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Karur360 #Karur #Venaimalai #KarurNews #கரூர்",
+   "prompts": "A row of residents of a shelter home sit on mats in a simple home courtyard in Venaimalai on the outskirts of Karur, Tamil Nadu, as party office-bearers in white shirts and veshti stand nearby serving sweets and breakfast plates. Seen from slightly behind and at a distance, the residents include children in plain clothes and elderly men and women sitting cross-legged on mats. A woman in a cotton saree and a few men in shirts stand near a table stacked with boxes of sweets and steel plates of breakfast. The compound has a plain concrete building with a tiled roof and a few potted plants, with rural fields and a low hill of Venaimalai in the background. It is bright daylight with soft natural light. Camera at eye level, 35 mm, wide enough to show the courtyard and the people serving. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/udhayanidhi-birthday-celebrations/4388324",
+   "published": "2026-11-28T08:10:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 5 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/227939f5bf8923be.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரவக்குறிச்சி அருகே கார் – லாரி விபத்து: சபரிமலை பக்தர்கள் 3 பேர் உயிரிழப்பு, 4 பேர் காயம்",
+   "english_headline": "Three Sabarimala devotees killed, four injured as car hits lorry near Aravakurichi, Karur district",
    "category": "Roads & Transport",
-   "location": "Chinna Andankovil, near Karur city, Karur district",
-   "importance": "Medium",
+   "location": "Aravakurichi, Karur district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை வசதி",
-    "loc": "சின்ன ஆண்டாங்கோவில்",
-    "hl1": "சின்ன ஆண்டாங்கோவிலில் புதிய தார்ச்சாலை",
-    "hl2": "ஜல்லி கற்களால் விபத்து",
+    "cat": "சாலை விபத்து",
+    "loc": "அரவக்குறிச்சி",
+    "hl1": "அரவக்குறிச்சி அருகே கார்-லாரி விபத்து",
+    "hl2": "3 பக்தர்கள் உயிரிழப்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கரூர் அருகே சின்ன ஆண்டாங்கோவிலில் தார்ச்சாலை பணி தொடங்கியது",
-       "போதிய நிதி ஒதுக்காததால் பணிகள் கிடப்பில் போடப்பட்டன",
-       "மழையால் ஜல்லி கற்கள் சாலையில் சிதறி கிடந்தன"
+       "அரவக்குறிச்சி அருகே கார் முன்னால் சென்ற லாரி மீது மோதியது",
+       "சபரிமலை சென்று திரும்பிய <b>7</b> பேர் காரில் பயணம்",
+       "இதில் <b>3 பேர்</b> சம்பவ இடத்திலேயே உயிரிழந்தனர்"
       ]
      },
      {
-      "title": "விபத்து",
+      "title": "உயிரிழந்தவர்கள்",
       "lines": [
-       "சிதறிய ஜல்லி கற்களால் விபத்து ஏற்பட்டது",
-       "இரவு நேரத்தில் டூவீலர்களில் சென்றவர்கள் தவறி விழுந்தனர்",
-       "பலர் காயமடைந்தனர்"
+       "மணிகண்டன் (43 வயது), கோவிந்தன் (60 வயது), பழனிவேல் (38 வயது)",
+       "நாமக்கல் மற்றும் சேலம் மாவட்டப் பக்தர்கள்",
+       "<b>4 பேர்</b> காயத்துடன் மீட்கப்பட்டனர்"
       ]
      },
      {
-      "title": "இப்போது என்ன?",
+      "title": "விபத்து நேரம்",
       "lines": [
-       "நெடுஞ்சாலைத் துறை நிதி ஒதுக்கியது",
-       "ஆண்டாங்கோவில் சாலையில் புதிய தார்ச்சாலை அமைக்கப்பட்டுள்ளது",
-       "அப்பகுதி மக்கள் மகிழ்ச்சி அடைந்தனர்"
+       "இன்று (நவ. 28) அதிகாலை <b>1.45 மணி</b>க்கு விபத்து",
+       "லாரியின் ஸ்டெப்னி டயர் கழன்று விழுந்தது",
+       "லாரி நிற்காமல் சென்றுவிட்டது"
+      ]
+     },
+     {
+      "title": "போலீஸ் விசாரணை",
+      "lines": [
+       "அரவக்குறிச்சி போலீசார் விசாரணை நடத்தி வருகின்றனர்",
+       "காயமடைந்த ஹரிஷ் கரூர் அரசு மருத்துவக் கல்லூரி",
+       "சபரிமலை பக்தர்களின் உயிரிழப்பு சோகத்தை ஏற்படுத்தியுள்ளது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் அருகே ஜல்லி கற்களால் விபத்து ஏற்பட்ட சாலை இப்போது புதிதாக அமைக்கப்பட்டுள்ளது. சின்ன ஆண்டாங்கோவிலில் தார்ச்சாலை அமைக்கும் பணியும், சாலையின் குறுக்கே சிறுபாலம் கட்டும் பணியும் தொடங்கின. ஆனால் தார்ச்சாலை பணிக்குப் போதிய நிதி ஒதுக்கப்படாததால் பணிகள் கிடப்பில் போடப்பட்டன. இதனால் மழையால் ஜல்லி கற்கள் சாலையில் சிதறிக் கிடந்தன. சிதறிய ஜல்லி கற்களால் விபத்து ஏற்பட்டது. குறிப்பாக இரவு நேரத்தில் டூவீலர்களில் சென்றவர்கள் தவறி விழுந்து காயமடைந்தனர். இதுகுறித்து நாளிதழில் செய்தி வெளியானது. இதையடுத்து நெடுஞ்சாலைத் துறை நிதி ஒதுக்கியது. தற்போது ஆண்டாங்கோவில் சாலையில் புதிய தார்ச்சாலை அமைக்கப்பட்டுள்ளது. இதனால் அப்பகுதி மக்கள் மகிழ்ச்சி அடைந்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛣️ கரூர் அருகே ஜல்லி கற்களால் விபத்து, இப்போது புதிய தார்ச்சாலை\n\n📰 முழு விவரம்:\nகரூர் அருகே சின்ன ஆண்டாங்கோவிலில் தார்ச்சாலை அமைக்கும் பணியும், சாலையின் குறுக்கே சிறுபாலம் கட்டும் பணியும் தொடங்கின.\nபோதிய நிதி ஒதுக்கப்படாததால் பணிகள் கிடப்பில் போடப்பட்டன.\nமழையால் சாலையில் ஜல்லி கற்கள் சிதறிக் கிடந்தன. சிதறிய ஜல்லி கற்களால் விபத்து ஏற்பட்டது.\nஇரவு நேரத்தில் டூவீலர்களில் சென்றவர்கள் தவறி விழுந்து காயமடைந்தனர்.\nஇதையடுத்து நெடுஞ்சாலைத் துறை நிதி ஒதுக்கியது. ஆண்டாங்கோவில் சாலையில் புதிய தார்ச்சாலை அமைக்கப்பட்டுள்ளது.\nஇதனால் அப்பகுதி மக்கள் மகிழ்ச்சி அடைந்தனர்.\n\nKarur new tar road Chinna Andankovil | Karur news\n📍 சின்ன ஆண்டாங்கோவில், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A freshly laid black tar road stretches through Chinna Andankovil village near Karur city, its new smooth surface gleaming in the daylight. Two-wheelers, including a motorcycle and a scooter, ride along the clean asphalt while a pair of local villagers in shirts and veshti stand at the roadside, looking on with relief. Beyond the road lie green paddy fields and a few low village houses, with a concrete culvert and a small bridge partly built across the road in the background. The tar surface is dark and even with no loose stones visible, showing the completed work. Clear daylight with soft sunshine, no rain. Camera at eye level, 35 mm lens, wide enough to show the entire road and the fields. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the freshly laid black tar road surface at Chinna Andankovil, showing the smooth, dark asphalt with no loose gravel. A small heap of leftover jalli kal (gravel stones) sits neatly piled at the roadside edge, a reminder of the earlier hazard, while a two-wheeler tyre rolls cleanly across the new surface in the foreground. Behind, the edge of the road meets dry earth and green grass near village fields. Bright daylight, even light across the asphalt. Camera low and close, slightly above road level, 35 mm lens, shallow depth of field to keep the focus on the texture of the new tar and the gravel pile. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-near-tarpaulin-system/4388311",
-   "published": "2026-11-28T08:03:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சின்ன ஆண்டாங்கோவில்' and the news itself, e.g. 'சின்ன ஆண்டாங்கோவில்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "அரவக்குறிச்சி அருகே சபரிமலை பக்தர்கள் சென்ற கார், முன்னால் சென்ற லாரி மீது மோதியதில் மூவர் உயிரிழந்தனர். இன்று நவம்பர் 28ஆம் தேதி அதிகாலை 1.45 மணிக்கு இந்த விபத்து நடந்தது. நாமக்கல் மாவட்டத்தைச் சேர்ந்த பக்தர்கள் சபரிமலைக்குச் சென்று நேற்று ஊர் திரும்பிக் கொண்டிருந்தனர். காரில் மொத்தம் 7 பேர் பயணம் செய்தனர். கார் முன்னால் சென்ற லாரி மீது மோதியது. அப்போது லாரியின் ஸ்டெப்னி டயர் கழன்று விழுந்தது; ஆனாலும் லாரி நிற்காமல் சென்றுவிட்டது. விபத்தில் மணிகண்டன், 60 வயது கோவிந்தன், பழனிவேல் ஆகிய மூவரும் சம்பவ இடத்திலேயே உயிரிழந்தனர். போலீசாரும் அரவக்குறிச்சி தீயணைப்பு மற்றும் மீட்புப் பணி நிலைய வீரர்களும் உடல்களை மீட்டனர். காயமடைந்த தனுஷ், ஹரிஷ், சிதம்பரம், தன்ஷிகா ஆகிய நால்வரும் அரவக்குறிச்சி தனியார் மருத்துவமனையில் சேர்க்கப்பட்டனர். ஹரிஷ் மேல்சிகிச்சைக்காக கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு மாற்றப்பட்டார். அரவக்குறிச்சி போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அரவக்குறிச்சி அருகே கார்–லாரி விபத்தில் சபரிமலை பக்தர்கள் 3 பேர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் அரவக்குறிச்சி அருகே, நாமக்கல் மாவட்டத்தைச் சேர்ந்த சபரிமலை பக்தர்கள் சென்ற கார், முன்னால் சென்ற லாரி மீது மோதியதில் 3 பேர் உயிரிழந்தனர்; 4 பேர் காயமடைந்தனர். இன்று (நவ. 28) அதிகாலை 1.45 மணிக்கு நடந்த இந்த விபத்து குறித்து அரவக்குறிச்சி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\nசபரிமலைக்குச் சென்றுவிட்டு நேற்று ஊர் திரும்பிக் கொண்டிருந்தபோது விபத்து நடந்தது. காரில் மொத்தம் 7 பேர் பயணம் செய்தனர்.\n🪦 உயிரிழந்தவர்கள்: நாமக்கல் மாவட்டம் ராசிபுரம் வட்டம் மங்களபுரத்தைச் சேர்ந்த மணிகண்டன் (43 வயது), கோவிந்தன் (60 வயது), மற்றும் சேலம் மாவட்டம் வாழப்பாடியை அடுத்த புழுதிக்கொட்டையைச் சேர்ந்த பழனிவேல் (38 வயது).\n🏥 காயமடைந்தவர்கள்: மங்களபுரத்தைச் சேர்ந்த தனுஷ் (21 வயது), ஹரிஷ் (17 வயது), புழுதிக்கொட்டையைச் சேர்ந்த சிதம்பரம் (45 வயது), அவர் மகள் தன்ஷிகா (8 வயது). ஹரிஷ் மேல்சிகிச்சைக்காக கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்க்கப்பட்டார்.\n🚛 லாரியின் ஸ்டெப்னி டயர் கழன்று விழுந்த நிலையில் லாரி நிற்காமல் சென்றுவிட்டது.\nசபரிமலை சென்று திரும்பிய பக்தர்களின் உயிரிழப்பு சோகத்தை ஏற்படுத்தியுள்ளது.\n\nSabarimala devotees killed in car-lorry crash near Aravakurichi, Karur | Karur news\n📍 அரவக்குறிச்சி, கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
+   "prompts": "A damaged silver passenger car with its front crushed sits on a dark national highway near Aravakurichi, Karur district, in the early hours before dawn. Its shattered bonnet and windscreen rest against the rear of a large lorry that is still standing ahead of it on the road. Two Tamil Nadu police personnel in khaki uniform stand at a distance, one with a torch, while fire and rescue workers in dark uniforms move around the vehicles. A few onlookers stand far back on the roadside, seen only from behind. Sodium streetlights and the headlights of a passing two-wheeler light the wet tarmac, the road is lined with a roadside shop shutter and concrete median divider. The scene is shot at eye level from a distance with a 35 mm lens, wide enough to show both vehicles and the road. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the detached spare tyre lying on the tarmac of a dark highway at night near Aravakurichi, Karur district, beside a large lorry's rear wheel arch. The black rubber tyre is still wet and gleaming under the harsh white beam of a fire-rescue torch held by a worker in dark uniform, whose boots and hands are visible at the edge of the frame. Behind it, slightly out of focus, a damaged car's crumpled front lies on the roadside and a khaki-uniformed police figure is seen from behind. Broken glass fragments glint on the asphalt. The scene is shot at low angle with a 35 mm lens, shallow depth of field, cool pre-dawn light. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/tamilnadu/near-karur-devotees-returning-from-sabarimala-collide-with-a-lorry",
+   "published": "2026-11-28T08:06:43Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/1d774854142eefe4.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/4bb4f170227e3319.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் அ.தி.மு.க. பேனர்களை அகற்றுமாறு மாநகராட்சி ஊழியர்கள் கூறியதால் பரபரப்பு",
-   "english_headline": "Karur corporation staff asked AIADMK to remove flex banners, causing a stir",
-   "category": "Civic Issues",
-   "location": "Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசியல் பேனர்",
-    "loc": "கரூர் நகரம்",
-    "hl1": "கரூரில் பேனர்களை அகற்றுமாறு கூறியதால் பரபரப்பு",
-    "hl2": "அ.தி.மு.க. பேனர்கள் விவகாரம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கரூர் - கோவை சாலையில் அ.தி.மு.க. பிளக்ஸ் பேனர்கள்",
-       "போக்குவரத்துக்கு இடைஞ்சலாக இருப்பதாகக் கூறி",
-       "மாநகராட்சி ஊழியர்கள் நேற்று மாலை கூறினர்"
-      ]
-     },
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "பெரிய கொங்கு திருமண மண்டபம் அருகே",
-       "<b>100</b>க்கும் மேற்பட்டோர் மண்டபத்தில் கூடினர்",
-       "நாளை காலை <b>10:30</b> மணிக்கு நிர்வாகிகள் ஆலோசனைக் கூட்டம்"
-      ]
-     },
-     {
-      "title": "கட்சியின் பதில்",
-      "lines": [
-       "மாவட்டச் செயலாளர் கமலகண்ணன் பேனர்களை அனுமதி கேட்டு கடிதம்",
-       "இடைஞ்சலான பேனர்களை அகற்றி வேறு இடத்தில் வைப்பதாகக் கூறினார்",
-       "பொதுமக்கள் பாதுகாப்பே முக்கியம் என்றார்"
-      ]
-     },
-     {
-      "title": "மாநகராட்சி",
-      "lines": [
-       "அனுமதியின்றி வைத்த பேனர்களுக்கு அபராதம் விதிக்கப்படும்",
-       "இது குறித்து ஊழியர்கள் நிர்வாகிகளிடம் கூறிச் சென்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூரில் அ.தி.மு.க. பிளக்ஸ் பேனர்களை அகற்றுமாறு மாநகராட்சி ஊழியர்கள் கூறியதால் பரபரப்பு ஏற்பட்டுள்ளது. கரூர் - கோவை சாலையில் உள்ள பெரிய கொங்கு திருமண மண்டபம் அருகே இந்தச் சம்பவம் நடைபெற்றது. பேனர்கள் போக்குவரத்துக்கு இடைஞ்சலாக இருப்பதாக நேற்று மாலை மாநகராட்சி ஊழியர்கள் கூறினர். இதையடுத்து திருமண மண்டபத்தில் 100க்கும் மேற்பட்டோர் கூடினர். அ.தி.மு.க. மாவட்டச் செயலாளர் கமலகண்ணன், பேனர்கள் வைக்க அனுமதி கேட்டு மாநகராட்சி நிர்வாகம் மற்றும் போலீசாரிடம் கடிதம் வழங்கப்பட்டுள்ளதாகக் கூறினார். மேலும், இடைஞ்சலான பேனர்கள் இருந்தால் அவற்றை அகற்றி வேறு இடத்தில் வைப்பதாகவும், பொதுமக்கள் பாதுகாப்பே முக்கியம் என்றும் அவர் தெரிவித்தார். இதையடுத்து, அனுமதியின்றி வைக்கப்பட்ட பேனர்களுக்கு அபராதம் விதிக்கப்படும் என்று மாநகராட்சி ஊழியர்கள் எச்சரித்துவிட்டுச் சென்றனர். இந்நிலையில், நாளை காலை 10:30 மணிக்கு பெரிய கொங்கு திருமண மண்டபத்தில் அ.தி.மு.க. நிர்வாகிகள் ஆலோசனைக் கூட்டம் நடக்கிறது. அதில் பொதுச்செயலாளர் இ.பி.எஸ். பேசுகிறார். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 கரூரில் அ.தி.மு.க. பேனர்களை அகற்றச் சொன்ன மாநகராட்சி ஊழியர்கள்\n\n📰 முழு விவரம்:\nகரூர் - கோவை சாலையில் அ.தி.மு.க. சார்பில் வைக்கப்பட்ட பிளக்ஸ் பேனர்களைப் போக்குவரத்துக்கு இடைஞ்சலாக இருப்பதாகக் கூறி மாநகராட்சி ஊழியர்கள் நேற்று மாலை அகற்றச் சொன்னார்கள். இதனால் பரபரப்பு ஏற்பட்டது. திருமண மண்டபத்தில் 100க்கும் மேற்பட்டோர் கூடினர். அ.தி.மு.க. மாவட்டச் செயலாளர் கமலகண்ணன், பேனர்கள் வைக்க அனுமதி கேட்டுக் கடிதம் வழங்கப்பட்டுள்ளதாகவும், இடைஞ்சலான பேனர்களை அகற்றி வேறு இடத்தில் வைப்பதாகவும் கூறினார். அனுமதியின்றி வைத்த பேனர்களுக்கு அபராதம் விதிக்கப்படும் என மாநகராட்சி ஊழியர்கள் எச்சரித்தனர்.\n📍 இடம்: கரூர் - கோவை சாலை, பெரிய கொங்கு திருமண மண்டபம் அருகே\n🗓️ நாள்: 27 நவம்பர் 2026 (நேற்று மாலை)\n🎙️ நிகழ்வு: நாளை காலை 10:30 மணிக்கு அ.தி.மு.க. நிர்வாகிகள் ஆலோசனைக் கூட்டம், பொதுச்செயலாளர் இ.பி.எஸ். பேச்சு\n\nKarur AIADMK flex banners removal row | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of corporation workers in uniform stands beside a roadside flex banner strung on bamboo poles along the Karur-Coimbatore road, while a crowd of more than a hundred AIADMK party workers in white shirts and veshti gathers outside a large marriage hall in Karur city. Several large party flex banners with faces of leaders blurred hang in the air above the road, and two-wheelers, autorickshaws and a town bus slow down in the traffic lane. The scene is early evening with soft fading daylight and dust in the air. Shot from behind and far away at eye level with a 35 mm lens, wide enough to show the marriage hall frontage, the road and the banners, with people seen from the back and no readable text. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large flex banner being loosened from a roadside pole on the Karur-Coimbatore road in Karur city, with a corporation worker's hands in the foreground pulling the torn edge of the vinyl sheet while a party worker's hand holds the other end. Behind it, the blurred facade of a marriage hall and a few two-wheelers pass on the road. The light is evening daylight with a slightly warm tone. Shot at a slightly high angle with a 35 mm lens, shallow depth of field, faces out of frame or blurred, no readable text or logos. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/aiadmk-karur-municipal-corporation-employees-asked-to-remove-flex-banners/4388318",
-   "published": "2026-11-28T08:07:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: hl1 is 46 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/2f35c8950f0acf21.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/d26c7b55ba32be05.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/58c56406931127f2.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/bf2edc0aa60c3317.jpg"
    ]
   }
  ]
