@@ -1,92 +1,33 @@
-18:28:16 round 2026-11-28_18: news published 28 Nov 16:13 -> 28 Nov 18:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-18:28:16    + news published since 27 Nov 18:28 that no earlier round found (listed / indexed late) - never one already listed or posted
-18:28:16 insights 2026-11-28T18:28+05:30 (254 reels): topic weights {'temple': 0.32, 'accident': 0.57, 'education': -0.17, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.03, 'politics': 0.12, 'civic': -0.28, 'crime': 1.5, 'weather': 0.16}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-18:29:42 open search 'கரூர்' (from_google): 29 links from our outlets
-18:29:42 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம் (+Google), புகழூர் (+Google), கடவூர், மண்மங்கலம்): 11 links from our outlets
-18:29:42 search links: 32 Google links decoded, 0 not decoded, 70 known from an earlier round, 0 left for the next round, 21 of another district by their headline (not opened)
-18:29:42 107 links on the two papers' Karur pages
-18:30:31 skipped: not Karur district=32, published before this window=31, already posted=22, checked in an earlier round=4, state-wide / other district=3, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, no title=1, same event already posted=1
-18:30:31    drop [already posted] உதயநிதி பிறந்த நாள் விழா | dinamalar.com/news/tamil-nad...ayanidhi-birthday-celebrations/4388324
-18:30:31    drop [not Karur district] ஆசிய சாம்பியன்ஷிப்பில் வரலாறு படைத்த ஈஸ்ட் பெங்காலுக்கு மோகன | dinamani.com/sports/sports-n...kthrough-against-in-form-mohun-bagan-2
-18:30:31    drop [not Karur district] ஸ்டாப்பேஜ் நேரத்தில் (90+2’) கோல் அடித்த கொலம்பஸ்..! தொடரிலி | dinamani.com/sports/sports-n...1-0-victory-behind-schulte-rodriguez-2
-18:30:31    drop [not Karur district] சோனியா காந்தி குடியுரிமை விவகாரம்! துக்ளக் சாலை காவல் நிலையத | dinamani.com/india/2026/Nov/...d-to-tughlak-road-station-delhi-police
-18:30:31    drop [not Karur district] (QUOTE) எம்.எஸ்.எம்.இ., நிறுவனங்கள் சர்வதேச சந்தைகளை நாட வேண | dinamalar.com/news/business-...uld-seek-international-markets/4388459
-18:30:31    drop [not Karur district] பாகுபலி - 2 வசூலைக் கடந்த ராமாயணா! | dinamani.com/cinema/cinema-n...8/ramayana-crossed-bahubali-collection
-18:30:31    drop [not Karur district] ராமாயணம் திரைப்படத்திற்கு எதிர்ப்பு; நீதிமன்ற நேரத்தை வீணடிக | dinakaran.com/news/ramayana_film_supremecourt
-18:30:31    drop [not Karur district] சரக்கு போக்குவரத்தை சுலபமாக்கும் லாஜிஸ்டிக்ஸ் ‘இ – மார்க்கெட | dinamalar.com/news/tamil-nad...o-facilitate-movement-of-goods/4388394
-18:30:31    drop [not Karur district] நியூசி.க்கு எதிரான டெஸ்ட் தொடர்: ஆஸி. அணியில் லயன், லபுஷேன்  | dinamani.com/sports/cricket/...-top-choice-spin-bowler-after-13-years
-18:30:31    drop [not Karur district] பிறரின் மதச் சுதந்திரத்தில் தலையிடாமல் இருப்பதே மத நல்லிணக்க | dinamalar.com/news/tamil-nad...hers-bjp-hits-back-at-congress/4388385
-18:30:31    drop [not Karur district] தீபத்தூணில் தீபம் ஏற்றுவதற்கான பணிகள் தீவிரம் | dinamalar.com/news/tamil-nad...t-the-bonfire-is-in-full-swing/4388379
-18:30:31    drop [not Karur district] சபரிமலைக்கு மாலை அணிவதில் பிரச்னை; இளம்பெண் தூக்கிட்டு தற்** | dinakaran.com/news/young_woman_dies_suicide/amp
-18:30:31    drop [not Karur district] நிர்வாகத்தில் பெண்களுக்கு கூடுதல் பலம்; அனைத்துக் கட்சிகளுக் | dinamalar.com/news/india-tam...to-empower-women-in-governance/4388369
-18:30:31    drop [not Karur district] தொடக்கத்தில் ஒப்பனை இல்லாமல் நடிக்க பயந்திருக்கிறேன்... மனம் | dinamani.com/cinema/cinema-n...choice-i-was-insecure-in-the-beginning
-18:30:31    drop [not Karur district] தவெக அரசின் அனுபவமின்மையால்...? | Thiruparankundram | Deepat | dinamani.com/videos/video-ne...the-inexperience-of-the-tvk-government
-18:30:31    drop [not Karur district] தமிழ்நாட்டின் நலனில் சமரசம் செய்து கொள்ள மாட்டோம்; தொகுதி மற | dinakaran.com/news/constituency_delimitation_bill_dmk_support
-18:30:31    drop [same event already posted] அதிகாலையில் அதிர்ச்சி.. ஐயப்ப பக்தர்களுக்கு நேர்ந்த சோகம் -  | tamil.abplive.com/news/tamil...ad-accident-3-dead-namakkal-280731/amp
-18:30:31    drop [not Karur district] டபிள்யூடிசியில் புதிய வரலாறு படைத்த ரிஷப் பந்த்..! பென் ஸ்டோ | dinamani.com/sports/cricket/...in-icc-world-test-championship-history
-18:30:31    drop [not Karur district] தீபத்தூண் பகுதியில் இன்று யாருக்கும் அனுமதி இல்லை; நாளை வாரு | dinamani.com/tamilnadu/2026/...pathoon-area-today-crpf-officer-vikram
-18:30:31    drop [not Karur district] தொகுதி மறுவரையறை மசோதா: கோரிக்கைகளை ஏற்றதால் திமுக ஆதரவு! மு | dinamani.com/tamilnadu/2026/...on-bill-after-its-demands-are-accepted
-18:30:31    drop [not Karur district] ஒவ்வொரு ஆண்டும் இந்த பிரச்னை வரும்! சீமான் பேட்டி | NTK | TV | dinamani.com/visual-stories/...-comes-up-seaman-interview-ntk-tvk-dmk
-18:30:31    drop [not Karur district] தொகுதி மறுவரையறை மசோதாவை அனைத்து அரசியல் கட்சிகளும் ஆதரிக்க  | dinamalar.com/news/india-tam...delimitation-bill-centre-urges/4388339
-18:30:31    drop [not Karur district] தொகுதி மறுவரையறை மசோதா நிறைவேறும் வாய்ப்பு பிரகாசம் | dinamalar.com/news/tamil-nad...ation-bill-likely-to-be-passed/4388336
-18:30:31    drop [not Karur district] தங்கம் விலை குறைந்தது! இன்றைய நிலவரம் (நவ. 28) | dinamani.com/tamilnadu/2026/...ilver-price-today-in-chennai-tamilnadu
-18:30:31    drop [not Karur district] மகளிர் செஸ் சாம்பியன்ஷிப் பட்டம் வென்ற வீராங்கனைகளுக்கு முதல | dinamani.com/tamilnadu/2026/...ulates-womens-chess-championship-title
-18:30:31    drop [not Karur district] இந்தியப் பெண்களும் சொத்துரிமையும்! நீதியும் நியாயமும்-15 | dinamani.com/legal-explainer...-and-property-rights-justice-equity-15
-18:30:31    drop [not Karur district] உச்ச நீதிமன்றம், நீங்கள் விளையாடும் கார் பொம்மைபோல அல்ல! இப் | dinamani.com/tamilnadu/2026/...-tn-govt-in-the-thiruparankundram-case
-18:30:31    drop [not Karur district] தொகுதி மறுவரையறையை ஆதரிப்பது தமிழா்களுக்கு செய்யும் துரோகம்: | dinamani.com/tenkasi/2026/No...rayal-of-the-tamils-mp-manickam-tagore
-18:30:31    drop [not Karur district] இன்று 4-ஆவது சுற்று: முதல் வெற்றி முனைப்பில் குகேஷ் - சிண்டா | dinamani.com/sports/sports-n...h-and-sindarov-aim-for-their-first-win
-18:30:31 list: 0 new + 6 earlier news not posted yet
-18:30:31    1. [சாலை] மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்.. தர்மபுரி - கரூர் - திண்டுக்கல் -  (ஒன்இந்தியா) (earlier)
-18:30:31    2. [பொது] மரக்கன்று பராமரிப்பு பணி (தினமலர்) (earlier)
-18:30:31    3. [பொது] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு (தினமலர்) (earlier)
-18:30:31    4. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்) (earlier)
-18:30:31    5. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
-18:30:31    6. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்) (earlier)
-18:30:31 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_18
-18:30:33 round 2026-11-28_18 (at least 3, up to 3 more of well-watched topics): 6 news to choose from (6 from earlier rounds), ranked by this page's insights
-18:30:33   PICK   1.   4.9 [civic -0.28 page] (earlier) மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்.. தர்மபுரி - கரூர் - திண்
-18:30:33   PICK   2.   3.0 [other +0.00 pattern] (earlier) மரக்கன்று பராமரிப்பு பணி
-18:30:33   PICK   3.   3.0 [other +0.00 pattern] (earlier) டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-18:30:33          4.   2.6 [politics +0.12 page] (earlier) முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்
-18:30:33          5.   2.0 [other +0.00 pattern] (earlier) அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம்
-18:30:33          6.   2.0 [other +0.00 pattern] (earlier) எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை
-18:30:33 decided: automatic: top 3 of 6 by insights -> 3 news to write and post
-PICK_URLS=https://tamil.oneindia.com/news/dharmapuri/good-news-from-the-central-government-dharmapuri-madurai-road-to-become-a-6-lane-highway-849043.html https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tree-maintenance-work/4388310 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/anticipation-to-remove-plants-scattered-on-the-transformer/4388322
-18:32:38 3 listed news now in the Sheet
-18:32:48 instagram duplicate check karur: 50 recent posts read
-18:32:48 verify 2026-11-28_18: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-18:32:48    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-18:32:48    NOT POSTED C4cd393e: queued RN-265 (Queued) - மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்.. தர்மபுரி - கரூர் - திண்
-18:32:48    NOT POSTED Ce1562ea: queued RN-264 (Queued) - டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-18:37:54 instagram duplicate check karur: 50 recent posts read
-18:37:54 verify 2026-11-28_18: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-18:37:54    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-18:37:54    NOT POSTED C4cd393e: queued RN-265 (Queued) - மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்.. தர்மபுரி - கரூர் - திண்
-18:37:54    NOT POSTED Ce1562ea: queued RN-264 (Queued) - டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-18:43:00 instagram duplicate check karur: 50 recent posts read
-18:43:00 verify 2026-11-28_18: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-18:43:00    SKIPPED C4cd393e: skipped RN-265: already on Instagram (2026-11-28T13:12:50+0000) - மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்.. தர்மபுரி - கரூர் - திண்
-18:43:00    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-18:43:00    NOT POSTED Ce1562ea: queued RN-264 (Queued) - டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-18:48:07 instagram duplicate check karur: 50 recent posts read
-18:48:07 verify 2026-11-28_18: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-18:48:07    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-18:48:07    NOT POSTED Ce1562ea: queued RN-264 (Queued) - டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-18:53:15 instagram duplicate check karur: 50 recent posts read
-18:53:15 verify 2026-11-28_18: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-18:53:15    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-18:53:15    NOT POSTED Ce1562ea: queued RN-264 (Queued) - டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-18:58:22 instagram duplicate check karur: 50 recent posts read
-18:58:22 verify 2026-11-28_18: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-18:58:22    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-19:03:29 instagram duplicate check karur: 50 recent posts read
-19:03:29 verify 2026-11-28_18: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-19:03:29    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-19:08:35 instagram duplicate check karur: 50 recent posts read
-19:08:35 verify 2026-11-28_18: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-19:08:35    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-19:13:42 instagram duplicate check karur: 50 recent posts read
-19:13:42 verify 2026-11-28_18: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-19:13:42    NOT POSTED C186f1a3: queued RN-263 (Queued) - மரக்கன்று பராமரிப்பு பணி
-19:18:46 verify 2026-11-28_18: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+20:26:03 round 2026-11-28_20: news published 28 Nov 18:28 -> 28 Nov 20:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+20:26:03    + news published since 27 Nov 20:26 that no earlier round found (listed / indexed late) - never one already listed or posted
+20:26:03 insights 2026-11-28T20:26+05:30 (257 reels): topic weights {'temple': 0.33, 'accident': 0.57, 'education': -0.17, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.04, 'politics': 0.12, 'civic': -0.27, 'crime': 1.5, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+20:36:35 from_google dinamalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google dinamani.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google dinamalar.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google dinamani.com 'குளித்தலை' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google dinamalar.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google dinamani.com 'அரவக்குறிச்சி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google tamil.oneindia.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google dinakaran.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google dailythanthi.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google maalaimalar.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google hindutamil.in 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 from_google polimernews.com 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 open search from_google 'கரூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 open search 'கரூர்' (from_bing): 4 links from our outlets
+20:36:35 town search from_google 'கடவூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 town search from_google 'மண்மங்கலம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
+20:36:35 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 6 links from our outlets
+20:36:35 search links: 0 Google links decoded, 0 not decoded, 0 known from an earlier round, 0 left for the next round, 7 of another district by their headline (not opened)
+20:36:35 83 links on the two papers' Karur pages
+20:37:08 skipped: published before this window=32, already posted=24, checked in an earlier round=8, not Karur district=5, state-wide / other district=3, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2
+20:37:08    drop [already posted] காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம் | dinamalar.com/news/tamil-nad...eeting-at-kadapparai-panchayat/4388308
+20:37:08    drop [already posted] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர் | dinamalar.com/news/tamil-nad...to-the-road-after-a-pipe-broke/4388323
+20:37:08    drop [already posted] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம் | dinamalar.com/news/tamil-nad...agavathy-amman-temple-festival/4388316
+20:37:08 list: 1 new + 3 earlier news not posted yet
+20:37:08    1. [மாநகராட்சி] இ.பி.எஸ். பேனர்களை அகற்ற வந்த மாநகராட்சி அதிகாரிகளுடன் அ.தி.மு.க.வினர் (தினத்தந்தி)
+20:37:08    2. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்) (earlier)
+20:37:08    3. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
+20:37:08    4. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்) (earlier)
+20:37:08 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_20
