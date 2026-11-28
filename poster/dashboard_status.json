@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:31:49+00:00",
+ "updated": "2026-11-28T10:34:31+00:00",
  "day": "2026-11-28",
  "ready": 2,
  "pages": {
@@ -111,7 +111,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 17,
+    "waiting": 16,
     "share": [
      {
       "id": "RN-241",
@@ -120,7 +120,7 @@
       "emailed": "2026-11-27T14:10:15+00:00"
      }
     ],
-    "paused": "Facebook limited this page - paused until 2026-11-28T10:32 UTC"
+    "paused": "Facebook limited this page - paused until 2026-11-28T12:34 UTC"
    },
    "manual_post": [],
    "daily": {
