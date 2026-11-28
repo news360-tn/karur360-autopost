@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T05:04:03+00:00",
+ "updated": "2026-11-28T05:12:53+00:00",
  "day": "2026-11-28",
- "ready": 3,
+ "ready": 2,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -48,6 +48,13 @@
       "link": "https://www.instagram.com/reel/DgRTlVMhv5A/",
       "at": "2026-11-28T03:38:24+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-252",
+      "head": "அரவக்குறிச்சி அருகே கார்-லாரி மோதலில் 3 ஐயப்ப பக்தர்கள் உயிரிழப்பு",
+      "link": "https://www.instagram.com/reel/DgReGjSJH72/",
+      "at": "2026-11-28T05:09:57+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -55,7 +62,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 9,
+    "waiting": 10,
     "share": [
      {
       "id": "RN-241",
