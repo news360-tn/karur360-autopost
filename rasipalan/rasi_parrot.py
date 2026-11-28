@@ -35,6 +35,11 @@ MAROON, MAROON2, GOLD = G.MAROON, G.MAROON2, G.GOLD
 
 # geometry (px)
 CARD_TOP, CARD_H = 250, 830                   # the big fortune card
+# owner 28 Nov ("parrot josiyam design also verify"): one video for Instagram, Facebook and YouTube Shorts. The row of 12 cards the
+# parrot picks from sat at y 1650-1800, under the caption on all three, and the page name sat under the top bar. The whole scene is
+# drawn a little smaller (FIT) and lower (FIT_Y px): the page name starts at y 80 and the card row ends at y 1634. Every position
+# below stays in the scene's own 1080 x 1920 measure.
+FIT, FIT_Y = 0.88, 50
 HOME = (30, 1162)                             # the parrot on its cage (top-left of the parrot box)
 SMALL_W, SMALL_H, SMALL_Y, SMALL_X0, SMALL_GAP = 52, 150, 1650, 318, 10
 BIG_C = (540, CARD_TOP + CARD_H // 2)
@@ -68,7 +73,9 @@ CAGE = f"""<svg viewBox="0 0 240 280" width="240" height="280" style="position:a
 </svg>"""
 
 CSS = f"""
-.pr{{position:absolute;inset:0;overflow:hidden}}
+.pr{{position:absolute;inset:0;overflow:hidden;background:none!important;transform:translateY({FIT_Y}px) scale({FIT});transform-origin:50% 0}}
+.pr>.metal{{display:none}}
+.prbg{{position:absolute;inset:0;overflow:hidden}}      /* the same background, band and table at full size behind the smaller scene */
 .band{{position:absolute;left:0;right:0;top:0;height:220px;display:flex;align-items:center;gap:26px;padding:0 44px;
  background:linear-gradient(180deg,{MAROON2},{MAROON});box-shadow:0 10px 26px rgba(58,7,11,.35)}}
 .band img{{width:150px;height:150px;border-radius:50%;background:#fff;box-shadow:0 0 0 6px {GOLD}}}
@@ -361,7 +368,9 @@ window.seek=function(t){
 };
 window.seek(0);""")
     html = (f'<!doctype html><html><head><meta charset="utf-8"><style>{G.css()}{R.font_zod()}{R.CSS}{CSS}</style></head>'
-            f'<body class="reel rp" style="height:{H}px"><div class="scene gold pr"><div class="metal"></div>{band}{cards}'
+            f'<body class="reel rp" style="height:{H}px"><div class="scene gold prbg"><div class="metal"></div>'
+            f'<div class="band" style="height:{FIT_Y + 220 * FIT:.0f}px"></div><div class="table" style="top:{FIT_Y + 1560 * FIT:.0f}px"></div></div>'
+            f'<div class="scene gold pr"><div class="metal"></div>{band}{cards}'
             f'<div class="table"></div><div class="mat"></div>{CAGE}{small}<div id="parrot">{PARROT}</div></div>'
             f'<script>{js}</script></body></html>')
     return G.themed(html, p, rasi=True)

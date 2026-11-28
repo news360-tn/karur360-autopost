@@ -50,6 +50,20 @@ class ParrotWiring(unittest.TestCase):
         self.assertIn("edge-tts==7.2.3", (ROOT / ".github" / "workflows" / "rasipalan.yml").read_text(encoding="utf-8"))
 
 
+class ParrotInsideTheSharedArea(unittest.TestCase):      # owner 28 Nov: "parrot josiyam design also verify" - one video for Instagram, Facebook, Shorts
+    def test_card_row_above_the_caption_and_name_below_the_top_bar(self):
+        sys.path.insert(0, str(ROOT / "rasipalan"))
+        import rasi_parrot as rp
+        y = lambda v: rp.FIT_Y + v * rp.FIT      # noqa: E731  (a scene position -> where it is in the video)
+        self.assertLessEqual(y(rp.SMALL_Y + rp.SMALL_H), 1640)      # the 12 cards the parrot picks from (they were at 1650-1800, under the caption)
+        self.assertGreaterEqual(y(35), 75)      # the page logo starts below the top bar
+        self.assertLessEqual(y(rp.CARD_TOP + rp.CARD_H), 1005)      # the fortune card ends above the buttons on the right
+        self.assertGreaterEqual(rp.FIT, 0.85)      # the words stay readable
+        src = (ROOT / "rasipalan" / "rasi_parrot.py").read_text(encoding="utf-8")
+        for k in ("transform:translateY({FIT_Y}px) scale({FIT})", 'class="scene gold prbg"', ".pr>.metal{{display:none}}"):
+            self.assertIn(k, src, k)
+
+
 class TopFive(unittest.TestCase):
     def test_workflow_and_no_view_counts(self):
         wf = (ROOT / ".github" / "workflows" / "top5.yml").read_text(encoding="utf-8")
