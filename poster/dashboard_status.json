@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T03:02:17+00:00",
+ "updated": "2026-11-28T03:12:02+00:00",
  "day": "2026-11-28",
- "ready": 4,
+ "ready": 3,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -27,6 +27,13 @@
       "link": "https://www.instagram.com/reel/DgRJ78XBE7d/",
       "at": "2026-11-28T02:13:46+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-249",
+      "head": "மழையால் தக்காளி விலை திடீர் உயர்வு: கிலோ ₹40 முதல் ₹45 வரை",
+      "link": "https://www.instagram.com/reel/DgRQRphKlOC/",
+      "at": "2026-11-28T03:09:09+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -34,7 +41,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 6,
+    "waiting": 7,
     "share": [
      {
       "id": "RN-241",
