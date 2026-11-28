@@ -1,74 +1,29 @@
-12:26:36 round 2026-11-28_12: news published 28 Nov 10:28 -> 28 Nov 12:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-12:26:36    + news published since 27 Nov 12:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-12:26:36 insights 2026-11-28T12:26+05:30 (246 reels): topic weights {'temple': 0.34, 'accident': 0.57, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.09, 'politics': 0.22, 'civic': -0.28, 'crime': 1.5, 'weather': 0.19}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-12:27:11 open search 'கரூர்' (from_google): 20 links from our outlets
-12:27:11 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம் (+Google), புகழூர் (+Google), கடவூர், மண்மங்கலம்): 8 links from our outlets
-12:27:11 search links: 8 Google links decoded, 0 not decoded, 61 known from an earlier round, 0 left for the next round, 14 of another district by their headline (not opened)
-12:27:11 78 links on the two papers' Karur pages
-12:27:37 skipped: published before this window=28, already posted=19, not Karur district=8, state-wide / other district=3, only a headline=2, same event already posted=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, checked in an earlier round=1
-12:27:37    drop [already posted] கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந | dinamalar.com/news/tamil-nad...psed-in-the-early-morning-rain/4388309
-12:27:37    drop [already posted] இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தட | dinamalar.com/news/tamil-nad...-burst-firecrackers-ban-sweets/4388320
-12:27:37    drop [already posted] மழையால் செடிகளில் பாதிப்பு தக்காளி விலை திடீர் உயர்வு | dinamalar.com/news/tamil-nad...ffect-crops-tomato-prices-soar/4388312
-12:27:37    drop [not Karur district] நாடாளுமன்றத்தில் கொண்டு வரப்படவுள்ள தொகுதி மறுவரையறை மசோதாவு | dinakaran.com/news/parliamen...tituency-delimitation-bill-dmk-support
-12:27:37    drop [not Karur district] இறைவனுக்கு எதையும் இணையாக்காதே..! - Dinakaran - Dinakaran | dinakaran.com/spirtual_aanmeegam/do-not-associate-anything-with-god
-12:27:37    drop [not Karur district] 1 முதல் 12ம் வகுப்பு வரை அரையாண்டு தேர்வு அட்டவணை வெளியீடு - | dinakaran.com/news/halfyearl...-schedule-released-for-classes-1-to-12
-12:27:37 list: 0 new + 12 earlier news not posted yet
-12:27:37    1. [சாலை] கரூர் அருகே தார்ச்சாலை அமைப்பு (தினமலர்) (earlier)
-12:27:37    2. [மாநகராட்சி] அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழியர்கள் (தினமலர்) (earlier)
-12:27:37    3. [குடிநீர்] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர் (தினமலர்) (earlier)
-12:27:37    4. [பொது] அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்றும் பணி துவ (தினமலர்) (earlier)
-12:27:37    5. [பொது] மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசலில் மீன் ப (தினமலர்) (earlier)
-12:27:37    6. [பொது] உதயநிதி பிறந்த நாள் விழா (தினமலர்) (earlier)
-12:27:37    7. [பொது] காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம் (தினமலர்) (earlier)
-12:27:37    8. [ஆன்மிகம்] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம் (தினமலர்) (earlier)
-12:27:37    9. [பொது] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு (தினமலர்) (earlier)
-12:27:37   10. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்) (earlier)
-12:27:37   11. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
-12:27:37   12. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்) (earlier)
-12:27:37 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_12
-12:27:39 round 2026-11-28_12 (at least 3, up to 3 more of well-watched topics): 12 news to choose from (12 from earlier rounds), ranked by this page's insights
-12:27:39   PICK   1.   8.4 [civic -0.28 page] (earlier) கரூர் அருகே தார்ச்சாலை அமைப்பு
-12:27:39   PICK   2.   8.4 [civic -0.28 page] (earlier) அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ
-12:27:39   PICK   3.   7.5 [other +0.00 pattern] (earlier) அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்று
-12:27:39          4.   7.5 [other +0.00 pattern] (earlier) மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசல
-12:27:39          5.   7.5 [other +0.00 pattern] (earlier) உதயநிதி பிறந்த நாள் விழா
-12:27:39          6.   7.4 [civic -0.28 page] (earlier) குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர்
-12:27:39          7.   5.9 [temple +0.34 page] (earlier) மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம்
-12:27:39          8.   5.5 [other +0.00 pattern] (earlier) காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம்
-12:27:39          9.   3.5 [other +0.00 pattern] (earlier) டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-12:27:39         10.   3.4 [politics +0.22 page] (earlier) முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்
-12:27:39         11.   2.5 [other +0.00 pattern] (earlier) அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம்
-12:27:39         12.   2.5 [other +0.00 pattern] (earlier) எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை
-12:27:39 decided: automatic: top 3 of 12 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-near-tarpaulin-system/4388311 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/aiadmk-karur-municipal-corporation-employees-asked-to-remove-flex-banners/4388318 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/removal-of-30--turram-karuvel-trees-in-amravati-river-begins/4388313
-12:29:38 3 listed news now in the Sheet
-12:29:48 instagram duplicate check karur: 50 recent posts read
-12:29:48 verify 2026-11-28_12: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:29:48    NOT POSTED C0eecea5: queued RN-256 (Queued) - அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ
-12:29:48    NOT POSTED C3e83654: queued RN-254 (Queued) - அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்று
-12:29:48    NOT POSTED Cefcfcaa: queued RN-255 (Queued) - கரூர் அருகே தார்ச்சாலை அமைப்பு
-12:34:55 instagram duplicate check karur: 50 recent posts read
-12:34:55 verify 2026-11-28_12: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:34:55    NOT POSTED C0eecea5: queued RN-256 (Queued) - அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ
-12:34:55    NOT POSTED C3e83654: queued RN-254 (Queued) - அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்று
-12:34:55    NOT POSTED Cefcfcaa: queued RN-255 (Queued) - கரூர் அருகே தார்ச்சாலை அமைப்பு
-12:40:01 instagram duplicate check karur: 50 recent posts read
-12:40:01 verify 2026-11-28_12: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:40:01    NOT POSTED C0eecea5: queued RN-256 (Queued) - அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ
-12:40:01    NOT POSTED Cefcfcaa: queued RN-255 (Queued) - கரூர் அருகே தார்ச்சாலை அமைப்பு
-12:45:09 instagram duplicate check karur: 50 recent posts read
-12:45:10 verify 2026-11-28_12: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:45:10    NOT POSTED C0eecea5: queued RN-256 (Queued) - அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ
-12:45:10    NOT POSTED Cefcfcaa: queued RN-255 (Queued) - கரூர் அருகே தார்ச்சாலை அமைப்பு
-12:50:16 instagram duplicate check karur: 50 recent posts read
-12:50:16 verify 2026-11-28_12: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:50:16    NOT POSTED C0eecea5: queued RN-256 (Queued) - அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ
-12:50:16    NOT POSTED Cefcfcaa: queued RN-255 (Queued) - கரூர் அருகே தார்ச்சாலை அமைப்பு
-12:55:22 instagram duplicate check karur: 50 recent posts read
-12:55:22 verify 2026-11-28_12: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:55:22    NOT POSTED Cefcfcaa: queued RN-255 (Queued) - கரூர் அருகே தார்ச்சாலை அமைப்பு
-13:00:28 instagram duplicate check karur: 50 recent posts read
-13:00:28 verify 2026-11-28_12: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-13:00:28    NOT POSTED Cefcfcaa: queued RN-255 (Queued) - கரூர் அருகே தார்ச்சாலை அமைப்பு
-13:05:51 verify 2026-11-28_12: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+14:26:48 round 2026-11-28_14: news published 28 Nov 12:26 -> 28 Nov 14:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+14:26:48    + news published since 27 Nov 14:26 that no earlier round found (listed / indexed late) - never one already listed or posted
+14:26:48 insights 2026-11-28T14:26+05:30 (250 reels): topic weights {'temple': 0.33, 'accident': 0.57, 'education': -0.15, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.1, 'politics': 0.22, 'civic': -0.28, 'crime': 1.5, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+14:27:32 open search 'கரூர்' (from_google): 24 links from our outlets
+14:27:32 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 5 links from our outlets
+14:27:32 search links: 13 Google links decoded, 0 not decoded, 67 known from an earlier round, 0 left for the next round, 15 of another district by their headline (not opened)
+14:27:32 85 links on the two papers' Karur pages
+14:28:05 skipped: published before this window=28, already posted=21, not Karur district=9, same event already posted=3, state-wide / other district=3, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, checked in an earlier round=1, no title=1
+14:28:05    drop [already posted] ரேஷன் அரிசி கடத்திய இருவருக்கு காப்பு | dinamalar.com/news/tamil-nad...held-for-smuggling-ration-rice/4388325
+14:28:05    drop [already posted] அரவக்குறிச்சி அருகே லாரி மீது கார் மோதியதில் ஐயப்ப பக்தர்கள் | dinamani.com/tamilnadu/2026/...ar-rams-into-a-lorry-near-aravakurichi
+14:28:05    drop [same event already posted] அதிகாலையில் அதிர்ச்சி.. ஐயப்ப பக்தர்களுக்கு நேர்ந்த சோகம் -  | tamil.abplive.com/news/tamil...s-road-accident-3-dead-namakkal-280731
+14:28:05    drop [not Karur district] தொகுதி மறுவரையறையின் மூலம் தமிழ்நாட்டு மக்களவை எம்.பி.க்கள்  | dinakaran.com/news/number-lo...e-to-59-unionminister-meghwal-explains
+14:28:05    drop [not Karur district] கால்நடைப் பயிற்சி மற்றும் ஆராய்ச்சி மையத்தில் வேளாண் மாணவர்க | dinamalar.com/news/kalvimala...ary-training-and-research-centre/83944
+14:28:05    drop [not Karur district] 2024-ஆம் ஆண்டுமுதல் தி.மு.க மேற்கொண்ட தொடர் போராட்டங்களுக்கா | dinakaran.com/news/dmk-suppo...ill-demands-fair-delimitation-mkstalin
+14:28:05    drop [not Karur district] சனாதன தர்மத்துக்கு கிடைத்த பெரும் வெற்றி! | dinamalar.com/news/tamil-nad...eat-victory-for-sanatan-dharma/4388329
+14:28:05 list: 2 new + 9 earlier news not posted yet
+14:28:05    1. [விபத்து] கரூர் அருகே விபத்து: சபரிமலை சென்று திரும்பிய பக்தர்கள் மூவர் உயிரிழப் (இந்து தமிழ்)
+14:28:05    2. [பொது] மரக்கன்று பராமரிப்பு பணி (தினமலர்) (published 28 Nov 08:02, found only now)
+14:28:05    3. [குடிநீர்] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர் (தினமலர்) (earlier)
+14:28:05    4. [பொது] மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசலில் மீன் ப (தினமலர்) (earlier)
+14:28:05    5. [பொது] உதயநிதி பிறந்த நாள் விழா (தினமலர்) (earlier)
+14:28:05    6. [பொது] காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம் (தினமலர்) (earlier)
+14:28:05    7. [ஆன்மிகம்] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம் (தினமலர்) (earlier)
+14:28:05    8. [பொது] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு (தினமலர்) (earlier)
+14:28:05    9. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்) (earlier)
+14:28:05   10. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
+14:28:05   11. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்) (earlier)
+14:28:05 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_14
