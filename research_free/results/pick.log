@@ -1,29 +1,27 @@
-04:27:12 round 2026-11-28_04: news published 28 Nov 02:26 -> 28 Nov 04:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-04:27:12    + news published since 27 Nov 04:27 that no earlier round found (listed / indexed late) - never one already listed or posted
-04:27:12 insights 2026-11-28T04:27+05:30 (236 reels): topic weights {'temple': 0.32, 'accident': 0.78, 'education': -0.22, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.01, 'politics': 0.11, 'civic': -0.29, 'crime': 1.5, 'weather': 0.14}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-04:27:56 open search 'கரூர்' (from_google): 28 links from our outlets
-04:27:56 town searches (குளித்தலை (+Google), அரவக்குறிச்சி (+Google), கிருஷ்ணராயபுரம், புகழூர், கடவூர், மண்மங்கலம்): 7 links from our outlets
-04:27:56 search links: 14 Google links decoded, 0 not decoded, 84 known from an earlier round, 0 left for the next round, 4 of another district by their headline (not opened)
-04:27:56 78 links on the two papers' Karur pages
-04:28:45 skipped: published before this window=29, already posted=27, not Karur district=12, state-wide / other district=3, only a headline=2, same event already posted=2, checked in an earlier round=1
-04:28:45    drop [not Karur district] வாகனத் தணிக்கையின்போது லோடு வேன் கவிழ்ந்து விபத்து | dinamani.com/all-editions/ed...an-overturns-during-vehicle-inspection
-04:28:45    drop [not Karur district] விபத்தில் சிக்கிய பயணிகள் மீட்க வந்த ஆம்புலன்சும் விபத்து | dinamalar.com/news/tamil-nad...passengers-meets-with-accident/4388111
-04:28:45    drop [not Karur district] ஜெம் கிரானைட் வீரமணி மீதான போக்சோ வழக்கில் தேடப்படும் பிரகாஷ | dinakaran.com/news/prakashs-...l-plea-transferred-two-judge-bench/amp
-04:28:45    drop [not Karur district] தமிழ்நாட்டு வரலாற்றில் இல்லாத வகையில் மதநல்லிணக்கம், மாநில உ | dinakaran.com/news/mkstalin-...rnment-creatingdanger-statesovereignty
-04:28:45    drop [not Karur district] பறிமுதல் செய்து ஓட்டி சென்ற வேன் கவிழ்ந்து போலீஸ்காரர் காயம் | dinamalar.com/news/tamil-nad...ceman-injured-as-van-overturns/4388104
-04:28:45    drop [not Karur district] திருப்புத்தூர் சர்ச் விழா கொடியேற்றத்துடன் துவக்கம் | dinamalar.com/news/tamil-nad...ival-begins-with-flag-hoisting/4388112
-04:28:45    drop [not Karur district] சாக்கோட்டை அருகே ஆபத்தான நிழற்குடை | dinamalar.com/news/tamil-nad...i/socket-near-dangerous-shadow/4388109
-04:28:45 list: 1 new + 1 earlier news not posted yet
-04:28:45    1. [பொது] தேசிய குழந்தைகள் அறிவியல் மாநாட்டில் கரூரிலிருந்து 36 மாணவா்கள் பங்கேற (தினமணி)
-04:28:45    2. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
-04:28:45 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_04
-04:28:46    not picked automatically (ceremony / award / awareness event (low views)): மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி
-04:28:46 round 2026-11-28_04 (at least 3, up to 3 more of well-watched topics): 1 news to choose from (0 from earlier rounds), ranked by this page's insights
-04:28:46   PICK   1.   6.1 [education -0.22 page] தேசிய குழந்தைகள் அறிவியல் மாநாட்டில் கரூரிலிருந்து 36 மாணவா்
-04:28:46 decided: automatic: top 3 of 1 by insights -> 1 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/27/36-students-from-karur-participate-in-the-national-childrens-science-congress
-04:31:08 1 listed news now in the Sheet
-04:31:17 instagram duplicate check karur: 50 recent posts read
-04:31:17 verify 2026-11-28_04: 0 of 1 picked news posted, 0 skipped on purpose, 1 waiting for their posting start
-04:31:17    WAITING Cd2553f2: waiting RN-245: night: only urgent news posts outside 06:00-22:00 IST (owner 27 Nov) - தேசிய குழந்தைகள் அறிவியல் மாநாட்டில் கரூரிலிருந்து 36 மாணவா்
+06:27:41 round 2026-11-28_06: news published 28 Nov 04:27 -> 28 Nov 06:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+06:27:41    + news published since 27 Nov 06:27 that no earlier round found (listed / indexed late) - never one already listed or posted
+06:27:41 insights 2026-11-28T06:27+05:30 (237 reels): topic weights {'temple': 0.33, 'accident': 0.79, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.0, 'politics': 0.29, 'civic': -0.28, 'crime': 1.5, 'weather': 0.15}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+06:28:28 open search 'கரூர்' (from_google): 15 links from our outlets
+06:28:28 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம் (+Google), புகழூர் (+Google), கடவூர், மண்மங்கலம்): 3 links from our outlets
+06:28:28 search links: 15 Google links decoded, 0 not decoded, 77 known from an earlier round, 0 left for the next round, 4 of another district by their headline (not opened)
+06:28:28 86 links on the two papers' Karur pages
+06:29:23 skipped: published before this window=30, already posted=27, not Karur district=19, state-wide / other district=3, only a headline=2, same event already posted=2, checked in an earlier round=2
+06:29:23    drop [already posted] ரூ.252.83 கோடி மதிப்பில் திட்டப் பணி: கலெக்டர் ஆய்வு | dinamalar.com/news/tamil-nad...s-25283-crore-collector-review/4387474
+06:29:23    drop [not Karur district] பயிர்க்கடன் தள்ளுபடி திட்ட காலத்தை ஒரு மாதம் நீட்டிக்கப்படும | dinamalar.com/news/tamil-nad...-scheme-be-extended-by-a-month/4387682
+06:29:23    drop [not Karur district] சொல்லிட்டாங்க... - Dinakaran - Dinakaran | dinakaran.com/news/mkstalin_edappadipalaniswami-6
+06:29:23    drop [not Karur district] எல்லா மாநிலங்களிலும் எம்.பி தொகுதிகளின் எண்ணிக்கையை 50% அதிக | dinakaran.com/news/states_co...crease_redelineation_women_reservation
+06:29:23    drop [not Karur district] ஆஸ்திரேலியாவுடன் 3வது டி20 எளிதில் வென்றது இங்கிலாந்து: ஓவர் | dinakaran.com/news/australia_t20_england_overton_seat
+06:29:23    drop [not Karur district] 6வது விக்கெட் ஜோடியால் மீண்டெழுந்தது நியூசிலாந்து: வெலிங்டன் | dinakaran.com/news/wicket_pair_newzealand_wellington_story_repeat
+06:29:23    drop [not Karur district] சில்லி பாயின்ட்… - Dinakaran - Dinakaran | dinakaran.com/news/chili_point-37
+06:29:23    drop [not Karur district] கச்சா வாழைக்காய் மசாலா சிப்ஸ் | dinamalar.com/news/tamil-nad...mbatore/raw-banana-spice-chips/4388200
+06:29:23    drop [not Karur district] வரி கட்டாத திருமண மண்டபங்களுக்கு சீல் | dinakaran.com/district/dindigul-281126-1/amp
+06:29:23    drop [not Karur district] டிஜிட்டல் பொருளாதாரம்! மத்திய ஐ.டி., அமைச்சக செயலர் கருத்து | dinamalar.com/news/business-...ts-by-secretary-ministry-of-it/4388016
+06:29:23    drop [not Karur district] வலை வளை: நவ. 28 | dinamalar.com/news/india-tamil-news/the-internet-november-28th/4387842
+06:29:23    drop [not Karur district] வீணை இசை கச்சேரி | dinamalar.com/news/tamil-nad...ict-news-chennai/veena-concert/4387988
+06:29:23    drop [not Karur district] விழிப்புணர்வு முகாம் | dinamalar.com/news/tamil-nad...t-news-dindigul/awareness-camp/4388162
+06:29:23    drop [not Karur district] தீபத்தூணில் தீபம் ஏற்ற அறநிலையத்துறை ஏற்பாடு செய்யவில்லை | dinamalar.com/news/tamil-nad...o-light-the-diyas-at-deepathun/4388170
+06:29:23    drop [not Karur district] மெரினாவில் நாளை சைக்கிள் மாராத்தான் | dinamalar.com/news/tamil-nad...bicycle-marathon-at-the-marina/4387699
+06:29:23 list: 0 new + 1 earlier news not posted yet
+06:29:23    1. [மழை / வானிலை] மழைநீர் சேகரிப்பு விழிப்புணர்வு பேரணி (தினமலர்) (earlier)
+06:29:23 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_06

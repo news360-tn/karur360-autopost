@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-28T04:27+05:30",
- "posts_measured": 236,
+ "updated": "2026-11-28T06:27+05:30",
+ "posts_measured": 237,
  "topic_weight": {
-  "temple": 0.32,
-  "accident": 0.78,
-  "education": -0.22,
+  "temple": 0.33,
+  "accident": 0.79,
+  "education": -0.21,
   "jobs": 1.5,
   "power_cut": 1.5,
-  "poultry_agri": -0.01,
-  "politics": 0.11,
-  "civic": -0.29,
+  "poultry_agri": -0.0,
+  "politics": 0.29,
+  "civic": -0.28,
   "crime": 1.5,
-  "weather": 0.14
+  "weather": 0.15
  },
  "topic_10k_share": {
   "temple": 0.03,
   "accident": 0.11,
-  "education": 0.11,
+  "education": 0.1,
   "jobs": 0.0,
   "power_cut": 0.4,
   "poultry_agri": 0.04,
@@ -32,7 +32,7 @@
  "topic_n": {
   "temple": 33,
   "accident": 19,
-  "education": 28,
+  "education": 29,
   "jobs": 5,
   "power_cut": 5,
   "poultry_agri": 25,

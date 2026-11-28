@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-28T04:27:12.356066+05:30",
+ "last_end": "2026-11-28T06:27:41.795003+05:30",
  "pool": {
   "Cc893d0a": {
    "id": "Cc893d0a",
@@ -12,34 +12,9 @@
    "score": 11.11,
    "power_cut": false,
    "listed_at": "2026-11-27T08:30:01.888751+05:30"
-  },
-  "Cd2553f2": {
-   "id": "Cd2553f2",
-   "url": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/27/36-students-from-karur-participate-in-the-national-childrens-science-congress",
-   "title": "தேசிய குழந்தைகள் அறிவியல் மாநாட்டில் கரூரிலிருந்து 36 மாணவா்கள் பங்கேற்பு",
-   "summary": "திருப்பூரில் நடைபெறவுள்ள தேசிய குழந்தைகள் அறிவியல் மாநாட்டில் பங்கேற்பதற்காக கரூரிலிருந்து 36 மாணவா்கள் அடங்கிய குழுவினரை வழியனுப்பும் விழா வெள்ளிக்கிழமை நடைபெற்றது..திருப்பூா் மாவட்டம், விஜயமங்கலத்தில் உள்ள சசூரி பொற...",
-   "source": "தினமணி",
-   "published": "2026-11-27T21:14:19.251Z",
-   "category": "பொது",
-   "score": 6.78,
-   "power_cut": false,
-   "listed_at": "2026-11-28T04:27:12.356066+05:30",
-   "picked_at": "2026-11-28T04:28:46.571831+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-26_06": {
-   "window": [
-    "2026-11-26T05:04:11.390463+05:30",
-    "2026-11-26T06:05:00.835180+05:30"
-   ],
-   "ids": [],
-   "sent": false,
-   "deadline": "2026-11-26T07:05:00.835180+05:30",
-   "decided": null,
-   "written": []
-  },
   "2026-11-26_08": {
    "window": [
     "2026-11-26T06:05:00.835180+05:30",
@@ -381,6 +356,19 @@
    "written": [
     "Cd2553f2"
    ]
+  },
+  "2026-11-28_06": {
+   "window": [
+    "2026-11-28T04:27:12.356066+05:30",
+    "2026-11-28T06:27:41.795003+05:30"
+   ],
+   "ids": [
+    "Cc893d0a"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T07:27:41.795003+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {},
@@ -498,7 +486,7 @@
   "C0604f00": "2026-11-27T16:41 already posted",
   "C0f88802": "2026-11-27T16:41 already posted",
   "C7cad38d": "2026-11-27T16:41 published before this window",
-  "Cd4b76c0": "2026-11-27T16:41 already posted",
+  "Cd4b76c0": "2026-11-27T16:41 published before this window",
   "C852475a": "2026-11-27T16:41 already posted",
   "C49aab6c": "2026-11-27T16:41 published before this window",
   "C4dabc63": "2026-11-27T16:41 already posted",
@@ -748,6 +736,39 @@
   "C2a56a1b": "2026-11-28T04:27 not Karur district",
   "Caf9dfdf": "2026-11-28T04:27 not Karur district",
   "C1948aa4": "2026-11-28T04:27 not Karur district",
-  "C423a458": "2026-11-28T04:27 not Karur district"
+  "C423a458": "2026-11-28T04:27 not Karur district",
+  "Geb9b41ba93": "2026-11-28T06:27 D",
+  "Gcdb0e1972a": "2026-11-28T06:27 D",
+  "G5b780450be": "2026-11-28T06:27 D",
+  "Gb4518441a0": "2026-11-28T06:27 D",
+  "G769cd3be36": "2026-11-28T06:27 D",
+  "Gcde9008bad": "2026-11-28T06:27 D",
+  "G64f39dcce1": "2026-11-28T06:27 D",
+  "Gc0ae7a68e1": "2026-11-28T06:27 D",
+  "G2196086831": "2026-11-28T06:27 D",
+  "G58c896eccc": "2026-11-28T06:27 D",
+  "G6fdd653f69": "2026-11-28T06:27 D",
+  "G45191a524e": "2026-11-28T06:27 D",
+  "G15cf5ff2ba": "2026-11-28T06:27 D",
+  "Gf8a8a23f68": "2026-11-28T06:27 D",
+  "G1098358fef": "2026-11-28T06:27 D",
+  "G533f59d489": "2026-11-28T06:27 D",
+  "G787ca0b575": "2026-11-28T06:27 D",
+  "Gf7cebd278c": "2026-11-28T06:27 D",
+  "Cc1e85ac": "2026-11-28T06:27 already posted",
+  "C156feb4": "2026-11-28T06:27 not Karur district",
+  "C645c6d7": "2026-11-28T06:27 not Karur district",
+  "C365c7ab": "2026-11-28T06:27 not Karur district",
+  "C327f989": "2026-11-28T06:27 not Karur district",
+  "C788ae2b": "2026-11-28T06:27 not Karur district",
+  "C3a5c665": "2026-11-28T06:27 not Karur district",
+  "C07309f6": "2026-11-28T06:27 not Karur district",
+  "Ce5b4439": "2026-11-28T06:27 not Karur district",
+  "C4e76b06": "2026-11-28T06:27 not Karur district",
+  "Cfdd1352": "2026-11-28T06:27 not Karur district",
+  "Cf929a23": "2026-11-28T06:27 not Karur district",
+  "C6da8f33": "2026-11-28T06:27 not Karur district",
+  "Cdaad960": "2026-11-28T06:27 not Karur district",
+  "C765c5a2": "2026-11-28T06:27 not Karur district"
  }
 }
