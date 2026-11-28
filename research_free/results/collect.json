@@ -3,270 +3,189 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/dharmapuri/good-news-from-the-central-government-dharmapuri-madurai-road-to-become-a-6-lane-highway-849043.html",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tree-maintenance-work/4388310",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/anticipation-to-remove-plants-scattered-on-the-transformer/4388322",
-  "candidate filter: collected=3",
-  "to write: 3 Karur district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Karur; time left 79 min",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-get-into-an-argument-with-municipal-corporation-officials-who-arrived-to-remove-banners-of-eps",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/no-picture-of-cm-or-government-plan-karur-district-website-down-without-update/4388317",
+  "candidate filter: collected=2",
+  "to write: 2 Karur district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://tamil.oneindia.com/news/dharmapuri/good-news-from-th",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-g",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
-  "filed: 3 Karur district stories (target 3), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
+  "filed: 2 Karur district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கிருஷ்ணராயபுரம் பாலப்பட்டி சாலையில் மரக்கன்று நடுவதற்கான குழி அமைக்கும் பணி",
-   "english_headline": "Pit-digging for tree saplings begins along Palappatti road near Krishnarayapuram",
-   "category": "Civic Issues",
-   "location": "Palappatti road, Karuppathur panchayat, Krishnarayapuram, Karur district",
-   "importance": "Low",
-   "scope": "local",
+   "tamil_headline": "கரூர் மாவட்ட இணையதளம் அப்டேட் இல்லாமல் முடக்கம்",
+   "english_headline": "Karur district official website left without updates, Chief Minister's photo and scheme details missing",
+   "category": "Government & Services",
+   "location": "Karur city, Karur district",
+   "importance": "Medium",
+   "scope": "district",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மரக்கன்று பணி",
-    "loc": "பாலப்பட்டி, கிருஷ்ணராயபுரம்",
-    "hl1": "பாலப்பட்டி சாலையில் மரக்கன்று நடும் பணி",
-    "hl2": "100 நாள்",
+    "cat": "அரசு இணையதளம்",
+    "loc": "கரூர் மாவட்டம்",
+    "hl1": "கரூர் மாவட்ட இணையதளம் அப்டேட் இல்லை",
+    "hl2": "முதல்வர் படம், திட்ட விவரம்",
     "slides": [
      {
-      "title": "என்ன பணி?",
+      "title": "என்ன குறை?",
       "lines": [
-       "பாலப்பட்டி சாலையோரம் மரக்கன்றுகள் நடத் திட்டம்",
-       "மரக்கன்றுகள் நடுவதற்காகக் குழிகள் அமைக்கும் பணி நடக்கிறது",
-       "சாலையோரம் நிழல் தரும் மரங்கள் நடப்பட உள்ளன"
+       "கரூர் மாவட்ட நிர்வாக இணையதளம் அப்டேட் இல்லாமல் உள்ளது",
+       "முதல்வர் படமோ, அரசின் புதிய திட்ட விவரமோ இல்லை",
+       "முதல் பக்கம் மட்டுமே அப்டேட் செய்யப்படுகிறது"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "பழைய தகவல்கள்",
       "lines": [
-       "கருப்பத்தூர் பஞ்சாயத்து பாலப்பட்டி பகுதி",
-       "பாலப்பட்டி முதல் மேட்டுப்பட்டி பிரிவு வரை தார்ச்சாலை",
-       "கிருஷ்ணராயபுரம் அடுத்த பகுதி"
+       "பல துறைகளின் புள்ளி விவரம் 2016-17க்கு பின்",
+       "சில துறைகளில் காலாவதியான திட்டப் பெயர்கள் உள்ளன",
+       "வேளாண், மருத்துவம், வேலைவாய்ப்பு தகவல்கள் இல்லை"
       ]
      },
      {
-      "title": "யார் செய்கின்றனர்?",
+      "title": "கோரிக்கை",
       "lines": [
-       "பஞ்சாயத்தில் உள்ள 100 நாள் திட்டத் தொழிலாளர்கள்",
-       "பஞ்சாயத்து நிர்வாகம் பணியை மேற்பார்வையிட்டது",
-       "கடந்த வாரம் சாலையோர முள் செடிகள் வெட்டி அகற்றப்பட்டன"
+       "கலெக்டர் மாறும்போது பெயர், படம் மட்டுமே மாற்றப்படுகிறது",
+       "இணையதளத்தை உடனே அப்டேட் செய்ய வேண்டும் என கோரிக்கை",
+       "இணையதள முகவரி: karur.nic.in"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கிருஷ்ணராயபுரம் அருகே பாலப்பட்டி சாலையோரம் மரக்கன்றுகள் நடுவதற்காகக் குழிகள் அமைக்கும் பணி நடைபெறுகிறது. கருப்பத்தூர் பஞ்சாயத்து பாலப்பட்டி பகுதியிலிருந்து மேட்டுப்பட்டி பிரிவு வரை உள்ள தார்ச்சாலையில் இந்தப் பணி நடக்கிறது. இந்தச் சாலை வழியாக ஏராளமானோர் வாகனங்களில் செல்கின்றனர். சாலையோரம் வளர்ந்திருந்த முள் செடிகள் கடந்த வாரம் பஞ்சாயத்து நிர்வாகம் மூலம் வெட்டி அகற்றப்பட்டன. தற்போது சாலையோரத்தில் நிழல் தரும் மரங்கள் நடுவதற்கான பணி தொடங்கப்பட்டுள்ளது. பஞ்சாயத்தில் உள்ள 100 நாள் திட்டத் தொழிலாளர்கள் இந்தக் குழி அமைக்கும் பணியில் ஈடுபட்டுள்ளனர். பஞ்சாயத்து நிர்வாகம் இந்தப் பணிகளை மேற்பார்வையிட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌳 கிருஷ்ணராயபுரம் பாலப்பட்டி சாலையில் மரக்கன்று நடுவதற்கான குழி அமைக்கும் பணி\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த கருப்பத்தூர் பஞ்சாயத்து பாலப்பட்டி பகுதியிலிருந்து மேட்டுப்பட்டி பிரிவு வரையிலான தார்ச்சாலையில் மரக்கன்றுகள் நடுவதற்காக குழிகள் அமைக்கும் பணி நடைபெறுகிறது. கடந்த வாரம் சாலையோரம் வளர்ந்திருந்த முள் செடிகள் பஞ்சாயத்து நிர்வாகம் மூலம் வெட்டி அகற்றப்பட்டன. சாலையோரத்தில் நிழல் தரும் மரங்கள் நடுவதற்கான பணி தொடங்கப்பட்டுள்ளது. பஞ்சாயத்தில் உள்ள 100 நாள் திட்டத் தொழிலாளர்கள் இந்தப் பணியில் ஈடுபட்டுள்ளனர். பஞ்சாயத்து நிர்வாகம் பணிகளை மேற்பார்வையிட்டது.\n\n📍 இடம்: பாலப்பட்டி - மேட்டுப்பட்டி பிரிவு சாலை, கருப்பத்தூர் பஞ்சாயத்து, கிருஷ்ணராயபுரம்\n\nKrishnarayapuram roadside tree planting pits | Karur news\n📍 பாலப்பட்டி, கிருஷ்ணராயபுரம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
-   "prompts": "A group of 100-day scheme workers in plain shirts and veshti or trousers dig rows of holes with spades on the roadside of a tarred village road in Palappatti, Krishnarayapuram, Karur district, as the panchayat begins planting shade trees. The road is a narrow black-tarred stretch running between dry, cleared patches of earth where thorny bushes were removed last week, with a few fresh pits already dug at regular intervals along the edge. Two panchayat supervisors stand a little apart near the roadside, watching the work, while a two-wheeler and a small autorickshaw pass slowly on the road. Dry red soil piles beside the holes, and a few flat-topped bush cuttings lie in a heap at the verge. Daylight, clear sky, mid-morning warm light. Camera at eye level, 35 mm, wide enough to show the whole road and the row of pits, workers seen from behind or at a distance. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of freshly dug round pits in dry red soil along the edge of a tarred village road in Karur district, each hole marked clearly beside the black asphalt. Beside the holes lie a pair of spades leaning against a heap of loose soil and a bundle of cut thorny bush branches piled at the roadside, the sharp cut stems still visible. Tyre marks show on the edge of the road where two-wheelers have passed. Soft daylight, clear morning, shallow depth of field, camera slightly high, 35 mm, a worker's feet in sandals visible at the edge of the frame, no faces shown. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tree-maintenance-work/4388310",
-   "published": "2026-11-28T08:02:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "கரூர் மாவட்ட நிர்வாக இணையதளம் நீண்ட நாட்களாக அப்டேட் செய்யப்படாமல் முடங்கியுள்ளது. முதல்வர் படமோ, அரசின் புதிய திட்டங்கள் குறித்த தகவலோ இணையதளத்தில் இல்லை. காணொலி வாயிலாக முதல்வர் தொடங்கி வைத்த திட்டம் குறித்த செய்திகளும் பதிவேற்றப்படவில்லை. ஊடக முனையத்தின் போட்டோ, வீடியோ பகுதியிலும் முதல்வர் பற்றி எதுவும் இடம் பெறவில்லை. இணையதளத்தில் முதல் பக்கம் மட்டுமே அப்டேட் செய்யப்படுகிறது. கலெக்டர் மாறும்போது அவரது பெயர், புகைப்படம் மட்டுமே மாற்றப்படுகிறது. வேளாண், மருத்துவம், வேலைவாய்ப்பு உள்ளிட்ட துறைகளின் தகவல்கள் இல்லை. பல துறைகளின் புள்ளி விவரங்கள் 2016-17ஆம் ஆண்டுக்குப் பின் புதுப்பிக்கப்படவில்லை. சில துறைகளில் காலாவதியான திட்டப் பெயர்களும் உள்ளன. இணையதளத்தை உடனடியாக அப்டேட் செய்ய நடவடிக்கை எடுக்க வேண்டும் என்று பொதுமக்கள் கோரிக்கை வைக்கின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ கரூர் மாவட்ட இணையதளம் அப்டேட் இல்லாமல் முடங்கியுள்ளது\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட நிர்வாக இணையதளத்தில் முதல்வர் படமோ, அரசின் புதிய திட்டங்கள் குறித்த தகவலோ இல்லை. இணையதளத்தில் முதல் பக்கம் மட்டுமே அப்டேட் செய்யப்படுகிறது. கலெக்டர் மாற்றத்துக்குப் பின் அவரது பெயரும் புகைப்படமும் மட்டுமே மாற்றப்படுகின்றன.\nகாணொலி வாயிலாக முதல்வர் தொடங்கி வைத்த திட்டம் குறித்த தகவல்களும் பதிவேற்றப்படவில்லை. ஊடக முனையத்தின் போட்டோ, வீடியோ பகுதியிலும் முதல்வர் பற்றி எதுவும் இடம் பெறவில்லை.\n🌾 வேளாண், தோட்டக்கலை, வருவாய், மருத்துவம், வேலைவாய்ப்பு, சுகாதாரம் உள்ளிட்ட துறைகளின் தகவல்கள் இல்லை.\n📊 பல துறைகளின் புள்ளி விவரங்கள் 2016-17ஆம் ஆண்டுக்குப் பின் புதுப்பிக்கப்படவில்லை. சில துறைகளில் காலாவதியான திட்டப் பெயர்களும் உள்ளன.\n🔗 இணையதள முகவரி: karur.nic.in\nஇணையதளத்தை உடனடியாக அப்டேட் செய்ய நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை.\n\nKarur district website not updated | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A district administration staff member in a cotton shirt sits at a desk in a government office in Karur city, Tamil Nadu, viewed from behind as they look at a computer monitor displaying an outdated government website whose page is blank where a photograph should be, with a stack of old printed files and a dusty wall calendar beside the keyboard. The room is part of the Karur district Collectorate, with plain tube lights, a wooden table, and a tiled floor, and a second official in a shirt and trousers stands at a distance near a filing cabinet. The monitor shows a generic government web page with a few text blocks and an empty rectangular space where a leader's photo would be, with no readable text. It is daylight coming through a window with a bamboo blind and the office looks ordinary and unhurried. Shot at eye level, 35 mm, wide enough to show the room and the desk, with the official's back and the screen clearly visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a computer monitor on a government office desk in Karur district, Tamil Nadu, showing an outdated official website page with an empty square frame where a photograph should appear and blocks of blurred, unreadable placeholder text, while a stack of old dog-eared files and a dried-up tea glass sit at the edge of the frame. A hand in a shirt sleeve rests on the mouse, suggesting a staffer is checking the page, and the background shows a blurred wall with a government notice board and a wooden cabinet. Daylight falls softly across the desk from a window, with no people's faces visible. Shot at a slightly high angle, 35 mm, close enough to show the empty photo frame and the stale files. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/no-picture-of-cm-or-government-plan-karur-district-website-down-without-update/4388317",
+   "published": "2026-11-28T08:06:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/b644c05c9aae22c7.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/dc1f3d8895a04123.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/fb0775393eb5ece5.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/133fb63321074341.jpg"
    ]
   },
   {
-   "tamil_headline": "கரூர் அருகே டிரான்ஸ்பார்மரில் படர்ந்த செடிகளை அகற்ற எதிர்பார்ப்பு",
-   "english_headline": "Residents expect plants growing on transformer near Karur to be removed",
+   "tamil_headline": "கரூரில் பேனர் அகற்றம்: அதிகாரிகளுடன் அ.தி.மு.க.வினர் வாக்குவாதம்",
+   "english_headline": "AIADMK cadres argue with Karur corporation officials over removing banners welcoming Edappadi Palaniswami",
    "category": "Civic Issues",
-   "location": "Periya Andankovil area, Karur district",
+   "location": "Karur city, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொதுமக்கள் கோரிக்கை",
-    "loc": "பெரிய ஆண்டாங்கோவில், கரூர்",
-    "hl1": "கரூர் அருகே டிரான்ஸ்பார்மரில் செடிகள்",
-    "hl2": "அகற்ற மக்கள் எதிர்பார்ப்பு",
+    "cat": "பேனர் அகற்றம்",
+    "loc": "கரூர் மாநகர்",
+    "hl1": "கரூரில் பேனர் அகற்ற அதிகாரிகள் வந்தனர்",
+    "hl2": "அ.தி.மு.க.வினர் வாக்குவாதம்",
     "slides": [
      {
-      "title": "என்ன பிரச்சனை?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "பெரிய ஆண்டாங்கோவில் பகுதியில் டிரான்ஸ்பார்மரில் செடிகள்",
-       "பல மாதங்களாக அதிகளவில் செடிகள் முளைத்துள்ளன",
-       "மின்வாரிய ஊழியர்கள் கண்டுகொள்ளவில்லை என மக்கள் புகார்"
+       "எடப்பாடி பழனிசாமியை வரவேற்று வைத்த பேனர்கள் அகற்றம்",
+       "கரூர் மாநகர பகுதிகளில் பேனர்கள் வைக்கப்பட்டிருந்தன",
+       "பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு"
       ]
      },
      {
-      "title": "ஏன் ஆபத்து?",
+      "title": "புகார்கள்",
       "lines": [
-       "சேதமடைந்த சிமென்ட் கம்பம் கீழே விழும் அபாயம் உள்ளது",
-       "விழுந்தால் பல வீடுகளின் மின் இணைப்பு துண்டிக்கப்படும்"
+       "மாநகராட்சி அதிகாரிகளுக்குப் புகார்கள் சென்றன",
+       "பேனர்களை அகற்ற அதிகாரிகள் அங்கு விரைந்தனர்",
+       "அ.தி.மு.க.வினர் எதிர்ப்பு தெரிவித்தனர்"
       ]
      },
      {
-      "title": "மக்கள்",
+      "title": "வாக்குவாதம்",
       "lines": [
-       "கரூர் மாவட்டத்தில் மழை பெய்து வரும் நிலையில் கவலை",
-       "டிரான்ஸ்பார்மரில் உள்ள செடிகளை அகற்ற அதிகாரிகள் நடவடிக்கை"
+       "அ.தி.மு.க.வினர் அதிகாரிகளுடன் கடும் வாக்குவாதம்",
+       "அப்பகுதியில் சிறிது நேரம் பரபரப்பு நிலவியது",
+       "அதிகாரிகள் அறிவுறுத்தலைத் தொடர்ந்து சில பேனர்கள் அகற்றம்"
+      ]
+     },
+     {
+      "title": "அகற்றம்",
+      "lines": [
+       "நடைபாதையில் இடையூறாக இருந்த சில பேனர்களை அ.தி.மு.க.வினரே",
+       "பொதுமக்களுக்கு இடையூறான பேனர்கள் மட்டும் அகற்றப்பட்டன",
+       "மேலும் செய்திகளுக்கு கரூர் 360 பக்கத்தை பின்தொடருங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூர் அருகே பெரிய ஆண்டாங்கோவில் பகுதியில் டிரான்ஸ்பார்மரில் செடிகள் படர்ந்துள்ளன. பல மாதங்களாக அதிகளவில் செடிகள் முளைத்துள்ளன. இது குறித்து அப்பகுதி மக்கள் புகார் தெரிவித்தும், மின்வாரிய ஊழியர்கள் கண்டுகொள்ளவில்லை. சேதமடைந்த நிலையில் உள்ள சிமென்ட் கம்பம் கீழே விழுந்தால், பல வீடுகளுக்கு மின் இணைப்பு துண்டிக்கப்படும் அபாயம் உள்ளது. கரூர் மாவட்டத்தில் மழை பெய்து வரும் நிலையில், டிரான்ஸ்பார்மரில் உள்ள செடிகளை அகற்ற அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌿 கரூர் அருகே டிரான்ஸ்பார்மரில் படர்ந்த செடிகளை அகற்ற மக்கள் எதிர்பார்ப்பு\n\n📰 முழு விவரம்:\nகரூர் அருகே பெரிய ஆண்டாங்கோவில் பகுதியில் மின் கம்பங்கள், டிரான்ஸ்பார்மர்கள் அமைக்கப்பட்டுள்ளன. பல மாதங்களாக டிரான்ஸ்பார்மரில் அதிகளவில் செடிகள் முளைத்துள்ளன. இது குறித்து அப்பகுதி மக்கள் புகார் தெரிவித்தும், மின்வாரிய ஊழியர்கள் கண்டுகொள்ளவில்லை.\nசேதமடைந்த நிலையில் உள்ள சிமென்ட் கம்பம் கீழே விழுந்தால், பல வீடுகளுக்கு மின் இணைப்பு துண்டிக்கப்படும் அபாயம் உள்ளது.\nகரூர் மாவட்டத்தில் மழை பெய்து வரும் நிலையில், டிரான்ஸ்பார்மரில் உள்ள செடிகளை அகற்ற அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் எதிர்பார்க்கின்றனர்.\n\n📍 இடம்: பெரிய ஆண்டாங்கோவில், கரூர் அருகே\n\nKarur transformer plants removal demand | Karur news\n📍 பெரிய ஆண்டாங்கோவில், கரூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #மின்சாரம்",
-   "prompts": "A TNEB lineman in a khaki shirt stands on a ladder beside a grey transformer mounted high on a concrete pole in Periya Andankovil, Karur, pulling out thick green weeds and creepers that have overgrown the metal box and its cables. Nearby, a row of other concrete electric poles stretches along a narrow residential street lined with modest brick houses, tiled roofs and small compound walls. A few local residents stand at a distance by the roadside, seen from behind, watching quietly, some holding umbrellas. A parked two-wheeler and a few plastic water pots sit near the wall. The sky is overcast and grey with light rain falling, wet tarmac reflecting the dull light, and puddles on the road. Shot in daylight at eye level from across the street, 35 mm, wide enough to show the transformer, the poles, the houses and the rain. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a transformer on a concrete pole in Periya Andankovil, Karur, its metal casing and cable connections almost fully covered by dense, wild green plants, creepers and sprouting weeds growing out of the cracks and joints. Beside it, the lower part of the cement pole shows visible damage, with chipped edges, exposed rough grey concrete and a crack running down the surface, suggesting it may fall. Raindrops glisten on the wet leaves and on the rust-streaked metal box. The background is soft and slightly blurred: a wall of a house and the grey, overcast sky of the rainy day. Daylight, shot at close range with a 35 mm lens, shallow depth of field, no people in focus. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/anticipation-to-remove-plants-scattered-on-the-transformer/4388322",
-   "published": "2026-11-28T08:09:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "கரூரில் பேனர்களை அகற்ற வந்த அதிகாரிகளுடன் அ தி மு க வினர் வாக்குவாதம் செய்தனர். அ தி மு க பொதுச்செயலாளர் எடப்பாடி பழனிசாமியை வரவேற்று கரூர் மாநகர பகுதிகளில் ஏராளமான பேனர்கள் வைக்கப்பட்டிருந்தன. இந்த பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக இருப்பதாக மாநகராட்சி அதிகாரிகளுக்கு புகார்கள் சென்றன. இதையடுத்து, பேனர்களை அகற்ற மாநகராட்சி அதிகாரிகள் அங்கு விரைந்து வந்தனர். அப்போது பேனர்களை அகற்ற எதிர்ப்பு தெரிவித்து அ தி மு க வினர் அதிகாரிகளுடன் கடும் வாக்குவாதத்தில் ஈடுபட்டனர். இதனால் அந்தப் பகுதியில் சிறிது நேரம் பரபரப்பு நிலவியது. பின்னர், அதிகாரிகள் அறிவுறுத்தியதைத் தொடர்ந்து, நடைபாதையில் பொதுமக்களுக்கு இடையூறாக வைக்கப்பட்டிருந்த சில பேனர்களை அ தி மு க வினரே அகற்றினர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 கரூர் மாநகரில் பேனர் அகற்றம்: அதிகாரிகளுடன் அ.தி.மு.க.வினர் வாக்குவாதம்\n\n📰 முழு விவரம்:\nகரூரில் அ.தி.மு.க. பொதுச்செயலாளர் எடப்பாடி பழனிசாமியை வரவேற்று வைக்கப்பட்டிருந்த பேனர்களை அகற்ற மாநகராட்சி அதிகாரிகள் முயன்றனர்.\nஇந்த பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக இருப்பதாக மாநகராட்சி அதிகாரிகளுக்குப் புகார்கள் சென்றன.\nஅதிகாரிகள் வந்தபோது பேனர்களை அகற்ற எதிர்ப்பு தெரிவித்து அ.தி.மு.க.வினர் அவர்களுடன் கடும் வாக்குவாதத்தில் ஈடுபட்டனர்.\nஅதிகாரிகள் அறிவுறுத்தியதைத் தொடர்ந்து, நடைபாதையில் இடையூறாக இருந்த சில பேனர்களை அ.தி.மு.க.வினரே அகற்றினர்.\n\n📍 இடம்: கரூர் மாநகர பகுதிகள்\nℹ️ மக்கள் கவனத்திற்கு: பொதுமக்களுக்கு இடையூறான பேனர்கள் மட்டும் அகற்றப்பட்டன.\n\nKarur banner removal AIADMK argument | Karur news\n📍 கரூர் மாநகர், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
+   "prompts": "A group of men in shirts and veshti stand in a heated argument with Karur city corporation officials on a busy road in Karur city centre, one man pointing toward a large party banner strung between two poles over the footpath. Behind them, a row of tall political welcome banners fixed to lamp posts and railings lines the pavement, blocking the walkway for pedestrians, while town buses and two-wheelers pass slowly on the road. Typical Karur city look: shops with shuttered fronts, concrete footpath, power lines overhead. Several corporation workers in uniform stand close to the banners, and a few onlookers watch from a distance. Daylight, eye level, 35 mm lens wide enough to show the street, with the people seen from behind or far away. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a large, rolled-up party banner lying on a concrete footpath beside a corporation worker's hand reaching for it, with a few more banners fixed to a metal railing in the background. Some of the banner fabric is torn and creased; a pile of removed flex boards rests against a roadside lamp post. Behind, the blurred legs of AIADMK cadres in veshti and trousers and a corner of a town bus are visible on a busy Karur street. Daylight, slightly high angle, 35 mm, focus on the banner and the tug-of-war of removal, people blurred or seen from behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-get-into-an-argument-with-municipal-corporation-officials-who-arrived-to-remove-banners-of-eps",
+   "published": "2026-11-28T13:33:27Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/0b1aac73966e240a.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/daef1e24977f63b7.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தர்மபுரி - கரூர் - திண்டுக்கல் - மதுரை சாலை 6 வழிச்சாலையாகிறது",
-   "english_headline": "Dharmapuri-Karur-Dindigul-Madurai road on NH 44 to be widened to 6 lanes; Madurai ring road phase 2 to become 4 lanes",
-   "category": "Roads & Transport",
-   "location": "Dharmapuri, Karur, Dindigul and Madurai (Samayanallur) route, Tamil Nadu",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விரிவாக்கம்",
-    "loc": "கரூர் - திண்டுக்கல் - மதுரை வழித்தடம்",
-    "hl1": "கரூர் வழியாக மதுரை 6 வழிச்சாலையாகிறது",
-    "hl2": "339 கிலோ மீட்டர் சாலை",
-    "slides": [
-     {
-      "title": "என்ன திட்டம்?",
-      "lines": [
-       "தேசிய நெடுஞ்சாலை 44 - <b>6 வழிச்சாலை</b>",
-       "தர்மபுரி - கரூர் - திண்டுக்கல் - மதுரை சமயநல்லூர் வரை",
-       "தமிழகத்தில் மொத்தம் <b>339 கிலோ மீட்டர்</b> திட்டம்"
-      ]
-     },
-     {
-      "title": "மதுரை ரிங் ரோடு",
-      "lines": [
-       "தேசிய நெடுஞ்சாலை 744-ஏ மதுரை ரிங் ரோடு 2-ம் கட்டம்",
-       "தாமரைப்பட்டி முதல் டி.புதுப்பட்டி வரை",
-       "<b>4 வழிச்சாலை</b>யாக மேம்படுத்தப்பட உள்ளது"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "விரிவான திட்ட அறிக்கை தயாரிக்க டெண்டர் கோரப்பட்டுள்ளது",
-       "ஆலோசனை நிறுவனம் நியமிக்கப்பட உள்ளது",
-       "போக்குவரத்து நெரிசல் குறையும் என கூறப்படுகிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் வழியாக மதுரை சாலை 6 வழிச்சாலையாகிறது. தர்மபுரி - கரூர் - திண்டுக்கல் - மதுரை சமயநல்லூர் இடையிலான தேசிய நெடுஞ்சாலை 44 விரிவாக்கம் செய்யப்பட உள்ளது. அதேபோல், தேசிய நெடுஞ்சாலை 744-ஏயில் மதுரை ரிங் ரோடு 2-ம் கட்டத்தில் தாமரைப்பட்டி முதல் டி புதுப்பட்டி வரையிலான பகுதி 4 வழிச்சாலையாக மேம்படுத்தப்பட உள்ளது. தமிழகத்தில் இந்த இரண்டு முக்கிய தேசிய நெடுஞ்சாலைகளும் சேர்ந்து மொத்தம் 339 கிலோ மீட்டர் நீளம் கொண்டவை. இதற்காக விரிவான திட்ட அறிக்கை தயாரிக்க தேசிய நெடுஞ்சாலை ஆணையம் டெண்டர் கோரியுள்ளது. திட்டத்துக்கு முன், தொழில்நுட்ப, பொருளாதார மற்றும் நிதி ஆய்வுகள் நடைபெறும். இதற்காக ஆலோசனை நிறுவனம் நியமிக்கப்பட உள்ளது. சாலை அகலப்படுத்துதல், பாலங்கள், சர்வீஸ் சாலைகள், சந்திப்புகள் மேம்பாடு குறித்து அந்நிறுவனம் பரிந்துரை வழங்கும். போக்குவரத்து நெரிசல் அதிகமுள்ள ஊர்களில் புறவழிச்சாலைகளுக்கான மாற்று வழித்தடங்களும் ஆய்வு செய்யப்படும். நிலம் கையகப்படுத்துதல், மின்கம்பங்கள் மாற்றம், சுற்றுச்சூழல் மற்றும் வனத்துறை அனுமதி ஆகியவையும் திட்ட அறிக்கையில் இடம்பெறும். திட்டம் நிறைவேறினால் இந்த வழித்தடத்தில் போக்குவரத்து நெரிசல் பெருமளவு குறையும் என கூறப்படுகிறது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛣️ கரூர் வழியாக மதுரை சாலை 6 வழிச்சாலையாகிறது\n\n📰 முழு விவரம்:\nதேசிய நெடுஞ்சாலை 44-ல் தர்மபுரி - கரூர் - திண்டுக்கல் - மதுரை சமயநல்லூர் இடையிலான சாலை 6 வழிச்சாலையாக விரிவாக்கம் செய்யப்பட உள்ளது.\nதேசிய நெடுஞ்சாலை 744-ஏயில் மதுரை ரிங் ரோடு 2-ம் கட்டமாக தாமரைப்பட்டி முதல் டி.புதுப்பட்டி வரையிலான பகுதி 4 வழிச்சாலையாக மேம்படுத்தப்பட உள்ளது.\nஇரண்டு திட்டங்களும் சேர்ந்து மொத்தம் 339 கிலோ மீட்டர் நீளம் கொண்டவை.\nவிரிவான திட்ட அறிக்கை தயாரிக்க டெண்டர் கோரப்பட்டுள்ளது. ஆலோசனை நிறுவனம் நியமிக்கப்பட உள்ளது.\n🛣️ சாலை அகலப்படுத்துதல், பாலங்கள், சர்வீஸ் சாலைகள், சந்திப்புகள் மேம்பாடு குறித்து பரிந்துரை வழங்கப்படும்.\n🔄 நெரிசல் அதிகமுள்ள ஊர்களில் புறவழிச்சாலைகளுக்கான மாற்று வழித்தடங்களும் ஆய்வு செய்யப்படும்.\n🌳 நிலம் கையகப்படுத்துதல், மின்கம்பங்கள் மாற்றம், சுற்றுச்சூழல் மற்றும் வனத்துறை அனுமதி ஆகியவையும் திட்ட அறிக்கையில் இடம்பெறும்.\n💰 மொத்த செலவு மதிப்பீடு, சுங்கக் கட்டண வசூல் திட்டமும் தயாரிக்கப்படும்.\nதிட்டம் நிறைவேறினால் போக்குவரத்து நெரிசல் பெருமளவு குறையும் என கூறப்படுகிறது.\n\nKarur Madurai NH44 six-lane widening, 339 km plan | Karur news\n📍 கரூர் - திண்டுக்கல் - மதுரை வழித்தடம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #சாலை #கரூர்",
-   "prompts": "A survey team with a tripod-mounted total station and a measuring staff stands on the shoulder of a busy two-lane national highway at Karur, Tamil Nadu, marking the road edge for the planned six-lane widening of NH 44. Behind them a stream of lorries, private buses, a TNSTC town bus, two-wheelers and autorickshaws moves slowly in both directions, and along the roadside stand concrete electric poles and a row of paddy-field boundary trees. A few road-side tea shops and an old compound wall line the stretch, with the surveyors seen from behind and far away, wearing shirts and trousers with hard hats. It is bright daylight with clear skies. Shot at eye level on a 35 mm lens, wide enough to show the highway, the poles and the traffic flow. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a set of survey stakes with orange and white markers driven into the red soil at the edge of a highway shoulder in Karur, Tamil Nadu, marking the boundary line for the proposed six-lane widening. Behind the stakes a concrete electric pole stands beside the road and a portion of a lorry's rear tyre and a two-wheeler's wheel are slightly blurred in the background. Dry grass and roadside dust surround the markers, and a rolled chain or measuring tape lies across the ground. Daylight, clear weather. Shot at low eye level on a 35 mm lens, shallow depth of field, no readable text on any marker. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/dharmapuri/good-news-from-the-central-government-dharmapuri-madurai-road-to-become-a-6-lane-highway-849043.html",
-   "published": "2026-11-28T15:45:09+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/5018ae782001dc89.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/652a55856fb1c169.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/a73a5df7f5e58da7.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/b6d71a6e69e783e8.jpg"
    ]
   }
  ]

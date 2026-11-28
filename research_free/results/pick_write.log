@@ -1,6 +1,6 @@
-writing [N]: மதுரைக்கு மத்திய அரசு 2 குட்நியூஸ்..  தர்மபுரி - கரூர் - திண
+writing [N]: இ.பி.எஸ். பேனர்களை அகற்ற வந்த மாநகராட்சி அதிகாரிகளுடன் அ.தி.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
@@ -11,180 +11,112 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-writing [N]: டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-writing [N]: மரக்கன்று பராமரிப்பு பணி
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok groq/openai/gpt-oss-120b (7s)
-attempt 1 groq/openai/gpt-oss-120b: 3 problems
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
+writing [N]: முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok gemini/gemini-3-flash-preview (11s)
-ok gemini/gemini-3-flash-preview (10s)
-attempt 1 gemini/gemini-3-flash-preview: 3 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 744 ('அதேபோல், தேசிய நெடுஞ்சாலை 744-ஏயில் மதுரை ரிங் ரோடு 2-ம் கட்'); 4 ('அதேபோல், தேசிய நெடுஞ்சாலை 744-ஏயில் மதுரை ரிங் ரோடு 2-ம் கட்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 ok groq/qwen/qwen3.8-27b (3s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has 83 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  known issue meta_article: cards talks about the article instead of the news ('தகவல் இல்லை') - rewrite so it does not happen again
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The reel_script opens by stating that a power cut risk exists in Periya Andankovil; the article only says the cement pole could fall and cut power to many houses if it collapses, so this is a loose restatement but not an invented fact (minor).
-  The slides_spec and caption claim the 'உடனடி நடவடிக்கை' (immediate action) is demanded; the article says officials should take action, not that it must be immediate (added word not in the article).
-  The caption's 'மக்கள் கவனத்திற்கு' line adds 'மின் இணைப்பு பாதிக்கப்படாமல் இருக்க அதிகாரிகள் உடனடி நடவடிக்கை எடுக்க வேண்டும்' which is not stated in the article as a public advisory (invented framing).
-attempt 2 groq/qwen/qwen3.8-27b: 3 problems
-  fact-check: The reel_script opens by stating that a power cut risk exists in Periya Andankovil; the article only says the cement pole could fall and cut power to many houses if it collapses, so this is a loose restatement but not an invented fact (minor).
-  fact-check: The slides_spec and caption claim the 'உடனடி நடவடிக்கை' (immediate action) is demanded; the article says officials should take action, not that it must be immediate (added word not in the article).
-  fact-check: The caption's 'மக்கள் கவனத்திற்கு' line adds 'மின் இணைப்பு பாதிக்கப்படாமல் இருக்க அதிகாரிகள் உடனடி நடவடிக்கை எடுக்க வேண்டும்' which is not stated in the article as a public advisory (invented framing).
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The draft says the Palappatti road is 'near Krishnarayapuram' and the work is in 'Karuppathur panchayat' — the article supports this, so no issue there; however, the reel_script states the panchayat administration 'decided' to plant trees ('முடிவு செய்துள்ளது'), an inference not stated in the article
-  The reel_script says the trees will provide 'good shade' to vehicle drivers ('நல்ல நிழல் கிடைக்கும்'), a claim about future outcome not stated in the article (article only says shade-giving trees are to be planted)
-  The reel_script says the work is 'தீவிரம்' (intensive) in the headline, which overstates the article's description of routine pit-digging work
-  The reel_script says the 100-day workers are 'ஈடுபாடு' engaged and the panchayat is 'நேரடி' direct supervising; the article only says the work was 'மேற்பார்வையிடப்பட்டது' (supervised) by the panchayat administration, and 'நேரடி' (direct/in person) is an added detail
-  The slides_spec line 'சாலையோரம் மரக்கன்றுகள் நடத் திட்டம்' and 'நிழல் தரும் மரங்கள் நடப்பட உள்ளன' say trees are planned, consistent with article; but the caption states the planting work 'தொடங்கப்பட்டுள்ளது' (has begun), while the article says only that pit-digging is ongoing, not that tree planting has started
-attempt 1 gemini/gemini-3-flash-preview: 5 problems
-  fact-check: The draft says the Palappatti road is 'near Krishnarayapuram' and the work is in 'Karuppathur panchayat' — the article supports this, so no issue there; however, the reel_script states the panchayat administration 'decided' to plant trees ('முடிவு செய்துள்ளது'), an inference not stated in the article
-  fact-check: The reel_script says the trees will provide 'good shade' to vehicle drivers ('நல்ல நிழல் கிடைக்கும்'), a claim about future outcome not stated in the article (article only says shade-giving trees are to be planted)
-  fact-check: The reel_script says the work is 'தீவிரம்' (intensive) in the headline, which overstates the article's description of routine pit-digging work
-  fact-check: The reel_script says the 100-day workers are 'ஈடுபாடு' engaged and the panchayat is 'நேரடி' direct supervising; the article only says the work was 'மேற்பார்வையிடப்பட்டது' (supervised) by the panchayat administration, and 'நேரடி' (direct/in person) is an added detail
-  fact-check: The slides_spec line 'சாலையோரம் மரக்கன்றுகள் நடத் திட்டம்' and 'நிழல் தரும் மரங்கள் நடப்பட உள்ளன' say trees are planned, consistent with article; but the caption states the planting work 'தொடங்கப்பட்டுள்ளது' (has begun), while the article says only that pit-digging is ongoing, not that tree planting has started
+  tamil_headline uses the term ஐடிஎம்ஐகே (an unexplained, unrelated term) instead of அ.தி.மு.க. / the party named in the article; the headline names a party/entity not in the article
+  reel_script says all banners were removed by the AADMK workers' own action is not stated; the article says only some banners were removed by AADMK workers, while the reel_script's final sentence says 'அ தி மு க வினரே சில பேனர்களை அகற்றினர்' and then 'நடைபாதையில் ... பேனர்கள் அகற்றப்பட்டன' implies a general removal of sidewalk banners without attributing the action, which is an unsupported, incomplete summary of the outcome
+  reel_script refers to 'பேனர்கள் அகற்றுவதில் வாக்குவாதம் நடைபெற்றது' and the slides say the councillors/officials were 'அதிகாரிகள் அறிவுறுத்தினர்' as a cause, but the article gives the cause as complaints; 'அதிகாரிகள் அறிவுறுத்தினர்' is listed under காரணம் (cause) though it was the consequence leading to removal, mixing two different facts into one slide
+attempt 1 groq/qwen/qwen3.8-27b: 3 problems
+  fact-check: tamil_headline uses the term ஐடிஎம்ஐகே (an unexplained, unrelated term) instead of அ.தி.மு.க. / the party named in the article; the headline names a party/entity not in the article
+  fact-check: reel_script says all banners were removed by the AADMK workers' own action is not stated; the article says only some banners were removed by AADMK workers, while the reel_script's final sentence says 'அ தி மு க வினரே சில பேனர்களை அகற்றினர்' and then 'நடைபாதையில் ... பேனர்கள் அகற்றப்பட்டன' implies a general removal of sidewalk banners without attributing the action, which is an unsupported, incomplete summary of the outcome
+  fact-check: reel_script refers to 'பேனர்கள் அகற்றுவதில் வாக்குவாதம் நடைபெற்றது' and the slides say the councillors/officials were 'அதிகாரிகள் அறிவுறுத்தினர்' as a cause, but the article gives the cause as complaints; 'அதிகாரிகள் அறிவுறுத்தினர்' is listed under காரணம் (cause) though it was the consequence leading to removal, mixing two different facts into one slide
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 free models unavailable: no free model answered: None
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  reel_script has English words (in, karur, nic) - the voice cannot read them; write them in Tamil letters
+  reel_script must have no English letters (write English words and abbreviations in Tamil script)
   slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 744 ('அதேபோல், தேசிய நெடுஞ்சாலை 744-ஏயில் மதுரை ரிங் ரோடு 2-ம் கட்')
+  known issue english_in_voice: voice script has English words the voice skips (in, karur, nic) - rewrite so it does not happen again
 ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  hl1 is 44 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 real photo: no picture on the source page -> AI pictures
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 2 problems
+  The reel_script states the banners were removed by AIADMK members themselves only after officials instructed them, and says 'சில பேனர்கள்' in the headline/slides—this matches the article, so no issue there; however, the slide 'என்ன நடந்தது?' line says 'வைத்த பேனர்கள் அகற்றம்' (banners removed) as a completed event for all banners, while the article says only some banners were removed (சில பேனர்கள் அகற்றம்)—this overstates the outcome
+  The reel_script's first sentence places the argument 'கரூரில் பேனர் அகற்றும்போது' before the context is given, which is acceptable, but the slide line 'பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக' is an incomplete sentence with no clear predicate in Tamil, making the slide text ungrammatical
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  fact-check: The reel_script states the banners were removed by AIADMK members themselves only after officials instructed them, and says 'சில பேனர்கள்' in the headline/slides—this matches the article, so no issue there; however, the slide 'என்ன நடந்தது?' line says 'வைத்த பேனர்கள் அகற்றம்' (banners removed) as a completed event for all banners, while the article says only some banners were removed (சில பேனர்கள் அகற்றம்)—this overstates the outcome
+  fact-check: The reel_script's first sentence places the argument 'கரூரில் பேனர் அகற்றும்போது' before the context is given, which is acceptable, but the slide line 'பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக' is an incomplete sentence with no clear predicate in Tamil, making the slide text ungrammatical
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
+images made: 2 for 'Karur district official website left wit'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-2038","first":"RN-266"}
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script first sentence says 'கரூர் வழியாகச் செல்லும் சாலை 6 வழிச்சாலையாக' — article does not say the road is specifically 'via Karur' as a separate claim; the route includes Karur, so this is acceptable, but it omits that the 6-lane plan is a proposal/DPR stage and only a tender for the detailed project report has been floated, which the reel presents as 'விரிவாக்கம் செய்யப்படுகிறது' (is being expanded) without noting it is at the planning stage.
-  reel_script says 'இரண்டு சாலைத் திட்டங்களுக்கும் விரிவான திட்ட அறிக்கை தயாரிக்க தேசிய நெடுஞ்சாலை ஆணையம் டெண்டர் கோரியுள்ளது' — article says the tender was called for preparing the DPR for the road works; wording is acceptable but the 'National Highways Authority' is correct only as stated in the article.
-  slides_spec slide 4 line 'நில கையகப்படுத்துதல், சுற்றுச்சூழல் அனுமதியும் திட்ட' is truncated and ungrammatical, with no clear meaning in Tamil.
-  slides_spec slide 3 'புறவழிச்சாலை, பாலங்கள், சர்வீஸ் சாலைகள் பரிந்துரை' is a fragment without a clear verb, leaving the meaning unclear.
-  reel_script 'மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை' is the fixed closing and is not a problem, so no issue there.
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: reel_script first sentence says 'கரூர் வழியாகச் செல்லும் சாலை 6 வழிச்சாலையாக' — article does not say the road is specifically 'via Karur' as a separate claim; the route includes Karur, so this is acceptable, but it omits that the 6-lane plan is a proposal/DPR stage and only a tender for the detailed project report has been floated, which the reel presents as 'விரிவாக்கம் செய்யப்படுகிறது' (is being expanded) without noting it is at the planning stage.
-  fact-check: reel_script says 'இரண்டு சாலைத் திட்டங்களுக்கும் விரிவான திட்ட அறிக்கை தயாரிக்க தேசிய நெடுஞ்சாலை ஆணையம் டெண்டர் கோரியுள்ளது' — article says the tender was called for preparing the DPR for the road works; wording is acceptable but the 'National Highways Authority' is correct only as stated in the article.
-  fact-check: slides_spec slide 4 line 'நில கையகப்படுத்துதல், சுற்றுச்சூழல் அனுமதியும் திட்ட' is truncated and ungrammatical, with no clear meaning in Tamil.
-  fact-check: slides_spec slide 3 'புறவழிச்சாலை, பாலங்கள், சர்வீஸ் சாலைகள் பரிந்துரை' is a fragment without a clear verb, leaving the meaning unclear.
-  fact-check: reel_script 'மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை' is the fixed closing and is not a problem, so no issue there.
-hl1 shortened at a natural break: 'கரூர் வழியாக மதுரை சாலை 6 வழிச்சாலையாகிறது' -> 'கரூர் வழியாக மதுரை 6 வழிச்சாலையாகிறது'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Pit-digging for tree saplings begins alo'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1832","first":"RN-263"}
 posting job started at once
 real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
 real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Residents expect plants growing on trans'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1832","first":"RN-264"}
-real photo: vision check resting (free quota busy)
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Dharmapuri-Karur-Dindigul-Madurai road o'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1832","first":"RN-265"}
+images made: 2 for 'AIADMK cadres argue with Karur corporati'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-2038","first":"RN-267"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://tamil.oneindia.com/news/dharmapuri/good-news-from-the-central-government-dharmapuri-madurai-road-to-become-a-6-lane-highway-849043.html
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/tree-maintenance-work/4388310
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/anticipation-to-remove-plants-scattered-on-the-transformer/4388322
-candidate filter: collected=3
-to write: 3 Karur district candidates (max 3 stories)
-round: top 3 of 3 candidates
-candidates waiting: 3 Karur; time left 79 min
+manual link added: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-get-into-an-argument-with-municipal-corporation-officials-who-arrived-to-remove-banners-of-eps
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/no-picture-of-cm-or-government-plan-karur-district-website-down-without-update/4388317
+candidate filter: collected=2
+to write: 2 Karur district candidates (max 2 stories)
+round: top 2 of 2 candidates
+candidates waiting: 2 Karur; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://tamil.oneindia.com/news/dharmapuri/good-news-from-th
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-g
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min
-filed: 3 Karur district stories (target 3), reels only
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min
+filed: 2 Karur district stories (target 2), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":3,"updated":0} 
-stories: 3
+All News sheet: {"ok":true,"added":2,"updated":0} 
+stories: 2
