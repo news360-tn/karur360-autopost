@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T13:03:37+00:00",
+ "updated": "2026-11-28T13:15:52+00:00",
  "day": "2026-11-28",
- "ready": 5,
+ "ready": 4,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -118,6 +118,13 @@
       "link": "https://www.instagram.com/reel/DgSIVFQyuI-/",
       "at": "2026-11-28T11:19:21+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-265",
+      "head": "தர்மபுரி - கரூர் - திண்டுக்கல் - மதுரை சாலை 6 வழிச்சாலையாகிறது",
+      "link": "https://www.instagram.com/reel/DgSVTGGuofI/",
+      "at": "2026-11-28T13:12:58+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -125,7 +132,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 15,
+    "waiting": 16,
     "share": [],
     "paused": "Facebook limited this page - paused until 2026-11-28T14:35 UTC"
    },
