@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T18:17:21+00:00",
+ "updated": "2026-11-28T18:20:10+00:00",
  "day": "2026-11-28",
  "ready": 4,
  "pages": {
@@ -251,6 +251,17 @@
      }
     ],
     "keys": true
+   },
+   "written_today": {
+    "written": 4,
+    "posted": 0,
+    "waiting": 3,
+    "not_posting": [
+     {
+      "id": "RN-260",
+      "why": "held: fact-check problems - numbers not found in the article: 8"
+     }
+    ]
    }
   }
  }
