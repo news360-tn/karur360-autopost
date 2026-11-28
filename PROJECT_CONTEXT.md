@@ -85,6 +85,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `7ffde4d` | yt_hashtags: a page's tag lists are also found by the channel name (Tiruppur 360: page tirupur, tag #Tiruppur360) - no change for this page |
+| 2026-11-28 | `8931dbd` | stories shared / Instagram pause |
+| 2026-11-28 | `a43ff7a` | stories shared / Instagram pause |
+| 2026-11-28 | `c8c6d01` | powercut: notices written |
+| 2026-11-28 | `09628ae` | stories shared / Instagram pause |
+| 2026-11-28 | `b7cc99a` | stories shared / Instagram pause |
 | 2026-11-28 | `eb3135f` | Hashtag fixes (owner 28 Nov): a source link's #part is no longer a hidden YouTube tag (district-section); a Facebook hashtag is never repeated and the top 5 reel gets topic + district + page tag |
 | 2026-11-28 | `1ce9fad` | stories shared / Instagram pause |
 | 2026-11-28 | `2f7e5f3` | stories shared / Instagram pause |
@@ -109,10 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `132af9c` | stories shared / Instagram pause |
 | 2026-11-28 | `c908713` | pick: written and posted |
 | 2026-11-28 | `e48536d` | facebook RN-255 |
-| 2026-11-28 | `02a5ef1` | posted RN-255 |
-| 2026-11-28 | `ae5ad43` | stories shared / Instagram pause |
-| 2026-11-28 | `1f24390` | stories shared / Instagram pause |
-| 2026-11-28 | `df4981d` | facebook RN-256 |
-| 2026-11-28 | `044889a` | posted RN-256 |
-| 2026-11-28 | `68470f3` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
