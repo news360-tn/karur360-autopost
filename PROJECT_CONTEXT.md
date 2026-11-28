@@ -86,34 +86,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-28 | `c1f7a12` | Facebook: a block with no stated time waits 24 hours again (owner 28 Nov) - with 2 hours five pages retried every 2 hours, were refused each time (368) and stayed blocked |
-| 2026-11-28 | `c23583b` | stories shared / Instagram pause |
-| 2026-11-28 | `f2b148e` | stories shared / Instagram pause |
-| 2026-11-28 | `e86efc9` | stories shared / Instagram pause |
-| 2026-11-28 | `7daf6ce` | stories shared / Instagram pause |
-| 2026-11-28 | `0bd0037` | stories shared / Instagram pause |
-| 2026-11-28 | `019bbb9` | stories shared / Instagram pause |
-| 2026-11-28 | `67eb49b` | stories shared / Instagram pause |
-| 2026-11-28 | `1b3d585` | stories shared / Instagram pause |
-| 2026-11-28 | `f79902e` | stories shared / Instagram pause |
-| 2026-11-28 | `06508a8` | stories shared / Instagram pause |
-| 2026-11-28 | `d7aa2d1` | pick: written and posted |
-| 2026-11-28 | `d81037b` | stories shared / Instagram pause |
-| 2026-11-28 | `49826a2` | facebook RN-266 |
-| 2026-11-28 | `3111000` | posted RN-266 |
-| 2026-11-28 | `da485d2` | stories shared / Instagram pause |
-| 2026-11-28 | `b332eca` | stories shared / Instagram pause |
-| 2026-11-28 | `ff9f5da` | facebook RN-267 |
-| 2026-11-28 | `cf51bc4` | posted RN-267 |
-| 2026-11-28 | `57cfb55` | stories shared / Instagram pause |
-| 2026-11-28 | `1980390` | pick: picked news saved |
-| 2026-11-28 | `b93105e` | stories shared / Instagram pause |
-| 2026-11-28 | `aa8c477` | pick: picked news saved |
-| 2026-11-28 | `7f7f830` | pick: list sent |
-| 2026-11-28 | `5cfde68` | stories shared / Instagram pause |
-| 2026-11-28 | `90a9d56` | stories shared / Instagram pause |
-| 2026-11-28 | `0dc1edc` | stories shared / Instagram pause |
-| 2026-11-28 | `3c1ce3a` | stories shared / Instagram pause |
-| 2026-11-28 | `06034fc` | stories shared / Instagram pause |
-| 2026-11-28 | `e9d64f7` | stories shared / Instagram pause |
+| 2026-11-28 | `9468123` | Backend Add news (owner 28 Nov): a news typed in the News360 Backend - content, extra details, follow-up, link, picture, note with instructions, format reel / post / carousel - is taken by the page job, written by the usual writer and posted through every usual check; only DASH_POSTERS logins may add |
+| 2026-11-28 | `8e71f92` | stories shared / Instagram pause |
+| 2026-11-28 | `8df5c43` | stories shared / Instagram pause |
+| 2026-11-28 | `25a7fc0` | stories shared / Instagram pause |
+| 2026-11-28 | `14bd2ad` | powercut: notices written |
+| 2026-11-28 | `c7d1b28` | stories shared / Instagram pause |
+| 2026-11-28 | `12fbb13` | stories shared / Instagram pause |
+| 2026-11-28 | `3ed9595` | stories shared / Instagram pause |
+| 2026-11-28 | `8415a34` | stories shared / Instagram pause |
+| 2026-11-28 | `49d48a8` | pick: written and posted |
+| 2026-11-28 | `75b95ae` | pick: picked news saved |
+| 2026-11-28 | `505d27d` | stories shared / Instagram pause |
+| 2026-11-28 | `5feba43` | pick: picked news saved |
+| 2026-11-28 | `ee6bb48` | pick: list sent |
+| 2026-11-28 | `8b3386a` | autofix: corrected held news |
+| 2026-11-28 | `8ff8003` | stories shared / Instagram pause |
+| 2026-11-28 | `dac65e6` | powercut: notices written |
+| 2026-11-28 | `80058c9` | stories shared / Instagram pause |
+| 2026-11-28 | `b6eea1e` | stories shared / Instagram pause |
+| 2026-11-28 | `3794f32` | stories shared / Instagram pause |
+| 2026-11-28 | `7065330` | stories shared / Instagram pause |
+| 2026-11-28 | `4931ce3` | stories shared / Instagram pause |
+| 2026-11-28 | `90a9b1b` | stories shared / Instagram pause |
+| 2026-11-28 | `7285963` | stories shared / Instagram pause |
+| 2026-11-28 | `a2bf6b6` | stories shared / Instagram pause |
+| 2026-11-28 | `ddc749a` | stories shared / Instagram pause |
+| 2026-11-28 | `0d54877` | stories shared / Instagram pause |
+| 2026-11-28 | `427eb1b` | stories shared / Instagram pause |
+| 2026-11-28 | `48317ad` | stories shared / Instagram pause |
+| 2026-11-28 | `c05d0a8` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
