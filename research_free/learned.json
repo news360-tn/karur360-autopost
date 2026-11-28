@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-28T20:26+05:30",
- "posts_measured": 257,
+ "updated": "2026-11-28T22:27+05:30",
+ "posts_measured": 259,
  "topic_weight": {
   "temple": 0.33,
-  "accident": 0.57,
-  "education": -0.17,
+  "accident": 0.54,
+  "education": -0.19,
   "jobs": 1.5,
   "power_cut": 1.5,
-  "poultry_agri": -0.04,
-  "politics": 0.12,
-  "civic": -0.27,
+  "poultry_agri": -0.07,
+  "politics": 0.07,
+  "civic": -0.29,
   "crime": 1.5,
-  "weather": 0.15
+  "weather": 0.12
  },
  "topic_10k_share": {
   "temple": 0.03,
@@ -29,13 +29,13 @@
   "power_cut"
  ],
  "topic_n": {
-  "temple": 35,
+  "temple": 36,
   "accident": 20,
   "education": 30,
   "jobs": 5,
   "power_cut": 5,
   "poultry_agri": 26,
-  "politics": 21,
+  "politics": 22,
   "civic": 35,
   "crime": 22,
   "weather": 21,
@@ -53,7 +53,7 @@
   "🚨 குளித்தலை பகுதியில் 5 பேர் காணாமல் போனதாகப் புகார்",
   "⚡ நாச்சலூர், பணிக்கம்பட்டி, மாயனூர் பகுதிகளில் நாளை காலை 9 மணி முதல் மின்தடை"
  ],
- "avg_watch_s": 7.1,
+ "avg_watch_s": 7.2,
  "best_topics": [
   "jobs",
   "power_cut",

@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-28T20:26:03.694310+05:30",
+ "last_end": "2026-11-28T22:27:13.124300+05:30",
  "pool": {
-  "Cb0b483f": {
-   "id": "Cb0b483f",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/no-picture-of-cm-or-government-plan-karur-district-website-down-without-update/4388317",
-   "title": "முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கரூர் மாவட்ட இணையதளம்",
-   "summary": "கரூர்:கரூர் மாவட்ட நிர்வாக இணையதளம், 'அப்டேட்' இல்லாமல், முதல்வர் படம் புதிய அரசின் திட்டங்கள் குறித்த தகவல் இன்றி உள்ளது. தமிழக மாவட்டங்களை பற்றிய விபரங்கள் மற்றும் வளர்ச்சி திட்டங்களை, பொதுமக்கள் எளிதில் தெரிந்து கொ...",
-   "source": "தினமலர்",
-   "published": "2026-11-28T08:06:00+05:30",
-   "category": "பொது",
-   "score": 3.22,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30",
-   "picked_at": "2026-11-28T20:37:10.391188+05:30",
-   "posted": true
-  },
   "C0aa26eb": {
    "id": "C0aa26eb",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/demonstrations-by-all-trade-unions/4388315",
@@ -52,34 +38,9 @@
    "listed_at": "2026-11-28T10:28:29.323126+05:30",
    "picked_at": "2026-11-28T10:30:37.557018+05:30",
    "refused": "not filed: duplicate after write"
-  },
-  "Cf55a3b4": {
-   "id": "Cf55a3b4",
-   "url": "https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-get-into-an-argument-with-municipal-corporation-officials-who-arrived-to-remove-banners-of-eps",
-   "title": "இ.பி.எஸ். பேனர்களை அகற்ற வந்த மாநகராட்சி அதிகாரிகளுடன் அ.தி.மு.க.வினர் வாக்குவாதம்",
-   "summary": "கரூர், கரூரில் அ.தி.மு.க. பொதுச்செயலாளர் எடப்பாடி பழனிசாமியை வரவேற்று வைக்கப்பட்டிருந்த பேனர்களை அகற்ற முயன்ற மாநகராட்சி அதிகாரிகளுடன், அ.தி.மு.க.வினர் வாக்குவாதத்தில் ஈடுபட்டதால் பரபரப்பு ஏற்பட்டது..புகார்கள்அ.தி.மு.க.",
-   "source": "தினத்தந்தி",
-   "published": "2026-11-28T13:33:27Z",
-   "category": "மாநகராட்சி",
-   "score": 9.73,
-   "power_cut": false,
-   "listed_at": "2026-11-28T20:26:03.694310+05:30",
-   "picked_at": "2026-11-28T20:37:10.391186+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-27_04": {
-   "window": [
-    "2026-11-27T04:28:11.495753+05:30",
-    "2026-11-27T04:41:52.120379+05:30"
-   ],
-   "ids": [],
-   "sent": false,
-   "deadline": "2026-11-27T05:41:52.120379+05:30",
-   "decided": null,
-   "written": []
-  },
   "2026-11-27_06": {
    "window": [
     "2026-11-27T04:41:52.120379+05:30",
@@ -582,6 +543,20 @@
     "Cb0b483f",
     "Cf55a3b4"
    ]
+  },
+  "2026-11-28_22": {
+   "window": [
+    "2026-11-28T20:26:03.694310+05:30",
+    "2026-11-28T22:27:13.124300+05:30"
+   ],
+   "ids": [
+    "C0aa26eb",
+    "Ccd7c059"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T23:27:13.124300+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
@@ -1285,6 +1260,38 @@
   "Cd3dfcfc": "2026-11-28T18:28 not Karur district",
   "C8180f01": "2026-11-28T20:26 already posted",
   "C6569c40": "2026-11-28T20:26 already posted",
-  "C71b53af": "2026-11-28T20:26 already posted"
+  "C71b53af": "2026-11-28T20:26 already posted",
+  "G1f773ddfab": "2026-11-28T22:27 D",
+  "Gf01ecb71af": "2026-11-28T22:27 D",
+  "Gd56084b137": "2026-11-28T22:27 D",
+  "G0011d1cc1c": "2026-11-28T22:27 D",
+  "Ga820c499e9": "2026-11-28T22:27 D",
+  "Gc0401442c1": "2026-11-28T22:27 D",
+  "Gb45e2486d7": "2026-11-28T22:27 D",
+  "G5dca448cc9": "2026-11-28T22:27 D",
+  "Gc5a8d1fb3d": "2026-11-28T22:27 D",
+  "G327e09bc39": "2026-11-28T22:27 D",
+  "G442549755e": "2026-11-28T22:27 D",
+  "G4ea5f16cab": "2026-11-28T22:27 D",
+  "G6243ecb5b6": "2026-11-28T22:27 D",
+  "Ge156000e41": "2026-11-28T22:27 D",
+  "G9709a61cb6": "2026-11-28T22:27 D",
+  "Gc41701ae0b": "2026-11-28T22:27 D",
+  "G8f78137d07": "2026-11-28T22:27 D",
+  "G9651c00d15": "2026-11-28T22:27 D",
+  "Gb98d2acf9a": "2026-11-28T22:27 D",
+  "Gf1077a5295": "2026-11-28T22:27 D",
+  "Gb2447d9745": "2026-11-28T22:27 D",
+  "Ce1562ea": "2026-11-28T22:27 already posted",
+  "C33482f7": "2026-11-28T22:27 already posted",
+  "C571c49c": "2026-11-28T22:27 not Karur district",
+  "C71cd6bb": "2026-11-28T22:27 not Karur district",
+  "C48e4f11": "2026-11-28T22:27 not Karur district",
+  "Ce8de20c": "2026-11-28T22:27 not Karur district",
+  "C69c4741": "2026-11-28T22:27 not Karur district",
+  "C5837099": "2026-11-28T22:27 not Karur district",
+  "Ca0adbd7": "2026-11-28T22:27 not Karur district",
+  "Cea1ad41": "2026-11-28T22:27 not Karur district",
+  "C7641b96": "2026-11-28T22:27 not Karur district"
  }
 }
