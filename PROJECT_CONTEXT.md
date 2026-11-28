@@ -86,6 +86,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `d61907f` | tests: the parrot layout test reads its numbers from the file itself (the test machine has no numpy, so the reel file cannot be imported there) |
+| 2026-11-28 | `0489256` | stories shared / Instagram pause |
 | 2026-11-28 | `b7dd46f` | parrot rasipalan reel: the whole scene fits the area that is free on Instagram, Facebook and YouTube Shorts (owner 28 Nov) - the row of 12 cards the parrot picks from was at y 1650-1800, under the caption, and the page name under the top bar; the scene is drawn a little smaller and lower, positions unchanged |
 | 2026-11-28 | `bb9076e` | stories shared / Instagram pause |
 | 2026-11-28 | `9e8c84a` | stories shared / Instagram pause |
@@ -114,6 +116,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `8e71f92` | stories shared / Instagram pause |
 | 2026-11-28 | `8df5c43` | stories shared / Instagram pause |
 | 2026-11-28 | `25a7fc0` | stories shared / Instagram pause |
-| 2026-11-28 | `14bd2ad` | powercut: notices written |
-| 2026-11-28 | `c7d1b28` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
