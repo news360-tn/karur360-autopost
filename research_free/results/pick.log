@@ -1,95 +1,43 @@
-08:26:36 round 2026-11-28_08: news published 28 Nov 07:04 -> 28 Nov 08:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
-08:26:36    + news published since 27 Nov 08:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-08:26:36 insights 2026-11-28T08:26+05:30 (240 reels): topic weights {'temple': 0.34, 'accident': 0.8, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.07, 'politics': 0.22, 'civic': -0.28, 'crime': 1.5, 'weather': 0.16}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
-08:27:36 open search 'கரூர்' (from_google): 8 links from our outlets
-08:27:36 town searches (குளித்தலை, அரவக்குறிச்சி, கிருஷ்ணராயபுரம், புகழூர், கடவூர் (+Google), மண்மங்கலம் (+Google)): 4 links from our outlets
-08:27:36 search links: 20 Google links decoded, 0 not decoded, 48 known from an earlier round, 0 left for the next round, 5 of another district by their headline (not opened)
-08:27:36 91 links on the two papers' Karur pages
-08:28:36 skipped: published before this window=28, not Karur district=22, already posted=13, state-wide / other district=3, checked in an earlier round=3, only a headline=2, same event already posted=2
-08:28:36    drop [not Karur district] அறிவியல் மாநாட்டில் பங்கேற்க மாணவர்கள் திருப்பூர் பயணம் | dinamalar.com/news/tamil-nad...cipate-in-a-science-conference/4388321
-08:28:36    drop [not Karur district] காவல் துறை சீருடையில் ரீல்ஸ் வெளியிட்ட 14 போலீஸார் மீது நடவட | hindutamil.in/news/tamilnadu...nel-for-posting-reels-while-in-uniform
-08:28:36    drop [not Karur district] பட்டாசு வெடித்து போக்குவரத்துக்கு இடையூறு: 21 இளம் வழக்கறிஞர | hindutamil.in/news/tamilnadu...-fire-crackers-and-obstructing-traffic
-08:28:36    drop [not Karur district] மெரினா லூப் சாலையில் 79 ஆக்கிரமிப்பு கடை அகற்றம் | hindutamil.in/news/tamilnadu...hing-shops-removed-on-marina-loop-road
-08:28:36    drop [not Karur district] பெண் ஐ.ஏ.எஸ். அதிகாரிக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய வழக்கில | dinakaran.com/news/kallakuri...-remanded-judicial-custody-until-dec11
-08:28:36    drop [not Karur district] விலவூர் பேரூராட்சியில் மழைநீர் சேகரிப்பு விழிப்புணர்வு கூட்ட | dinakaran.com/district/kanniyakumari_281126_2
-08:28:36    drop [not Karur district] மெஞ்ஞானபுரத்தில் போதை ஒழிப்பு விழிப்புணர்வு பேரணி - Dinakara | dinakaran.com/district/thoothukudi_281126_1
-08:28:36    drop [not Karur district] வலங்கைமான் அருகே கால்நடை சிறப்பு மருத்துவ முகாம் - Dinakaran | dinakaran.com/district/thiruvarur_281126_3
-08:28:36    drop [not Karur district] விவசாயிகள் சங்க ஆலோசனை கூட்டம் - Dinakaran | dinakaran.com/district/thiruvarur_281126_1
-08:28:36    drop [not Karur district] பூதலூர் அரசு ஆண்கள் பள்ளியில் போதை பொருள் விழிப்புணர்வு நிகழ | dinakaran.com/district/thanjavur_281126_2
-08:28:36    drop [not Karur district] என்னுடைய போன் ஒட்டுக் கேட்கப்படுகிறது: கேரள முதல்வர் வி.டி.ச | dinakaran.com/news/phone_kerala_chiefminister_excitement_accusation
-08:28:36    drop [not Karur district] சுங்கச்சாவடிகளில் நம்பர் பிளேட்டை மறைத்தால் 5 மடங்கு அபராதம் | dinakaran.com/news/toll_booth_number_plate_fine_uniongovernment
-08:28:36    drop [not Karur district] 235 மாற்றுத்திறனாளி பயனாளிகளுக்கு ரூ.44.72 லட்சத்தில் உதவி உ | dinakaran.com/district/kanchipuram-281126-3
-08:28:36    drop [not Karur district] மாற்றுத்திறனாளிகள் தினத்தை முன்னிட்டு 250 சிறப்பு பள்ளி மாணவ | dinakaran.com/district/chennai-281126-3
-08:28:36    drop [not Karur district] திட்டப்பணிகளை கலெக்டர் தலைமையில் குழு ஆய்வு - Dinakaran | dinakaran.com/district/dharmapuri-281126-2
-08:28:36    drop [not Karur district] மன உளைச்சல், உடல்நலப் பாதிப்பு; விருப்ப ஓய்வு கேட்கும் போலீச | dinakaran.com/district/viruthunagar_281126_2
-08:28:36    drop [not Karur district] வில்லிபுத்தூர் அருகே குடியிருப்புக்குள் புகுந்த மலைப்பாம்பு | dinakaran.com/district/viruthunagar_281126_1
-08:28:36    drop [not Karur district] 27 நட்சத்திரக்காரர்களுக்கு உரிய சித்தர்கள் | maalaimalar.com/amp/devotion...dhas-belonging-to-27-nakshatras-747884
-08:28:36 list: 15 new + 0 earlier news not posted yet
-08:28:36    1. [மழை / வானிலை] கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந்து ஒருவர் (தினமலர்)
-08:28:36    2. [மழை / வானிலை] மழையால் செடிகளில் பாதிப்பு தக்காளி விலை திடீர் உயர்வு (தினமலர்)
-08:28:36    3. [பொது] இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தடை (தினமலர்)
-08:28:36    4. [குற்றம்] ரேஷன் அரிசி கடத்திய இருவருக்கு காப்பு (தினமலர்)
-08:28:36    5. [சாலை] கரூர் அருகே தார்ச்சாலை அமைப்பு (தினமலர்)
-08:28:36    6. [மாநகராட்சி] அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழியர்கள் (தினமலர்)
-08:28:36    7. [குடிநீர்] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர் (தினமலர்)
-08:28:36    8. [பொது] அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்றும் பணி துவ (தினமலர்)
-08:28:36    9. [பொது] மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசலில் மீன் ப (தினமலர்)
-08:28:36   10. [பொது] உதயநிதி பிறந்த நாள் விழா (தினமலர்)
-08:28:36   11. [ஆன்மிகம்] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம் (தினமலர்)
-08:28:36   12. [பொது] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு (தினமலர்)
-08:28:36   13. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்)
-08:28:36   14. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்)
-08:28:36   15. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்)
-08:28:36 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_08
-08:28:38 round 2026-11-28_08 (at least 3, up to 3 more of well-watched topics): 15 news to choose from (0 from earlier rounds), ranked by this page's insights
-08:28:38   PICK   1.  11.6 [weather +0.16 page] கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-08:28:38   PICK   2.  11.6 [weather +0.16 page] மழையால் செடிகளில் பாதிப்பு தக்காளி விலை திடீர் உயர்வு
-08:28:38   PICK   3.  10.0 [other +0.00 pattern] இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தட
-08:28:38          4.  10.0 [other +0.00 pattern] ரேஷன் அரிசி கடத்திய இருவருக்கு காப்பு
-08:28:38          5.   8.9 [civic -0.28 page] கரூர் அருகே தார்ச்சாலை அமைப்பு
-08:28:38          6.   8.9 [civic -0.28 page] அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழ
-08:28:38          7.   8.0 [other +0.00 pattern] அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்று
-08:28:38          8.   8.0 [other +0.00 pattern] மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசல
-08:28:38          9.   8.0 [other +0.00 pattern] உதயநிதி பிறந்த நாள் விழா
-08:28:38         10.   7.9 [civic -0.28 page] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர்
-08:28:38         11.   6.4 [temple +0.34 page] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம்
-08:28:38         12.   4.0 [other +0.00 pattern] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு
-08:28:38         13.   3.9 [politics +0.22 page] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்
-08:28:38         14.   3.0 [other +0.00 pattern] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம்
-08:28:38         15.   3.0 [other +0.00 pattern] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை
-08:28:38 decided: automatic: top 3 of 15 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-karur/in-karur-district-one-person-was-injured-after-a-staircase-collapsed-in-the-early-morning-rain/4388309 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rains-affect-crops-tomato-prices-soar/4388312 https://www.dinamalar.com/news/tamil-nadu-district-news-karur/hindu-munnani-activists-burst-firecrackers-ban-sweets/4388320
-08:30:53 3 listed news now in the Sheet
-08:31:02 instagram duplicate check karur: 50 recent posts read
-08:31:02 verify 2026-11-28_08: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:31:02    NOT POSTED C1f4c905: queued RN-249 (Queued) - மழையால் செடிகளில் பாதிப்பு தக்காளி விலை திடீர் உயர்வு
-08:31:02    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-08:31:02    NOT POSTED C5f956bf: queued RN-250 (Queued) - இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தட
-08:36:09 instagram duplicate check karur: 50 recent posts read
-08:36:10 verify 2026-11-28_08: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:36:10    NOT POSTED C1f4c905: queued RN-249 (Queued) - மழையால் செடிகளில் பாதிப்பு தக்காளி விலை திடீர் உயர்வு
-08:36:10    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-08:36:10    NOT POSTED C5f956bf: queued RN-250 (Queued) - இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தட
-08:41:16 instagram duplicate check karur: 50 recent posts read
-08:41:16 verify 2026-11-28_08: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:41:16    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-08:41:16    NOT POSTED C5f956bf: queued RN-250 (Queued) - இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தட
-08:46:52 instagram duplicate check karur: 50 recent posts read
-08:46:52 verify 2026-11-28_08: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:46:52    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-08:46:52    NOT POSTED C5f956bf: queued RN-250 (Queued) - இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தட
-08:51:59 instagram duplicate check karur: 50 recent posts read
-08:51:59 verify 2026-11-28_08: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:51:59    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-08:51:59    NOT POSTED C5f956bf: queued RN-250 (Queued) - இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தட
-08:57:06 instagram duplicate check karur: 50 recent posts read
-08:57:06 verify 2026-11-28_08: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:57:06    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-09:02:14 instagram duplicate check karur: 50 recent posts read
-09:02:14 verify 2026-11-28_08: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-09:02:14    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-09:07:21 instagram duplicate check karur: 50 recent posts read
-09:07:21 verify 2026-11-28_08: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-09:07:21    NOT POSTED C3e6af0f: queued RN-251 (Queued) - கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந
-09:12:27 verify 2026-11-28_08: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+10:28:29 round 2026-11-28_10: news published 28 Nov 08:26 -> 28 Nov 10:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Karur)
+10:28:29    + news published since 27 Nov 10:28 that no earlier round found (listed / indexed late) - never one already listed or posted
+10:28:29 insights 2026-11-28T10:28+05:30 (244 reels): topic weights {'temple': 0.34, 'accident': 0.8, 'education': -0.21, 'jobs': 1.5, 'power_cut': 1.5, 'poultry_agri': -0.07, 'politics': 0.22, 'civic': -0.28, 'crime': 1.5, 'weather': 0.19}; best openings ['🔪 குளித்தலை அருகே தொழிலாளியை அரிவாளால் வெட்டிய மூவர் மீது விசாரணை', '🔪 குளித்தலை அருகே கத்தி காட்டி ₹500 பறித்த கூலி தொழிலாளி கைது']
+10:30:00 open search 'கரூர்' (from_google): 20 links from our outlets
+10:30:00 town searches (குளித்தலை (+Google), அரவக்குறிச்சி (+Google), கிருஷ்ணராயபுரம், புகழூர், கடவூர், மண்மங்கலம்): 10 links from our outlets
+10:30:00 search links: 35 Google links decoded, 0 not decoded, 48 known from an earlier round, 0 left for the next round, 11 of another district by their headline (not opened)
+10:30:00 91 links on the two papers' Karur pages
+10:30:35 skipped: published before this window=28, already posted=19, not Karur district=14, checked in an earlier round=4, state-wide / other district=3, only a headline=2, same event already posted=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2
+10:30:35    drop [already posted] கரூர் வடக்கு மாநகர திமுக சார்பில் உதயநிதி ஸ்டாலின் பிறந்தநாள | dinakaran.com/district/karur_281126_3
+10:30:35    drop [already posted] மேட்டுமகாதானபுரம் அங்கன்வாடி மைய கட்டிடத்திற்கு மின் இணைப்பு | dinakaran.com/district/karur_281126_2
+10:30:35    drop [already posted] பெரியகுளத்துப்பாளையம் அருகே லேசான தூறல் மழை - Dinakaran | dinakaran.com/district/karur_281126_1
+10:30:35    drop [could not open (403 Client Error: Forbidden f] அரவக்குறிச்சியில் கோர விபத்து! ஐயப்ப பக்தர்கள் 3 பேர் பலி, 4 | tamil.news18.com/tamil-nadu/...barimala-killed-vjr-ws-bl-2263679.html
+10:30:35    drop [could not open (403 Client Error: Forbidden f] Karur Car Accident | கரூரில் கார் விபத்து - 3 ஐயப்ப பக்தர்கள | tamil.news18.com/videos/tami...car-accident-3-tamil-news-2263656.html
+10:30:35    drop [already posted] கரூர் வடக்கு மாநகர திமுக சார்பில் உதயநிதி ஸ்டாலின் பிறந்தநாள | dinakaran.com/district/karur_281126_3/amp
+10:30:35    drop [not Karur district] உரிக்காமலேயே கண்ணீர் வருது.. டபுள் செஞ்சுரி போட்ட வெங்காயம்! | tamil.oneindia.com/news/dind...-kg-as-garlic-soars-to-800-848911.html
+10:30:35    drop [not Karur district] கூட்டாட்சித் தத்துவம், மத நல்லிணக்கம் குறித்து கவலை: உச்சநீத | maalaimalar.com/news/tamilna...ny-the-supreme-court-should-reconsider
+10:30:35    drop [not Karur district] வி.பி.சிங் நினைவு நாள்: கட்சித் தலைவர்கள் புகழாரம் | hindutamil.in/news/tamilnadu...-pay-tribute-to-v-p-singh-memorial-day
+10:30:35    drop [not Karur district] வணிகர் சங்கங்கள் பேரமைப்பு மாநாடு ஆலோசனை கூட்டம் | dinakaran.com/district/trichy_281126_3/amp
+10:30:35    drop [already posted] மேட்டுமகாதானபுரம் அங்கன்வாடி மைய கட்டிடத்திற்கு மின் இணைப்பு | dinakaran.com/district/karur_281126_2/amp
+10:30:35    drop [already posted] பெரியகுளத்துப்பாளையம் அருகே லேசான தூறல் மழை | dinakaran.com/district/karur_281126_1/amp
+10:30:35    drop [not Karur district] முதுகு குத்திகள், மானமற்ற நன்றி கெட்ட கூட்டம்: காங்., - கம்ய | dinamalar.com/news/premium-n...its-out-at-congress-communists/4388209
+10:30:35    drop [not Karur district] கடந்த 1951 முதல் இதுவரை 135 முறை ஜனாதிபதி ஆட்சி அமல்: காங்.  | dinakaran.com/news/president...nment_implementation_congress_coup/amp
+10:30:35    drop [not Karur district] வேளாண் பொருட்கள் சந்தை நிலவரம் 27112026 | dinamalar.com/news/business-...-produce-market-status-2711026/4388192
+10:30:35    drop [not Karur district] தேசியம் பேட்டி: நவ. 28 | dinamalar.com/news/india-tam...ionality-interview-november-28/4387877
+10:30:35    drop [not Karur district] லோக்சபாவில் அனைத்து மாநிலங்களுக்கும் 50 சதவீதம் கூடுதல் இடங் | dinamalar.com/news/india-tam...or-all-states-in-the-lok-sabha/4388188
+10:30:36 list: 3 new + 12 earlier news not posted yet
+10:30:36    1. [விபத்து] கரூர் அருகே லாரி மீது கார் மோதி விபத்து - ஐயப்ப பக்தர்கள் 3 பேர் பலி (மாலைமலர்)
+10:30:36    2. [விபத்து] அரவக்குறிச்சி அருகே கோர விபத்து: சபரிமலை சென்று திரும்பிய 3 ஐயப்ப பக்த (தினகரன்) (published 28 Nov 07:30, found only now)
+10:30:36    3. [பொது] காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம் (தினமலர்) (published 28 Nov 08:01, found only now)
+10:30:36    4. [குற்றம்] ரேஷன் அரிசி கடத்திய இருவருக்கு காப்பு (தினமலர்) (earlier)
+10:30:36    5. [சாலை] கரூர் அருகே தார்ச்சாலை அமைப்பு (தினமலர்) (earlier)
+10:30:36    6. [மாநகராட்சி] அ.தி.மு.க., பிளக்ஸ் பேனர்களை அகற்ற சொன்ன கரூர் மாநகராட்சி ஊழியர்கள் (தினமலர்) (earlier)
+10:30:36    7. [குடிநீர்] குழாய் உடைந்து சாலையில் ஆறாக ஓடிய குடிநீர் (தினமலர்) (earlier)
+10:30:36    8. [பொது] அமராவதி ஆற்றில் 30 கி.மீ., தூரத்துக்கு கருவேல மரங்கள் அகற்றும் பணி துவ (தினமலர்) (earlier)
+10:30:36    9. [பொது] மாயனூர் கதவணையில் நீர் வரத்து சரிவு: உள்ளூர் மீனவர்கள் பரிசலில் மீன் ப (தினமலர்) (earlier)
+10:30:36   10. [பொது] உதயநிதி பிறந்த நாள் விழா (தினமலர்) (earlier)
+10:30:36   11. [ஆன்மிகம்] மலையாள பகவதியம்மன் கோவில் விழாவில் பக்தர்கள் தீர்த்தக்குடம் (தினமலர்) (earlier)
+10:30:36   12. [பொது] டிரான்ஸ்பார்மரில் படர்ந்துள்ள செடிகளை அகற்ற எதிர்பார்ப்பு (தினமலர்) (earlier)
+10:30:36   13. [பொது] முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்கியுள்ள கர (தினமலர்) (earlier)
+10:30:36   14. [பொது] அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
+10:30:36   15. [பொது] எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை (தினமலர்) (earlier)
+10:30:36 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_10

@@ -1,48 +1,6 @@
 {
- "last_end": "2026-11-28T08:26:36.893698+05:30",
+ "last_end": "2026-11-28T10:28:29.323126+05:30",
  "pool": {
-  "C3e6af0f": {
-   "id": "C3e6af0f",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/in-karur-district-one-person-was-injured-after-a-staircase-collapsed-in-the-early-morning-rain/4388309",
-   "title": "கரூர் மாவட்டத்தில் விடிய, விடிய மழை படிக்கட்டு இடிந்து விழுந்து ஒருவர் காயம்",
-   "summary": "கரூர்:'கரூர் மாவட்டத்தில் பல்வேறு இடங்களில், நேற்று அதிகாலை வரை மழை பெய்தது. வெங்கமேட்டில், வீட்டின் படிக்கட்டு இடிந்து விழுந்ததில் ஒருவர் காயமடைந்தார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-28T08:02:00+05:30",
-   "category": "மழை / வானிலை",
-   "score": 11.16,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30",
-   "picked_at": "2026-11-28T08:28:38.673852+05:30",
-   "posted": true
-  },
-  "C1f4c905": {
-   "id": "C1f4c905",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/rains-affect-crops-tomato-prices-soar/4388312",
-   "title": "மழையால் செடிகளில் பாதிப்பு தக்காளி விலை திடீர் உயர்வு",
-   "summary": "கரூர்:மழை காரணமாக செடிகளில் பூக்கள் உதிர்ந்து விட்டதால், வரத்து குறைந்து தக்காளி விலை திடீரென உயர்ந்துள்ளது. வளிமண்டல மேலடுக்கு சுழற்சி காரணமாக, தமிழகத்தில் மதுரை, திண்டுக்கல், தேனி மற்றும் விருதுநகர் மாவட்டங்களில், க...",
-   "source": "தினமலர்",
-   "published": "2026-11-28T08:04:00+05:30",
-   "category": "மழை / வானிலை",
-   "score": 11.16,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30",
-   "picked_at": "2026-11-28T08:28:38.673855+05:30",
-   "posted": true
-  },
-  "C5f956bf": {
-   "id": "C5f956bf",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/hindu-munnani-activists-burst-firecrackers-ban-sweets/4388320",
-   "title": "இந்து முன்னணி நிர்வாகிகள் பட்டாசு வெடித்து, இனிப்பு வழங்க தடை",
-   "summary": "கரூர்:திருப்பரங்குன்றம் மலை தீபத்துாணில், விளக்கு ஏற்ற வேண்டும் என, உச்சநீதிமன்ற உத்தரவை வரவேற்று, கரூரில் இந்து முன்னணி நிர்வாகிகள், பொதுமக்களுக்கு லட்டு வழங்க சென்றனர்.",
-   "source": "தினமலர்",
-   "published": "2026-11-28T08:08:00+05:30",
-   "category": "பொது",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30",
-   "picked_at": "2026-11-28T08:28:38.673857+05:30",
-   "posted": true
-  },
   "C0deee77": {
    "id": "C0deee77",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/two-held-for-smuggling-ration-rice/4388325",
@@ -186,20 +144,47 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-28T08:26:36.893698+05:30"
+  },
+  "Cb376596": {
+   "id": "Cb376596",
+   "url": "https://www.maalaimalar.com/news/tamilnadu/car-crashes-into-a-lorry-near-karur-3-death",
+   "title": "கரூர் அருகே லாரி மீது கார் மோதி விபத்து - ஐயப்ப பக்தர்கள் 3 பேர் பலி",
+   "summary": "சபரிமலையில் நடப்பு மண்டல, மகரவிளக்கு சீசனையொட்டி கடந்த 16-ந்தேதி நடை திறக்கப்பட்டது. அன்றைய தினம் முதல் ஆயிரக்கணக்கான பக்தர்கள் தினமும் சபரிமலைக்கு வந்து சாமி தரிசனம் செய்து வருகின்றனர்.",
+   "source": "மாலைமலர்",
+   "published": "2026-11-28T03:22:12Z",
+   "category": "விபத்து",
+   "score": 10.8,
+   "power_cut": false,
+   "listed_at": "2026-11-28T10:28:29.323126+05:30"
+  },
+  "C32aa381": {
+   "id": "C32aa381",
+   "url": "https://www.dinakaran.com/news/aravakurichi-accident-sabarimala-ayyappa-devotees-fatalities/amp",
+   "title": "அரவக்குறிச்சி அருகே கோர விபத்து: சபரிமலை சென்று திரும்பிய 3 ஐயப்ப பக்தர்கள் உயிரி*ப்பு",
+   "summary": "அரவக்குறிச்சி அருகே, சபரிமலைக்கு சென்று சொந்த ஊருக்கு திரும்பிய ஐயப்ப பக்தர்கள் பயணித்த மாருதி கார், லாரி மோதியதில் 3 பேர் சம்பவ இடத்திலேயே உயிரிழந்தனர்.",
+   "source": "தினகரன்",
+   "published": "2026-11-28T07:30:06+05:30",
+   "category": "விபத்து",
+   "score": 10.8,
+   "power_cut": false,
+   "late_listed": true,
+   "listed_at": "2026-11-28T10:28:29.323126+05:30"
+  },
+  "C8180f01": {
+   "id": "C8180f01",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-grama-sabha-meeting-at-kadapparai-panchayat/4388308",
+   "title": "காதப்பாறை பஞ்சாயத்தில் சிறப்பு கிராம சபை கூட்டம்",
+   "summary": "கரூர்:கரூர் அருகே காதப்பாறை பஞ்சாயத்து அலுவலகத்தில், சிறப்பு கிராம சபை கூட்டம் நேற்று நடந்தது. கரூர் மாவட்டத்தில் உள்ள, அனைத்து கிராம பஞ்சாயத்துகளில், வெற்றி வீடு கட்டும் திட்டம் தொடர்பாக, சிறப்பு கிராம சபை கூட்டம் நட...",
+   "source": "தினமலர்",
+   "published": "2026-11-28T08:01:00+05:30",
+   "category": "பொது",
+   "score": 6.0,
+   "power_cut": false,
+   "late_listed": true,
+   "listed_at": "2026-11-28T10:28:29.323126+05:30"
   }
  },
  "rounds": {
-  "2026-11-26_12": {
-   "window": [
-    "2026-11-26T09:45:06.834039+05:30",
-    "2026-11-26T12:25:47.924406+05:30"
-   ],
-   "ids": [],
-   "sent": false,
-   "deadline": "2026-11-26T13:25:47.924406+05:30",
-   "decided": null,
-   "written": []
-  },
   "2026-11-26_16": {
    "window": [
     "2026-11-26T12:25:47.924406+05:30",
@@ -592,9 +577,64 @@
     "C3e6af0f",
     "C5f956bf"
    ]
+  },
+  "2026-11-28_10": {
+   "window": [
+    "2026-11-28T08:26:36.893698+05:30",
+    "2026-11-28T10:28:29.323126+05:30"
+   ],
+   "ids": [
+    "Cb376596",
+    "C32aa381",
+    "C8180f01",
+    "C0deee77",
+    "Cefcfcaa",
+    "C0eecea5",
+    "C6569c40",
+    "C3e83654",
+    "Cfd7a6b3",
+    "C59e0506",
+    "C71b53af",
+    "Ce1562ea",
+    "Cb0b483f",
+    "C0aa26eb",
+    "Ccd7c059"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T11:28:29.323126+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {},
+ "retry": {
+  "https://tamil.news18.com/tamil-nadu/fatal-accident-near-aravakurichi-three-pilgrims-returning-from-sabarimala-killed-vjr-ws-bl-2263679.html": {
+   "it": {
+    "key": "https://tamil.news18.com/tamil-nadu/fatal-accident-near-aravakurichi-three-pilgrims-returning-from-sabarimala-killed-vjr-ws-bl-2263679.html",
+    "url": "https://tamil.news18.com/tamil-nadu/fatal-accident-near-aravakurichi-three-pilgrims-returning-from-sabarimala-killed-vjr-ws-bl-2263679.html",
+    "title": "அரவக்குறிச்சியில் கோர விபத்து! ஐயப்ப பக்தர்கள் 3 பேர் பலி, 4 பேர் ...",
+    "source": "News18 தமிழ்நாடு",
+    "published": "2026-11-28T02:07:00+05:30",
+    "via": "bing",
+    "query": "அரவக்குறிச்சி",
+    "snippet": "கரூர் மாவட்டம் அரவக்குறிச்சி அருகே சபரிமலை சென்று திரும்பிய கார் லாரி மீது மோதிய விபத்தில் 3 பேர் உயிரிழந்தனர், 4 பேர் காயமடைந்தனர்."
+   },
+   "first": "2026-11-28T10:28:29.323126+05:30"
+  },
+  "https://tamil.news18.com/videos/tamil-nadu/karur-car-accident-3-tamil-news-2263656.html": {
+   "it": {
+    "key": "CBMikAFBVV95cUxQbVp4RFdDWUdOUlNaUGNIbTF0LS1xaFduMThPSVB2ZVFDNFV4c3FVU2xxRVVreEZDVXBjeF9rTlBMWjRST3laSTRDSTVKckFsNjFDQ3FNOXVObzNkQ3dWa1Rwd3hSUXRTN1dMeGJQMTBfN3E2QVh2dHBPTUd1TjYyamdVaWQxd2dHNmtMOGtMdGo",
+    "url": "https://tamil.news18.com/videos/tamil-nadu/karur-car-accident-3-tamil-news-2263656.html",
+    "title": "Karur Car Accident | கரூரில் கார் விபத்து - 3 ஐயப்ப பக்தர்கள் உயிரிழப்பு | Tamil News",
+    "site": "https://tamil.news18.com",
+    "source": "News18 Tamil",
+    "published": "2026-11-28T08:17:46+05:30",
+    "via": "google",
+    "query": "கரூர்",
+    "snippet": " Karur Car Accident | கரூரில் கார் விபத்து - 3 ஐயப்ப பக்தர்கள் உயிரிழப்பு | Tamil News    News18 Tamil "
+   },
+   "first": "2026-11-28T10:28:29.323126+05:30"
+  }
+ },
  "seen": {
   "Gaa33d93658": "2026-11-27T16:41 D",
   "G5490128e7a": "2026-11-27T16:41 D",
@@ -1053,6 +1093,69 @@
   "C8191912": "2026-11-28T08:26 not Karur district",
   "Ce8a0b28": "2026-11-28T08:26 not Karur district",
   "Ca191f65": "2026-11-28T08:26 not Karur district",
-  "C61e6f7a": "2026-11-28T08:26 not Karur district"
+  "C61e6f7a": "2026-11-28T08:26 not Karur district",
+  "Gec462fd1a4": "2026-11-28T10:28 D",
+  "G756fb70167": "2026-11-28T10:28 D",
+  "G15992962b1": "2026-11-28T10:28 D",
+  "G76b51257c3": "2026-11-28T10:28 D",
+  "G3685cd5d59": "2026-11-28T10:28 D",
+  "G371cbe8fbd": "2026-11-28T10:28 D",
+  "G1fb1e8620f": "2026-11-28T10:28 D",
+  "Gf00998246a": "2026-11-28T10:28 D",
+  "G68d9857fe3": "2026-11-28T10:28 D",
+  "Gd155e75e63": "2026-11-28T10:28 D",
+  "Gc1fe76396c": "2026-11-28T10:28 D",
+  "Gc4053bbd77": "2026-11-28T10:28 D",
+  "G1f336ab83f": "2026-11-28T10:28 D",
+  "G365de0d88b": "2026-11-28T10:28 D",
+  "G50afe7b21d": "2026-11-28T10:28 D",
+  "G152a43ab06": "2026-11-28T10:28 D",
+  "Gf8105af3c0": "2026-11-28T10:28 D",
+  "G98cbbe4e18": "2026-11-28T10:28 D",
+  "G84430d9a5b": "2026-11-28T10:28 D",
+  "Gee4f4af53e": "2026-11-28T10:28 D",
+  "Ge35808ec44": "2026-11-28T10:28 D",
+  "G0c7f6a16e6": "2026-11-28T10:28 D",
+  "Gd05f927dfc": "2026-11-28T10:28 D",
+  "G059aa7d828": "2026-11-28T10:28 D",
+  "G2453ad0357": "2026-11-28T10:28 D",
+  "Gb19ead9622": "2026-11-28T10:28 D",
+  "G87ab032a7e": "2026-11-28T10:28 D",
+  "Gbfb00e3b07": "2026-11-28T10:28 D",
+  "G99f8112586": "2026-11-28T10:28 D",
+  "G7d3d9055d9": "2026-11-28T10:28 D",
+  "Gc083b6dc88": "2026-11-28T10:28 D",
+  "Gc000c96f34": "2026-11-28T10:28 D",
+  "Gdbda8a4fd9": "2026-11-28T10:28 D",
+  "Gf088003bac": "2026-11-28T10:28 D",
+  "G37683536c9": "2026-11-28T10:28 D",
+  "G8d1492a073": "2026-11-28T10:28 D",
+  "G150b803893": "2026-11-28T10:28 D",
+  "G0c2ad7a2ed": "2026-11-28T10:28 D",
+  "G4830ebc0d5": "2026-11-28T10:28 D",
+  "Ge68fd780da": "2026-11-28T10:28 D",
+  "G6d8298888e": "2026-11-28T10:28 D",
+  "G645ab83403": "2026-11-28T10:28 D",
+  "G11cba27a10": "2026-11-28T10:28 D",
+  "G10dbc2c1e5": "2026-11-28T10:28 D",
+  "G2a751e1e52": "2026-11-28T10:28 D",
+  "G99a5d7e017": "2026-11-28T10:28 D",
+  "C87e038a": "2026-11-28T10:28 already posted",
+  "C330d15a": "2026-11-28T10:28 already posted",
+  "Ce9026e4": "2026-11-28T10:28 already posted",
+  "C7977c20": "2026-11-28T10:28 could not open (403 Client Error: Forbid",
+  "C6e763bc": "2026-11-28T10:28 could not open (403 Client Error: Forbid",
+  "C19a46e0": "2026-11-28T10:28 already posted",
+  "Ca84ba2f": "2026-11-28T10:28 not Karur district",
+  "C7a6925a": "2026-11-28T10:28 not Karur district",
+  "C144771a": "2026-11-28T10:28 not Karur district",
+  "C1e109ff": "2026-11-28T10:28 not Karur district",
+  "C118ee25": "2026-11-28T10:28 already posted",
+  "Ccd52ac2": "2026-11-28T10:28 already posted",
+  "C8efa1d2": "2026-11-28T10:28 not Karur district",
+  "Ca29f8cb": "2026-11-28T10:28 not Karur district",
+  "Ced860c9": "2026-11-28T10:28 not Karur district",
+  "C6eb44fd": "2026-11-28T10:28 not Karur district",
+  "Ca88420e": "2026-11-28T10:28 not Karur district"
  }
 }
