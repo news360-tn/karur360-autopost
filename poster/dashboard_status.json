@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T13:20:32+00:00",
+ "updated": "2026-11-28T13:29:04+00:00",
  "day": "2026-11-28",
- "ready": 4,
+ "ready": 3,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -125,6 +125,13 @@
       "link": "https://www.instagram.com/reel/DgSVTGGuofI/",
       "at": "2026-11-28T13:12:58+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-264",
+      "head": "கரூர் அருகே டிரான்ஸ்பார்மரில் படர்ந்த செடிகளை அகற்ற எதிர்பார்ப்பு",
+      "link": "https://www.instagram.com/reel/DgSW5Q7qMy4/",
+      "at": "2026-11-28T13:26:15+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -132,7 +139,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 16,
+    "waiting": 17,
     "share": [],
     "paused": "Facebook limited this page - paused until 2026-11-28T14:35 UTC"
    },
