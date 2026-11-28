@@ -84,34 +84,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-27 | `ceed14c` | Tests: Facebook retry plan is 10 min x5 then 1 h once (7 tries) |
-| 2026-11-27 | `058a69c` | stories shared / Instagram pause |
-| 2026-11-27 | `5c838ae` | Posting rules 27 Nov: 30 news a day per platform by views, 06:00-22:00 (urgent any time), retry 10 min x5 then 1 h, block wait as stated else 2 h, collect every 2 h |
-| 2026-11-27 | `fe2ca1e` | stories shared / Instagram pause |
-| 2026-11-27 | `a4fb5ec` | stories shared / Instagram pause |
-| 2026-11-27 | `6202e1b` | stories shared / Instagram pause |
-| 2026-11-27 | `b30135f` | stories shared / Instagram pause |
-| 2026-11-27 | `8e73aa1` | stories shared / Instagram pause |
-| 2026-11-27 | `53475a7` | stories shared / Instagram pause |
-| 2026-11-27 | `880065f` | stories shared / Instagram pause |
-| 2026-11-27 | `4b9d18d` | stories shared / Instagram pause |
-| 2026-11-27 | `8ce31d6` | stories shared / Instagram pause |
-| 2026-11-27 | `3994fa8` | pick: written and posted |
-| 2026-11-27 | `29a2845` | pick: picked news saved |
-| 2026-11-27 | `536efc3` | pick: list sent |
-| 2026-11-27 | `cf53ca3` | stories shared / Instagram pause |
-| 2026-11-27 | `e699bc2` | stories shared / Instagram pause |
-| 2026-11-27 | `be82559` | stories shared / Instagram pause |
-| 2026-11-27 | `d1d6305` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
-| 2026-11-27 | `311c38c` | stories shared / Instagram pause |
-| 2026-11-27 | `26773e3` | stories shared / Instagram pause |
-| 2026-11-27 | `9814136` | stories shared / Instagram pause |
-| 2026-11-27 | `8f500e2` | stories shared / Instagram pause |
-| 2026-11-27 | `e3393d9` | stories shared / Instagram pause |
-| 2026-11-27 | `8f10193` | stories shared / Instagram pause |
-| 2026-11-27 | `4acc647` | stories shared / Instagram pause |
-| 2026-11-27 | `537a1bf` | stories shared / Instagram pause |
-| 2026-11-27 | `eb80226` | stories shared / Instagram pause |
-| 2026-11-27 | `348aab4` | stories shared / Instagram pause |
-| 2026-11-27 | `f6b65a2` | stories shared / Instagram pause |
+| 2026-11-28 | `4936b92` | Writer hook (first 3 s): place first + strong event word + one hard detail; நாளை/இன்று first; schemes open with the amount / last date; caption first line 7-12 words (data: 2,686 reels) |
+| 2026-11-28 | `8b57648` | stories shared / Instagram pause |
+| 2026-11-28 | `c929381` | stories shared / Instagram pause |
+| 2026-11-28 | `9e33559` | facebook RN-250 |
+| 2026-11-28 | `fdb47ab` | posted RN-250 |
+| 2026-11-28 | `d0cbdbc` | stories shared / Instagram pause |
+| 2026-11-28 | `fe7fb3c` | stories shared / Instagram pause |
+| 2026-11-28 | `97f274c` | facebook RN-249 |
+| 2026-11-28 | `271be87` | posted RN-249 |
+| 2026-11-28 | `2c68bc5` | stories shared / Instagram pause |
+| 2026-11-28 | `e35c084` | pick: picked news saved |
+| 2026-11-28 | `e22ec49` | stories shared / Instagram pause |
+| 2026-11-28 | `3a299c1` | pick: picked news saved |
+| 2026-11-28 | `623e4d1` | pick: list sent |
+| 2026-11-28 | `485831e` | stories shared / Instagram pause |
+| 2026-11-28 | `5f137e4` | stories shared / Instagram pause |
+| 2026-11-28 | `b3497bc` | stories shared / Instagram pause |
+| 2026-11-28 | `2018b93` | stories shared / Instagram pause |
+| 2026-11-28 | `d0899f3` | stories shared / Instagram pause |
+| 2026-11-28 | `dd4a431` | stories shared / Instagram pause |
+| 2026-11-28 | `e039fdf` | stories shared / Instagram pause |
+| 2026-11-28 | `80b9d6f` | stories shared / Instagram pause |
+| 2026-11-28 | `e0173d2` | stories shared / Instagram pause |
+| 2026-11-28 | `bb04c61` | stories shared / Instagram pause |
+| 2026-11-28 | `d2d7b81` | stories shared / Instagram pause |
+| 2026-11-28 | `3dc9746` | stories shared / Instagram pause |
+| 2026-11-28 | `87f5f84` | stories shared / Instagram pause |
+| 2026-11-28 | `b277a33` | stories shared / Instagram pause |
+| 2026-11-28 | `0ba4488` | pick: written and posted |
+| 2026-11-28 | `35f5646` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
