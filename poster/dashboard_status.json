@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T07:28:26+00:00",
+ "updated": "2026-11-28T07:37:53+00:00",
  "day": "2026-11-28",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -76,6 +76,13 @@
       "link": "https://www.instagram.com/reel/DgRtECUvREh/",
       "at": "2026-11-28T07:21:04+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-255",
+      "head": "கரூர் அருகே சின்ன ஆண்டாங்கோவிலில் புதிய தார்ச்சாலை அமைப்பு",
+      "link": "https://www.instagram.com/reel/DgRupUkvdrC/",
+      "at": "2026-11-28T07:34:56+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -83,7 +90,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 13,
+    "waiting": 14,
     "share": [
      {
       "id": "RN-241",
@@ -143,6 +150,13 @@
       "day": "2026-11-28",
       "at": "2026-11-28T07:23:49+00:00",
       "title": "கரூரில் இனிப்பு வழங்கலுக்கு இந்து முன்னணியினருக்கு… | Karur crime news"
+     },
+     {
+      "ig": "18135000643800363",
+      "youtube": "ll1qbXGK1sw",
+      "day": "2026-11-28",
+      "at": "2026-11-28T07:37:49+00:00",
+      "title": "திருப்பூரில் மாநில அறிவியல் மாநாடு: கரூரிலிருந… | Karur education news"
      }
     ],
     "keys": true
