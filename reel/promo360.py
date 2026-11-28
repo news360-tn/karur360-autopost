@@ -1,5 +1,5 @@
 """owner 20 Nov: the sponsor ad on a news reel (only for an APPROVED promotion - poster/promo.py decides which reel gets one).
-ONE place: the big free space at the BOTTOM of the reel, under the captions; DURING THE NEWS ONLY (from 3 s to the end of the
+ONE place: the big free space at the BOTTOM of the reel, under the captions; DURING THE NEWS ONLY (from 5 s to the end of the
 news). The page's footer logo strip is hidden while the ad shows; the news design and the page's own FOLLOW end card never change;
 the reel is not longer. Marked "விளம்பரம் • AD".
 add(page_html, promo) -> page_html; promo = {title, message, image (optional)}. Nothing changes if the page is not the expected one."""
@@ -18,7 +18,7 @@ CSS = """
 JS = """<script>
 (function(){const old=window.renderAt, cl=x=>Math.max(0,Math.min(1,x));
 window.renderAt=function(t){old(t); const e=D.end_t, box=document.getElementById('adbox'), ft=document.getElementById('foot');
-  const v=(t>=3&&t<e)?cl((t-3)/0.4)*cl((e-t)/0.3):0;      /* during the news only - never on the FOLLOW end card */
+  const v=(t>=5&&t<e)?cl((t-5)/0.4)*cl((e-t)/0.3):0;      /* owner 29 Nov: from the 5th second (never at the start of the video), during the news only - never on the FOLLOW end card */
   box.style.opacity=v; box.style.transform='translateY('+((1-v)*30).toFixed(1)+'px)';
   if(ft) ft.style.visibility=v>0?'hidden':'visible';      /* the footer logo strip is hidden while the ad shows */
 };})();

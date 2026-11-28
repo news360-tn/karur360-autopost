@@ -11,7 +11,7 @@ import promo      # noqa: E402
 import ytupload      # noqa: E402
 
 PG = next(iter(post.LABEL))
-NOW = datetime.now(timezone.utc).replace(microsecond=0)
+NOW = datetime.now(timezone.utc).replace(hour=6, minute=0, second=0, microsecond=0)      # 11:30 IST: 'posted 50 minutes ago' stays the same IST day (29 Nov: failed 00:00-00:50 IST)
 
 
 class Combined(unittest.TestCase):

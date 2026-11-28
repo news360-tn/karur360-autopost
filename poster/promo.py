@@ -9,6 +9,9 @@ Google Form. A page's posting job asks it (GitHub secrets PROMO_URL + PROMO_KEY;
   mark_used(p, page, sid)  counted after the reel is posted
   python poster/promo.py samples   (promo.yml) a new request / the owner's REJECTED points -> a sample reel e-mailed by the hub:
                         the page's latest posted news reel with the ad laid over it (the real reel, voice and all)
+owner 28 Nov: NEWS CAMPAIGNS added in the News360 Backend are a second source (the backend's store, secrets DASH_URL + DASH_WRITE_KEY):
+the same rows, plus "news" (normal / priority / mixed) and "total" (a number of news for the whole campaign). Their sample reel is
+not e-mailed: its link goes to the backend, where the owner approves it, rejects it or asks for a new sample with points.
 Nothing here ever stops a news reel: any problem = no ad on that reel."""
 import base64
 import json
@@ -37,6 +40,42 @@ def key():
 
 def enabled():
     return bool(url() and key())
+
+
+def dash_url():
+    return os.environ.get("DASH_URL", "").strip()
+
+
+def dash_key():
+    return os.environ.get("DASH_WRITE_KEY", "").strip()
+
+
+def backend_enabled():
+    """owner 28 Nov: the News360 Backend's store is set up for this repository (news campaigns)"""
+    return bool(dash_url() and dash_key())
+
+
+def dash(action, **payload):
+    """one question to the backend's store (the key goes in the body, never in the link)"""
+    r = requests.post(dash_url(), data=json.dumps(dict(payload, action=action, key=dash_key()), ensure_ascii=False).encode("utf-8"),
+                      headers={"Content-Type": "text/plain;charset=utf-8"}, timeout=120)
+    r.raise_for_status()
+    d = r.json()
+    if not d.get("ok"):
+        raise RuntimeError(f"backend store {action}: {d.get('error')}")
+    return d
+
+
+def from_backend(p):
+    return (p or {}).get("_src") == "backend"
+
+
+def safe_bool(fn, *a):
+    """fn(*a) as True / False, or None when it cannot be worked out (then the news kind is not used to choose)"""
+    try:
+        return bool(fn(*a))
+    except Exception:
+        return None
 
 
 def log(*a):
@@ -68,8 +107,18 @@ def hub_post(action, payload):
 
 def promos(fresh=False):
     if fresh or "p" not in _CACHE:
-        d = hub_get("promos")
-        _CACHE["p"] = (d.get("promos") or [], d.get("used") or {})
+        rows, used = [], {}
+        if enabled():
+            d = hub_get("promos")
+            rows, used = list(d.get("promos") or []), dict(d.get("used") or {})
+        if backend_enabled():      # owner 28 Nov: campaigns added in the backend; a store that does not answer never hides the hub's promotions
+            try:
+                d = dash("camp_feed")
+                rows += [dict(p, _src="backend") for p in d.get("promos") or []]
+                used.update(d.get("used") or {})
+            except Exception as e:
+                log("backend campaigns not read:", str(e)[:150])
+        _CACHE["p"] = (rows, used)
     return _CACHE["p"]
 
 
@@ -82,8 +131,10 @@ def per_day(p):
     return int(v) if v.isdigit() else None
 
 
-def choose(rows, used, page, day):
-    """the oldest APPROVED promotion for this page and day that still has room today"""
+def choose(rows, used, page, day, priority=None):
+    """the oldest APPROVED promotion for this page and day that still has room today.
+    owner 28 Nov (backend campaigns): 'news' = normal / priority / mixed - priority=True for an urgent news, False for a normal one,
+    None when unknown (then every kind fits); 'total' = a number of news for the whole campaign"""
     for p in rows:
         if str(p.get("status")) != "approved" or page not in pages_of(p):
             continue
@@ -92,17 +143,23 @@ def choose(rows, used, page, day):
         n = per_day(p)
         if n is not None and int(used.get(f"{p.get('id')}|{page}|{day}", 0)) >= n:
             continue
+        kind = str(p.get("news") or "mixed").strip().lower()
+        if priority is not None and ((kind == "priority" and not priority) or (kind == "normal" and priority)):
+            continue
+        total = str(p.get("total") or "").strip()
+        if total.isdigit() and int(used.get(f"{p.get('id')}|total", 0)) >= int(total):
+            continue
         return p
     return None
 
 
-def active_for(page, day=None):
+def active_for(page, day=None, priority=None):
     """never raises: no hub / no answer / no approved promotion = None (the reel is made as always)"""
-    if not enabled():
+    if not (enabled() or backend_enabled()):
         return None
     try:
         rows, used = promos()
-        return choose(rows, used, page, day or today())
+        return choose(rows, used, page, day or today(), priority)
     except Exception as e:
         log("not read (no ad on this reel):", str(e)[:150])
         return None
@@ -125,7 +182,7 @@ def asset(p, work):
     work = Path(work)
     work.mkdir(parents=True, exist_ok=True)
     try:
-        d = hub_get("file", id=ids[0])
+        d = dash("camp_file", id=p.get("id")) if from_backend(p) else hub_get("file", id=ids[0])
         ext = {"image/png": ".png", "image/webp": ".webp", "image/gif": ".gif"}.get(d.get("mime"), ".jpg")
         f = work / f"promo_{ids[0][:12]}{ext}"
         f.write_bytes(base64.b64decode(d["data"]))
@@ -143,7 +200,13 @@ def reel_promo(p, work):
 
 def mark_used(p, page, sid):
     try:
-        hub_post("used", {"id": p.get("id"), "page": page, "date": today(), "story": sid})
+        if from_backend(p):
+            dash("camp_used", id=p.get("id"), page=page, date=today(), story=sid)
+        else:
+            hub_post("used", {"id": p.get("id"), "page": page, "date": today(), "story": sid})
+        used = _CACHE.get("p", ([], {}))[1]      # counted in this run too: the next reel of the same run sees it
+        for k in (f"{p.get('id')}|{page}|{today()}", f"{p.get('id')}|total"):
+            used[k] = int(used.get(k, 0)) + 1
     except Exception as e:
         log("use not recorded:", str(e)[:150])
 
@@ -203,9 +266,9 @@ def make_sample(post, p, page, work):
                                capture_output=True, text=True, check=True).stdout.strip())
     png = ad_png(reel_promo(p, work), work / "ad.png")
     out = work / f"{p['id']}_sample.mp4"
-    end = max(4.0, dur - 4.2)      # the ad leaves before the FOLLOW end card (about the last 4 s)
+    end = max(6.0, dur - 4.2)      # the ad leaves before the FOLLOW end card (about the last 4 s); owner 29 Nov: it starts at the 5th second
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-i", str(png), "-filter_complex",
-                    f"[0:v][1:v]overlay=0:0:enable='between(t,3,{end:.2f})'[v]", "-map", "[v]", "-map", "0:a?", "-c:v", "libx264",
+                    f"[0:v][1:v]overlay=0:0:enable='between(t,5,{end:.2f})'[v]", "-map", "[v]", "-map", "0:a?", "-c:v", "libx264",
                     "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p", "-c:a", "copy", "-movflags", "+faststart", str(out)], check=True)
     return out, headline
 
@@ -234,8 +297,8 @@ def apply_points(p):
 
 def samples():
     """promo.yml: make the samples this repo is responsible for (the first chosen page that belongs to this repo)"""
-    if not enabled():
-        log("PROMO_URL / PROMO_KEY not set - nothing to do")
+    if not (enabled() or backend_enabled()):
+        log("PROMO_URL / PROMO_KEY and DASH_URL / DASH_WRITE_KEY not set - nothing to do")
         return 0
     sys.path.insert(0, str(HERE))
     import post
@@ -254,16 +317,28 @@ def samples():
         if st == "changes":
             title, message, not_applied = apply_points(p)
             p = dict(p, title=title, message=message)
-            hub_post("update", {"id": p["id"], "title": title, "message": message, "status": "sample_needed"})
+            if from_backend(p):
+                dash("camp_update", id=p["id"], title=title, message=message, status="sample_needed")
+            else:
+                hub_post("update", {"id": p["id"], "title": title, "message": message, "status": "sample_needed"})
         try:
             mp4, headline = make_sample(post, p, pg, ROOT / "out" / "promo" / p["id"])
             link = post.upload(mp4, "video")
-            hub_post("sample", {"id": p["id"], "page": pg, "page_label": post.LABEL.get(pg, pg), "video_url": link, "headline": headline,
-                                "title": p.get("title"), "message": p.get("message"), "not_applied": not_applied})
-            log(f"{p['id']}: sample e-mailed ({link})")
+            if from_backend(p):      # owner 28 Nov: the owner sees the sample in the backend and decides there
+                dash("camp_sample", id=p["id"], page=pg, video_url=link, headline=headline, title=p.get("title"), message=p.get("message"), not_applied=not_applied)
+                log(f"{p['id']}: sample ready in the backend ({link})")
+            else:
+                hub_post("sample", {"id": p["id"], "page": pg, "page_label": post.LABEL.get(pg, pg), "video_url": link, "headline": headline,
+                                    "title": p.get("title"), "message": p.get("message"), "not_applied": not_applied})
+                log(f"{p['id']}: sample e-mailed ({link})")
             n += 1
         except Exception as e:
             log(f"{p['id']}: sample not made:", str(e)[:300])
+            if from_backend(p):
+                try:
+                    dash("camp_problem", id=p["id"], msg="the sample could not be made yet (tried again): " + str(e)[:250])
+                except Exception:
+                    pass
     return n
 
 

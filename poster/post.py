@@ -2660,7 +2660,7 @@ def run_story_page(row, page):
     PROMO_NOW = None
     try:      # owner 20 Nov: an APPROVED promotion for this page today puts its ad on this reel (no hub / no promotion: nothing changes)
         import promo
-        PROMO_NOW = promo.active_for(PAGE)
+        PROMO_NOW = promo.active_for(PAGE, priority=promo.safe_bool(is_priority_news, row))      # owner 28 Nov: a backend campaign may be for normal / priority news only
         if PROMO_NOW:
             caption = fit_caption(promo.with_line(caption, PROMO_NOW))      # the caption says it is an ad; its own cache key too
             log(f"promotion {PROMO_NOW.get('id')} ({PROMO_NOW.get('brand')}): its ad goes on this reel")

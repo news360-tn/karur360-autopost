@@ -56,7 +56,7 @@ class AdOnTheReel(unittest.TestCase):
         out = promo360.add(PAGE, {"title": "Deepavali <sale>", "message": "50% off", "image": ""})
         self.assertIn('id="adbox"', out)
         self.assertIn("top:1548px", out)                       # the big space at the bottom
-        self.assertIn("t>=3&&t<e", out)                        # during the news only, never on the FOLLOW end card
+        self.assertIn("t>=5&&t<e", out)      # owner 29 Nov: from the 5th second;                        # during the news only, never on the FOLLOW end card
         self.assertIn("ft.style.visibility", out)              # the footer logo strip hidden while it shows
         self.assertIn("Deepavali &lt;sale&gt;", out)
         self.assertEqual(promo360.add(out, {"title": "x"}), out)      # only once
@@ -69,7 +69,7 @@ class AdOnTheReel(unittest.TestCase):
 class Wiring(unittest.TestCase):
     def test_post_and_reel(self):
         post = (ROOT / "poster" / "post.py").read_text(encoding="utf-8")
-        self.assertIn("PROMO_NOW = promo.active_for(PAGE)", post)
+        self.assertIn("PROMO_NOW = promo.active_for(PAGE", post)      # owner 28 Nov: it also tells the kind of news (priority=...)
         self.assertIn('env["PROMO_JSON"]', post)
         self.assertIn("promo.mark_used(PROMO_NOW, PAGE, sid)", post)
         self.assertIn('"quiet": posted_quiet()', post)

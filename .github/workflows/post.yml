@@ -29,6 +29,8 @@ env:
   BRIDGE_KEY: ${{ secrets.BRIDGE_KEY }}
   PROMO_URL: ${{ secrets.PROMO_URL || 'https://script.google.com/macros/s/AKfycbxwMsz3A3kYGIRzrqJ7SS2Yfu-d0kR2zv4DBp8iWS3N3Ax3QEJ6KQxN69XtCTi2qvVF/exec' }}      # owner 20 Nov: approved promotion ads (poster/promo.py) - nothing happens without it
   PROMO_KEY: ${{ secrets.PROMO_KEY }}
+  DASH_URL: ${{ secrets.DASH_URL }}      # owner 28 Nov: news campaigns approved in the News360 Backend (poster/promo.py)
+  DASH_WRITE_KEY: ${{ secrets.DASH_WRITE_KEY }}
   CLOUDINARY_CLOUD: ${{ secrets.CLOUDINARY_CLOUD }}
   R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}      # owner 25 Nov: Cloudflare R2 replaces Cloudinary (poster/r2host.py)
   R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}

@@ -11,6 +11,8 @@ concurrency: {group: promo-samples, cancel-in-progress: false}
 env:
   PROMO_URL: ${{ secrets.PROMO_URL || 'https://script.google.com/macros/s/AKfycbxwMsz3A3kYGIRzrqJ7SS2Yfu-d0kR2zv4DBp8iWS3N3Ax3QEJ6KQxN69XtCTi2qvVF/exec' }}
   PROMO_KEY: ${{ secrets.PROMO_KEY }}
+  DASH_URL: ${{ secrets.DASH_URL }}      # owner 28 Nov: news campaigns added in the News360 Backend
+  DASH_WRITE_KEY: ${{ secrets.DASH_WRITE_KEY }}
   BRIDGE_URL: ${{ secrets.BRIDGE_URL }}
   BRIDGE_KEY: ${{ secrets.BRIDGE_KEY }}
   CLOUDINARY_CLOUD: ${{ secrets.CLOUDINARY_CLOUD }}
@@ -29,9 +31,14 @@ jobs:
       - name: Anything to do?
         id: todo
         run: |
-          [ -n "$PROMO_URL" ] && [ -n "$PROMO_KEY" ] || { echo "PROMO_URL / PROMO_KEY not set - nothing to do"; echo "go=0" >> $GITHUB_OUTPUT; exit 0; }
-          n=$(curl -sfL --max-time 90 "$PROMO_URL?action=promos&key=$PROMO_KEY" | python3 -c "import json,sys; d=json.load(sys.stdin); print(sum(1 for p in d.get('promos', []) if p.get('status') in ('sample_needed', 'changes')))" || echo 0)
-          echo "requests waiting for a sample: $n"; echo "go=$([ "$n" -gt 0 ] && echo 1 || echo 0)" >> $GITHUB_OUTPUT
+          n=0; m=0
+          if [ -n "$PROMO_URL" ] && [ -n "$PROMO_KEY" ]; then
+            n=$(curl -sfL --max-time 90 "$PROMO_URL?action=promos&key=$PROMO_KEY" | python3 -c "import json,sys; d=json.load(sys.stdin); print(sum(1 for p in d.get('promos', []) if p.get('status') in ('sample_needed', 'changes')))" 2>/dev/null || echo 0)
+          fi
+          if [ -n "$DASH_URL" ] && [ -n "$DASH_WRITE_KEY" ]; then      # owner 28 Nov: campaigns added in the News360 Backend
+            m=$(curl -sfL --max-time 90 -H 'Content-Type: text/plain' -d "{\"action\":\"camp_feed\",\"key\":\"$DASH_WRITE_KEY\"}" "$DASH_URL" | python3 -c "import json,sys; d=json.load(sys.stdin); print(sum(1 for p in d.get('promos', []) if p.get('status') in ('sample_needed', 'changes')))" 2>/dev/null || echo 0)
+          fi
+          echo "waiting for a sample: $n from the form, $m from the backend"; echo "go=$([ "$((${n:-0} + ${m:-0}))" -gt 0 ] && echo 1 || echo 0)" >> $GITHUB_OUTPUT
       - uses: actions/checkout@v4
         if: steps.todo.outputs.go == '1'
       - uses: actions/setup-python@v5

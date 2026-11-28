@@ -97,13 +97,13 @@ def story_state(page, story, root=None):
     return "", {}, ""
 
 
-def start_workflow():
-    """start backend_news.yml now; False when there is no token (its own 15-minute schedule then takes the request)"""
+def start_workflow(name=WORKFLOW):
+    """start backend_news.yml (or another workflow of this repository) now; False when there is no token (its own schedule then runs it)"""
     tok, repo = os.environ.get("GH_TOKEN"), os.environ.get("GH_REPO") or os.environ.get("GITHUB_REPOSITORY")
     if not tok or not repo:
         return False
     try:
-        req = urllib.request.Request(f"https://api.github.com/repos/{repo}/actions/workflows/{WORKFLOW}/dispatches",
+        req = urllib.request.Request(f"https://api.github.com/repos/{repo}/actions/workflows/{name}/dispatches",
                                      data=json.dumps({"ref": "main"}).encode("utf-8"), method="POST",
                                      headers={"Authorization": "Bearer " + tok, "Accept": "application/vnd.github+json",
                                               "Content-Type": "application/json", "User-Agent": "news360-backend-news"})
@@ -127,6 +127,8 @@ def peek():
         elif status == "held" and it.get("status") == "filed":
             done(it, "held", story=it.get("story"), msg=why)
             log(f"{it['id']} {it.get('story')}: held -", why[:100])
+    if int(got.get("camp") or 0):      # owner 28 Nov: a news campaign added in the backend waits for its sample reel (poster/promo.py samples)
+        log("a campaign waits for its sample -", "promo.yml is started" if start_workflow("promo.yml") else "promo.yml's schedule makes it")
     n = int(got.get("waiting") or 0)
     if n:
         log(f"{n} news waiting in the backend -", "the writer job is started" if start_workflow() else "the writer job's schedule takes it")
