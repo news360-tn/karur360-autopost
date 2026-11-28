@@ -3,14 +3,14 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-get-into-an-argument-with-municipal-corporation-officials-who-arrived-to-remove-banners-of-eps",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/no-picture-of-cm-or-government-plan-karur-district-website-down-without-update/4388317",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/demonstrations-by-all-trade-unions/4388315",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-advice-to-youth-team-managers/4388319",
   "candidate filter: collected=2",
   "to write: 2 Karur district candidates (max 2 stories)",
   "round: top 2 of 2 candidates",
   "candidates waiting: 2 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-g",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
@@ -29,163 +29,157 @@
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கரூர் மாவட்ட இணையதளம் அப்டேட் இல்லாமல் முடக்கம்",
-   "english_headline": "Karur district official website left without updates, Chief Minister's photo and scheme details missing",
+   "tamil_headline": "கரூரில் அதிமுக இளைஞர் அணி ஆலோசனை கூட்டம்",
+   "english_headline": "Karur AIADMK youth wing holds consultation meeting ahead of EPS's visit to Karur",
    "category": "Government & Services",
-   "location": "Karur city, Karur district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு இணையதளம்",
-    "loc": "கரூர் மாவட்டம்",
-    "hl1": "கரூர் மாவட்ட இணையதளம் அப்டேட் இல்லை",
-    "hl2": "முதல்வர் படம், திட்ட விவரம்",
-    "slides": [
-     {
-      "title": "என்ன குறை?",
-      "lines": [
-       "கரூர் மாவட்ட நிர்வாக இணையதளம் அப்டேட் இல்லாமல் உள்ளது",
-       "முதல்வர் படமோ, அரசின் புதிய திட்ட விவரமோ இல்லை",
-       "முதல் பக்கம் மட்டுமே அப்டேட் செய்யப்படுகிறது"
-      ]
-     },
-     {
-      "title": "பழைய தகவல்கள்",
-      "lines": [
-       "பல துறைகளின் புள்ளி விவரம் 2016-17க்கு பின்",
-       "சில துறைகளில் காலாவதியான திட்டப் பெயர்கள் உள்ளன",
-       "வேளாண், மருத்துவம், வேலைவாய்ப்பு தகவல்கள் இல்லை"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "கலெக்டர் மாறும்போது பெயர், படம் மட்டுமே மாற்றப்படுகிறது",
-       "இணையதளத்தை உடனே அப்டேட் செய்ய வேண்டும் என கோரிக்கை",
-       "இணையதள முகவரி: karur.nic.in"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் மாவட்ட நிர்வாக இணையதளம் நீண்ட நாட்களாக அப்டேட் செய்யப்படாமல் முடங்கியுள்ளது. முதல்வர் படமோ, அரசின் புதிய திட்டங்கள் குறித்த தகவலோ இணையதளத்தில் இல்லை. காணொலி வாயிலாக முதல்வர் தொடங்கி வைத்த திட்டம் குறித்த செய்திகளும் பதிவேற்றப்படவில்லை. ஊடக முனையத்தின் போட்டோ, வீடியோ பகுதியிலும் முதல்வர் பற்றி எதுவும் இடம் பெறவில்லை. இணையதளத்தில் முதல் பக்கம் மட்டுமே அப்டேட் செய்யப்படுகிறது. கலெக்டர் மாறும்போது அவரது பெயர், புகைப்படம் மட்டுமே மாற்றப்படுகிறது. வேளாண், மருத்துவம், வேலைவாய்ப்பு உள்ளிட்ட துறைகளின் தகவல்கள் இல்லை. பல துறைகளின் புள்ளி விவரங்கள் 2016-17ஆம் ஆண்டுக்குப் பின் புதுப்பிக்கப்படவில்லை. சில துறைகளில் காலாவதியான திட்டப் பெயர்களும் உள்ளன. இணையதளத்தை உடனடியாக அப்டேட் செய்ய நடவடிக்கை எடுக்க வேண்டும் என்று பொதுமக்கள் கோரிக்கை வைக்கின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ கரூர் மாவட்ட இணையதளம் அப்டேட் இல்லாமல் முடங்கியுள்ளது\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட நிர்வாக இணையதளத்தில் முதல்வர் படமோ, அரசின் புதிய திட்டங்கள் குறித்த தகவலோ இல்லை. இணையதளத்தில் முதல் பக்கம் மட்டுமே அப்டேட் செய்யப்படுகிறது. கலெக்டர் மாற்றத்துக்குப் பின் அவரது பெயரும் புகைப்படமும் மட்டுமே மாற்றப்படுகின்றன.\nகாணொலி வாயிலாக முதல்வர் தொடங்கி வைத்த திட்டம் குறித்த தகவல்களும் பதிவேற்றப்படவில்லை. ஊடக முனையத்தின் போட்டோ, வீடியோ பகுதியிலும் முதல்வர் பற்றி எதுவும் இடம் பெறவில்லை.\n🌾 வேளாண், தோட்டக்கலை, வருவாய், மருத்துவம், வேலைவாய்ப்பு, சுகாதாரம் உள்ளிட்ட துறைகளின் தகவல்கள் இல்லை.\n📊 பல துறைகளின் புள்ளி விவரங்கள் 2016-17ஆம் ஆண்டுக்குப் பின் புதுப்பிக்கப்படவில்லை. சில துறைகளில் காலாவதியான திட்டப் பெயர்களும் உள்ளன.\n🔗 இணையதள முகவரி: karur.nic.in\nஇணையதளத்தை உடனடியாக அப்டேட் செய்ய நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை.\n\nKarur district website not updated | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A district administration staff member in a cotton shirt sits at a desk in a government office in Karur city, Tamil Nadu, viewed from behind as they look at a computer monitor displaying an outdated government website whose page is blank where a photograph should be, with a stack of old printed files and a dusty wall calendar beside the keyboard. The room is part of the Karur district Collectorate, with plain tube lights, a wooden table, and a tiled floor, and a second official in a shirt and trousers stands at a distance near a filing cabinet. The monitor shows a generic government web page with a few text blocks and an empty rectangular space where a leader's photo would be, with no readable text. It is daylight coming through a window with a bamboo blind and the office looks ordinary and unhurried. Shot at eye level, 35 mm, wide enough to show the room and the desk, with the official's back and the screen clearly visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a computer monitor on a government office desk in Karur district, Tamil Nadu, showing an outdated official website page with an empty square frame where a photograph should appear and blocks of blurred, unreadable placeholder text, while a stack of old dog-eared files and a dried-up tea glass sit at the edge of the frame. A hand in a shirt sleeve rests on the mouse, suggesting a staffer is checking the page, and the background shows a blurred wall with a government notice board and a wooden cabinet. Daylight falls softly across the desk from a window, with no people's faces visible. Shot at a slightly high angle, 35 mm, close enough to show the empty photo frame and the stale files. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/no-picture-of-cm-or-government-plan-karur-district-website-down-without-update/4388317",
-   "published": "2026-11-28T08:06:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/fb0775393eb5ece5.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/133fb63321074341.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூரில் பேனர் அகற்றம்: அதிகாரிகளுடன் அ.தி.மு.க.வினர் வாக்குவாதம்",
-   "english_headline": "AIADMK cadres argue with Karur corporation officials over removing banners welcoming Edappadi Palaniswami",
-   "category": "Civic Issues",
    "location": "Karur city, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பேனர் அகற்றம்",
-    "loc": "கரூர் மாநகர்",
-    "hl1": "கரூரில் பேனர் அகற்ற அதிகாரிகள் வந்தனர்",
-    "hl2": "அ.தி.மு.க.வினர் வாக்குவாதம்",
+    "cat": "அரசியல்",
+    "loc": "கரூர்",
+    "hl1": "கரூரில் அதிமுக இளைஞர் அணி ஆலோசனை",
+    "hl2": "நாளை இ.பி.எஸ். வருகை",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "கூட்டம் எங்கே?",
       "lines": [
-       "எடப்பாடி பழனிசாமியை வரவேற்று வைத்த பேனர்கள் அகற்றம்",
-       "கரூர் மாநகர பகுதிகளில் பேனர்கள் வைக்கப்பட்டிருந்தன",
-       "பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு"
+       "கரூர் மாவட்ட அதிமுக கட்சி அலுவலகத்தில் கூட்டம்",
+       "இளைஞர் அணி செயலாளர் கரிகாலன் தலைமையில் நடந்தது",
+       "எம்.ஜி.ஆர். இளைஞர் அணி நிர்வாகிகள் பங்கேற்பு"
       ]
      },
      {
-      "title": "புகார்கள்",
+      "title": "என்ன முடிவு?",
       "lines": [
-       "மாநகராட்சி அதிகாரிகளுக்குப் புகார்கள் சென்றன",
-       "பேனர்களை அகற்ற அதிகாரிகள் அங்கு விரைந்தனர்",
-       "அ.தி.மு.க.வினர் எதிர்ப்பு தெரிவித்தனர்"
+       "நாளை கரூரில் நடைபெறும் ஆலோசனை கூட்டம்",
+       "பொதுச்செயலாளர் இ.பி.எஸ். வருகைக்கு சிறப்பான வரவேற்பு",
+       "பல்வேறு முடிவுகள் குறித்து செயலாளர் கமலகண்ணன் விளக்கம்"
       ]
      },
      {
-      "title": "வாக்குவாதம்",
+      "title": "யார் பங்கேற்றனர்?",
       "lines": [
-       "அ.தி.மு.க.வினர் அதிகாரிகளுடன் கடும் வாக்குவாதம்",
-       "அப்பகுதியில் சிறிது நேரம் பரபரப்பு நிலவியது",
-       "அதிகாரிகள் அறிவுறுத்தலைத் தொடர்ந்து சில பேனர்கள் அகற்றம்"
-      ]
-     },
-     {
-      "title": "அகற்றம்",
-      "lines": [
-       "நடைபாதையில் இடையூறாக இருந்த சில பேனர்களை அ.தி.மு.க.வினரே",
-       "பொதுமக்களுக்கு இடையூறான பேனர்கள் மட்டும் அகற்றப்பட்டன",
-       "மேலும் செய்திகளுக்கு கரூர் 360 பக்கத்தை பின்தொடருங்கள்"
+       "மாநில எம்.ஜி.ஆர். மன்ற துணை செயலாளர் சிவசாமி",
+       "மாவட்ட அவைத் தலைவர் திருவிகா, துணை செயலாளர் மல்லிகா",
+       "மகளிர் அணி செயலாளர் செல்வி, ஒன்றிய செயலாளர் கிருஷ்ணன்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கரூரில் பேனர்களை அகற்ற வந்த அதிகாரிகளுடன் அ தி மு க வினர் வாக்குவாதம் செய்தனர். அ தி மு க பொதுச்செயலாளர் எடப்பாடி பழனிசாமியை வரவேற்று கரூர் மாநகர பகுதிகளில் ஏராளமான பேனர்கள் வைக்கப்பட்டிருந்தன. இந்த பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக இருப்பதாக மாநகராட்சி அதிகாரிகளுக்கு புகார்கள் சென்றன. இதையடுத்து, பேனர்களை அகற்ற மாநகராட்சி அதிகாரிகள் அங்கு விரைந்து வந்தனர். அப்போது பேனர்களை அகற்ற எதிர்ப்பு தெரிவித்து அ தி மு க வினர் அதிகாரிகளுடன் கடும் வாக்குவாதத்தில் ஈடுபட்டனர். இதனால் அந்தப் பகுதியில் சிறிது நேரம் பரபரப்பு நிலவியது. பின்னர், அதிகாரிகள் அறிவுறுத்தியதைத் தொடர்ந்து, நடைபாதையில் பொதுமக்களுக்கு இடையூறாக வைக்கப்பட்டிருந்த சில பேனர்களை அ தி மு க வினரே அகற்றினர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 கரூர் மாநகரில் பேனர் அகற்றம்: அதிகாரிகளுடன் அ.தி.மு.க.வினர் வாக்குவாதம்\n\n📰 முழு விவரம்:\nகரூரில் அ.தி.மு.க. பொதுச்செயலாளர் எடப்பாடி பழனிசாமியை வரவேற்று வைக்கப்பட்டிருந்த பேனர்களை அகற்ற மாநகராட்சி அதிகாரிகள் முயன்றனர்.\nஇந்த பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக இருப்பதாக மாநகராட்சி அதிகாரிகளுக்குப் புகார்கள் சென்றன.\nஅதிகாரிகள் வந்தபோது பேனர்களை அகற்ற எதிர்ப்பு தெரிவித்து அ.தி.மு.க.வினர் அவர்களுடன் கடும் வாக்குவாதத்தில் ஈடுபட்டனர்.\nஅதிகாரிகள் அறிவுறுத்தியதைத் தொடர்ந்து, நடைபாதையில் இடையூறாக இருந்த சில பேனர்களை அ.தி.மு.க.வினரே அகற்றினர்.\n\n📍 இடம்: கரூர் மாநகர பகுதிகள்\nℹ️ மக்கள் கவனத்திற்கு: பொதுமக்களுக்கு இடையூறான பேனர்கள் மட்டும் அகற்றப்பட்டன.\n\nKarur banner removal AIADMK argument | Karur news\n📍 கரூர் மாநகர், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர்",
-   "prompts": "A group of men in shirts and veshti stand in a heated argument with Karur city corporation officials on a busy road in Karur city centre, one man pointing toward a large party banner strung between two poles over the footpath. Behind them, a row of tall political welcome banners fixed to lamp posts and railings lines the pavement, blocking the walkway for pedestrians, while town buses and two-wheelers pass slowly on the road. Typical Karur city look: shops with shuttered fronts, concrete footpath, power lines overhead. Several corporation workers in uniform stand close to the banners, and a few onlookers watch from a distance. Daylight, eye level, 35 mm lens wide enough to show the street, with the people seen from behind or far away. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a large, rolled-up party banner lying on a concrete footpath beside a corporation worker's hand reaching for it, with a few more banners fixed to a metal railing in the background. Some of the banner fabric is torn and creased; a pile of removed flex boards rests against a roadside lamp post. Behind, the blurred legs of AIADMK cadres in veshti and trousers and a corner of a town bus are visible on a busy Karur street. Daylight, slightly high angle, 35 mm, focus on the banner and the tug-of-war of removal, people blurred or seen from behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-get-into-an-argument-with-municipal-corporation-officials-who-arrived-to-remove-banners-of-eps",
-   "published": "2026-11-28T13:33:27Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "கரூரில் அ தி மு க இளைஞர் அணி நிர்வாகிகள் ஆலோசனை நடத்தினர். கட்சி அலுவலகத்தில் நடந்த இந்தக் கூட்டத்துக்கு இளைஞர் அணி செயலாளர் கரிகாலன் தலைமை வகித்தார். நாளை கரூரில் நடைபெற உள்ள நிர்வாகிகள் ஆலோசனை கூட்டத்துக்கு வரும் அ தி மு க பொதுச்செயலாளர் இ பி எஸ்-க்கு சிறப்பான வரவேற்பு அளிப்பது குறித்து முடிவு செய்யப்பட்டது. பல்வேறு முடிவுகள் குறித்து மாவட்ட அ தி மு க செயலாளர் கமலகண்ணன் விளக்கம் அளித்துப் பேசினார். மாநில எம் ஜி ஆர் மன்ற துணை செயலாளர் சிவசாமி, மாவட்ட அவைத் தலைவர் திருவிகா, துணை செயலாளர் மல்லிகா, மகளிர் அணி செயலாளர் செல்வி, ஒன்றிய செயலாளர் கிருஷ்ணன் உள்ளிட்ட நிர்வாகிகள் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ கரூரில் அதிமுக இளைஞர் அணி ஆலோசனை: நாளை இ.பி.எஸ். வருகைக்கு வரவேற்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்ட அதிமுக எம்.ஜி.ஆர். இளைஞர் அணி நிர்வாகிகள் ஆலோசனைக் கூட்டம் கட்சி அலுவலகத்தில் இளைஞர் அணி செயலாளர் கரிகாலன் தலைமையில் நடைபெற்றது.\nநாளை கரூரில் நடைபெற உள்ள நிர்வாகிகள் ஆலோசனைக் கூட்டத்துக்கு வரும் அதிமுக பொதுச்செயலாளர் இ.பி.எஸ்.-க்கு சிறப்பான வரவேற்பு அளிப்பது உள்ளிட்ட பல்வேறு முடிவுகள் குறித்து மாவட்ட அதிமுக செயலாளர் கமலகண்ணன் விளக்கம் அளித்துப் பேசினார்.\nமாநில எம்.ஜி.ஆர். மன்ற துணை செயலாளர் சிவசாமி, மாவட்ட அவைத் தலைவர் திருவிகா, துணை செயலாளர் மல்லிகா, மகளிர் அணி செயலாளர் செல்வி, ஒன்றிய செயலாளர் கிருஷ்ணன் உள்ளிட்ட நிர்வாகிகள் பங்கேற்றனர்.\n\nAIADMK youth wing meeting in Karur ahead of EPS visit | Karur news\n📍 கரூர் நகரம், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #கரூர் #Karur",
+   "prompts": "A group of AIADMK youth wing office-bearers sits in a row of plastic chairs inside a party office hall in Karur city, listening to their district secretary speak at the front. About eight to ten men and women in shirts, veshti and sarees are gathered around a long table, some taking notes on paper. The room has plain cream walls with a red and black party flag hanging behind the speaker's table, and a few folded chairs stacked along the side. Seen from the back of the hall at eye level in soft daylight from a window, with the group wide enough to show the whole room; faces turned away or blurred, no readable text or banners. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a Karur party office with a stack of paper notes, a pen and a set of plastic water bottles, with the edge of a folded red and black party flag beside them. A few hands rest on the papers, and the blurred shoulders of seated office-bearers are visible at the edge of the frame. Soft daylight from a window falls across the table, shot at 35 mm from slightly above, showing the planning papers that relate to the welcome arrangements for the upcoming visit. No readable text, no faces, no logos. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-advice-to-youth-team-managers/4388319",
+   "published": "2026-11-28T08:07:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/a73a5df7f5e58da7.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/b6d71a6e69e783e8.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/838081057e6b8069.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/42a7c5b5b7abfd3e.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "குளித்தலை அருகே கணவர் மாயம்; மனைவி புகார், போலீசார் தேடுதல்",
+   "english_headline": "Husband missing near Kulithalai; wife files complaint, police search begins",
+   "category": "Crime & Safety",
+   "location": "Vadasery panchayat, Kulithalai taluk, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மாயம் புகார்",
+    "loc": "குளித்தலை",
+    "hl1": "குளித்தலை அருகே கணவர் மாயம்",
+    "hl2": "மனைவி புகார், போலீசார் தேடல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குளித்தலை அடுத்த வடசேரி பஞ்சாயத்தில் <b>ரமேஷ், 43</b> மாயம்",
+       "கடந்த <b>23ம் தேதி</b> மாலை வீட்டுக்கு வந்த பின் காணவில்லை",
+       "விவசாய கூலி தொழிலாளி ரமேஷ்"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "நிலம் சம்பந்தமாக உறவினர்களுடன் பிரச்னை இருந்தது",
+       "ரமேஷ் மன உளைச்சலில் இருந்ததாகத் தகவல்",
+       "சமாதானம் செய்து வைத்த பின் திருச்சி வேலைக்குச் சென்றார்"
+      ]
+     },
+     {
+      "title": "புகார், தேடுதல்",
+      "lines": [
+       "மனைவி ஜோதி, 40 தோகைமலை போலீசில் புகார்",
+       "போலீசார் வழக்கு பதிவு செய்து தேடி வருகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "குளித்தலை அருகே விவசாயக் கூலித் தொழிலாளி ஒருவர் மாயமானதாக அவரது மனைவி புகார் அளித்துள்ளார். வடசேரி பஞ்சாயத்து, காவல்காரன்பட்டியைச் சேர்ந்த ரமேஷ், 43 வயது. கடந்த 23ஆம் தேதி மாலை வீட்டுக்கு வந்த அவர் அதன் பின் காணாமல் போயுள்ளார். அவரது மனைவி ஜோதி, 40 வயது, தோகைமலை போலீசில் புகார் அளித்தார். ரமேஷுக்கும் அவரது தாய் மாமன் கண்ணன், மூர்த்தி, பால்ராஜ் ஆகியோருக்கும் இடையே நிலம் தொடர்பாகப் பிரச்னை இருந்து வந்தது. இதனால் ரமேஷ் மன உளைச்சலில் இருந்ததாகக் கூறப்படுகிறது. சமாதானம் செய்து வைத்த பின்னர் ரமேஷ் திருச்சிக்கு வேலைக்குச் சென்று, அன்று மாலை வீடு திரும்பினார். பல இடங்களில் தேடியும் அவரைப் பற்றி எந்தத் தகவலும் கிடைக்கவில்லை. புகாரின்படி வழக்கு பதிவு செய்த போலீசார் ரமேஷைத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குளித்தலை அருகே கணவர் மாயம்; மனைவி புகார், போலீசார் தேடல்\n\n📰 முழு விவரம்:\nகுளித்தலை அடுத்த வடசேரி பஞ்சாயத்து, காவல்காரன்பட்டியைச் சேர்ந்த ரமேஷ் (43 வயது), விவசாயக் கூலித் தொழிலாளி. கடந்த 23ஆம் தேதி வேலைக்காக திருச்சிக்குச் சென்று, அன்று மாலை வீட்டுக்கு வந்த பின் காணாமல் போனார். நிலம் தொடர்பாக அவரது தாய் மாமன் கண்ணன், மூர்த்தி, பால்ராஜ் ஆகியோருடன் பிரச்னை இருந்ததால் ரமேஷ் மன உளைச்சலில் இருந்ததாகக் கூறப்படுகிறது. சமாதானம் செய்து வைக்கப்பட்ட பின்னரே அவர் வேலைக்குச் சென்றார். மனைவி ஜோதி (40 வயது), அளித்த புகாரின்படி தோகைமலை போலீசார் வழக்கு பதிவு செய்து ரமேஷைத் தேடி வருகின்றனர். பல இடங்களில் தேடியும் அவரைப் பற்றி எந்தத் தகவலும் கிடைக்கவில்லை.\n\nKulithalai husband missing, wife files complaint | Karur news\n📍 வடசேரி பஞ்சாயத்து, குளித்தலை, கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kulithalai #KarurNews #கரூர்",
+   "prompts": "A woman in a cotton saree stands at the doorway of a modest tiled-roof house in Kavalkaranpatti village, Vadasery panchayat near Kulithalai, looking out toward the road as a few villagers gather nearby. Seen from behind at a distance, she holds the edge of her saree with one hand while a khaki-uniformed Tamil Nadu police constable stands on the dirt lane beside a parked two-wheeler, taking down details in a small notebook. The village lane is narrow and unpaved, lined with low brick houses, a concrete water tank and banana plants, with paddy fields visible beyond. It is daylight with soft overcast light. Camera at eye level, 35 mm, wide enough to show the house, the lane and the open fields behind. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a folded complaint sheet and a ballpoint pen resting on a wooden table in a rural police station room in Thogaimalai, with the edge of a khaki police cap and a sleeve visible at the frame border. Beside the paper lies a plain cotton towel and a small steel tumbler of water, suggesting a long wait. Behind the table a bare whitewashed wall and a ceiling fan sit out of focus. Natural daylight from a barred window falls across the paper. No readable text on the paper is shown, only blurred lines of handwriting. Camera slightly high, 50 mm macro, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/demonstrations-by-all-trade-unions/4388315",
+   "published": "2026-11-28T08:05:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: known issue meta_article: cards talks about the article instead of the news ('தகவல் கிடைக்கவில்லை') - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/501a3a9ce1d478d0.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/a46246eabe5a2224.jpg"
    ]
   }
  ]

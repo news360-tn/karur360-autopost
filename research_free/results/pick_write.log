@@ -1,4 +1,4 @@
-writing [N]: இ.பி.எஸ். பேனர்களை அகற்ற வந்த மாநகராட்சி அதிகாரிகளுடன் அ.தி.
+writing [N]: எம்.ஜி.ஆர்., இளைஞர் அணி நிர்வாகிகள் ஆலோசனை
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
@@ -16,102 +16,97 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-writing [N]: முதல்வர் படமோ, அரசின் திட்ட விபரமோ இல்லை அப்டேட் இன்றி முடங்
+writing [N]: அனைத்து தொழிற்சங்கம் சார்பில் ஆர்ப்பாட்டம்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (3s)
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 1 groq/qwen/qwen3.8-27b: 3 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  slide 3 must have 2-3 lines
+  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 0 problems
+claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
 free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 83 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  known issue meta_article: cards talks about the article instead of the news ('தகவல் இல்லை') - rewrite so it does not happen again
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  tamil_headline uses the term ஐடிஎம்ஐகே (an unexplained, unrelated term) instead of அ.தி.மு.க. / the party named in the article; the headline names a party/entity not in the article
-  reel_script says all banners were removed by the AADMK workers' own action is not stated; the article says only some banners were removed by AADMK workers, while the reel_script's final sentence says 'அ தி மு க வினரே சில பேனர்களை அகற்றினர்' and then 'நடைபாதையில் ... பேனர்கள் அகற்றப்பட்டன' implies a general removal of sidewalk banners without attributing the action, which is an unsupported, incomplete summary of the outcome
-  reel_script refers to 'பேனர்கள் அகற்றுவதில் வாக்குவாதம் நடைபெற்றது' and the slides say the councillors/officials were 'அதிகாரிகள் அறிவுறுத்தினர்' as a cause, but the article gives the cause as complaints; 'அதிகாரிகள் அறிவுறுத்தினர்' is listed under காரணம் (cause) though it was the consequence leading to removal, mixing two different facts into one slide
-attempt 1 groq/qwen/qwen3.8-27b: 3 problems
-  fact-check: tamil_headline uses the term ஐடிஎம்ஐகே (an unexplained, unrelated term) instead of அ.தி.மு.க. / the party named in the article; the headline names a party/entity not in the article
-  fact-check: reel_script says all banners were removed by the AADMK workers' own action is not stated; the article says only some banners were removed by AADMK workers, while the reel_script's final sentence says 'அ தி மு க வினரே சில பேனர்களை அகற்றினர்' and then 'நடைபாதையில் ... பேனர்கள் அகற்றப்பட்டன' implies a general removal of sidewalk banners without attributing the action, which is an unsupported, incomplete summary of the outcome
-  fact-check: reel_script refers to 'பேனர்கள் அகற்றுவதில் வாக்குவாதம் நடைபெற்றது' and the slides say the councillors/officials were 'அதிகாரிகள் அறிவுறுத்தினர்' as a cause, but the article gives the cause as complaints; 'அதிகாரிகள் அறிவுறுத்தினர்' is listed under காரணம் (cause) though it was the consequence leading to removal, mixing two different facts into one slide
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  reel_script says the missing husband is a 43-year-old 'கூலித் தொழிலாளி' (daily wage labourer); the article says 'விவசாய கூலி தொழிலாளி' (agricultural labourer), so the occupation is not stated exactly as in the article
+  reel_script says the dispute was 'சமாதானம் செய்யப்பட்ட பின்னரும்' (even after it was settled), and slides_spec says the dispute was settled on 23rd; the article says the husband settled the dispute and then went to Trichy for work on that day, which is not the same as the dispute being settled after he disappeared, so the sequence is misrepresented
+  caption says the husband went to work in Trichy 'அன்று மாலை' and returned home, mixing the settlement and the Trichy trip into one sentence that implies he was settling the dispute on the same afternoon, a conflation of two facts
+  reel_script and slides say the husband was last seen 'வீட்டுக்கு வந்துள்ளார்' on the evening of 23rd, but the article says the wife reported he came home that evening and was then missing; the reel_script omits that he was already settled and went to Trichy first, so the key sequence of events is incomplete
+  slides_spec 'என்ன நடந்தது?' slide says 'கடந்த 23ஆம் தேதி மாலை வீட்டுக்கு வந்தார்' and the background slide says '23ஆம் தேதி பிரச்னை சமாதானம் செய்யப்பட்டது', while the article says the dispute was settled and he went to Trichy, which the draft omits; the Trichy work trip is missing from the reel_script entirely
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: reel_script says the missing husband is a 43-year-old 'கூலித் தொழிலாளி' (daily wage labourer); the article says 'விவசாய கூலி தொழிலாளி' (agricultural labourer), so the occupation is not stated exactly as in the article
+  fact-check: reel_script says the dispute was 'சமாதானம் செய்யப்பட்ட பின்னரும்' (even after it was settled), and slides_spec says the dispute was settled on 23rd; the article says the husband settled the dispute and then went to Trichy for work on that day, which is not the same as the dispute being settled after he disappeared, so the sequence is misrepresented
+  fact-check: caption says the husband went to work in Trichy 'அன்று மாலை' and returned home, mixing the settlement and the Trichy trip into one sentence that implies he was settling the dispute on the same afternoon, a conflation of two facts
+  fact-check: reel_script and slides say the husband was last seen 'வீட்டுக்கு வந்துள்ளார்' on the evening of 23rd, but the article says the wife reported he came home that evening and was then missing; the reel_script omits that he was already settled and went to Trichy first, so the key sequence of events is incomplete
+  fact-check: slides_spec 'என்ன நடந்தது?' slide says 'கடந்த 23ஆம் தேதி மாலை வீட்டுக்கு வந்தார்' and the background slide says '23ஆம் தேதி பிரச்னை சமாதானம் செய்யப்பட்டது', while the article says the dispute was settled and he went to Trichy, which the draft omits; the Trichy work trip is missing from the reel_script entirely
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m7a2srr1e1bt7fg6rbnvkmqe` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 360, Requested 744. Please try again in 6.239999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
-  reel_script has English words (in, karur, nic) - the voice cannot read them; write them in Tamil letters
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
-  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  known issue english_in_voice: voice script has English words the voice skips (in, karur, nic) - rewrite so it does not happen again
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  slides_spec.loc 'கரூர் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-ok anthropic/claude-haiku-5-5
-real photo: no picture on the source page -> AI pictures
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('குளித்தலை அடுத்த வடசேரி பஞ்., காவல்காரன்பட்டியை சேர்ந்தவர் ஜ')
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 2 problems
-  The reel_script states the banners were removed by AIADMK members themselves only after officials instructed them, and says 'சில பேனர்கள்' in the headline/slides—this matches the article, so no issue there; however, the slide 'என்ன நடந்தது?' line says 'வைத்த பேனர்கள் அகற்றம்' (banners removed) as a completed event for all banners, while the article says only some banners were removed (சில பேனர்கள் அகற்றம்)—this overstates the outcome
-  The reel_script's first sentence places the argument 'கரூரில் பேனர் அகற்றும்போது' before the context is given, which is acceptable, but the slide line 'பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக' is an incomplete sentence with no clear predicate in Tamil, making the slide text ungrammatical
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: The reel_script states the banners were removed by AIADMK members themselves only after officials instructed them, and says 'சில பேனர்கள்' in the headline/slides—this matches the article, so no issue there; however, the slide 'என்ன நடந்தது?' line says 'வைத்த பேனர்கள் அகற்றம்' (banners removed) as a completed event for all banners, while the article says only some banners were removed (சில பேனர்கள் அகற்றம்)—this overstates the outcome
-  fact-check: The reel_script's first sentence places the argument 'கரூரில் பேனர் அகற்றும்போது' before the context is given, which is acceptable, but the slide line 'பேனர்கள் பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக' is an incomplete sentence with no clear predicate in Tamil, making the slide text ungrammatical
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-images made: 2 for 'Karur district official website left wit'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-2038","first":"RN-266"}
-ok anthropic/claude-haiku-5-5
-posting job started at once
 real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
 real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'AIADMK cadres argue with Karur corporati'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-2038","first":"RN-267"}
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  known issue meta_article: cards talks about the article instead of the news ('தகவல் கிடைக்கவில்லை') - rewrite so it does not happen again
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+images made: 2 for 'Karur AIADMK youth wing holds consultati'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-2229","first":"RN-268"}
+posting job started at once
+ok anthropic/claude-haiku-5-5
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Husband missing near Kulithalai; wife fi'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-2230","first":"RN-269"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-get-into-an-argument-with-municipal-corporation-officials-who-arrived-to-remove-banners-of-eps
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/no-picture-of-cm-or-government-plan-karur-district-website-down-without-update/4388317
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/demonstrations-by-all-trade-unions/4388315
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/-advice-to-youth-team-managers/4388319
 candidate filter: collected=2
 to write: 2 Karur district candidates (max 2 stories)
 round: top 2 of 2 candidates
 candidates waiting: 2 Karur; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/aiadmk-members-g
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
