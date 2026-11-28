@@ -3,305 +3,290 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/near-karur-devotees-returning-from-sabarimala-collide-with-a-lorry",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mayanur-local-fishermen-go-on-a-fishing-spree-after-water-level-in-mayanur-dam-recedes/4388314",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/udhayanidhi-birthday-celebrations/4388324",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/water-gushed-into-the-road-after-a-pipe-broke/4388323",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/devotees-throng-theerthakoodam-during-the-malayalam-bhagavathy-amman-temple-festival/4388316",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-grama-sabha-meeting-at-kadapparai-panchayat/4388308",
   "candidate filter: collected=3",
   "to write: 3 Karur district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Karur; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/near-karur-devotees",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
   "filed: 3 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.5-flash (15s)",
+  "ok gemini/gemini-3.6-flash (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.5-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (33s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (33s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (9s)",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (10s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (23s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generati",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (30s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "மாயனூர் கதவணையில் நீர் வரத்து சரிவு: பரிசலில் மீன் பிடித்து கரையில் விற்பனை செய்த மீனவர்கள்",
-   "english_headline": "Cauvery inflow drops at Mayanur barrage; local fishermen use coracles for fishing, selling 200 kg fish",
-   "category": "Business & Prices",
-   "location": "Mayanur barrage, Krishnarayapuram taluk, Karur district",
+   "tamil_headline": "வேலாயுதம்பாளையம் அருகே குழாய் உடைந்து வீணாகும் குடிநீர்: சரிசெய்ய பொதுமக்கள் கோரிக்கை",
+   "english_headline": "Drinking water wasted on road after pipe burst near Velayuthampalayam; residents demand immediate repair",
+   "category": "Civic Issues",
+   "location": "Velayuthampalayam, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சந்தை நிலவரம்",
-    "loc": "மாயனூர், கிருஷ்ணராயபுரம்",
-    "hl1": "மாயனூரில் காவிரியில் நீர் சரிவு",
-    "hl2": "200 கிலோ மீன்களே விற்பனை",
-    "slides": [
-     {
-      "title": "மாயனூர் கதவணை",
-      "lines": [
-       "கிருஷ்ணராயபுரம் மாயனூர் காவிரி கதவணை",
-       "கதவணையின் கொள்ளளவு <b>1.5 டி.எம்.சி</b>",
-       "காவிரி ஆற்றில் தற்போது நீர் வரத்து சரிவு"
-      ]
-     },
-     {
-      "title": "பரிசலில்",
-      "lines": [
-       "குறைந்த நீரில் உள்ளூர் மீனவர்கள் மீன்பிடிப்பு",
-       "பரிசலில் சென்று மீன்களைப் பிடித்தனர்",
-       "கட்டளை வாய்க்கால் கரையில் வைத்து விற்பனை"
-      ]
-     },
-     {
-      "title": "விலை விவரம்",
-      "lines": [
-       "ஜிலேப்பி கிலோ <b>ரூ.80</b>, கெண்டை <b>ரூ.70</b>",
-       "எட்டரை பிளஸ் <b>ரூ.200</b>, பாறை <b>ரூ.230</b>",
-       "கொக்கு மீன் கிலோ <b>ரூ.240</b>க்கு விற்பனை"
-      ]
-     },
-     {
-      "title": "விற்பனை மந்தம்",
-      "lines": [
-       "கார்த்திகை மாதம் மற்றும் சபரிமலை விரதம்",
-       "நேற்று <b>200 கிலோ</b> மீன்கள் மட்டுமே விற்பனை",
-       "மீன் விற்பனை மந்தமாக உள்ளதாகத் தகவல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மாயனூர் கதவணையில் நீர் வரத்து குறைந்து 200 கிலோ மீன்களே நேற்று விற்பனையாகின. கிருஷ்ணராயபுரம் அருகே மாயனூர் காவிரியின் குறுக்கே 1.5 டி எம் சி கொள்ளளவு கொண்ட கதவணை உள்ளது. தற்போது ஆற்றில் நீர் வரத்து குறைந்ததால் கதவணையில் தண்ணீர் குறைந்துள்ளது. இதனால் உள்ளூர் மீனவர்கள் பரிசலில் சென்று மீன்பிடித்து கட்டளை வாய்க்கால் கரையில் விற்பனை செய்கின்றனர். நேற்று மதியம் மீனவர்கள் கதவணை உள்பகுதியில் பரிசலில் சென்று மீன்களைப் பிடித்தனர். இதில் ஜிலேப்பி மீன் கிலோ ரூ.80 மற்றும் கெண்டை மீன் கிலோ ரூ.70-க்கு விற்கப்பட்டது. எட்டரை பிளஸ் மீன் கிலோ ரூ.200, பாறை மீன் ரூ.230, கொக்கு மீன் ரூ.240-க்கு விற்பனையானது. கார்த்திகை மாதம் மற்றும் சபரிமலை ஐயப்ப பக்தர்கள் மாலை அணிந்துள்ளதால் விற்பனை மந்தமானது. நேற்று மொத்தம் 200 கிலோ மீன்கள் மட்டுமே விற்பனையானதாக மீனவர்கள் தெரிவித்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐟 மாயனூர் கதவணையில் நீர் வரத்து சரிவு: நேற்று 200 கிலோ மீன்களே விற்பனை\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் அடுத்த மாயனூர் காவிரியின் குறுக்கே 1.5 டி.எம்.சி கொள்ளளவு கொண்ட கதவணை அமைந்துள்ளது. தற்போது காவிரி ஆற்றில் நீர் வரத்து குறைந்ததால் கதவணையில் தண்ணீர் அளவு குறைந்துள்ளது.\nஇதனைப் பயன்படுத்தி உள்ளூர் மீனவர்கள் நேற்று மதியம் பரிசலில் கதவணை உள்பகுதிக்குச் சென்று மீன்பிடித்தனர். பிடித்த மீன்களைக் கட்டளை வாய்க்கால் கரையில் வைத்து விற்பனை செய்தனர்.\n\n🗓️ நாள்: 27 நவம்பர் 2026 (நேற்று மதியம்)\n📍 இடம்: மாயனூர் கதவணை, கிருஷ்ணராயபுரம் தாலுகா\n💰 மீன் விலை நிலவரம் (கிலோவில்):\n• ஜிலேப்பி மீன்: ரூ.80\n• கெண்டை மீன்: ரூ.70\n• எட்டரை பிளஸ் மீன்: ரூ.200\n• பாறை மீன்: ரூ.230\n• கொக்கு மீன்: ரூ.240\n\n📊 கார்த்திகை மாதம் என்பதாலும் பொதுமக்கள் பலர் சபரிமலைக்கு மாலை அணிந்து விரதம் இருப்பதாலும் மீன் விற்பனை மந்தமாக இருந்தது. நேற்று 200 கிலோ மீன்கள் மட்டுமே விற்பனையானது.\n\nMayanur barrage Cauvery water inflow drops fish sale | Karur news\n📍 மாயனூர், கரூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Mayanur #KarurNews #கரூர்",
-   "prompts": "Fishermen in circular wicker coracles, known as parisal, row across the low waters of the Cauvery river near the Mayanur barrage. The massive concrete barrage structure with its numerous mechanical gates spans the background under the bright midday sun. Three or four fishermen, dressed in simple shirts and tucked-up lungis, are seen from a distance as they cast their nets into the shallow water. The riverbed shows signs of low inflow with exposed sand patches near the barrage pillars. The scene is captured at eye level from the riverbank using a 35mm lens to encompass the wide scale of the water infrastructure and the traditional fishing activity. No faces are visible as the men are positioned with their backs to the camera. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot on the muddy bank of the Kattalai canal shows several large bamboo baskets and plastic crates filled with freshly caught Tilapia and Carp. A traditional weighing scale sits on the ground beside the catch, which represents the 200 kg of fish brought for local sale. In the background, the curved edge of a coracle is pulled up onto the shore, and the legs of two fishermen in veshtis are visible from the knees down as they stand by their harvest. The bright daylight reflects off the wet scales of the fish. The camera is positioned at a slightly high angle, focusing on the variety of fish in the baskets, with the canal water visible in the soft-focus background. No readable signs or brand names are present. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/mayanur-local-fishermen-go-on-a-fishing-spree-after-water-level-in-mayanur-dam-recedes/4388314",
-   "published": "2026-11-28T08:05:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/8871d31c0278e5ad.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/a39454cf095454c1.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கரூர் அருகே வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா",
-   "english_headline": "Udayanithi's birthday celebration held at Venaimalai near Karur",
-   "category": "Temples & Events",
-   "location": "Venaimalai, Karur district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விழா",
-    "loc": "வெண்ணைமலை, கரூர்",
-    "hl1": "வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா",
-    "hl2": "அன்பு கரங்கள் இல்லத்தில்",
-    "slides": [
-     {
-      "title": "விழா விவரம்",
-      "lines": [
-       "உதயநிதி பிறந்த நாள் விழா நடைபெற்றது",
-       "கரூர் அருகே வெண்ணைமலையில் நடந்தது",
-       "அன்பு கரங்கள் இல்லத்தில் நடைபெற்றது"
-      ]
-     },
-     {
-      "title": "உணவு வழங்கல்",
-      "lines": [
-       "இல்லத்தில் வசிப்பவர்களுக்கு உணவு வழங்கப்பட்டது",
-       "காலை உணவு மற்றும் இனிப்பு வழங்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "பங்கேற்பாளர்கள்",
-      "lines": [
-       "மாவட்ட தி.மு.க. துணை செயலாளர் மகேஸ்வரி",
-       "கரூர் மாநகராட்சி துணை மேயர் தாரணி சரவணன்",
-       "பகுதி செயலாளர்கள் குமார், பாண்டியன், சக்திவேல், ராஜா"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கரூர் அருகே வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா நடைபெற்றது. தமிழக எதிர்க்கட்சி தலைவரும், தி மு க இளைஞர் அணி செயலாளருமான உதயநிதியின் பிறந்த நாள் இது. நேற்று அன்பு கரங்கள் இல்லத்தில் இந்த விழா நடைபெற்றது. அன்பு கரங்கள் இல்லத்தில் வசிப்பவர்களுக்கு காலை உணவு வழங்கப்பட்டது. அதே நேரத்தில் இனிப்பும் வழங்கப்பட்டது. மாவட்ட தி மு க துணை செயலாளர் மகேஸ்வரி இந்த நிகழ்ச்சியில் பங்கேற்றார். கரூர் மாநகராட்சி துணை மேயர் தாரணி சரவணனும் பங்கேற்றார். பகுதி செயலாளர்கள் குமார், பாண்டியன், சக்திவேல், ராஜா ஆகியோரும் இங்கு வந்திருந்தனர். இதில் பல்வேறு நிர்வாகிகளும் பங்கேற்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎂 வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா - அன்பு கரங்கள் இல்லத்தில்\n\n📰 முழு விவரம்:\nதமிழக எதிர்க்கட்சி தலைவரும், தி.மு.க. இளைஞர் அணி செயலாளருமான உதயநிதியின் பிறந்த நாள் விழா நடைபெற்றது. கரூர் அருகே வெண்ணைமலையில் உள்ள அன்பு கரங்கள் இல்லத்தில் நேற்று இந்த விழா நடைபெற்றது. அன்பு கரங்கள் இல்லத்தில் வசிப்பவர்களுக்கு காலை உணவு மற்றும் இனிப்பு வழங்கப்பட்டது. மாவட்ட தி.மு.க. துணை செயலாளர் மகேஸ்வரி இந்த நிகழ்ச்சியில் பங்கேற்றார். கரூர் மாநகராட்சி துணை மேயர் தாரணி சரவணனும் பங்கேற்றார். பகுதி செயலாளர்கள் குமார், பாண்டியன், சக்திவேல், ராஜா ஆகியோரும் இங்கு வந்திருந்தனர். இதில் பல்வேறு நிர்வாகிகளும் பங்கேற்றனர்.\n\n📍 இடம்: வெண்ணைமலை, கரூர்\n🗓️ நாள்: நேற்று\n👥 பங்கேற்பாளர்கள்: மகேஸ்வரி, தாரணி சரவணன், குமார், பாண்டியன், சக்திவேல், ராஜா\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nUdayanithi birthday celebration at Venaimalai, Karur | Karur news\n📍 Venaimalai, Karur | 28 Nov\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Karur360 #Karur #Venaimalai #KarurNews #கரூர்",
-   "prompts": "A row of residents of a shelter home sit on mats in a simple home courtyard in Venaimalai on the outskirts of Karur, Tamil Nadu, as party office-bearers in white shirts and veshti stand nearby serving sweets and breakfast plates. Seen from slightly behind and at a distance, the residents include children in plain clothes and elderly men and women sitting cross-legged on mats. A woman in a cotton saree and a few men in shirts stand near a table stacked with boxes of sweets and steel plates of breakfast. The compound has a plain concrete building with a tiled roof and a few potted plants, with rural fields and a low hill of Venaimalai in the background. It is bright daylight with soft natural light. Camera at eye level, 35 mm, wide enough to show the courtyard and the people serving. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/udhayanidhi-birthday-celebrations/4388324",
-   "published": "2026-11-28T08:10:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 5 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/227939f5bf8923be.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அரவக்குறிச்சி அருகே கார் – லாரி விபத்து: சபரிமலை பக்தர்கள் 3 பேர் உயிரிழப்பு, 4 பேர் காயம்",
-   "english_headline": "Three Sabarimala devotees killed, four injured as car hits lorry near Aravakurichi, Karur district",
-   "category": "Roads & Transport",
-   "location": "Aravakurichi, Karur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Karur 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "அரவக்குறிச்சி",
-    "hl1": "அரவக்குறிச்சி அருகே கார்-லாரி விபத்து",
-    "hl2": "3 பக்தர்கள் உயிரிழப்பு",
+    "cat": "குடிநீர் பிரச்சனை",
+    "loc": "வேலாயுதம்பாளையம், கரூர்",
+    "hl1": "வேலாயுதம்பாளையத்தில் குடிநீர் வீணாகிறது",
+    "hl2": "சாலையில் ஆறாக ஓடும் தண்ணீர்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "அரவக்குறிச்சி அருகே கார் முன்னால் சென்ற லாரி மீது மோதியது",
-       "சபரிமலை சென்று திரும்பிய <b>7</b> பேர் காரில் பயணம்",
-       "இதில் <b>3 பேர்</b> சம்பவ இடத்திலேயே உயிரிழந்தனர்"
+       "வேலாயுதம்பாளையம் அருகே <b>குழாய் உடைப்பு</b>",
+       "குடிநீர் வீணாகச் சாலையில் ஆறாக ஓடுகிறது",
+       "நன்செய் புகழூர் 8வது வார்டு அக்ரஹாரம் பகுதி"
       ]
      },
      {
-      "title": "உயிரிழந்தவர்கள்",
+      "title": "குடிநீர் விநியோகம்",
       "lines": [
-       "மணிகண்டன் (43 வயது), கோவிந்தன் (60 வயது), பழனிவேல் (38 வயது)",
-       "நாமக்கல் மற்றும் சேலம் மாவட்டப் பக்தர்கள்",
-       "<b>4 பேர்</b> காயத்துடன் மீட்கப்பட்டனர்"
+       "காவிரியாற்றில் இருந்து குடிநீர் சப்ளை",
+       "மேட்டூர் அணையில் இருந்து <b>1,000 கன அடி</b> நீர் திறப்பு",
+       "சுத்திகரிக்கப்பட்ட நீர் வீணாவதால் மக்கள் கவலை"
       ]
      },
      {
-      "title": "விபத்து நேரம்",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "இன்று (நவ. 28) அதிகாலை <b>1.45 மணி</b>க்கு விபத்து",
-       "லாரியின் ஸ்டெப்னி டயர் கழன்று விழுந்தது",
-       "லாரி நிற்காமல் சென்றுவிட்டது"
-      ]
-     },
-     {
-      "title": "போலீஸ் விசாரணை",
-      "lines": [
-       "அரவக்குறிச்சி போலீசார் விசாரணை நடத்தி வருகின்றனர்",
-       "காயமடைந்த ஹரிஷ் கரூர் அரசு மருத்துவக் கல்லூரி",
-       "சபரிமலை பக்தர்களின் உயிரிழப்பு சோகத்தை ஏற்படுத்தியுள்ளது"
+       "அதிகாரிகள் இதுவரை நடவடிக்கை எடுக்கவில்லை",
+       "உடனடியாகக் குழாயைச் சரிசெய்ய வேண்டும்",
+       "பஞ்சாயத்து நிர்வாகம் கவனிக்கக் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அரவக்குறிச்சி அருகே சபரிமலை பக்தர்கள் சென்ற கார், முன்னால் சென்ற லாரி மீது மோதியதில் மூவர் உயிரிழந்தனர். இன்று நவம்பர் 28ஆம் தேதி அதிகாலை 1.45 மணிக்கு இந்த விபத்து நடந்தது. நாமக்கல் மாவட்டத்தைச் சேர்ந்த பக்தர்கள் சபரிமலைக்குச் சென்று நேற்று ஊர் திரும்பிக் கொண்டிருந்தனர். காரில் மொத்தம் 7 பேர் பயணம் செய்தனர். கார் முன்னால் சென்ற லாரி மீது மோதியது. அப்போது லாரியின் ஸ்டெப்னி டயர் கழன்று விழுந்தது; ஆனாலும் லாரி நிற்காமல் சென்றுவிட்டது. விபத்தில் மணிகண்டன், 60 வயது கோவிந்தன், பழனிவேல் ஆகிய மூவரும் சம்பவ இடத்திலேயே உயிரிழந்தனர். போலீசாரும் அரவக்குறிச்சி தீயணைப்பு மற்றும் மீட்புப் பணி நிலைய வீரர்களும் உடல்களை மீட்டனர். காயமடைந்த தனுஷ், ஹரிஷ், சிதம்பரம், தன்ஷிகா ஆகிய நால்வரும் அரவக்குறிச்சி தனியார் மருத்துவமனையில் சேர்க்கப்பட்டனர். ஹரிஷ் மேல்சிகிச்சைக்காக கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு மாற்றப்பட்டார். அரவக்குறிச்சி போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அரவக்குறிச்சி அருகே கார்–லாரி விபத்தில் சபரிமலை பக்தர்கள் 3 பேர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் அரவக்குறிச்சி அருகே, நாமக்கல் மாவட்டத்தைச் சேர்ந்த சபரிமலை பக்தர்கள் சென்ற கார், முன்னால் சென்ற லாரி மீது மோதியதில் 3 பேர் உயிரிழந்தனர்; 4 பேர் காயமடைந்தனர். இன்று (நவ. 28) அதிகாலை 1.45 மணிக்கு நடந்த இந்த விபத்து குறித்து அரவக்குறிச்சி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\nசபரிமலைக்குச் சென்றுவிட்டு நேற்று ஊர் திரும்பிக் கொண்டிருந்தபோது விபத்து நடந்தது. காரில் மொத்தம் 7 பேர் பயணம் செய்தனர்.\n🪦 உயிரிழந்தவர்கள்: நாமக்கல் மாவட்டம் ராசிபுரம் வட்டம் மங்களபுரத்தைச் சேர்ந்த மணிகண்டன் (43 வயது), கோவிந்தன் (60 வயது), மற்றும் சேலம் மாவட்டம் வாழப்பாடியை அடுத்த புழுதிக்கொட்டையைச் சேர்ந்த பழனிவேல் (38 வயது).\n🏥 காயமடைந்தவர்கள்: மங்களபுரத்தைச் சேர்ந்த தனுஷ் (21 வயது), ஹரிஷ் (17 வயது), புழுதிக்கொட்டையைச் சேர்ந்த சிதம்பரம் (45 வயது), அவர் மகள் தன்ஷிகா (8 வயது). ஹரிஷ் மேல்சிகிச்சைக்காக கரூர் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்க்கப்பட்டார்.\n🚛 லாரியின் ஸ்டெப்னி டயர் கழன்று விழுந்த நிலையில் லாரி நிற்காமல் சென்றுவிட்டது.\nசபரிமலை சென்று திரும்பிய பக்தர்களின் உயிரிழப்பு சோகத்தை ஏற்படுத்தியுள்ளது.\n\nSabarimala devotees killed in car-lorry crash near Aravakurichi, Karur | Karur news\n📍 அரவக்குறிச்சி, கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Aravakurichi #KarurNews #கரூர்",
-   "prompts": "A damaged silver passenger car with its front crushed sits on a dark national highway near Aravakurichi, Karur district, in the early hours before dawn. Its shattered bonnet and windscreen rest against the rear of a large lorry that is still standing ahead of it on the road. Two Tamil Nadu police personnel in khaki uniform stand at a distance, one with a torch, while fire and rescue workers in dark uniforms move around the vehicles. A few onlookers stand far back on the roadside, seen only from behind. Sodium streetlights and the headlights of a passing two-wheeler light the wet tarmac, the road is lined with a roadside shop shutter and concrete median divider. The scene is shot at eye level from a distance with a 35 mm lens, wide enough to show both vehicles and the road. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the detached spare tyre lying on the tarmac of a dark highway at night near Aravakurichi, Karur district, beside a large lorry's rear wheel arch. The black rubber tyre is still wet and gleaming under the harsh white beam of a fire-rescue torch held by a worker in dark uniform, whose boots and hands are visible at the edge of the frame. Behind it, slightly out of focus, a damaged car's crumpled front lies on the roadside and a khaki-uniformed police figure is seen from behind. Broken glass fragments glint on the asphalt. The scene is shot at low angle with a 35 mm lens, shallow depth of field, cool pre-dawn light. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/near-karur-devotees-returning-from-sabarimala-collide-with-a-lorry",
-   "published": "2026-11-28T08:06:43Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "வேலாயுதம்பாளையம் அருகே குடிநீர் குழாய் உடைந்து தண்ணீர் வீணாகச் சாலையில் ஆறாக ஓடுகிறது. கரூர் மாவட்டம் வேலாயுதம்பாளையம் அருகே உள்ள நன்செய் புகழூர் கிராம பஞ்சாயத்து எட்டாவது வார்டு அக்ரஹாரம் பகுதியில் இந்தச் சம்பவம் நடந்துள்ளது. நேற்று இந்தப் பகுதியில் குடிநீர் கொண்டு செல்லும் முக்கியக் குழாயில் உடைப்பு ஏற்பட்டது. இதனால் சுத்திகரிக்கப்பட்ட குடிநீர் வீணாகச் சாலையில் பாய்ந்து ஓடுகிறது. காவிரியாற்றில் வாங்கல் மற்றும் கட்டளைப் பகுதிகளில் உள்ள குடிநீரேற்று நிலையங்கள் மூலம் இந்தத் தண்ணீர் கொண்டு வரப்படுகிறது. மேட்டூர் அணையில் இருந்து குடிநீருக்காக வினாடிக்கு 1,000 கன அடி தண்ணீர் திறக்கப்பட்டு மாவட்டம் முழுவதும் விநியோகம் செய்யப்படுகிறது. இவ்வளவு முக்கியத்துவம் வாய்ந்த குடிநீர் வீணாவதைக் கண்டு அதிகாரிகள் இதுவரை நடவடிக்கை எடுக்கவில்லை எனப் பொதுமக்கள் புகார் தெரிவிக்கின்றனர். குடிநீர் வடிகால் வாரியம் மற்றும் பஞ்சாயத்து நிர்வாகம் போர்க்கால அடிப்படையில் இந்தக் குழாய் உடைப்பை உடனடியாகச் சரிசெய்ய வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 வேலாயுதம்பாளையம் அருகே குழாய் உடைந்து வீணாகும் குடிநீர் - சாலையில் ஆறாக ஓடும் அவலம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம் வேலாயுதம்பாளையம் அருகே உள்ள நன்செய் புகழூர் கிராம பஞ்சாயத்து 8வது வார்டு அக்ரஹாரம் பகுதியில் நேற்று குடிநீர் குழாய் உடைந்தது. இதனால் சுத்திகரிக்கப்பட்ட குடிநீர் வீணாகச் சாலையில் ஆறாக ஓடுகிறது. காவிரியாற்றில் வாங்கல், கட்டளை பகுதிகளில் உள்ள குடிநீரேற்று நிலையங்கள் மூலம் இந்தத் தண்ணீர் விநியோகம் செய்யப்படுகிறது. மேட்டூர் அணையில் இருந்து குடிநீருக்காக வினாடிக்கு 1,000 கன அடி தண்ணீர் திறக்கப்பட்டுள்ள நிலையில், குடிநீர் வீணாவதைக் கண்டு அதிகாரிகள் இதுவரை நடவடிக்கை எடுக்கவில்லை என மக்கள் குற்றம் சாட்டுகின்றனர்.\n\n📍 இடம்: அக்ரஹாரம், நன்செய் புகழூர், வேலாயுதம்பாளையம்\n🗓️ நாள்: 27 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: குடிநீர் வடிகால் வாரியம் மற்றும் பஞ்சாயத்து நிர்வாகம் உடனடியாகக் குழாய் உடைப்பைச் சரிசெய்ய வேண்டும் எனப் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nVelayuthampalayam water pipe burst | Karur news\n📍 Velayuthampalayam, Karur | 28 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Velayuthampalayam #குடிநீர் #KarurNews",
+   "prompts": "A clear stream of drinking water gushes from a broken pipe in the middle of a village road in the Agraharam area near Velayuthampalayam, Karur district, spreading across the tarred surface and flowing into the roadside gutter. The road is a narrow rural street lined with low tiled-roof houses, a few concrete compound walls and a bare electric pole, with paddy and banana fields visible beyond the houses. Two village residents, a man in a shirt and veshti and a woman in a cotton saree, stand at a distance near the wet road, seen from behind and slightly blurred, looking at the water. A plastic water pot lies empty on the roadside beside them. It is daytime in bright daylight with a clear sky. Camera at eye level, 35 mm, wide enough to show the road, houses and flowing water together. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cracked grey PVC drinking water pipe on a village road, a jet of clear water bursting from the split and running in a thin sheet across the wet tarred surface toward a roadside drain. Gravel, dust and a few puddles surround the broken pipe, with the edge of a concrete curb and a patch of green roadside grass visible. Bright daylight with no shadows of people in frame. Camera low and close, 50 mm macro-style, shallow depth of field to keep the leaking water and the broken pipe sharp. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/water-gushed-into-the-road-after-a-pipe-broke/4388323",
+   "published": "2026-11-28T08:09:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: numbers not found in the article: 8",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 4 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/58c56406931127f2.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/bf2edc0aa60c3317.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/368ac84fcbd66829.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/d0b15f5e7a5c7570.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கிருஷ்ணராயபுரத்தில் பக்தர்கள் தீர்த்தக்குடம் ஊர்வலம்",
+   "english_headline": "Devotees carry holy water from the Cauvery to the Malayala Bhagavathi Amman temple kumbabhishekam festival in Krishnarayapuram",
+   "category": "Temples & Events",
+   "location": "Krishnarayapuram, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கோவில் விழா",
+    "loc": "கிருஷ்ணராயபுரம்",
+    "hl1": "கிருஷ்ணராயபுரத்தில் ஊர்வலம்",
+    "hl2": "கும்பாபிஷேகம் <b>29</b> ஆம்",
+    "slides": [
+     {
+      "title": "தீர்த்தக்குடம்",
+      "lines": [
+       "நேற்று பக்தர்கள் காவிரி ஆற்றில் இருந்து தீர்த்தக்குடம்",
+       "கிருஷ்ணராயபுரம் தாலுகா அலுவலகம் எதிரே அழிஞ்சி பிள்ளையார்",
+       "பின்னர் மலையாள பகவதியம்மன் கோவிலில் தீர்த்த நீரை ஊற்றினர்"
+      ]
+     },
+     {
+      "title": "வழிபாடு",
+      "lines": [
+       "ஏராளமானோர் வழிபாடு செய்தனர்",
+       "பக்தர்கள் நேர்த்திக்கடன் செலுத்தினர்",
+       "கிருஷ்ணராயபுரத்தில் விழா கோலாகலமாக நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "கும்பாபிஷேகம்",
+      "lines": [
+       "கும்பாபிஷேகம் <b>29</b> ஆம் தேதி நடக்கிறது",
+       "அதற்கான யாகசாலை பூஜைகள் துவங்கின"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கிருஷ்ணராயபுரத்தில் பக்தர்கள் காவிரி ஆற்றில் இருந்து தீர்த்தக்குடம் எடுத்து ஊர்வலமாகச் சென்றனர். நேற்று மலையாள பகவதியம்மன் கோவில் கும்பாபிஷேக விழாவை முன்னிட்டு இந்த ஊர்வலம் நடைபெற்றது. பக்தர்கள் தீர்த்தக்குடத்தை எடுத்துக்கொண்டு கிருஷ்ணராயபுரம் தாலுகா அலுவலகம் எதிரே உள்ள அழிஞ்சி பிள்ளையார் கோவில் வரை ஊர்வலமாக வந்தனர். பின்னர் மலையாள பகவதியம்மன் கோவிலில் தீர்த்த நீரை ஊற்றினர். ஏராளமானோர் வழிபாடு செய்தனர். பக்தர்கள் நேர்த்திக்கடன் செலுத்தினர். கும்பாபிஷேகம் வரும் 29ஆம் தேதி நடைபெறுகிறது. அதற்கான யாகசாலை பூஜைகள் துவங்கியுள்ளன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 கிருஷ்ணராயபுரத்தில் தீர்த்தக்குடம் ஊர்வலம்: கும்பாபிஷேகம் 29ஆம் தேதி\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரத்தில் மலையாள பகவதியம்மன் கோவில் கும்பாபிஷேக விழாவை முன்னிட்டு பக்தர்கள் காவிரி ஆற்றில் இருந்து தீர்த்தக்குடம் எடுத்தனர்.\nநேற்று அப்பகுதி மக்கள் தீர்த்தக்குடத்தை ஊர்வலமாக எடுத்துச் சென்று நேர்த்திக்கடன் செலுத்தினர்.\nதீர்த்தக்குடம் கிருஷ்ணராயபுரம் தாலுகா அலுவலகம் எதிரே உள்ள அழிஞ்சி பிள்ளையார் கோவில் வரை கொண்டு செல்லப்பட்டது.\nபின்னர் மலையாள பகவதியம்மன் கோவிலில் தீர்த்த நீரை ஊற்றினர். ஏராளமானோர் வழிபாடு செய்தனர்.\n\n🗓️ நாள்: கும்பாபிஷேகம் வரும் 29ஆம் தேதி\n🛕 யாகசாலை பூஜைகள் துவங்கின\n\nKrishnarayapuram temple festival holy water procession | Karur news\n📍 கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
+   "prompts": "A long procession of devotees in Krishnarayapuram carries brass and copper water pots (theerthakudam) on their heads from the Cauvery river toward the Malayala Bhagavathi Amman temple for its kumbabhishekam festival. Seen from behind and slightly high, the crowd of men in white veshti and shirts and women in cotton sarees walks along a town road lined with low concrete shops and a taluk office compound wall. Some devotees hold small temple flags and the pots shine in the daylight. The road is lined with coconut palms and faint banners strung for the festival. Daylight, warm and clear. Camera at eye level or slightly high, 35 mm lens, wide enough to show the procession and the road ahead. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a brass water pot (theerthakudam) held on the head of a devotee, decorated with a mango-leaf and coconut bunch, as water sloshes at the rim during the walk from the Cauvery river. The devotee's hands steady the pot; the blurred figures of the procession and a temple flag stand behind. Early-day natural light on the polished metal, a few drops of holy water catching the sun. Camera at slightly high angle, 50 mm, shallow depth of field, showing the pot and the shoulder of the carrier, no faces visible. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/devotees-throng-theerthakoodam-during-the-malayalam-bhagavathy-amman-temple-festival/4388316",
+   "published": "2026-11-28T08:06:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/0ac2bdac367a56c1.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/cd09a0f35cc9f5cc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "காதப்பாறை, திருக்காம்புலியூரில் சிறப்பு கிராம சபை கூட்டம்: வெற்றி வீடு திட்ட பயனாளிகள் பட்டியல் ஒப்புதல்",
+   "english_headline": "Special Grama Sabha meetings held in Kadapparai and Thirukkampuliyur to approve Vetri Veedu scheme beneficiary lists",
+   "category": "Government & Services",
+   "location": "Kadapparai and Thirukkampuliyur, Karur district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கிராம சபை",
+    "loc": "காதப்பாறை, கரூர்",
+    "hl1": "காதப்பாறையில் கிராம சபை கூட்டம்",
+    "hl2": "வெற்றி வீடு திட்ட ஒப்புதல்",
+    "slides": [
+     {
+      "title": "சிறப்பு கூட்டம்",
+      "lines": [
+       "காதப்பாறை, திருக்காம்புலியூரில் நேற்று கிராம சபை கூட்டம்",
+       "மாவட்டத்தில் உள்ள அனைத்து பஞ்சாயத்துகளிலும் நடந்தது"
+      ]
+     },
+     {
+      "title": "வெற்றி வீடு",
+      "lines": [
+       "2026-27 நிதியாண்டுக்கான திட்ட பயனாளிகள் தேர்வு",
+       "கூடுதல் ஒதுக்கீட்டிற்கான பெயர் பட்டியல் சமர்ப்பிப்பு"
+      ]
+     },
+     {
+      "title": "ஒப்புதல்",
+      "lines": [
+       "பயனாளிகளின் இறுதிப் பட்டியலுக்கு ஒப்புதல் பெறப்பட்டது",
+       "அதிகாரிகள் மற்றும் பொதுமக்கள் பலர் பங்கேற்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "காதப்பாறை, திருக்காம்புலியூரில் நேற்று சிறப்பு கிராம சபை கூட்டங்கள் நடந்தன. கரூர் மாவட்டத்தில் உள்ள அனைத்து கிராம பஞ்சாயத்துகளிலும் இந்த சிறப்பு கூட்டங்கள் நடத்தப்பட்டன. 2026-27ஆம் நிதியாண்டிற்கான வெற்றி வீடு கட்டும் திட்டம் தொடர்பாக இந்த ஆலோசனைகள் மேற்கொள்ளப்பட்டன. காதப்பாறை பஞ்சாயத்து அலுவலகத்தில் நடந்த கூட்டத்தில் கூடுதல் ஒதுக்கீட்டிற்கு தேர்வு செய்யப்பட்ட பயனாளிகளின் பட்டியல் வைக்கப்பட்டது. இந்த பட்டியலுக்கு கிராம சபை கூட்டத்தில் அதிகாரப்பூர்வமாக ஒப்புதல் பெறப்பட்டது. இதில் மாவட்ட ஊராட்சி உதவி இயக்குனர் குணசேகரன் மற்றும் பொதுமக்கள் பலர் கலந்து கொண்டனர். இதேபோல் கிருஷ்ணராயபுரம் யூனியனுக்கு உட்பட்ட திருக்காம்புலியூர் பஞ்சாயத்திலும் சிறப்பு கூட்டம் நடைபெற்றது. அங்கு பயனாளிகளின் இறுதிப் பட்டியலை வைத்து பஞ்சாயத்து செயலாளர் ராஜரத்தினம் முன்னிலையில் ஒப்புதல் பெறப்பட்டது. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏠 காதப்பாறை, திருக்காம்புலியூரில் சிறப்பு கிராம சபை கூட்டம் - பயனாளிகள் பட்டியல் ஒப்புதல்\n\n📰 முழு விவரம்:\nகரூரின் காதப்பாறை மற்றும் திருக்காம்புலியூரில் நேற்று (நவம்பர் 27) சிறப்பு கிராம சபை கூட்டங்கள் நடைபெற்றன. கரூர் மாவட்டத்தில் உள்ள அனைத்து கிராம பஞ்சாயத்துகளிலும் 2026-27ஆம் நிதியாண்டிற்கான வெற்றி வீடு கட்டும் திட்டம் தொடர்பாக இந்த கூட்டங்கள் நடத்தப்பட்டன. காதப்பாறை பஞ்சாயத்து அலுவலகத்தில் நடந்த கூட்டத்தில் கூடுதல் ஒதுக்கீட்டிற்கு தேர்வு செய்யப்பட்ட பயனாளிகளின் பட்டியல் வைக்கப்பட்டு ஒப்புதல் பெறப்பட்டது. இதில் மாவட்ட ஊராட்சி உதவி இயக்குனர் குணசேகரன் பங்கேற்றார். இதேபோல் திருக்காம்புலியூர் பஞ்சாயத்திலும் பயனாளிகளின் இறுதிப் பட்டியலுக்கு ஒப்புதல் பெறப்பட்டது.\n\n📍 இடம்: காதப்பாறை மற்றும் திருக்காம்புலியூர், கரூர் மாவட்டம்\n🗓️ நாள்: 27 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: வெற்றி வீடு திட்டத்தின் கீழ் கூடுதல் ஒதுக்கீட்டிற்கான பயனாளிகள் பட்டியல் இறுதி செய்யப்பட்டுள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nKadapparai special grama sabha meeting | Karur news\n📍 காதப்பாறை, கரூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Kadapparai #KarurNews #கரூர்",
+   "prompts": "A village assembly is in progress in a panchayat office hall in a Karur district village, where officials sit at a long table with printed beneficiary name lists and villagers sit on chairs and mats in rows facing them. The room is a plain government hall with a whiteboard and a Tamil Nadu state government style table covered with a cloth. Several officials in shirts and sarees, including a panchayat secretary and office staff, sit at the front; villagers, men in shirts and veshti and women in sarees, sit with their backs to the camera, listening attentively. Stacks of paper files and a bundle of name lists lie on the table, with a ceiling fan overhead. Daylight enters through open windows, camera at eye level, 35 mm, wide enough to show the whole hall and the seated crowd. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a table in a panchayat office where a printed beneficiary name list for the Vetri Veedu house scheme lies beside a stack of registers and a pen, with a hand from behind resting on the papers. The paper sheets are neatly arranged in columns with no readable text visible, the table covered by a plain cloth under soft daylight from a window. Behind, out of focus, a few villagers in sarees and shirts sit in a row. Camera slightly high, 35 mm, shallow depth of field focusing on the stacked name lists and files. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-grama-sabha-meeting-at-kadapparai-panchayat/4388308",
+   "published": "2026-11-28T08:01:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): கிருஷ்ணராயபுரம் ('* கிருஷ்ணராயபுரம் யூனியனுக்கு உட்பட்ட, திருக்காம்புலியூர் பஞ')",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 4 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/eaf8b973951cd2bf.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/aec163f1f511fee1.jpg"
    ]
   }
  ]
