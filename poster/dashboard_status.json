@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T09:19:08+00:00",
+ "updated": "2026-11-28T09:29:32+00:00",
  "day": "2026-11-28",
- "ready": 3,
+ "ready": 2,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -97,6 +97,13 @@
       "link": "https://www.instagram.com/reel/DgR5wBeKdZv/",
       "at": "2026-11-28T09:11:45+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-258",
+      "head": "கரூர் அருகே வெண்ணைமலையில் உதயநிதி பிறந்த நாள் விழா",
+      "link": "https://www.instagram.com/reel/DgR7czdBXrR/",
+      "at": "2026-11-28T09:26:31+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -104,7 +111,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 16,
+    "waiting": 17,
     "share": [
      {
       "id": "RN-241",
