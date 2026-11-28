@@ -87,6 +87,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-29 | `f858a90` | Backend Campaigns (owner 28-29 Nov): a sponsor ad in the bottom space of news reels, added in the News360 Backend - pages, dates, every news or a number a day or in total, normal / priority / all news; a sample reel first, published only after Approve, Reject or Retry sample with points; the ad starts at the 5th second, never at the start of the video |
+| 2026-11-28 | `ef70596` | stories shared / Instagram pause |
+| 2026-11-28 | `222a731` | stories shared / Instagram pause |
+| 2026-11-28 | `0a561f8` | stories shared / Instagram pause |
+| 2026-11-28 | `81b3e5f` | stories shared / Instagram pause |
+| 2026-11-28 | `afae8db` | stories shared / Instagram pause |
+| 2026-11-28 | `cbde246` | stories shared / Instagram pause |
+| 2026-11-28 | `fda23a3` | stories shared / Instagram pause |
+| 2026-11-28 | `e1cbb3b` | stories shared / Instagram pause |
+| 2026-11-28 | `64764d1` | stories shared / Instagram pause |
 | 2026-11-28 | `d61907f` | tests: the parrot layout test reads its numbers from the file itself (the test machine has no numpy, so the reel file cannot be imported there) |
 | 2026-11-28 | `0489256` | stories shared / Instagram pause |
 | 2026-11-28 | `b7dd46f` | parrot rasipalan reel: the whole scene fits the area that is free on Instagram, Facebook and YouTube Shorts (owner 28 Nov) - the row of 12 cards the parrot picks from was at y 1650-1800, under the caption, and the page name under the top bar; the scene is drawn a little smaller and lower, positions unchanged |
@@ -107,14 +117,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `26816a7` | stories shared / Instagram pause |
 | 2026-11-28 | `c0bf1bf` | stories shared / Instagram pause |
 | 2026-11-28 | `1c38a98` | stories shared / Instagram pause |
-| 2026-11-28 | `e1f9095` | stories shared / Instagram pause |
-| 2026-11-28 | `775d945` | stories shared / Instagram pause |
-| 2026-11-28 | `8e90467` | stories shared / Instagram pause |
-| 2026-11-28 | `f79fa94` | stories shared / Instagram pause |
-| 2026-11-28 | `931b940` | stories shared / Instagram pause |
-| 2026-11-28 | `9f300e9` | stories shared / Instagram pause |
-| 2026-11-28 | `9468123` | Backend Add news (owner 28 Nov): a news typed in the News360 Backend - content, extra details, follow-up, link, picture, note with instructions, format reel / post / carousel - is taken by the page job, written by the usual writer and posted through every usual check; only DASH_POSTERS logins may add |
-| 2026-11-28 | `8e71f92` | stories shared / Instagram pause |
-| 2026-11-28 | `8df5c43` | stories shared / Instagram pause |
-| 2026-11-28 | `25a7fc0` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
