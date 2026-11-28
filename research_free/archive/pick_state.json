@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-28T10:28:29.323126+05:30",
+ "last_end": "2026-11-28T12:26:36.363791+05:30",
  "pool": {
-  "C0deee77": {
-   "id": "C0deee77",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/two-held-for-smuggling-ration-rice/4388325",
-   "title": "ரேஷன் அரிசி கடத்திய இருவருக்கு காப்பு",
-   "summary": "கரூர்,:குளித்தலை அருகே, ரேஷன் அரிசி கடத்தியதாக இரண்டு பேரை, போலீசார் கைது செய்தனர். கரூர் குடிமை பொருள் வழங்கல் குற்ற புலனாய்வு பிரிவு போலீஸ் எஸ்.ஐ., ராம்குமார் உள்ளிட்ட, போலீசார் நேற்று குளித்தலை அருகே சுங்ககேட் பகுத...",
-   "source": "தினமலர்",
-   "published": "2026-11-28T08:10:00+05:30",
-   "category": "குற்றம்",
-   "score": 10.0,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:26:36.893698+05:30",
-   "picked_at": "2026-11-28T10:30:37.557026+05:30",
-   "posted": true
-  },
   "Cefcfcaa": {
    "id": "Cefcfcaa",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/karur-near-tarpaulin-system/4388311",
@@ -161,21 +147,6 @@
    "picked_at": "2026-11-28T10:30:37.557018+05:30",
    "refused": "not filed: duplicate after write"
   },
-  "C32aa381": {
-   "id": "C32aa381",
-   "url": "https://www.dinakaran.com/news/aravakurichi-accident-sabarimala-ayyappa-devotees-fatalities/amp",
-   "title": "அரவக்குறிச்சி அருகே கோர விபத்து: சபரிமலை சென்று திரும்பிய 3 ஐயப்ப பக்தர்கள் உயிரி*ப்பு",
-   "summary": "அரவக்குறிச்சி அருகே, சபரிமலைக்கு சென்று சொந்த ஊருக்கு திரும்பிய ஐயப்ப பக்தர்கள் பயணித்த மாருதி கார், லாரி மோதியதில் 3 பேர் சம்பவ இடத்திலேயே உயிரிழந்தனர்.",
-   "source": "தினகரன்",
-   "published": "2026-11-28T07:30:06+05:30",
-   "category": "விபத்து",
-   "score": 10.8,
-   "power_cut": false,
-   "late_listed": true,
-   "listed_at": "2026-11-28T10:28:29.323126+05:30",
-   "picked_at": "2026-11-28T10:30:37.557023+05:30",
-   "posted": true
-  },
   "C8180f01": {
    "id": "C8180f01",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/special-grama-sabha-meeting-at-kadapparai-panchayat/4388308",
@@ -191,30 +162,6 @@
   }
  },
  "rounds": {
-  "2026-11-26_16": {
-   "window": [
-    "2026-11-26T12:25:47.924406+05:30",
-    "2026-11-26T16:29:22.954553+05:30"
-   ],
-   "ids": [
-    "Ca5235b1",
-    "C6f34da8"
-   ],
-   "sent": false,
-   "deadline": "2026-11-26T17:29:22.954553+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 2 by insights",
-    "ids": [
-     "Ca5235b1",
-     "C6f34da8"
-    ],
-    "at": "2026-11-26T16:31:15.390382+05:30"
-   },
-   "written": [
-    "C6f34da8",
-    "Ca5235b1"
-   ]
-  },
   "2026-11-26_17": {
    "window": [
     "2026-11-26T16:29:22.954553+05:30",
@@ -625,6 +572,30 @@
    "refused": {
     "Cb376596": "not filed: duplicate after write"
    }
+  },
+  "2026-11-28_12": {
+   "window": [
+    "2026-11-28T10:28:29.323126+05:30",
+    "2026-11-28T12:26:36.363791+05:30"
+   ],
+   "ids": [
+    "Cefcfcaa",
+    "C0eecea5",
+    "C6569c40",
+    "C3e83654",
+    "Cfd7a6b3",
+    "C59e0506",
+    "C8180f01",
+    "C71b53af",
+    "Ce1562ea",
+    "Cb0b483f",
+    "C0aa26eb",
+    "Ccd7c059"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T13:26:36.363791+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
@@ -1177,6 +1148,34 @@
   "Ca29f8cb": "2026-11-28T10:28 not Karur district",
   "Ced860c9": "2026-11-28T10:28 not Karur district",
   "C6eb44fd": "2026-11-28T10:28 not Karur district",
-  "Ca88420e": "2026-11-28T10:28 not Karur district"
+  "Ca88420e": "2026-11-28T10:28 not Karur district",
+  "Gd69bf2a2df": "2026-11-28T12:26 D",
+  "Gefe6ac2efe": "2026-11-28T12:26 D",
+  "Gf0d2d13156": "2026-11-28T12:26 D",
+  "G8269baed2c": "2026-11-28T12:26 D",
+  "G6bacb86cc1": "2026-11-28T12:26 D",
+  "Gc3d25c4247": "2026-11-28T12:26 D",
+  "Gb4a1e426b7": "2026-11-28T12:26 D",
+  "G8f6c11de67": "2026-11-28T12:26 D",
+  "G4838bf6ac0": "2026-11-28T12:26 D",
+  "Ge8852bf1f9": "2026-11-28T12:26 D",
+  "Gbf94d48366": "2026-11-28T12:26 D",
+  "G39c88b4838": "2026-11-28T12:26 D",
+  "Gb9fa1e6923": "2026-11-28T12:26 D",
+  "G8d88a326a2": "2026-11-28T12:26 D",
+  "G86a841e2f1": "2026-11-28T12:26 D",
+  "G1e0ab9531b": "2026-11-28T12:26 D",
+  "G11dadc14fd": "2026-11-28T12:26 D",
+  "Gba4463e1ca": "2026-11-28T12:26 D",
+  "G5268119787": "2026-11-28T12:26 D",
+  "G53413e8c93": "2026-11-28T12:26 D",
+  "Gb9460b00f6": "2026-11-28T12:26 D",
+  "G63dbe0fa71": "2026-11-28T12:26 D",
+  "C3e6af0f": "2026-11-28T12:26 already posted",
+  "C5f956bf": "2026-11-28T12:26 already posted",
+  "C1f4c905": "2026-11-28T12:26 already posted",
+  "C3569557": "2026-11-28T12:26 not Karur district",
+  "C0d01b0a": "2026-11-28T12:26 not Karur district",
+  "C33678dc": "2026-11-28T12:26 not Karur district"
  }
 }
