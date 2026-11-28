@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T09:02:17+00:00",
+ "updated": "2026-11-28T09:14:34+00:00",
  "day": "2026-11-28",
- "ready": 2,
+ "ready": 3,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -90,6 +90,13 @@
       "link": "https://www.instagram.com/reel/DgRyjtuowLn/",
       "at": "2026-11-28T08:08:43+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-257",
+      "head": "மாயனூர் கதவணையில் நீர் வரத்து சரிவு: பரிசலில் மீன் பிடித்து கரையில் விற்பனை செய்த மீனவர்கள்",
+      "link": "https://www.instagram.com/reel/DgR5wBeKdZv/",
+      "at": "2026-11-28T09:11:45+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -97,7 +104,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 15,
+    "waiting": 16,
     "share": [
      {
       "id": "RN-241",
