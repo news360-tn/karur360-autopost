@@ -85,6 +85,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `9da35d3` | reel: the NEWS360-TN news reader in a round window on every news reel (owner 28 Nov) - the owner's own 9 drawings, the mouth chosen from the reel's voice (closed in every pause, open while the news is read); the place card sits beside it. Top 5 reel: headline clear of the buttons, the time chip above the caption area, the 5-4-3-2-1 row down the left side - one video for Instagram, Facebook and YouTube Shorts |
+| 2026-11-28 | `50a79a7` | stories shared / Instagram pause |
+| 2026-11-28 | `5a11783` | pick: picked news saved |
+| 2026-11-28 | `95a8388` | pick: list sent |
+| 2026-11-28 | `b16d786` | stories shared / Instagram pause |
+| 2026-11-28 | `c6ccfaf` | stories shared / Instagram pause |
+| 2026-11-28 | `f78bbad` | stories shared / Instagram pause |
+| 2026-11-28 | `bd6be7c` | stories shared / Instagram pause |
+| 2026-11-28 | `7ba101d` | stories shared / Instagram pause |
+| 2026-11-28 | `4bd3002` | stories shared / Instagram pause |
+| 2026-11-28 | `293458b` | stories shared / Instagram pause |
+| 2026-11-28 | `7e283f0` | stories shared / Instagram pause |
 | 2026-11-28 | `7ffde4d` | yt_hashtags: a page's tag lists are also found by the channel name (Tiruppur 360: page tirupur, tag #Tiruppur360) - no change for this page |
 | 2026-11-28 | `8931dbd` | stories shared / Instagram pause |
 | 2026-11-28 | `a43ff7a` | stories shared / Instagram pause |
@@ -103,16 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `d07ae4b` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Vengamedu pin was in the wrong place |
 | 2026-11-28 | `6e56c15` | autofix: corrected held news |
 | 2026-11-28 | `2f4cc86` | stories shared / Instagram pause |
-| 2026-11-28 | `97df965` | stories shared / Instagram pause |
-| 2026-11-28 | `deff728` | powercut: notices written |
-| 2026-11-28 | `04604a1` | stories shared / Instagram pause |
-| 2026-11-28 | `e188d10` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
-| 2026-11-28 | `6766c64` | stories shared / Instagram pause |
-| 2026-11-28 | `6910512` | stories shared / Instagram pause |
-| 2026-11-28 | `95abf4c` | stories shared / Instagram pause |
-| 2026-11-28 | `ef50b67` | stories shared / Instagram pause |
-| 2026-11-28 | `e93d594` | stories shared / Instagram pause |
-| 2026-11-28 | `132af9c` | stories shared / Instagram pause |
-| 2026-11-28 | `c908713` | pick: written and posted |
-| 2026-11-28 | `e48536d` | facebook RN-255 |
 <!-- recent-changes:end -->
