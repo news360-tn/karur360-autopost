@@ -84,6 +84,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `db8c15b` | stories shared / Instagram pause |
+| 2026-11-28 | `58dc117` | Top 5: headline at most 3 lines (never over the 5-4-3-2-1 row), the row a little lower, 'nettru' for yesterday's news |
+| 2026-11-28 | `ecab16b` | stories shared / Instagram pause |
+| 2026-11-28 | `9e8442b` | stories shared / Instagram pause |
+| 2026-11-28 | `8367a05` | stories shared / Instagram pause |
+| 2026-11-28 | `c97539d` | stories shared / Instagram pause |
+| 2026-11-28 | `5ea2a03` | stories shared / Instagram pause |
+| 2026-11-28 | `40606ae` | stories shared / Instagram pause |
+| 2026-11-28 | `2a1ff80` | stories shared / Instagram pause |
+| 2026-11-28 | `ac24574` | stories shared / Instagram pause |
+| 2026-11-28 | `05f049d` | stories shared / Instagram pause |
+| 2026-11-28 | `1ea43b5` | stories shared / Instagram pause |
 | 2026-11-28 | `7eb023b` | Rasipalan and top 5: the page's real Instagram username as the fallback (never a made-up Tamil name on the follow card) |
 | 2026-11-28 | `3ed0673` | stories shared / Instagram pause |
 | 2026-11-28 | `44d6e91` | stories shared / Instagram pause |
@@ -102,16 +114,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `d1e958e` | posted RN-252 |
 | 2026-11-28 | `ad48e28` | stories shared / Instagram pause |
 | 2026-11-28 | `1a8601a` | pick: picked news saved |
-| 2026-11-28 | `068cd38` | stories shared / Instagram pause |
-| 2026-11-28 | `501d56d` | autofix: corrected held news |
-| 2026-11-28 | `fbd4b11` | pick: picked news saved |
-| 2026-11-28 | `c1c2adc` | pick: list sent |
-| 2026-11-28 | `757368d` | stories shared / Instagram pause |
-| 2026-11-28 | `5d92f4a` | stories shared / Instagram pause |
-| 2026-11-28 | `9d426a6` | stories shared / Instagram pause |
-| 2026-11-28 | `a545e34` | stories shared / Instagram pause |
-| 2026-11-28 | `ef87a8f` | stories shared / Instagram pause |
-| 2026-11-28 | `338b185` | stories shared / Instagram pause |
-| 2026-11-28 | `89c80a5` | stories shared / Instagram pause |
-| 2026-11-28 | `163191a` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
