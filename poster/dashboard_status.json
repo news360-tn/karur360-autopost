@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T05:17:34+00:00",
+ "updated": "2026-11-28T05:25:49+00:00",
  "day": "2026-11-28",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -55,6 +55,13 @@
       "link": "https://www.instagram.com/reel/DgReGjSJH72/",
       "at": "2026-11-28T05:09:57+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-253",
+      "head": "குளித்தலை அருகே ரேஷன் அரிசி கடத்திய இருவர் கைது",
+      "link": "https://www.instagram.com/reel/DgRfntzJdso/",
+      "at": "2026-11-28T05:23:13+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -62,7 +69,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 10,
+    "waiting": 11,
     "share": [
      {
       "id": "RN-241",
