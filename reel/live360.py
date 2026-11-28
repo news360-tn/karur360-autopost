@@ -72,7 +72,7 @@ window.renderAt=function(t){
    if(t>=a&&t<b){
     if(mapTop===null){      /* once: under the lowest fact card, above the captions; a long town name is made smaller */
      let y=box($('mini')).bottom; document.querySelectorAll('.card').forEach(c=>{y=Math.max(y,box(c).bottom)});
-     const rd=$('rdr'), L=rd?48+rd.offsetWidth+22:48, MW=950-L-(rd?0:42);      /* beside the news reader (reel/reader360.py) when the reel has one */
+     const rd=$('rdr'), L=rd?48+rd.offsetWidth+30:48, MW=950-L-(rd?0:42);      /* beside the news reader (reel/reader360.py) when the reel has one */
      map.style.left=L+'px'; map.style.maxWidth=(MW+20)+'px';
      const nm=map.querySelector('b'); let fs=52; while(map.scrollWidth>MW&&fs>26){fs-=2;nm.style.fontSize=fs+'px';}
      mapTop=y+24; mapS=Math.min(1,(box($('cap')).top-12-mapTop)/map.offsetHeight); if(mapS<0.8||map.scrollWidth>MW)mapS=0;

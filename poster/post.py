@@ -16,6 +16,7 @@ from pathlib import Path
 import requests
 import localmedia      # owner 21 Nov: reels / stories sent as FILES (no Cloudinary) wherever Meta allows it
 import igdirect       # owner 21 Nov: the Instagram file upload (Instagram API with Facebook login)
+import pacing         # owner 28 Nov: the common posting day - the pause in the weakest hours, the best hours, every written news posted
 from PIL import Image, ImageEnhance, ImageFilter, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -180,9 +181,11 @@ def prime_wait(row, now=None):
     if not pt.get("enabled"):
         return ""
     if pt.get("immediate") == "priority":      # owner 27 Nov: 06:00-22:00 every reel posts as soon as it is ready; at night only urgent news
-        if is_priority_news(row) or in_prime_time(now):
+        if is_priority_news(row) or is_manual(row) or in_prime_time(now):      # owner 28 Nov: a news started by hand never waits
             return ""
-        return f"night: only urgent news posts outside {' / '.join(f'{a}-{b}' for a, b in pt.get('windows', []))} IST (owner 27 Nov)"
+        if pacing.between(now, pt.get("windows", [])) and (prime_urgent(row) or is_urgent(row)):
+            return ""      # owner 28 Nov: in the daytime pause time-sensitive news (an accident, a rain warning, a notice, High) does not wait 3 hours
+        return pacing.why_outside(now, pt.get("windows", []))      # owner 28 Nov: 'night', or 'pause' between the two posting windows
     if pt.get("immediate") == "power_cut":      # owner 13 Nov: ONLY power cuts post at once (found by category or headline)
         now_ok = is_shutdown(row) or bool(POWER_CUT.search(f"{row.get('headline_ta', '')} {row.get('headline_en', '')}"))
     else:
@@ -606,6 +609,13 @@ def insight_weight(row, _w={}):
 
 def is_power_cut(row):
     return is_shutdown(row) or bool(POWER_CUT.search(f"{row.get('headline_ta', '')} {row.get('headline_en', '')}"))
+
+
+def is_manual(row):
+    """owner 28 Nov ("manually trigger news only immediate create and post it"): a news the owner started by hand - the
+    research_free.yml run with one article link; research_free/collect.py writes "manual link" into its note - is made and
+    posted at once: no pause in the weak hours, no gap, at any hour. The automatic rounds are never marked."""
+    return "manual link" in " ".join(str(row.get(k) or "") for k in ("notes", "batch", "review")).lower()
 
 
 def is_priority_news(row):
@@ -2903,7 +2913,33 @@ def fb_rank(row):
         return None
 
 
-def dashboard_status(ready_n=None):
+def day_count(rows, pg, now=None):
+    """owner 28 Nov ("creating all the video must post"): today's written news of this page - how many are posted, how many still
+    wait, and each one that will not post with its reason - so written and posted can be compared every evening. None when the
+    queue is not known."""
+    if rows is None:
+        return None
+    try:
+        today = (now or datetime.now(timezone.utc)).astimezone(IST).date()
+        out = {"written": 0, "posted": 0, "waiting": 0, "not_posting": []}
+        for r in rows:
+            f = filed_at(r)
+            if not r.get("story_id") or pg not in pages_of(r) or f is None or f.astimezone(IST).date() != today:
+                continue
+            out["written"] += 1
+            if page_done(r, pg):
+                out["posted"] += 1
+            elif ready(r):
+                out["waiting"] += 1
+            else:
+                why = ("on hold" if str(r.get("review") or "").lower() == "hold" else "") or skip_reason(r) or "not ready (pictures / text missing, or its next try is later)"
+                out["not_posting"].append({"id": r["story_id"], "why": str(why)[:160]})
+        return out
+    except Exception as e:
+        return {"error": str(e)[:120]}
+
+
+def dashboard_status(ready_n=None, rows=None):
     """owner 22 Nov: one small file per repo for the owner's private dashboard - what is posted today on Instagram / Facebook /
     YouTube, what waits and why, the manual to-do (manual-post and Facebook-share e-mails), gold rate and rasipalan. Never raises."""
     if not os.environ.get("GITHUB_ACTIONS"):
@@ -2913,6 +2949,7 @@ def dashboard_status(ready_n=None):
         now = datetime.now(timezone.utc)
         day = now.astimezone(IST).strftime("%Y-%m-%d")
         day_utc = (now.astimezone(IST).replace(hour=0, minute=0, second=0, microsecond=0)).astimezone(timezone.utc).strftime("%Y%m%d-%H%M%S")
+        day_iso = (now.astimezone(IST).replace(hour=0, minute=0, second=0, microsecond=0)).astimezone(timezone.utc).isoformat(timespec="seconds")
         out = {"updated": now.isoformat(timespec="seconds"), "day": day, "ready": ready_n, "pages": {}}
         man = manual_state()
         for pg in LABEL:
@@ -2936,7 +2973,7 @@ def dashboard_status(ready_n=None):
                     if str(d.get("updated", "")) < (now - timedelta(hours=24)).isoformat():
                         continue
                     stt = d.get("status")
-                    if stt == "posted" and str(d.get("posted_at", "")) >= day_utc[:8]:
+                    if stt == "posted" and str(d.get("posted_at", "")) >= day_iso:      # 28 Nov: was compared with a date in another form - the count stayed 0
                         fb["posted"] += 1
                     elif stt == "waiting":
                         fb["waiting"] += 1
@@ -2963,7 +3000,8 @@ def dashboard_status(ready_n=None):
                 pass
             out["pages"][pg] = {"label": LABEL[pg], "instagram": {"posted": posted, "paused": ig_paused(pg),
                                                                   "quota": f"{USED.get(pg)}/{TOTAL.get(pg)}" if pg in TOTAL else ""},
-                                "facebook": fb, "manual_post": todo, "daily": daily, "youtube": yt}
+                                "facebook": fb, "manual_post": todo, "daily": daily, "youtube": yt,
+                                "written_today": day_count(rows, pg, now)}      # owner 28 Nov: written = posted + waiting + not posting (with the reason)
         (ROOT / "poster" / "dashboard_status.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     except Exception as e:
         log("dashboard status not written:", str(e)[:200])
@@ -3236,7 +3274,7 @@ def main():
         except Exception as e:
             log("combined posted e-mail skipped:", str(e)[:150])
         log(f"{len(rows)} stories in the queue, ready to post: {n}")
-        dashboard_status(n)      # owner 22 Nov: the owner's private dashboard reads poster/dashboard_status.json
+        dashboard_status(n, rows)      # owner 22 Nov: the owner's private dashboard reads poster/dashboard_status.json
         if rows:
             log("  keys:", sorted(rows[0].keys()))
         for r in rows:
@@ -3259,9 +3297,11 @@ def main():
                     left = {p: TOTAL[p] - USED[p] for p in TOTAL if p in USED}      # posts this page may still make in the 24-hour window
                     # owner 2 Nov (review): no bursts and no hour-long runs - one story per page per run, at least spacing_min after
                     # the page's last post; the next run (every few minutes) posts the next one. Urgent news never waits.
-                    spacing = float((CONFIG.get("posting") or {}).get("spacing_min", 12))
+                    spacing = pacing.gap(None, n, CONFIG)      # owner 28 Nov: wide in the ordinary hours, closer in the best hours, and never
+                    # wider than what still lets every waiting news post today (was: posting.spacing_min, the lowest it can go now)
                     ids, waiting, slots = [], [], {}
-                    for r in (pick_all(rows) if n else []):
+                    # owner 28 Nov: before a best block the weaker news goes first, so the best news is there when the block opens
+                    for r in (pacing.order(pick_all(rows), None, CONFIG, lambda x: is_urgent(x) or is_priority_news(x) or is_manual(x), age_hours) if n else []):
                         todo = [p for p in pages_of(r) if not page_done(r, p)]
                         # owner 11 Nov: the post job skips news already on Instagram but nothing records it, so the check chose the
                         # same 3 (RN-220/236/295) every 5 minutes from 6 Nov and the 41 others waited - the same test runs here first
@@ -3283,7 +3323,7 @@ def main():
                             continue
                         # owner 19 Nov: spacing_min 0 = no gap - every ready news of the window posts at once
                         busy = [] if spacing <= 0 else [p for p in pg if p in slots or minutes_since_last_post(p) < spacing]
-                        if busy and not is_urgent(r):
+                        if busy and not (is_urgent(r) or is_manual(r)):      # owner 28 Nov: a news started by hand posts at once
                             waiting.append(r["story_id"])
                             log("  ", r["story_id"], f"waits for the {spacing:.0f}-minute gap after the last post on {busy}")
                             continue

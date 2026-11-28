@@ -152,19 +152,27 @@ def clean_due(now, clean_runs, minutes=390):
     return clean_runs is not None and not busy(clean_runs, now, minutes)
 
 
-def decide(now, rasi, gold, rasi_runs, gold_runs, round_wf, round_runs, pm=None, yt_runs=None, clean_runs=None, paused=False, rep_runs=None):
+TOP5_FROM, TOP5_TO = 21 * 60 + 5, 21 * 60 + 50      # owner 28 Nov: the Top 5 reel (top5.yml, 21:00 IST): started here when GitHub did not
+
+
+def decide(now, rasi, gold, rasi_runs, gold_runs, round_wf, round_runs, pm=None, yt_runs=None, clean_runs=None, paused=False, rep_runs=None,
+           top5=None, top5_runs=None):
     """pure decision (tested): which jobs to start now. rasi / gold / pm: posted_today() result; *_runs: runs()"""
     ist = now.astimezone(IST)
     hm = ist.hour * 60 + ist.minute
     todo = []
     if paused:      # owner 21 Nov: Instagram paused this page - no rasipalan / gold try now (it would make the limit longer)
-        rasi = gold = pm = None
+        rasi = gold = pm = top5 = None
     if rasi is False and 6 * 60 + 43 <= hm < 8 * 60 + 40 and not busy(rasi_runs, now, 40):      # owner 19 Nov: before 9 AM only
         todo.append("rasipalan.yml")
     if gold is False and 9 * 60 + 40 <= hm < 21 * 60 and not busy(gold_runs, now, 45):
         todo.append("goldrate.yml")
     elif gold is True and pm is not True and 15 * 60 + 40 <= hm < 18 * 60 and not busy(gold_runs, now, 45):
         todo.append("goldrate.yml pm")
+    # owner 28 Nov: on its first evening GitHub started the Top 5 schedule on none of the 7 pages. Not posted today, 21:05-21:50 IST and
+    # no Top 5 run in the last 45 minutes -> start it (it posts once a day: poster/top5.py keeps the date)
+    if top5 is False and TOP5_FROM <= hm < TOP5_TO and not busy(top5_runs, now, 45):
+        todo.append("top5.yml")
     if round_wf and round_runs and round_overdue(now, round_runs):
         todo.append(round_wf)
     slot = yt_due(now, yt_runs)
@@ -184,8 +192,12 @@ def main():
     gold = posted_today("goldrate/state", "posted_", today)
     pm = posted_today("goldrate/state", "pmcheck_", today)
     round_wf = "pick.yml" if runs("pick.yml") is not None else ("research_free.yml" if names("research_free/ENABLED") is not None or raw("research_free/ENABLED") is not None else "")
+    top5_runs = runs("top5.yml")      # None: this repo has no Top 5 job
+    top5 = posted_today("poster/top5_state", "", today)
+    if top5 is None and top5_runs is not None:
+        top5 = False      # no record yet: it was never posted
     todo = decide(now, rasi, gold, runs("rasipalan.yml"), runs("goldrate.yml"), round_wf, runs(round_wf) if round_wf else None, pm,
-                  runs("youtube.yml"), runs("cloudclean.yml"), all_paused(now), runs("posted_report.yml"))
+                  runs("youtube.yml"), runs("cloudclean.yml"), all_paused(now), runs("posted_report.yml"), top5, top5_runs)
     print(f"watchdog {now.astimezone(IST):%H:%M} IST: rasipalan posted={rasi} gold posted={gold} afternoon check={pm} round={round_wf}"
           f" -> {todo or 'nothing due'}")
     for wf in todo:
@@ -205,6 +217,8 @@ def main():
             start(wf, "dry=false", "keep_hours=48")
         elif wf == "posted_report.yml":
             start(wf)
+        elif wf == "top5.yml":
+            start(wf, "dry=0")
 
 
 if __name__ == "__main__":

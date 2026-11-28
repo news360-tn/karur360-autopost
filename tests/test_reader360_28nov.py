@@ -48,6 +48,7 @@ def cfg(**k):
 class Reader360(unittest.TestCase):
     def setUp(self):
         os.environ.pop("REEL_READER", None)
+        os.environ.pop("REEL_READER_EVERY", None)
         self.tmp = tempfile.TemporaryDirectory()
         self.work = voice(self.tmp.name)
 
@@ -93,6 +94,7 @@ class Reader360(unittest.TestCase):
             self.assertIn(k, out)      # the design's own parts are untouched
         data = json.loads(out.split("const old=window.renderAt, X=")[1].split(";\n")[0])
         self.assertEqual(data["end"], 5.0)
+        self.assertEqual(data["hook_end"], 2.0)
         self.assertEqual(data["size"], reader360.SIZE)
         self.assertEqual(len(data["pose"]), len(reader360.loudness(self.work / "voice.wav", 6.0)))
 
@@ -106,9 +108,17 @@ class Reader360(unittest.TestCase):
 
     def test_inside_the_shared_safe_area(self):      # owner 28 Nov: one video for Instagram, Facebook and YouTube Shorts
         for k in ("#rdr{position:absolute;left:48px", "border-radius:50%", "capTop=1600", "if(s<0.6)s=0", "bottomOf($('hook'))", "bottomOf($('sum'))",
-                  "base=y+24"):
+                  "base=y+24", "t>=X.hook_end"):      # the last one: he comes in only after the big headline
             self.assertIn(k, reader360.CSS + reader360.JS, k)
         self.assertLessEqual(48 + reader360.SIZE, 950)
+
+    def test_window_shows_head_and_shoulders(self):      # owner 28 Nov evening: the face bigger, the mouth easy to see
+        cx, cy, r = reader360.CROP
+        self.assertTrue(r <= cx <= reader360.PIC - r and r <= cy <= reader360.PIC - r)      # the shown circle is inside the drawing
+        self.assertTrue(cx - r < 120 and cx + r > 255 and cy - r < 60 and cy + r > 300)      # hair to mic: the whole face and the NEWS360-TN mic
+        self.assertGreaterEqual(reader360.PIC / (2 * r), 1.4)      # at least 1.4 times closer than the whole drawing
+        k = reader360.SIZE / (2 * r)
+        self.assertIn("left:%.1fpx;top:%.1fpx;width:%.1fpx" % (-(cx - r) * k, -(cy - r) * k, reader360.PIC * k), reader360.CSS)
 
     def test_never_fails_the_reel(self):
         with cfg():
@@ -128,11 +138,34 @@ class Reader360(unittest.TestCase):
         with cfg(reel_reader=False):
             self.assertEqual(reader360.add(page(), {}, self.work), page())
         death = {"mini": "விபத்தில் 3 பேர் பலி", "hook": ["விபத்து", "பலி"]}
-        with cfg(reel_reader_serious=False):
-            self.assertEqual(reader360.add(page(), death, self.work), page())
-            self.assertIn('id="rdr"', reader360.add(page(), {"mini": "பள்ளி ஆண்டு விழா"}, self.work))
+        for c in (cfg(), cfg(reel_reader_serious=False)):      # owner 28 Nov evening: the smiling reader is left out of news about a death
+            with c:
+                self.assertEqual(reader360.add(page(), death, self.work), page())
+                self.assertIn('id="rdr"', reader360.add(page(), {"mini": "பள்ளி ஆண்டு விழா"}, self.work))
+        with cfg(reel_reader_serious=True):
+            self.assertIn('id="rdr"', reader360.add(page(), death, self.work))      # the switch shows him there too
+
+    def test_on_a_few_news_only(self):      # owner 28 Nov night: "use few news only, do not use all the news"
+        os.environ.pop("REEL_READER_EVERY", None)
+        self.assertEqual(reader360.EVERY, 4)
         with cfg():
-            self.assertIn('id="rdr"', reader360.add(page(), death, self.work))      # by default the reader is on every news
+            shown = [n for n in range(200, 220) if 'id="rdr"' in reader360.add(page(), {"story": f"RN-{n}", "mini": "பள்ளி விழா"}, self.work)]
+        self.assertEqual(shown, [200, 204, 208, 212, 216])      # 1 reel in 4, always the same stories
+        with cfg(reel_reader_every=1):
+            self.assertIn('id="rdr"', reader360.add(page(), {"story": "RN-201"}, self.work))      # 1 = every news
+        with cfg(reel_reader_every=2):
+            self.assertIn('id="rdr"', reader360.add(page(), {"story": "RN-202"}, self.work))
+            self.assertEqual(reader360.add(page(), {"story": "RN-203"}, self.work), page())
+        os.environ["REEL_READER_EVERY"] = "1"      # a test run can show him on any story
+        with cfg():
+            self.assertIn('id="rdr"', reader360.add(page(), {"story": "RN-203"}, self.work))
+        os.environ.pop("REEL_READER_EVERY")
+        self.assertTrue(reader360.turn({}, 4) and reader360.turn({"story": "x"}, 4))      # no story number: he is shown
+
+    def test_small_round_window(self):      # owner 28 Nov night: "small size is okay ... reduce the size also that circular"
+        self.assertLessEqual(reader360.SIZE, 200)
+        self.assertIn("border-radius:50%", reader360.CSS)
+        self.assertIn(f"width:{reader360.SIZE}px;height:{reader360.SIZE}px", reader360.CSS)
         os.environ["REEL_READER"] = "0"
         with cfg():
             self.assertEqual(reader360.add(page(), {}, self.work), page())

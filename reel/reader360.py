@@ -6,15 +6,19 @@ wide open, eyes shut; only the face differs - the owner asked for the second, mo
 reel the drawing is chosen from the reel's own voice track, so the reader's mouth moves exactly while the news is read: closed in
 every pause, open on every spoken syllable (owner: "news reading time correctly that mouth action").
 
-Where: left edge (x 48), under the fact cards and above the captions - inside the area that is free on Instagram, Facebook and
+Where: left edge (x 48), under the fact cards and above the captions, from the moment the big headline leaves - inside the area that is free on Instagram, Facebook and
 YouTube Shorts and inside the 4:5 feed. While the big headline or the full-details card is on screen the window moves under it; when
 the captions come close it gets smaller, and with no room left it is not shown. The place card of live360 moves to its right.
 
 add(page_html, spec, work) -> the page with the reader. It never fails the reel: anything unexpected (no voice file, a drawing
 missing, another design) returns the page unchanged. REEL_READER=0, or poster/config.json "reel_reader": false, switches it off;
-"reel_reader_serious": false leaves the (smiling) reader out of news about a death."""
+The reader smiles, so he is left out of news about a death (owner 28 Nov evening); "reel_reader_serious": true shows him there too.
+He comes in after the big headline, and the small round window shows his head and shoulders (CROP) so the mouth is easy to see.
+He is on a few news only - 1 reel in 4 by the story number ("reel_reader_every"; 1 = every news) - so the reels with and
+without him can be compared."""
 import json
 import os
+import re
 import sys
 import wave
 from array import array
@@ -25,17 +29,22 @@ import live360
 HERE = Path(__file__).resolve().parent
 DIR = HERE / "assets" / "reader"
 FPS = 30
-SIZE = 250          # the round window, px
+SIZE = 190          # the round window, px (owner 28 Nov night: "small size is okay ... reduce the size"; it stays a circle)
+EVERY = 4           # the reader is on 1 news reel in EVERY, by the story number (owner 28 Nov night: only a few news, not all)
+PIC = 414           # the drawings are PIC x PIC px
+CROP = (192, 172, 140)      # owner 28 Nov evening: head and shoulders only - the part of a drawing the window shows (centre x, y and
+                            # radius, px): the face is clearly bigger and the mouth easy to see; the NEWS360-TN mic stays in view
 MOUTH = {0: [0], 1: [1, 5, 7], 2: [4, 6], 3: [2, 3]}      # mouth closed / a little open / open / wide open -> the drawings that show it
 BLINK = 8           # eyes shut, mouth closed
 QUIET = 0.14        # below this the voice is silent: mouth closed
 NEEDS = ("const D=", "window.renderAt", 'id="hook"', 'id="mini"', 'id="cap"', "</style>", "</body>")
 
+_K = SIZE / (2 * CROP[2])      # how much a drawing is enlarged so that the CROP circle fills the window
 CSS = """
 #rdr{position:absolute;left:48px;top:950px;width:%dpx;height:%dpx;border-radius:50%%;overflow:hidden;z-index:26;transform-origin:0 0;opacity:0;
- background:#0B1020;box-shadow:0 12px 30px rgba(0,0,0,.6)}
-#rdr img{position:absolute;left:0;top:0;width:100%%;height:100%%;visibility:hidden}
-""" % (SIZE, SIZE)
+ background:#0B1020;box-shadow:0 0 0 4px #fff,0 0 0 10px #E3151B,0 14px 30px 8px rgba(0,0,0,.55)}
+#rdr img{position:absolute;left:%.1fpx;top:%.1fpx;width:%.1fpx;height:%.1fpx;visibility:hidden}
+""" % (SIZE, SIZE, -(CROP[0] - CROP[2]) * _K, -(CROP[1] - CROP[2]) * _K, PIC * _K, PIC * _K)
 
 JS = """
 <script>
@@ -62,7 +71,8 @@ window.renderAt=function(t){
   if(ay===null||t<lt||t-lt>0.2){ay=top;as=s}else{ay+=(top-ay)*0.3;as+=(s-as)*0.35}
   lt=t;
   R.style.transform='translateY('+(ay-base)+'px) scale('+as+')';
-  R.style.opacity=(t<X.end&&as>0.3)?1:0;
+  /* owner 28 Nov evening: only after the big headline - the opening stays picture + headline */
+  R.style.opacity=(t>=X.hook_end&&t<X.end&&as>0.3)?cl((t-X.hook_end)/0.3):0;
  }catch(e){}
 };
 })();
@@ -72,6 +82,23 @@ window.renderAt=function(t){
 def on(cfg=None):
     cfg = live360.config() if cfg is None else cfg
     return os.environ.get("REEL_READER", "1") not in ("0", "false", "no") and cfg.get("reel_reader", True) is not False
+
+
+def every(cfg=None):
+    """the reader is on 1 news reel in this many (owner 28 Nov night: "use few news only, do not use all the news").
+    REEL_READER_EVERY, else poster/config.json "reel_reader_every", else EVERY; 1 = on every news"""
+    cfg = live360.config() if cfg is None else cfg
+    try:
+        return max(1, int(os.environ.get("REEL_READER_EVERY") or cfg.get("reel_reader_every") or EVERY))
+    except Exception:
+        return EVERY
+
+
+def turn(spec, n):
+    """is it this story's turn? By its story number (RN-204 -> 204): every n-th number, so the same story always gets the same
+    answer and the reels with and without the reader can be compared. A story without a number gets the reader."""
+    num = re.sub(r"\D", "", str(spec.get("story") or ""))
+    return n <= 1 or not num or int(num) % n == 0
 
 
 def drawings():
@@ -131,8 +158,12 @@ def add(page_html, spec, work):
         if 'id="fxloop"' in page_html or any(x not in page_html for x in NEEDS) or page_html.count("</style>") != 1 or page_html.count("</body>") != 1:
             live360.say("news reader not added: the page is not the usual design")
             return page_html
-        if cfg.get("reel_reader_serious", True) is False and live360.serious(spec or {}):
-            live360.say("news reader left out: news about a death (reel_reader_serious is off)")
+        if cfg.get("reel_reader_serious", False) is not True and live360.serious(spec or {}):      # owner 28 Nov evening: the reader smiles
+            live360.say("news reader left out: news about a death (the reader smiles; reel_reader_serious: true shows him there too)")
+            return page_html
+        n = every(cfg)
+        if not turn(spec or {}, n):
+            live360.say(f"news reader not on this reel: he reads 1 news in {n} (reel_reader_every)")
             return page_html
         frames, voice = drawings(), Path(work) / "voice.wav"
         if not frames or not voice.is_file():
@@ -144,7 +175,7 @@ def add(page_html, spec, work):
             live360.say("news reader not added: no voice heard in the voice file")
             return page_html      # no voice heard: no silent reader
         live360.say(f"news reader added: the mouth moves for {sum(f not in (0, BLINK) for f in pose) / FPS:.1f} s of the reel's {len(pose) / FPS:.1f} s")      # in the job's log: proof it was drawn
-        data = {"end": float(D["end_t"]), "size": SIZE, "fps": FPS, "pose": pose}
+        data = {"end": float(D["end_t"]), "hook_end": float(D.get("hook_end") or 0), "size": SIZE, "fps": FPS, "pose": pose}
         imgs = "".join(f'<img src="{f.as_uri()}">' for f in frames)
         return page_html.replace("</style>", CSS + "</style>", 1).replace(
             "</body>", f'<div id="rdr">{imgs}</div>' + JS.replace("__DATA__", json.dumps(data)) + "</body>", 1)

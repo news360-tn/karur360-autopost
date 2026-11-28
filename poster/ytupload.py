@@ -242,6 +242,9 @@ def upload(token, path, title, description, tags, privacy):
     return u.json()["id"]
 
 
+LATE_SKIP = re.compile(r"மின்\s*தடை|மின்தடை|மின்\s*நிறுத்த|டாப்\s*5|power\s*(cut|shut)", re.I)      # a day later these are over
+
+
 def catchup(post, now=None):
     """one upload per page per run, for every page with its YouTube keys"""
     import localmedia
@@ -273,11 +276,16 @@ def catchup(post, now=None):
             uname = post.ig_account(token)[1]
             day = now.astimezone(IST).strftime("%Y-%m-%d")
             feed = post.ig("GET", "me/media", token, fields="id,caption,media_type,permalink,timestamp,media_url", limit=40).get("data") or []
-            todays = [m for m in feed if m.get("media_type") == "VIDEO" and m.get("id") not in done and m.get("timestamp")
-                      and youtube.when(m["timestamp"]).strftime("%Y-%m-%d") == day]
+            vids = [m for m in feed if m.get("media_type") == "VIDEO" and m.get("id") not in done and m.get("timestamp")]
+            todays = [m for m in vids if youtube.when(m["timestamp"]).strftime("%Y-%m-%d") == day]
+            # owner 28 Nov ("creating all the video must post"): a news reel that was not uploaded on its own day (the channel's limit, an
+            # error) goes up the next day, after today's news - never yesterday's rasipalan / gold rate / top 5 / power cut
+            yday = (now.astimezone(IST) - timedelta(days=1)).strftime("%Y-%m-%d")
+            late = [m for m in vids if youtube.when(m["timestamp"]).strftime("%Y-%m-%d") == yday
+                    and not youtube.SKIP.search(m.get("caption") or "") and not LATE_SKIP.search(m.get("caption") or "")]
             daily = [m for m in todays if youtube.SKIP.search(m.get("caption") or "")]      # owner 25 Nov: rasipalan / gold rate on YouTube too, first
             news = [m for m in todays if not youtube.SKIP.search(m.get("caption") or "")]
-            best = daily[:1] or ([] if daily_only else youtube.pick(news, 1))
+            best = daily[:1] or ([] if daily_only else (youtube.pick(news, 1) or youtube.pick(late, 1)))
             if not best:
                 log(f"{page}: no new news reel to upload")
                 continue

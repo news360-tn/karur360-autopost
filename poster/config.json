@@ -32,9 +32,32 @@
     "windows": [
       [
         "06:00",
+        "13:00"
+      ],
+      [
+        "16:00",
         "22:00"
       ]
     ],
+    "pace": {
+      "enabled": true,
+      "gap_min": 26,
+      "best_gap_min": 15,
+      "min_gap_min": 5,
+      "lead_min": 120,
+      "max_wait_hours": 12,
+      "best": [
+        [
+          "08:00",
+          "10:00"
+        ],
+        [
+          "18:00",
+          "20:00"
+        ]
+      ],
+      "note": "owner 28 Nov: ONE common posting day for every page (poster/pacing.py). Normal news posts 06:00-13:00 and 16:00-22:00 IST; 13:00-16:00 are the weakest hours of the pages' own views - only urgent news posts then, the others are made ready. 08:00-10:00 and 18:00-20:00 are the best hours: 15 minutes between two news (26 in the ordinary hours), the best news kept for them (in the 2 hours before, the weaker news goes first). The gap is never wider than what still lets every waiting news post today (down to 5 minutes), so every written news is posted. A news that has waited 12 hours (max_wait_hours) goes before the others. enabled false = as before (posting.spacing_min)."
+    },
     "quiet_ist": []
   },
   "reel_punch": false,

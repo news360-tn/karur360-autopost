@@ -975,7 +975,9 @@ def file_story(art, res, errors_log, recent, scenes=None):
     return {"tamil_headline": d["tamil_headline"], "english_headline": d["english_headline"], "category": d["category"], "location": d["location"],
             "importance": d["importance"], "scope": d.get("scope", ""), "post_to": PAGE_NAME, "slides_spec": d["slides_spec"], "reel_script": d["reel_script"],
             "caption": d["caption"], "prompts": prompts, "source": art["url"], "published": art["published"], "verification": ver,
-            "note": f"free-model draft {model}, {att} attempt(s), {len(errors)} validator problem(s)",
+            # owner 28 Nov: a link the owner gave by hand (research_free.yml, not a round's pick) is marked - poster/post.py is_manual posts it at once
+            "note": ("manual link (started by hand) - " if art.get("manual") and not PICK_ONLY else "")
+                    + f"free-model draft {model}, {att} attempt(s), {len(errors)} validator problem(s)",
             "post_time": "right after your reply, same day"}, ""
 
 

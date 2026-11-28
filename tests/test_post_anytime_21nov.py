@@ -32,14 +32,16 @@ class PostingHours(unittest.TestCase):
 
     def test_settings(self):
         cfg = json.loads((ROOT / "poster" / "config.json").read_text(encoding="utf-8"))
-        self.assertEqual(cfg["prime_time"]["windows"], [["06:00", "22:00"]])
+        self.assertEqual(cfg["prime_time"]["windows"], [["06:00", "13:00"], ["16:00", "22:00"]])      # owner 28 Nov: the weakest hours 13:00-16:00 are left out
         self.assertEqual(cfg["prime_time"]["quiet_ist"], [])
         self.assertEqual(cfg["prime_time"]["immediate"], "priority")
         self.assertEqual(cfg["posting"]["spacing_min"], 5)
 
     def test_any_time_from_6_to_22(self):
-        for h, m in ((6, 0), (7, 30), (13, 10), (16, 0), (21, 30), (21, 59)):
+        for h, m in ((6, 0), (7, 30), (12, 59), (16, 0), (21, 30), (21, 59)):
             self.assertEqual(post.prime_wait(ROW, at(h, m)), "", (h, m))
+        for h, m in ((13, 0), (13, 10), (15, 59)):      # owner 28 Nov: the weakest hours - normal news is made ready and waits for 16:00
+            self.assertIn("pause", post.prime_wait(ROW, at(h, m)), (h, m))
 
     def test_only_urgent_news_at_night(self):
         with mock.patch.object(post, "age_hours", return_value=30):      # even a news that waited long

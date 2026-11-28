@@ -494,14 +494,14 @@ class PrimeTime(unittest.TestCase):
     def test_windows_switched_on(self):      # owner 27 Nov: 06:00-22:00 every news at once; at night only urgent news
         pt = json.loads((ROOT / "poster" / "config.json").read_text(encoding="utf-8"))["prime_time"]
         self.assertTrue(pt["enabled"])
-        self.assertEqual(pt["windows"], [["06:00", "22:00"]])
+        self.assertEqual(pt["windows"], [["06:00", "13:00"], ["16:00", "22:00"]])      # owner 28 Nov: the weakest hours 13:00-16:00 are left out
         self.assertEqual(pt["quiet_ist"], [])
         self.assertEqual(pt["immediate"], "priority")
         self.assertFalse(pt["starts"])
 
     def test_inside_a_window_at_once_outside_waits(self):
         news = "கோவில் கும்பாபிஷேக விழா"
-        for now, expect in (((3, 30), "night"), ((5, 59), "night"), ((6, 0), ""), ((9, 30), ""), ((14, 30), ""), ((21, 59), ""),
+        for now, expect in (((3, 30), "night"), ((5, 59), "night"), ((6, 0), ""), ((9, 30), ""), ((14, 30), "pause"), ((16, 0), ""), ((21, 59), ""),
                             ((22, 0), "night"), ((23, 59), "night"), ((0, 0), "night")):
             got = self.wait(self.row(news, 0, 30), self.at(*now))
             if expect:
@@ -966,7 +966,8 @@ class SpacedPostingMatrix(unittest.TestCase):
 
     def test_old_gap_still_works_when_set(self):
         from unittest import mock
-        with mock.patch.dict(post.CONFIG, {"posting": {"spacing_min": 12}}):
+        off = dict(post.CONFIG.get("prime_time") or {}, pace={"enabled": False})      # 28 Nov: "enabled false = as before" - the old gap alone
+        with mock.patch.dict(post.CONFIG, {"posting": {"spacing_min": 12}, "prime_time": off}):
             self.assertEqual([(x["story"], x["slot"]) for x in self.run_check(1e9)], [("RN-1", 0), ("RN-3", 6)])
             self.assertEqual([(x["story"], x["slot"]) for x in self.run_check(5.0)], [("RN-3", 0)])
 
@@ -1186,7 +1187,7 @@ class CheckSkipsInstagramDuplicates11Nov(unittest.TestCase):
 
     def test_check_loop_uses_it_before_choosing(self):
         src = (ROOT / "poster" / "post.py").read_text(encoding="utf-8")
-        loop = src[src.index("for r in (pick_all(rows) if n else []):"):]
+        loop = src[src.index("for r in (pacing.order(pick_all(rows), "):]      # 28 Nov: the same loop, the order now comes from poster/pacing.py
         self.assertLess(loop.index("_ig_dup_for_check"), loop.index("ids.append"))
 
 
