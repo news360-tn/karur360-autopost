@@ -85,6 +85,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `2f2930b` | reel: one line in the job log for every reel - what the design additions and the news reader did ("news reader added: ...", "reel additions: ...", or why not), so a posting run shows it was really drawn |
+| 2026-11-28 | `e659dc0` | pick: picked news saved |
+| 2026-11-28 | `028437f` | stories shared / Instagram pause |
 | 2026-11-28 | `9da35d3` | reel: the NEWS360-TN news reader in a round window on every news reel (owner 28 Nov) - the owner's own 9 drawings, the mouth chosen from the reel's voice (closed in every pause, open while the news is read); the place card sits beside it. Top 5 reel: headline clear of the buttons, the time chip above the caption area, the 5-4-3-2-1 row down the left side - one video for Instagram, Facebook and YouTube Shorts |
 | 2026-11-28 | `50a79a7` | stories shared / Instagram pause |
 | 2026-11-28 | `5a11783` | pick: picked news saved |
@@ -112,7 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `7ad09ae` | facebook RN-247 |
 | 2026-11-28 | `113eb1e` | posted RN-247 |
 | 2026-11-28 | `339dcad` | stories shared / Instagram pause |
-| 2026-11-28 | `d07ae4b` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Vengamedu pin was in the wrong place |
-| 2026-11-28 | `6e56c15` | autofix: corrected held news |
-| 2026-11-28 | `2f4cc86` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
