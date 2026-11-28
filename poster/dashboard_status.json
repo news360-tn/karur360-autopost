@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T11:11:39+00:00",
+ "updated": "2026-11-28T11:22:15+00:00",
  "day": "2026-11-28",
- "ready": 3,
+ "ready": 2,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -111,6 +111,13 @@
       "link": "https://www.instagram.com/reel/DgSGmjqz2XQ/",
       "at": "2026-11-28T11:03:55+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-262",
+      "head": "காதப்பாறை, திருக்காம்புலியூரில் சிறப்பு கிராம சபை கூட்டம்: வெற்றி வீடு திட்ட பயனாளிகள் பட்டியல் ஒப்புதல்",
+      "link": "https://www.instagram.com/reel/DgSIVFQyuI-/",
+      "at": "2026-11-28T11:19:21+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -118,7 +125,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 17,
+    "waiting": 18,
     "share": [],
     "paused": "Facebook limited this page - paused until 2026-11-28T12:34 UTC"
    },
