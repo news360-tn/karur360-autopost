@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T02:08:01+00:00",
+ "updated": "2026-11-28T02:16:32+00:00",
  "day": "2026-11-28",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -20,6 +20,13 @@
       "link": "https://www.instagram.com/reel/DgRIY0ptHX5/",
       "at": "2026-11-28T02:00:11+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-246",
+      "head": "மேட்டு மகாதானபுரம் அங்கன்வாடி மையத்திற்கு மின் இணைப்பு வழங்கப்பட்டது",
+      "link": "https://www.instagram.com/reel/DgRJ78XBE7d/",
+      "at": "2026-11-28T02:13:46+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -27,7 +34,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 5,
+    "waiting": 6,
     "share": [
      {
       "id": "RN-241",
