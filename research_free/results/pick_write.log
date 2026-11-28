@@ -1,0 +1,229 @@
+writing [N]: கரூர் வடக்கு மாநகர திமுக சார்பில் உதயநிதி ஸ்டாலின் பிறந்தநாள
+writing [N]: மேட்டுமகாதானபுரம் அங்கன்வாடி மைய கட்டிடத்திற்கு மின் இணைப்பு
+writing [N]: பெரியகுளத்துப்பாளையம் அருகே லேசான தூறல் மழை - Dinakaran
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (6s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (3s)
+attempt 1 groq/qwen/qwen3.8-27b: 2 problems
+  hl1 is 45 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script has 59 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  reel_script says 'கரூர் மாவட்டம் இன்று வெயில் அதிகம் இருந்த நிலையில்' – the article says the heat was high in recent days, not specifically 'today'; the 'இன்று' is an inaccurate time reference.
+  reel_script says 'நீண்ட நாட்களாக வெப்பம் அதிகமாக இருந்த' and the caption says 'பல நாட்கள்' – article says 'கடந்த சில நாட்களாக' (a few recent days), so 'long days' overstates the duration.
+  reel_script and caption say 'தொடர்ந்து மழை பெய்ததால்' (because the rain continued) – the article only says that if rain continues, the heat would reduce; continued rain is not reported as having happened.
+  slides_spec claims 'தொடர்ந்து மழை பெய்தால் நிம்மதி கிடைத்துள்ளது' – it mixes a conditional expectation with a past fact, making the claim inaccurate.
+  caption says 'சூழல் ரம்மியமாக இருந்தது' – the article does say the surroundings looked pleasant, so this is supported, but the caption's 'நிம்மதி கிடைத்துள்ளது' combined with 'தொடர்ந்து மழை பெய்ததால்' attributes an unreported outcome to the rain.
+attempt 1 groq/openai/gpt-oss-120b: 5 problems
+  fact-check: reel_script says 'கரூர் மாவட்டம் இன்று வெயில் அதிகம் இருந்த நிலையில்' – the article says the heat was high in recent days, not specifically 'today'; the 'இன்று' is an inaccurate time reference.
+  fact-check: reel_script says 'நீண்ட நாட்களாக வெப்பம் அதிகமாக இருந்த' and the caption says 'பல நாட்கள்' – article says 'கடந்த சில நாட்களாக' (a few recent days), so 'long days' overstates the duration.
+  fact-check: reel_script and caption say 'தொடர்ந்து மழை பெய்ததால்' (because the rain continued) – the article only says that if rain continues, the heat would reduce; continued rain is not reported as having happened.
+  fact-check: slides_spec claims 'தொடர்ந்து மழை பெய்தால் நிம்மதி கிடைத்துள்ளது' – it mixes a conditional expectation with a past fact, making the claim inaccurate.
+  fact-check: caption says 'சூழல் ரம்மியமாக இருந்தது' – the article does say the surroundings looked pleasant, so this is supported, but the caption's 'நிம்மதி கிடைத்துள்ளது' combined with 'தொடர்ந்து மழை பெய்ததால்' attributes an unreported outcome to the rain.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  source/outlet name or link appears: தினகரன், dinakaran
+  hl1 (the first headline on screen) must name the place 'கிருஷ்ணராயபுரம்', e.g. 'கிருஷ்ணராயபுரம்: ...' or 'கிருஷ்ணராயபுரம்-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The article says the Karur district general secretary V. Senthil Balaji gave instructions for district-wide welfare schemes and sports competitions, but the reel_script's date-specific framing is fine; however, the reel_script and caption say the 50+ flag-hoisting and sweets distribution events were held 'in the Karur north city' as a single event, and the article describes it as 'Karur north city DMK' events, so this is consistent. The actual problem: the article calls Senthil Balaji the 'மாவட்ட கழகச் செயலாளர்' (district party secretary), while slides_spec calls him 'மாவட்ட செயலாளர்', a slight title change that is not an error in fact but differs from the source wording.
+  The article says the event was held 'with the instructions of Senthil Balaji' regarding 'welfare schemes and sports competitions' being conducted across the district; the reel_script states this as a current action ('நடத்தப்படுகின்றன'), which matches the article's 'நடத்தப்பட்டு வருகின்றன' (are being conducted), so no error there.
+  The article's note that the Karur district is led by an 'opposition leader' (எதிர்க்கட்சித் தலைவர்) for Udhayanidhi Stalin is omitted from the reel_script and slides; this is a description of Udhayanidhi's role, not a core fact of the event, so it is not strictly required.
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The article says the Karur district general secretary V. Senthil Balaji gave instructions for district-wide welfare schemes and sports competitions, but the reel_script's date-specific framing is fine; however, the reel_script and caption say the 50+ flag-hoisting and sweets distribution events were held 'in the Karur north city' as a single event, and the article describes it as 'Karur north city DMK' events, so this is consistent. The actual problem: the article calls Senthil Balaji the 'மாவட்ட கழகச் செயலாளர்' (district party secretary), while slides_spec calls him 'மாவட்ட செயலாளர்', a slight title change that is not an error in fact but differs from the source wording.
+  fact-check: The article says the event was held 'with the instructions of Senthil Balaji' regarding 'welfare schemes and sports competitions' being conducted across the district; the reel_script states this as a current action ('நடத்தப்படுகின்றன'), which matches the article's 'நடத்தப்பட்டு வருகின்றன' (are being conducted), so no error there.
+  fact-check: The article's note that the Karur district is led by an 'opposition leader' (எதிர்க்கட்சித் தலைவர்) for Udhayanidhi Stalin is omitted from the reel_script and slides; this is a description of Udhayanidhi's role, not a core fact of the event, so it is not strictly required.
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 44 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The slides_spec 'மாவட்ட' slide title is incomplete and has no clear meaning as a heading.
+  The caption says the flags were hoisted on the birthday 'in 50 or more places' and the reel says 'உதயநிதி ஸ்டாலின் பிறந்தநாளை முன்னிட்டு', which matches the article; however the reel_script states 'நிகழ்ச்சிகள் நடந்த இடமெல்லாம்' which is fine, but the reel_script omits the article's statement that the district-wide welfare schemes and sports competitions were held on the instruction of Senthil Balaji as a separate event, so it mixes the district-level activities into the same sentence as the local flag hoisting, combining two different facts into one sentence.
+  The reel_script says the 'வெங்கமேடு ... திட்டசாலை' places had the flag hoisted, but the caption and slides_spec list the places inconsistently with the article's grouping (e.g., caption says 'பகுதி செயலாளர' without the article's 'பகுதி கழகச் செயலாளர' title in slides_spec), which is a minor mismatch in the role title.
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The slides_spec 'மாவட்ட' slide title is incomplete and has no clear meaning as a heading.
+  fact-check: The caption says the flags were hoisted on the birthday 'in 50 or more places' and the reel says 'உதயநிதி ஸ்டாலின் பிறந்தநாளை முன்னிட்டு', which matches the article; however the reel_script states 'நிகழ்ச்சிகள் நடந்த இடமெல்லாம்' which is fine, but the reel_script omits the article's statement that the district-wide welfare schemes and sports competitions were held on the instruction of Senthil Balaji as a separate event, so it mixes the district-level activities into the same sentence as the local flag hoisting, combining two different facts into one sentence.
+  fact-check: The reel_script says the 'வெங்கமேடு ... திட்டசாலை' places had the flag hoisted, but the caption and slides_spec list the places inconsistently with the article's grouping (e.g., caption says 'பகுதி செயலாளர' without the article's 'பகுதி கழகச் செயலாளர' title in slides_spec), which is a minor mismatch in the role title.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The reel_script says the drizzle 'brought relief' (ஆறுதல் அளித்தது) right after the sentence about the weather being hot, which is a mild framing, but the main issue: the slides_spec line 'பெரியகுளத்துப்பாளையம் அருகே தூறல்' and hl2 'வெப்பம் ஓரளவு தணிந்தது' are fine, while the caption and reel_script state the drizzle happened 'in Periyakulathupalayam' while the article says it happened near Periya Kulathupalayam on the Karur-Salem highway, which is consistent.
+  The reel_script says the people 'became relieved' (நிம்மதி அடைந்துள்ளனர்) and that rain 'will further reduce heat' (வெப்பம் மேலும் குறையும்), which goes beyond the article: the article only says the heat would reduce if rain continued, and does not say the public felt relief in that way.
+  The caption's last Tamil line 'தேவைப்படுவோருக்கு Share செய்யுங்கள்' and the English subtitle line 'Light drizzle near Periyakulathupalayam, Karur news' are not in the article, though only the footer-type text is exempt.
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The reel_script says the drizzle 'brought relief' (ஆறுதல் அளித்தது) right after the sentence about the weather being hot, which is a mild framing, but the main issue: the slides_spec line 'பெரியகுளத்துப்பாளையம் அருகே தூறல்' and hl2 'வெப்பம் ஓரளவு தணிந்தது' are fine, while the caption and reel_script state the drizzle happened 'in Periyakulathupalayam' while the article says it happened near Periya Kulathupalayam on the Karur-Salem highway, which is consistent.
+  fact-check: The reel_script says the people 'became relieved' (நிம்மதி அடைந்துள்ளனர்) and that rain 'will further reduce heat' (வெப்பம் மேலும் குறையும்), which goes beyond the article: the article only says the heat would reduce if rain continued, and does not say the public felt relief in that way.
+  fact-check: The caption's last Tamil line 'தேவைப்படுவோருக்கு Share செய்யுங்கள்' and the English subtitle line 'Light drizzle near Periyakulathupalayam, Karur news' are not in the article, though only the footer-type text is exempt.
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  slides must have 3 or 4 items
+  reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  source/outlet name or link appears: தினகரன், dinakaran
+  hl1 (the first headline on screen) must name the place 'கிருஷ்ணராயபுரம்', e.g. 'கிருஷ்ணராயபுரம்: ...' or 'கிருஷ்ணராயபுரம்-இல் ...' - viewers share news of their own area
+hl1 shortened at a natural break: 'கிருஷ்ணராயபுரம்: அங்கன்வாடிக்கு மின் இணைப்பு' -> 'கிருஷ்ணராயபுரம் மின் இணைப்பு'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 2 problems
+  The reel_script says the drizzle fell on the Karur-Salem national highway, but the article says it fell near Periyakulathupalayam on that highway; the wording is slightly different but not a clear error, so the main problem is the caption's 'Light drizzle near Periyakulathupalayam, Karur district' line, which is an English addition not in the article but harmless.
+  The reel_script states 'இந்த மழையால் ... வெப்பம் ஓரளவு தணிந்தது' (the rain cooled the heat), which matches the article; however, the reel_script claims the rain is 'நீண்ட நாட்களுக்குப் பிறகு பெய்த மழை இது' (the first rain after a long time), which the article supports; no clear factual error found in the Tamil text beyond the above.
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  fact-check: The reel_script says the drizzle fell on the Karur-Salem national highway, but the article says it fell near Periyakulathupalayam on that highway; the wording is slightly different but not a clear error, so the main problem is the caption's 'Light drizzle near Periyakulathupalayam, Karur district' line, which is an English addition not in the article but harmless.
+  fact-check: The reel_script states 'இந்த மழையால் ... வெப்பம் ஓரளவு தணிந்தது' (the rain cooled the heat), which matches the article; however, the reel_script claims the rain is 'நீண்ட நாட்களுக்குப் பிறகு பெய்த மழை இது' (the first rain after a long time), which the article supports; no clear factual error found in the Tamil text beyond the above.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Power connection given to Mettu Mahadhan'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0707","first":"RN-246"}
+posting job started at once
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Light drizzle near Periyakulathupalayam '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0707","first":"RN-247"}
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Karur North City DMK hoists party flags '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0707","first":"RN-248"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinakaran.com/district/karur_281126_1
+manual link added: https://www.dinakaran.com/district/karur_281126_3
+manual link added: https://www.dinakaran.com/district/karur_281126_2
+candidate filter: collected=3
+to write: 3 Karur district candidates (max 3 stories)
+round: top 3 of 3 candidates
+candidates waiting: 3 Karur; time left 79 min
+try (N) manual=True: https://www.dinakaran.com/district/karur_281126_2
+try (N) manual=True: https://www.dinakaran.com/district/karur_281126_3
+try (N) manual=True: https://www.dinakaran.com/district/karur_281126_1
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min
+filed: 3 Karur district stories (target 3), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":3,"updated":0} 
+stories: 3

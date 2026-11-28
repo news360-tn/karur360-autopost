@@ -3,103 +3,294 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/27/36-students-from-karur-participate-in-the-national-childrens-science-congress",
-  "candidate filter: collected=1",
-  "to write: 1 Karur district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Karur; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-trichy/karur/2",
+  "manual link added: https://www.dinakaran.com/district/karur_281126_1",
+  "manual link added: https://www.dinakaran.com/district/karur_281126_3",
+  "manual link added: https://www.dinakaran.com/district/karur_281126_2",
+  "candidate filter: collected=3",
+  "to write: 3 Karur district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Karur; time left 79 min",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_281126_2",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_281126_3",
+  "try (N) manual=True: https://www.dinakaran.com/district/karur_281126_1",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
-  "filed: 1 Karur district stories (target 1), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
+  "filed: 3 Karur district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (6s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "தேசிய குழந்தைகள் அறிவியல் மாநாட்டிற்கு கரூரிலிருந்து 36 மாணவர்கள் பயணம்",
-   "english_headline": "36 students from Karur district leave for State Children's Science Congress in Tiruppur",
-   "category": "Education",
-   "location": "Karur city, Karur district",
+   "tamil_headline": "மேட்டு மகாதானபுரம் அங்கன்வாடி மையத்திற்கு மின் இணைப்பு வழங்கப்பட்டது",
+   "english_headline": "Power connection given to Mettu Mahadhanapuram anganwadi centre in Krishnarayapuram after a request was published",
+   "category": "Civic Issues",
+   "location": "Mettu Mahadhanapuram, Mahadhanapuram panchayat, Krishnarayapuram block, Karur district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Karur 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்விச் செய்தி",
-    "loc": "கரூர் மாநகராட்சி",
-    "hl1": "கரூரிலிருந்து 36 மாணவர்கள் பயணம்",
-    "hl2": "தேசிய குழந்தைகள் அறிவியல்",
+    "cat": "அங்கன்வாடி மின் இணைப்பு",
+    "loc": "கிருஷ்ணராயபுரம்",
+    "hl1": "கிருஷ்ணராயபுரம் மின் இணைப்பு",
+    "hl2": "குழந்தைகளுக்கு நிம்மதி",
     "slides": [
      {
-      "title": "மாநாடு எங்கே?",
+      "title": "எங்கே?",
       "lines": [
-       "திருப்பூர் விஜயமங்கலம் சசூரி பொறியியல் கல்லூரி",
-       "32-வது தேசிய குழந்தைகள் அறிவியல் மாநில மாநாடு",
-       "வெள்ளிக்கிழமை தொடங்கி <b>நவம்பர் 29</b> வரை நடக்கிறது"
+       "கிருஷ்ணராயபுரம் ஒன்றியம், மகாதானபுரம் ஊராட்சி",
+       "மேட்டு மகாதானபுரம் அங்கன்வாடி மையம்",
+       "இங்கு சுமார் <b>20 குழந்தைகள்</b> உள்ளனர்"
       ]
      },
      {
-      "title": "யார் பங்கேற்பு?",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "கரூரிலிருந்து தேர்வு செய்யப்பட்ட <b>18 ஆய்வுகள்</b>",
-       "<b>36 மாணவர்கள்</b>, <b>16 வழிகாட்டி ஆசிரியர்கள்</b> பங்கேற்பு",
-       "கரூர் மாநகராட்சிப் பள்ளியில் வழியனுப்பும் விழா"
+       "கட்டடத்திற்கு மின் இணைப்பு இல்லை",
+       "குழந்தைகள் படிக்க சிரமப்பட்டனர்",
+       "நவம்பர் <b>6</b> ஆம் தேதி கோரிக்கை செய்தி வெளியானது"
       ]
      },
      {
-      "title": "வாழ்த்துக்கூறல்",
+      "title": "தீர்வு",
       "lines": [
-       "மாவட்ட முதன்மைக்கல்வி அலுவலர் <b>அ.ராஜூ</b> வாழ்த்து",
-       "மாவட்டக் கல்வி அலுவலர் <b>அ.சண்முகவேல்</b> பங்கேற்பு",
-       "தமிழ்நாடு அறிவியல் இயக்கம் சார்பில் ஏற்பாடுகள்"
+       "ஊராட்சி நிர்வாகம் மின் இணைப்பு வழங்கியது",
+       "பொதுமக்கள் நன்றி தெரிவித்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூரில் நடைபெறும் மாநில அறிவியல் மாநாட்டில் பங்கேற்க கரூரிலிருந்து 36 மாணவர்கள் புறப்பட்டனர். திருப்பூர் மாவட்டம் விஜயமங்கலத்தில் உள்ள சசூரி பொறியியல் கல்லூரியில் 32வது தேசிய குழந்தைகள் அறிவியல் மாநில மாநாடு வெள்ளிக்கிழமை தொடங்கியது. இந்த மாநாடு நவம்பர் 29ஆம் தேதி வரை நடைபெற உள்ளது. இதில் கரூர் மாவட்டத்திலிருந்து தேர்வு செய்யப்பட்டுள்ள 18 ஆய்வுகளுக்காக 36 மாணவர்களும் 16 வழிகாட்டி ஆசிரியர்களும் பங்கேற்கின்றனர். இந்தக் குழுவினரை வழியனுப்பும் நிகழ்ச்சி கரூர் மாநகராட்சி ஆண்கள் மேல்நிலைப்பள்ளி வளாகத்தில் நடைபெற்றது. நிகழ்ச்சியில் கரூர் மாவட்ட முதன்மைக் கல்வி அலுவலர் ராஜூ, மாவட்டக் கல்வி அலுவலர் சண்முகவேல் மற்றும் தமிழ்நாடு அறிவியல் இயக்க மாவட்டச் செயலாளர் சக்திவேல் ஆகியோர் கலந்துகொண்டு வாழ்த்தி வழியனுப்பினர். இதற்கான ஏற்பாடுகளை தமிழ்நாடு அறிவியல் இயக்க நிர்வாகிகள் செய்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔬 திருப்பூரில் மாநில அறிவியல் மாநாடு: கரூரிலிருந்து 36 மாணவர்கள் பங்கேற்பு\n\n📰 முழு விவரம்:\nதிருப்பூர் மாவட்டம் விஜயமங்கலத்தில் உள்ள சசூரி பொறியியல் கல்லூரியில் 32-வது தேசிய குழந்தைகள் அறிவியல் மாநில மாநாடு வெள்ளிக்கிழமை தொடங்கியது. இந்த மாநாடு நவம்பர் 29ஆம் தேதி வரை நடைபெறுகிறது.\nகரூரிலிருந்து தேர்வு செய்யப்பட்டுள்ள 18 ஆய்வுகளுக்காக 36 மாணவர்களும் 16 வழிகாட்டி ஆசிரியர்களும் இந்த மாநாட்டில் பங்கேற்கின்றனர்.\nமாணவர் குழுவினரை வழியனுப்பும் நிகழ்ச்சி கரூர் மாநகராட்சி ஆண்கள் மேல்நிலைப்பள்ளி வளாகத்தில் நடைபெற்றது.\nஇதில் மாவட்ட முதன்மைக் கல்வி அலுவலர் அ.ராஜூ, மாவட்டக் கல்வி அலுவலர் அ.சண்முகவேல் மற்றும் தமிழ்நாடு அறிவியல் இயக்க நிர்வாகிகள் கலந்துகொண்டு மாணவர்களை வாழ்த்தி வழியனுப்பி வைத்தனர்.\n\n🗓️ நாள்: வெள்ளிக்கிழமை முதல் நவம்பர் 29 வரை\n📍 இடம்: சசூரி பொறியியல் கல்லூரி, விஜயமங்கலம், திருப்பூர் மாவட்டம்\n👨‍🎓 பங்கேற்பாளர்கள்: 36 மாணவர்கள், 16 வழிகாட்டி ஆசிரியர்கள் (18 ஆய்வுகள்)\n\nமாணவர்களின் அறிவியல் திறனை ஊக்குவிக்க Share செய்யுங்கள்.\n\nState Children Science Congress Tiruppur | Karur student news\n📍 கரூர் மாநகராட்சி, கரூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Education #KarurStudents #கரூர்",
-   "prompts": "A group of 36 students and 16 guide teachers gather in the courtyard of the Karur Corporation Boys Higher Secondary School for a formal send-off ceremony. The students, dressed in their official Tamil Nadu school uniforms of white shirts and dark trousers or skirts, stand in neat rows facing the district education officials who are dressed in formal shirts and trousers. In the background, the school's multi-story building with its characteristic yellow-painted exterior and open corridors is visible. A yellow school bus is parked to the side, ready for the journey to Tiruppur. The scene is captured during the bright morning hours under a clear sky. The camera is at eye level, using a 35mm lens to capture the scale of the group and the school environment, focusing on the collective departure from the school grounds. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed shot shows a few students from the group of 36 boarding a waiting yellow bus at the Karur Corporation Boys Higher Secondary School gate. The students are seen from behind, wearing their school backpacks and carefully carrying handmade science project models made of cardboard and charts rolled into tubes. One student is stepping onto the bus while others wait in a short queue. The side of the bus and the school's compound wall are visible in the frame. The morning sunlight casts soft shadows on the ground. The camera is positioned at a medium distance, eye level, focusing on the specific objects like the science project materials and the school uniforms that signify the purpose of the trip to the Children's Science Congress in Tiruppur district. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-trichy/karur/2026/Nov/27/36-students-from-karur-participate-in-the-national-childrens-science-congress",
-   "published": "2026-11-27T21:14:19.251Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
+   "reel_script": "கிருஷ்ணராயபுரம் அருகே மேட்டு மகாதானபுரம் அங்கன்வாடி மையத்திற்கு மின் இணைப்பு வழங்கப்பட்டுள்ளது. கிருஷ்ணராயபுரம் ஒன்றியம், மகாதானபுரம் ஊராட்சிக்குட்பட்ட மேட்டு மகாதானபுரத்தில் உள்ள இந்த அங்கன்வாடி மையத்தில் சுமார் 20 குழந்தைகள் உள்ளனர். கட்டடத்திற்கு மின் இணைப்பு இல்லாததால் குழந்தைகள் கற்றல் பணிகளில் சிரமப்பட்டு வந்தனர். இது குறித்து நவம்பர் 6ஆம் தேதி கோரிக்கை செய்தி வெளியானது. அதனைத் தொடர்ந்து ஊராட்சி நிர்வாகம் மின் இணைப்பு வழங்கியது. ஊராட்சி நிர்வாகத்திற்கும் செய்தியை வெளியிட்ட நாளிதழுக்கும் பொதுமக்கள் நன்றி தெரிவித்தனர். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💡 கிருஷ்ணராயபுரம் அருகே அங்கன்வாடிக்கு மின் இணைப்பு வழங்கப்பட்டது\n\n📰 முழு விவரம்:\nகிருஷ்ணராயபுரம் ஒன்றியம், மகாதானபுரம் ஊராட்சிக்குட்பட்ட மேட்டு மகாதானபுரத்தில் உள்ள அங்கன்வாடி மையத்தில் சுமார் 20 குழந்தைகள் உள்ளனர். கட்டடத்திற்கு மின் இணைப்பு இல்லாததால் குழந்தைகள் கற்றல் பணிகளில் சிரமப்பட்டு வந்தனர். இது குறித்து நவம்பர் 6ஆம் தேதி கோரிக்கை செய்தி வெளியானது. அதனைத் தொடர்ந்து ஊராட்சி நிர்வாகம் மின் இணைப்பு வழங்கியது. ஊராட்சி நிர்வாகத்திற்கும் செய்தி வெளியிட்ட நாளிதழுக்கும் பொதுமக்கள் நன்றி தெரிவித்தனர்.\n\n📍 இடம்: மேட்டு மகாதானபுரம், கிருஷ்ணராயபுரம் ஒன்றியம், கரூர் மாவட்டம்\n🗓️ நாள்: நவம்பர் 6ஆம் தேதி கோரிக்கை செய்தி வெளியானது\n👥 பயனாளிகள்: சுமார் 20 குழந்தைகள்\n👮 நடவடிக்கை: ஊராட்சி நிர்வாகம் மின் இணைப்பு வழங்கியது\n\nKrishnarayapuram anganwadi power connection | Karur news\n📍 கிருஷ்ணராயபுரம், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Krishnarayapuram #KarurNews #கரூர்",
+   "prompts": "A TNEB electrician on a ladder fixes a new electric wire and meter to the wall of a village Anganwadi centre in Mettu Mahadhanapuram, Krishnarayapuram. The small single-storey building with a tiled roof stands on a dusty village street in Karur district's rural panchayat area, with coconut palms and a concrete electric pole beside it. Around 20 small children in school-style clothes sit on a mat in the doorway, and a few villagers in shirts and sarees stand at a distance, seen from behind, watching the work. Two-wheelers and a bicycle are parked by the road, and the Anganwadi worker in a cotton saree stands near the entrance. It is bright daylight with a clear sky and soft shade from the building. Camera: eye level, 35 mm, wide enough to show the building, pole, children and villagers. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a newly installed electric meter box and fresh wiring fixed to the front wall of the Anganwadi centre in a village in Krishnarayapuram block, Karur. The white wall is patched with cement, a new switch board and a single bulb holder hang beside the door, with a thin copper wire running down from the concrete electric pole outside. Below, a small mat with a few children's slippers and a steel water pot sits on the floor of the veranda, and the edge of a wooden bench is visible. Soft daylight falls across the wall, dust in the air from the village road. No readable text or labels are visible. Camera: close detail at eye level, 35 mm, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/karur_281126_2",
+   "published": "2026-11-28T06:41:01+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261127/fd501b3c05986140.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261127/33f7e6f460e9d1f4.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/f5b8a12a4ebd4a9b.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/1b7b00b63c2627a4.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெரியகுளத்துப்பாளையம் அருகே லேசான தூறல் மழை",
+   "english_headline": "Light drizzle near Periyakulathupalayam on Karur-Salem highway brings relief from heat",
+   "category": "Weather & Agriculture",
+   "location": "Periyakulathupalayam, Karur district",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழை",
+    "loc": "பெரியகுளத்துப்பாளையம்",
+    "hl1": "பெரியகுளத்துப்பாளையம் அருகே தூறல்",
+    "hl2": "வெப்பம் ஓரளவு தணிந்தது",
+    "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "நேற்று கரூர் - சேலம் தேசிய நெடுஞ்சாலையில்",
+       "பெரியகுளத்துப்பாளையம் அருகே லேசான தூறல் மழை",
+       "சில நாட்களாக வெயில் அதிகமாக இருந்தது"
+      ]
+     },
+     {
+      "title": "மக்கள் நிலை",
+      "lines": [
+       "வாகன ஓட்டிகள் மகிழ்ச்சி அடைந்தனர்",
+       "வெயிலால் அவதிப்பட்ட மக்களுக்கு ஆறுதல்",
+       "சாலையோரம் குளிர்ச்சியான காற்று வீசியது"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "தொடர்ந்து மழை பெய்தால் வெப்பம் குறையும்",
+       "நீண்ட நாட்களுக்குப் பிறகு பெய்த மழை"
+      ]
+     }
+    ],
+    "story": "",
+    "date": "",
+    "follow": "",
+    "carousel": false
+   },
+   "reel_script": "பெரியகுளத்துப்பாளையம் அருகே நேற்று லேசான தூறல் மழை பெய்தது. கரூர் - சேலம் தேசிய நெடுஞ்சாலையில் இந்தத் தூறல் மழை பெய்தது. சில நாட்களாக வெயிலின் தாக்கம் அதிகமாக இருந்து வந்தது. இந்த மழையால் அப்பகுதியில் நிலவி வந்த வெப்பம் ஓரளவு தணிந்தது. தேசிய நெடுஞ்சாலையில் சென்ற இருசக்கர வாகன ஓட்டிகளும், கார் உள்ளிட்ட வாகனங்களில் பயணம் செய்தவர்களும் மகிழ்ச்சி அடைந்தனர். வெயிலால் அவதிப்பட்ட பொதுமக்களுக்கு இந்த மழைத்தூறல் சற்று ஆறுதல் அளித்தது. சாலையோரப் பகுதிகளில் குளிர்ச்சியான காற்று வீசியது. நீண்ட நாட்களுக்குப் பிறகு பெய்த மழை இது. தொடர்ந்து மழை பெய்தால் வெப்பம் குறையும். மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌦️ பெரியகுளத்துப்பாளையம் அருகே லேசான தூறல் மழை\n\n📰 முழு விவரம்:\nகரூர் - சேலம் தேசிய நெடுஞ்சாலையில் உள்ள பெரியகுளத்துப்பாளையம் அருகே நேற்று லேசான தூறல் மழை பெய்தது. சில நாட்களாக வெயில் அதிகமாக இருந்த நிலையில் இந்த மழையால் வெப்பம் ஓரளவு தணிந்தது. வாகன ஓட்டிகளும் பொதுமக்களும் மகிழ்ச்சி அடைந்தனர். சாலையோரப் பகுதிகளில் குளிர்ச்சியான காற்று வீசியது.\n\nLight drizzle near Periyakulathupalayam, Karur district | Karur news\n📍 பெரியகுளத்துப்பாளையம், கரூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #KarurNews #மழை #கரூர்",
+   "prompts": "Light drizzle falls on the Karur-Salem National Highway near Periyakulathupalayam as two-wheeler riders and cars travel slowly on the wet tarmac. The setting is an open stretch of national highway on the outskirts of Karur city, with a flat road, roadside trees, paddy and open land on the sides and a few roadside shops in the distance. Several two-wheeler riders wearing shirts and helmets, some with raincoats, ride along the left lane, while a car with headlights on moves ahead and a lorry passes in the distance; a few riders are seen from behind, far from the camera. Overcast grey sky after the heat, fine rain visible as soft streaks in the air, puddles and a glistening wet road, a cool breeze moving the roadside grass and trees, late-afternoon soft daylight. Camera at eye level or slightly high, 35 mm, wide enough to show the full highway and the lane of vehicles. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of wet tarmac on the Karur-Salem National Highway, with fine drizzle droplets gathering on the road surface and a small puddle reflecting the grey sky. The camera focuses low on the road edge, showing the painted white lane divider line and the water sheen on the asphalt, with the blurred back wheel of a two-wheeler and a car's tyre passing through the shallow water at the edge of frame. Roadside grass and a few trees are softly out of focus behind, and the overcast light is soft and cool after the hot days. No people are clearly visible, only a rider's blurred legs and wheels from behind. Camera at low eye level, 35 mm, shallow depth of field. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/karur_281126_1",
+   "published": "2026-11-28T06:40:42+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script says the drizzle fell on the Karur-Salem national highway, but the article says it fell near Periyakulathupalayam on that highway; the wording is slightly different but not a clear error, so the main problem is the caption's 'Light drizzle near Periyakulathupalayam, Karur district' line, which is an English addition not in the article but harmless.; fact-check: The reel_script states 'இந்த மழையால் ... வெப்பம் ஓரளவு தணிந்தது' (the rain cooled the heat), which matches the article; however, the reel_script claims the rain is 'நீண்ட நாட்களுக்குப் பிறகு பெய்த மழை இது' (the first rain after a long time), which the article supports; no clear factual error found in the Tamil text beyond the above.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/050728fa3b14ab88.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/7baf0af42170ad64.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கரூர் வடக்கு மாநகர திமுக சார்பில் உதயநிதி ஸ்டாலின் பிறந்தநாள் கொண்டாட்டம்",
+   "english_headline": "Karur North City DMK hoists party flags at 50+ places and distributes sweets on Udhayanidhi Stalin's birthday",
+   "category": "Government & Services",
+   "location": "Venkamedu, Karur city, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Karur 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் நிகழ்வு",
+    "loc": "வெங்கமேடு, கரூர்",
+    "hl1": "கரூரில் 50க்கு மேல் இடங்களில் திமுக கொடி",
+    "hl2": "உதயநிதி பிறந்தநாள் இனிப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கரூர் வடக்கு மாநகர திமுக சார்பில் கொடியேற்றம்",
+       "உதயநிதி ஸ்டாலின் பிறந்தநாளை முன்னிட்டு நிகழ்ச்சி",
+       "<b>50க்கு மேற்பட்ட</b> இடங்களில் கொடி ஏற்றம்"
+      ]
+     },
+     {
+      "title": "எங்கே நடந்தது?",
+      "lines": [
+       "வெங்கமேடு, குளத்துப்பாளையம், 60 அடி சாலை",
+       "பழனியப்பா தெரு, முதலியார் தெரு அண்ணாநகர்",
+       "கலைஞர் நகர் திட்டசாலை உள்ளிட்ட பல பகுதிகள்"
+      ]
+     },
+     {
+      "title": "யார் தலைமை?",
+      "lines": [
+       "பகுதி கழகச் செயலாளர் வெங்கை எம். பாண்டியன் தலைமை",
+       "கட்சி நிர்வாகிகள், பொதுமக்களுக்கு இனிப்பு வழங்கல்",
+       "எங்கும் <b>அமோக வரவேற்பு</b> கிடைத்தது"
+      ]
+     },
+     {
+      "title": "மாவட்ட நிகழ்ச்சி",
+      "lines": [
+       "மாவட்ட கழகச் செயலாளர் வி. செந்தில் பாலாஜி அறிவுறுத்தல்",
+       "மாவட்டம் முழுவதும் நலத்திட்ட உதவிகள் வழங்கல்",
+       "விளையாட்டுப் போட்டிகள் உள்ளிட்ட பல போட்டிகள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் வடக்கு மாநகர தி மு க சார்பில் 50க்கு மேற்பட்ட இடங்களில் கட்சிக் கொடி ஏற்றப்பட்டது. உதயநிதி ஸ்டாலின் பிறந்தநாளை முன்னிட்டு இந்த நிகழ்ச்சி நடைபெற்றது. பகுதி கழகச் செயலாளர் வெங்கை எம் பாண்டியன் தலைமையில் இந்தக் கொடியேற்றம் நடந்தது. வெங்கமேடு, குளத்துப்பாளையம், 60 அடி சாலை, பழனியப்பா தெரு, முதலியார் தெரு அண்ணாநகர், கலைஞர் நகர் திட்டசாலை உள்ளிட்ட பல பகுதிகளில் நிகழ்ச்சி நடைபெற்றது. கட்சி நிர்வாகிகளுக்கும் பொதுமக்களுக்கும் இனிப்பு வழங்கப்பட்டது. நிகழ்ச்சி நடைபெற்ற இடங்களில் பொதுமக்களிடம் அமோக வரவேற்பு கிடைத்தது. மாவட்ட கழகச் செயலாளர் வி செந்தில் பாலாஜியின் அறிவுறுத்தல் அடிப்படையில் மாவட்டம் முழுவதும் நலத்திட்ட உதவிகளும் விளையாட்டுப் போட்டிகளும் நடத்தப்பட்டு வருகின்றன. மேலும் செய்திகளுக்கு கரூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚩 கரூர் வடக்கு மாநகரில் 50க்கு மேற்பட்ட இடங்களில் திமுக கொடியேற்றம்\n\n📰 முழு விவரம்:\nஉதயநிதி ஸ்டாலின் பிறந்தநாளை முன்னிட்டு கரூர் வடக்கு மாநகர திமுக சார்பில் 50க்கு மேற்பட்ட இடங்களில் கட்சிக் கொடி ஏற்றப்பட்டது. பகுதி கழகச் செயலாளர் வெங்கை எம். பாண்டியன் தலைமையில் இந்த நிகழ்ச்சி நடைபெற்றது. கட்சி நிர்வாகிகளுக்கும் பொதுமக்களுக்கும் இனிப்பு வழங்கப்பட்டது. நிகழ்ச்சி நடந்த இடங்களில் பொதுமக்களிடம் அமோக வரவேற்பு கிடைத்தது.\n📍 இடம்: வெங்கமேடு, குளத்துப்பாளையம், 60 அடி சாலை, பழனியப்பா தெரு, முதலியார் தெரு அண்ணாநகர், கலைஞர் நகர் திட்டசாலை உள்ளிட்ட பகுதிகள்\n🏛️ தலைமை: பகுதி கழகச் செயலாளர் வெங்கை எம். பாண்டியன்\nℹ️ மாவட்ட அளவில்: மாவட்ட கழகச் செயலாளர் வி. செந்தில் பாலாஜி அறிவுறுத்தலின்படி மாவட்டம் முழுவதும் நலத்திட்ட உதவிகளும் விளையாட்டுப் போட்டிகளும் நடத்தப்பட்டு வருகின்றன.\n\nKarur DMK flag hoisting birthday Udhayanidhi | Karur news\n📍 வெங்கமேடு, கரூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Karur360 #Karur #Venkamedu #KarurNews #கரூர்",
+   "prompts": "A group of DMK party workers in white shirts and veshti hoist a red-and-black DMK party flag on a bamboo pole fixed at the top of a concrete building on a narrow street in Venkamedu, Karur city. Around them, local residents in sarees and lungis stand watching while a man in a shirt hands out sweets from a cardboard box. Two-wheelers are parked along the roadside, and small shops with rolled shutters line the street. It is bright daylight with a clear sky. The camera sits at eye level about 35 mm, wide enough to show the street, the flag and the crowd, all people seen from behind or at a distance. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a red-and-black DMK party flag fluttering on a tall bamboo pole tied to the railing of a concrete house balcony in a Karur city street. Below, a cardboard box of sweets rests on a plastic chair, with a few hands from behind reaching in to take sweets. Blurred two-wheelers and a roadside wall with no readable text fill the background. Bright daylight, slight breeze moving the flag. The camera is slightly high, 35 mm, focused on the flag and the sweet box. Photorealistic press photograph from Karur city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/karur_281126_3",
+   "published": "2026-11-28T06:41:15+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/36e03fe81fb8b631.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/karur360/20261128/ba8c77dd2556b864.jpg"
    ]
   }
  ]
