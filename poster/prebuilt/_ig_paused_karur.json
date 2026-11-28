@@ -1,5 +1,5 @@
 {
- "until": "2026-11-26T15:37:18+00:00",
+ "until": "2026-11-28T01:52:30+00:00",
  "kind": "retry",
- "why": "Fact check: could not correct fact-check: The caption incorrectly identifies the shop owner as Radhakrishnan, whereas the article states the shop belongs to Krishnan (Radhakrishnan is the petitioner who filed the case)."
+ "why": "Fact check: could not correct fact-check: Draft says \u201c50\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd\u201d (more than 50 places) but the article mentions \u201c50 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd\u201d (exactly 50 places) \u2013 a factual mismatch on the number of locations"
 }
