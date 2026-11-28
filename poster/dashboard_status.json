@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-28T03:31:03+00:00",
+ "updated": "2026-11-28T03:41:24+00:00",
  "day": "2026-11-28",
- "ready": 2,
+ "ready": 1,
  "pages": {
   "karur": {
    "label": "கரூர் 360",
@@ -41,6 +41,13 @@
       "link": "https://www.instagram.com/reel/DgRR31BhCuZ/",
       "at": "2026-11-28T03:23:25+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-251",
+      "head": "கரூரில் விடிய விடிய மழை: வெங்கமேட்டில் படிக்கட்டு இடிந்து ஒருவர் காயம்",
+      "link": "https://www.instagram.com/reel/DgRTlVMhv5A/",
+      "at": "2026-11-28T03:38:24+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -48,7 +55,7 @@
    },
    "facebook": {
     "posted": 0,
-    "waiting": 8,
+    "waiting": 9,
     "share": [
      {
       "id": "RN-241",
