@@ -86,6 +86,26 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `d21b40d` | posting: one common posting day for every page (owner 28 Nov) - normal news 06:00-13:00 and 16:00-22:00 IST, the weakest hours 13:00-16:00 left out (time-sensitive and urgent news still post), the best news kept for 08:00-10:00 and 18:00-20:00, and the gap shrinks so every written news posts the same day; a news that waited 12 hours goes first; a news the owner starts by hand posts at once. YouTube also takes a news reel left from yesterday; the dashboard shows written / posted / waiting / not posting with the reason (the Facebook count stayed 0). Top 5: the watchdog starts it when GitHub does not (it ran on no page on its first evening). News reader: a small circle on 1 news in 4, after the headline, not on news about a death |
+| 2026-11-28 | `eadc071` | stories shared / Instagram pause |
+| 2026-11-28 | `0c0414b` | stories shared / Instagram pause |
+| 2026-11-28 | `fe6e028` | stories shared / Instagram pause |
+| 2026-11-28 | `06f3525` | stories shared / Instagram pause |
+| 2026-11-28 | `5082c77` | stories shared / Instagram pause |
+| 2026-11-28 | `66990be` | stories shared / Instagram pause |
+| 2026-11-28 | `8f60102` | stories shared / Instagram pause |
+| 2026-11-28 | `4e0861e` | stories shared / Instagram pause |
+| 2026-11-28 | `7feaeed` | stories shared / Instagram pause |
+| 2026-11-28 | `a10ffd8` | stories shared / Instagram pause |
+| 2026-11-28 | `26816a7` | stories shared / Instagram pause |
+| 2026-11-28 | `c0bf1bf` | stories shared / Instagram pause |
+| 2026-11-28 | `1c38a98` | stories shared / Instagram pause |
+| 2026-11-28 | `e1f9095` | stories shared / Instagram pause |
+| 2026-11-28 | `775d945` | stories shared / Instagram pause |
+| 2026-11-28 | `8e90467` | stories shared / Instagram pause |
+| 2026-11-28 | `f79fa94` | stories shared / Instagram pause |
+| 2026-11-28 | `931b940` | stories shared / Instagram pause |
+| 2026-11-28 | `9f300e9` | stories shared / Instagram pause |
 | 2026-11-28 | `9468123` | Backend Add news (owner 28 Nov): a news typed in the News360 Backend - content, extra details, follow-up, link, picture, note with instructions, format reel / post / carousel - is taken by the page job, written by the usual writer and posted through every usual check; only DASH_POSTERS logins may add |
 | 2026-11-28 | `8e71f92` | stories shared / Instagram pause |
 | 2026-11-28 | `8df5c43` | stories shared / Instagram pause |
@@ -96,24 +116,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `3ed9595` | stories shared / Instagram pause |
 | 2026-11-28 | `8415a34` | stories shared / Instagram pause |
 | 2026-11-28 | `49d48a8` | pick: written and posted |
-| 2026-11-28 | `75b95ae` | pick: picked news saved |
-| 2026-11-28 | `505d27d` | stories shared / Instagram pause |
-| 2026-11-28 | `5feba43` | pick: picked news saved |
-| 2026-11-28 | `ee6bb48` | pick: list sent |
-| 2026-11-28 | `8b3386a` | autofix: corrected held news |
-| 2026-11-28 | `8ff8003` | stories shared / Instagram pause |
-| 2026-11-28 | `dac65e6` | powercut: notices written |
-| 2026-11-28 | `80058c9` | stories shared / Instagram pause |
-| 2026-11-28 | `b6eea1e` | stories shared / Instagram pause |
-| 2026-11-28 | `3794f32` | stories shared / Instagram pause |
-| 2026-11-28 | `7065330` | stories shared / Instagram pause |
-| 2026-11-28 | `4931ce3` | stories shared / Instagram pause |
-| 2026-11-28 | `90a9b1b` | stories shared / Instagram pause |
-| 2026-11-28 | `7285963` | stories shared / Instagram pause |
-| 2026-11-28 | `a2bf6b6` | stories shared / Instagram pause |
-| 2026-11-28 | `ddc749a` | stories shared / Instagram pause |
-| 2026-11-28 | `0d54877` | stories shared / Instagram pause |
-| 2026-11-28 | `427eb1b` | stories shared / Instagram pause |
-| 2026-11-28 | `48317ad` | stories shared / Instagram pause |
-| 2026-11-28 | `c05d0a8` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
